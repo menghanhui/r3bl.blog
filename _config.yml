@@ -22,4 +22,5 @@ repo:           https://github.com/r3bl/r3bl.github.io
 pages_list:
   About: '/about'
   Archive: '/archive'
+  Contact: '/contact'
   Feed: '/atom.xml'
