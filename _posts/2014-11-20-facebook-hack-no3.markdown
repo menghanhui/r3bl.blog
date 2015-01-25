@@ -1,15 +1,11 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-11-20 12:38:08+00:00
 layout: post
 slug: facebook-hack-no3
 title: 'Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full
   Size'
-wordpress_id: 196
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
 - Facebook
 - Facebook hacks
@@ -44,5 +40,3 @@ Check out the rest of the Facebook “hacks” here:
 
 
   * [Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook](https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/)
-
-

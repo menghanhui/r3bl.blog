@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-27 14:08:46+00:00
 layout: post
 slug: every-one-of-us-changes-the-world-in-one-way-or-another
 title: Every One of Us Changes the World in One Way or Another
-wordpress_id: 277
-categories:
-- About me
-- Free Culture
+categories: en
 tags:
 - change the world
 - make an impact

@@ -1,15 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-07 03:41:07+00:00
 layout: post
 slug: algorithm-to-a-free-world
 title: Through the Algorithm (2014) To a Free World
-wordpress_id: 222
-categories:
-- About me
-- Cyber Security
-- Human Hacking
+categories: en
 tags:
 - algorithm
 - free culture
@@ -17,7 +12,7 @@ tags:
 - future is free
 - hacking
 - movie review
-- The Free Future Starts Now
+- The Future Starts Now
 ---
 
 I like watching movies about hacking. There are only two possible outcomes of me watching this kind of movies: they're fantastic OR they're terrible. If the movie is fantastic, I'm going to enjoy it of course. But, if the movie is terrible, I'm going to laugh my ass of how stupidly hacking is displayed in that movie.

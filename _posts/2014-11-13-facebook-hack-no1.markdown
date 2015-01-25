@@ -1,15 +1,11 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-11-13 14:41:19+00:00
 layout: post
 slug: facebook-hack-no1
 title: 'Some Basic Facebook "Hacks" - Hack no. 1: Check who''s your biggest "stalker"
   without leaving Facebook'
-wordpress_id: 178
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
 - biggest stalker
 - Facebook
@@ -47,5 +43,3 @@ You might want to check out other posts in this series:
 
 
   * [Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook](https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/)
-
-

@@ -1,15 +1,11 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-04 19:56:24+00:00
 layout: post
 slug: witcher-2-installation-from-hell
 title: 'Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From
   Hell)'
-wordpress_id: 217
-categories:
-- About me
-- Linux
+categories: en
 tags:
 - Assasins of Kings
 - floss problems

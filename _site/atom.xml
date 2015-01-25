@@ -4,7 +4,7 @@
  <title>Aleksandar Todorović (r3bl)</title>
  <link href="http://r3bl.github.io//atom.xml" rel="self"/>
  <link href="http://r3bl.github.io//"/>
- <updated>2015-01-25T15:01:00+01:00</updated>
+ <updated>2015-01-25T21:10:51+01:00</updated>
  <id>http://r3bl.github.io/</id>
  <author>
    <name>Aleksandar Todorović</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Reasons Why GitHub is My Favorite Technology-Related Company</title>
-   <link href="http://r3bl.github.io///about%20me/free%20culture/linux/2015/01/25/why-github-is-my-favorite-company/"/>
-   <updated>2015-01-25T03:38:10+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/free%20culture/linux/2015/01/25/why-github-is-my-favorite-company</id>
+   <link href="http://r3bl.github.io///en/why-github-is-my-favorite-company"/>
+   <updated>2015-01-25T13:31:36+01:00</updated>
+   <id>http://r3bl.github.io//en/why-github-is-my-favorite-company</id>
    <content type="html">&lt;p&gt;In this post I’m going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don’t know what GitHub is, you should continue reading this article because I’m going to share with you some of the most popular features GitHub has integrated in their service.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png?w=300&quot; alt=&quot;GitHub logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -95,9 +95,9 @@
  
  <entry>
    <title>My Manifesto</title>
-   <link href="http://r3bl.github.io///about%20me/free%20culture/human%20hacking/2015/01/24/manifesto/"/>
+   <link href="http://r3bl.github.io///en/manifesto"/>
    <updated>2015-01-24T23:46:19+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/free%20culture/human%20hacking/2015/01/24/manifesto</id>
+   <id>http://r3bl.github.io//en/manifesto</id>
    <content type="html">&lt;p&gt;Across my Reddit feed, I came up with this great article titled &lt;a href=&quot;http://www.wiseism.com/write-personal-manifesto/&quot;&gt;Why You Should Write a Personal Manifesto&lt;/a&gt;, published by &lt;a href=&quot;http://wiseism.com/&quot;&gt;Wiseism&lt;/a&gt;. I feel like this is a great way to keep yourself motivated, so I’ve decided to do just that: to write down my own manifesto.&lt;/p&gt;
 
 &lt;p&gt;I’m pretty confident that this manifesto really represents who I truly am, so I’ve decided to share it with you guys.&lt;/p&gt;
@@ -106,19 +106,14 @@
 
 &lt;blockquote&gt;
 
-&amp;gt; 
+&amp;gt;
 &amp;gt; # My Manifesto
-&amp;gt; 
-&amp;gt; 
-I'm not like most of you.
-
-I do not have emotions. I don't feel the same way as most people feel. I don't get hurt easily. I don't believe I'm going to go to hell if I do something. I don't believe I should be forbidden to do something I would like to do.
-
-I'm not a role model of any kind and I'm not trying to be a role model to anyone. I've tried most of the things people consider bad. I don't think that anyone could help me if I don't want to help myself. I don't believe anyone will be by my side until death do as apart. I realize I'm on my own in this world and that's the way I like to live my life.
-
-When I meet someone, all I see is a game. A game that I can win or loose. I don't get attached to people, all I see is a way to exploit them. A way to manipulate them to get what I want. And you know what I want? I want to be happy. And I am just that.
-
-You wanna know why? Because I have something that most of the people surrounding me do not have. I have my mind and I know how to use it. I know how to make the best out of any situation and I'm perfectly happy in every situation I can possibly run into. I'm not saying I'm any more intelligent that you. I'm not saying that I think of myself as some higher species than most of the people. I'm not saying I've read more books than you. I'm just saying that I know how to be happy. I know how to feel alive...&lt;/blockquote&gt;
+&amp;gt;
+&amp;gt; I'm not like most of you.
+&amp;gt; I do not have emotions. I don't feel the same way as most people feel. I don't get hurt easily. I don't believe I'm going to go to hell if I do something. I don't believe I should be forbidden to do something I would like to do.
+&amp;gt; I'm not a role model of any kind and I'm not trying to be a role model to anyone. I've tried most of the things people consider bad. I don't think that anyone could help me if I don't want to help myself. I don't believe anyone will be by my side until death do as apart. I realize I'm on my own in this world and that's the way I like to live my life.
+&amp;gt; When I meet someone, all I see is a game. A game that I can win or loose. I don't get attached to people, all I see is a way to exploit them. A way to manipulate them to get what I want. And you know what I want? I want to be happy. And I am just that.
+&amp;gt; You wanna know why? Because I have something that most of the people surrounding me do not have. I have my mind and I know how to use it. I know how to make the best out of any situation and I'm perfectly happy in every situation I can possibly run into. I'm not saying I'm any more intelligent that you. I'm not saying that I think of myself as some higher species than most of the people. I'm not saying I've read more books than you. I'm just saying that I know how to be happy. I know how to feel alive...&lt;/blockquote&gt;
 
 &lt;p&gt;PNG version:&lt;/p&gt;
 
@@ -132,10 +127,10 @@ You wanna know why? Because I have something that most of the people surrounding
  
  <entry>
    <title>Kako mladi u mom okruženju koriste društvene mreže?</title>
-   <link href="http://r3bl.github.io///about%20me/no%20hate%20speech%20online/2015/01/18/kako-mladi-koriste-drustvene-mreze/"/>
+   <link href="http://r3bl.github.io///bs/kako-mladi-koriste-drustvene-mreze"/>
    <updated>2015-01-18T22:11:11+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/no%20hate%20speech%20online/2015/01/18/kako-mladi-koriste-drustvene-mreze</id>
-   <content type="html">&lt;h2 id=&quot;httpwwwcognitivebrandscomcreativeintelligencewp-contentuploads201408socialnetworksdepositphotos13876565xs-1jpg&quot;&gt;&lt;img src=&quot;http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/h2&gt;
+   <id>http://r3bl.github.io//bs/kako-mladi-koriste-drustvene-mreze</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;uvod&quot;&gt;Uvod&lt;/h2&gt;
 
@@ -195,9 +190,9 @@ You wanna know why? Because I have something that most of the people surrounding
  
  <entry>
    <title>Best (Linux) Programs and Services I've Started Using in 2014.</title>
-   <link href="http://r3bl.github.io///about%20me/2015/01/10/best-linux-programs-and-services-in-2014/"/>
+   <link href="http://r3bl.github.io///en/best-linux-programs-and-services-in-2014"/>
    <updated>2015-01-10T18:19:41+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/2015/01/10/best-linux-programs-and-services-in-2014</id>
+   <id>http://r3bl.github.io//en/best-linux-programs-and-services-in-2014</id>
    <content type="html">&lt;p&gt;In this post, I’m going to share with you a couple of programs / web services / apps that I’ve started using regularly in 2014. I’ve discovered some of them in 2013, but in 2014 I really started to use them on a regular basis. I hope that you will find something for yourself in my list.&lt;/p&gt;
 
 &lt;h3 id=&quot;best-operating-system-elementary-os-freyahttpelementaryosorg&quot;&gt;Best operating system: &lt;a href=&quot;http://elementaryos.org/&quot;&gt;elementary OS Freya&lt;/a&gt;&lt;/h3&gt;
@@ -256,17 +251,17 @@ You wanna know why? Because I have something that most of the people surrounding
  
  <entry>
    <title>Advice for living in this world (by Quinn Norton)</title>
-   <link href="http://r3bl.github.io///free%20culture/2015/01/09/advice-for-living-in-this-world/"/>
+   <link href="http://r3bl.github.io///en/advice-for-living-in-this-world"/>
    <updated>2015-01-09T19:12:06+01:00</updated>
-   <id>http://r3bl.github.io//free%20culture/2015/01/09/advice-for-living-in-this-world</id>
+   <id>http://r3bl.github.io//en/advice-for-living-in-this-world</id>
    <content type="html">&lt;p&gt;Wow, this is the first time (although I can’t guarantee you that it will be the last) that I’m going to share with you a story that was &lt;em&gt;not&lt;/em&gt; written by myself. And there’s an excellent reason for that. I don’t think that I’ve read a single story (or an article if you please) that had so much influence on me about today’s technology. It was written by &lt;a href=&quot;http://en.wikipedia.org/wiki/Quinn_Norton&quot;&gt;&lt;strong&gt;Quinn Norton&lt;/strong&gt;&lt;/a&gt; and published in a book called &lt;a href=&quot;http://www.shareconference.net/en/news/share-book&quot;&gt;&lt;strong&gt;Share This Book (2012)&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&quot;http://www.shareconference.net/en&quot;&gt;&lt;strong&gt;Share Foundation&lt;/strong&gt;&lt;/a&gt;. Please, read it thoroughly. I promise you that you &lt;em&gt;will&lt;/em&gt; be amazed by this astonishing piece of writing.&lt;/p&gt;
 
 &lt;blockquote&gt;
 
-&amp;gt; 
+&amp;gt;
 &amp;gt; ## **Advice for Living in this World**
-&amp;gt; 
-&amp;gt; 
+&amp;gt;
+&amp;gt;
 Every day is stranger than the last one.
 
 Each of us has a point where we fall short, where we can’t go on at this mad pace. We ride the wave as long as we can until we start to drown in time and change, and nothing makes sense anymore. And then we fight back from that insanity. This is so common an experience, it’s practically a rite of passage in our new online lives.
@@ -296,49 +291,31 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Blog Stats for the Year 2014. (Happy 2015!)</title>
-   <link href="http://r3bl.github.io///2015/01/01/blog-stats-2014/"/>
+   <link href="http://r3bl.github.io///blog-stats-2014"/>
    <updated>2015-01-01T01:13:20+01:00</updated>
-   <id>http://r3bl.github.io//2015/01/01/blog-stats-2014</id>
+   <id>http://r3bl.github.io//blog-stats-2014</id>
    <content type="html">&lt;p&gt;This blog is active since July the 12th (so almost a half of a year).&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Number of views: 4,389&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Number of visitors: 2,616&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Number of posts: 53&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Number of views: 4,389&lt;/li&gt;
+  &lt;li&gt;Number of visitors: 2,616&lt;/li&gt;
+  &lt;li&gt;Number of posts: 53&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Got most of my views from:&lt;/p&gt;
+&lt;p&gt;I got most of my views from:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;search engines (973) (898 from Google)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Reddit (852)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Twitter (282)&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;search engines (973) (898 from Google)&lt;/li&gt;
+  &lt;li&gt;Reddit (852)&lt;/li&gt;
+  &lt;li&gt;Twitter (282)&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Top countries:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;United States – 1,058 views&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bosnia &amp;amp; Herzegovina – 824 views&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Serbia – 698 views&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;United States – 1,058 views&lt;/li&gt;
+  &lt;li&gt;Bosnia &amp;amp; Herzegovina – 824 views&lt;/li&gt;
+  &lt;li&gt;Serbia – 698 views&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Other countries with over 100 views: United Kingdom (135), Canada (134), Croatia (132), Germany (118), and India (111).&lt;/p&gt;
@@ -346,47 +323,23 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 &lt;p&gt;Top 10 pages (with the number of views in brackets):&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Home page/Archive (795)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Top Motivational Quotes I’ve Discovered in 2014 (666)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ko koga špijunira u političkom vrhu BiH? (2. dio) (465)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some Basic Facebook “Hacks” - Hack no. 3: See Locked Profile Picture in Full Size (359)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Get Office 365 licence for free! [A Little Contest] (299)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some Basic Facebook “Hacks” - Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook (208)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Through The Algorithm (2014) To a Free World (188)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ko koga špijunira u političkom vrhu BiH? (185)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Papers We Love (152)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Material Design in Linux (120)&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Home page/Archive (795)&lt;/li&gt;
+  &lt;li&gt;Top Motivational Quotes I’ve Discovered in 2014 (666)&lt;/li&gt;
+  &lt;li&gt;Ko koga špijunira u političkom vrhu BiH? (2. dio) (465)&lt;/li&gt;
+  &lt;li&gt;Some Basic Facebook “Hacks” - Hack no. 3: See Locked Profile Picture in Full Size (359)&lt;/li&gt;
+  &lt;li&gt;Get Office 365 licence for free! [A Little Contest] (299)&lt;/li&gt;
+  &lt;li&gt;Some Basic Facebook “Hacks” - Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook (208)&lt;/li&gt;
+  &lt;li&gt;Through The Algorithm (2014) To a Free World (188)&lt;/li&gt;
+  &lt;li&gt;Ko koga špijunira u političkom vrhu BiH? (185)&lt;/li&gt;
+  &lt;li&gt;Papers We Love (152)&lt;/li&gt;
+  &lt;li&gt;Material Design in Linux (120)&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Number of followers:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Wordpress followers: 10&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Twitter followers: 103&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Wordpress followers: 10&lt;/li&gt;
+  &lt;li&gt;Twitter followers: 103&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Those stats are nothing special but I’m really proud of them. Now I’m starting to get over 50 visitors on a daily basis (in the last 15 days). After I got a pretty decent amount of initial attention, I’ve decided that this blog is a perfect way for me to express myself. That’s why I’m going to take &lt;a href=&quot;https://dailypost.wordpress.com/2014/12/29/blogging-101-january-registration/&quot;&gt;Blogging 101&lt;/a&gt;, a free online course (starting January the 5th) offered by Wordpress to further my knowledge of running a blog. After all, I love learning new things, which is the main reason why I started this blog in the first place.&lt;/p&gt;
@@ -396,15 +349,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 &lt;p&gt;Goals for 2015:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over 30,000 views (7 times more than in 2014)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over 20,000 visitors (8 times more than in 2014)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over 1,000 Twitter followers (10 times more than in 2014)&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Over 30,000 views (7 times more than in 2014)&lt;/li&gt;
+  &lt;li&gt;Over 20,000 visitors (8 times more than in 2014)&lt;/li&gt;
+  &lt;li&gt;Over 1,000 Twitter followers (10 times more than in 2014)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Loving the support I’m getting from you guys and those numbers definitely suggest to me that I should keep posting. Thanks to every single one of you guys and a happy 2015!&lt;/p&gt;
@@ -413,9 +360,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Top Motivational Quotes I Discovered in 2014</title>
-   <link href="http://r3bl.github.io///about%20me/2014/12/28/top-quotes-2014/"/>
+   <link href="http://r3bl.github.io///en/top-quotes-2014"/>
    <updated>2014-12-28T01:30:10+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/12/28/top-quotes-2014</id>
+   <id>http://r3bl.github.io//en/top-quotes-2014</id>
    <content type="html">&lt;p&gt;So, everybody is sharing a list of something they came up with in the year behind them. I’m going to step it up a little. I present to you a very special list of mine. I represent to you the list of quotes that kept me motivated and inspired in 2014. This list is _very _special to me and I’ve decided to give it to you guys as a reward for reading my blog.&lt;/p&gt;
 
 &lt;p&gt;So, here we go:&lt;/p&gt;
@@ -494,9 +441,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Every One of Us Changes the World in One Way or Another</title>
-   <link href="http://r3bl.github.io///about%20me/free%20culture/2014/12/27/every-one-of-us-changes-the-world-in-one-way-or-another/"/>
+   <link href="http://r3bl.github.io///en/every-one-of-us-changes-the-world-in-one-way-or-another"/>
    <updated>2014-12-27T15:08:46+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/free%20culture/2014/12/27/every-one-of-us-changes-the-world-in-one-way-or-another</id>
+   <id>http://r3bl.github.io//en/every-one-of-us-changes-the-world-in-one-way-or-another</id>
    <content type="html">&lt;blockquote&gt;We are all raindrops. We might seem small and insignificant, but together we have the power of the world.&lt;/blockquote&gt;
 
 &lt;p&gt;This is a quote by an unknown author from a book called &lt;em&gt;&lt;a href=&quot;http://stlcurator.com/henry-goldkamp-what-the-hell-stl/&quot;&gt;What The Hell is Saint Louis Thinking? (2014)&lt;/a&gt;&lt;/em&gt;. It’s an excellent book and I suggest you to read it. Oh, and did I mention that it’s free?&lt;/p&gt;
@@ -515,9 +462,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Run Your Own Copy of Pirate Bay Now!</title>
-   <link href="http://r3bl.github.io///free%20culture/projects/2014/12/19/run-your-own-copy-of-pirate-bay-now/"/>
+   <link href="http://r3bl.github.io///en/run-your-own-copy-of-pirate-bay-now"/>
    <updated>2014-12-19T17:04:56+01:00</updated>
-   <id>http://r3bl.github.io//free%20culture/projects/2014/12/19/run-your-own-copy-of-pirate-bay-now</id>
+   <id>http://r3bl.github.io//en/run-your-own-copy-of-pirate-bay-now</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot; alt=&quot;Open Bay logo&quot; /&gt;&lt;/a&gt;OK, so, as you probably already know, the official Pirate Bay was shut down 10 days ago. There are plenty of articles already covering this subject. I already stated &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;my opinion on Pirate Bay disappearing for good&lt;/a&gt;, where &lt;a href=&quot;http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/&quot;&gt;I agreed with Peter Sunde&lt;/a&gt; (co-founder and ex-spokesperson of the Pirate Bay).&lt;/p&gt;
 
 &lt;p&gt;There are already some non-legit Pirate Bay clones &lt;a href=&quot;http://torrentfreak.com/fake-pirate-bay-lies-to-press-and-fakes-user-uploads-141215/&quot;&gt;like this one&lt;/a&gt;, the Pirate Bay &lt;a href=&quot;http://torrentfreak.com/the-pirate-bay-has-not-been-resurrected-yet-141210/&quot;&gt;has not been ressurrected - yet&lt;/a&gt;, the Pirate Bay crew itself &lt;a href=&quot;http://torrentfreak.com/pirate-bay-crew-responds-to-the-raid-copies-and-the-future-141215/&quot;&gt;does not know&lt;/a&gt; will the Pirate Bay come online or not, and researchers &lt;a href=&quot;http://torrentfreak.com/bittorrent-anonymous-and-impossible-to-shut-down-141218/&quot;&gt;are currently working on&lt;/a&gt; making BitTorrent anonymous and impossible to shut down. It’s pretty obvious that the copyright industry &lt;a href=&quot;http://torrentfreak.com/how-to-learn-absolutely-nothing-in-fifteen-years-by-the-copyright-industry-141214/&quot;&gt;has learned absolutely nothing&lt;/a&gt; in the least fifteen years.&lt;/p&gt;
@@ -554,9 +501,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/2014/12/17/dosta-kako-postati-haker-pitanja/"/>
+   <link href="http://r3bl.github.io///bs/dosta-kako-postati-haker-pitanja"/>
    <updated>2014-12-17T17:38:49+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/2014/12/17/dosta-kako-postati-haker-pitanja</id>
+   <id>http://r3bl.github.io//bs/dosta-kako-postati-haker-pitanja</id>
    <content type="html">&lt;h3 id=&quot;uvod&quot;&gt;Uvod&lt;/h3&gt;
 
 &lt;p&gt;Svako od nas se bar u jednom trenutku života zamislio kakav je osjećaj biti haker? Možda ste i pokušali da istražite malo tu temu, a nemate dovoljno dobro znanje engleskog jezika da bi pratili engleske tutorijale? Možda imate druga koji je vidio da koristite Linux i odma je pomislio da ste haker? Možda vodite blog post i dobijate konstanta pitanja tipa “Kako da hakujem Fejsbuk od svoje bivše”?&lt;/p&gt;
@@ -585,9 +532,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook</title>
-   <link href="http://r3bl.github.io///cyber%20security/projects/2014/12/15/facebook-hack-no4/"/>
+   <link href="http://r3bl.github.io///en/facebook-hack-no4"/>
    <updated>2014-12-15T04:56:53+01:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/projects/2014/12/15/facebook-hack-no4</id>
+   <id>http://r3bl.github.io//en/facebook-hack-no4</id>
    <content type="html">&lt;p&gt;So, today I’m going to share with you a trick to DDoS a certain website by using Facebook’s notes feature. The process, although pretty simple, is a bit more complicated than previous posts I wrote in this series.&lt;/p&gt;
 
 &lt;p&gt;So, what do you need to do?&lt;/p&gt;
@@ -621,15 +568,14 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
     &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/11/20/facebook-hack-no3/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Is It Time For The Pirate Bay to Disappear For Good?</title>
-   <link href="http://r3bl.github.io///free%20culture/politics/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/"/>
+   <link href="http://r3bl.github.io///en/is-it-time-for-the-pirate-bay-to-disappear-for-good"/>
    <updated>2014-12-14T18:54:27+01:00</updated>
-   <id>http://r3bl.github.io//free%20culture/politics/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
+   <id>http://r3bl.github.io//en/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot; alt=&quot;Selection_002&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So, a few days ago, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Pirate_Bay&quot;&gt;The Pirate Bay&lt;/a&gt; was raided. The site itself is still not online and we have no indications whether or not it &lt;em&gt;will&lt;/em&gt; come back online. There’s a lot of fake sites that advertise themselves as The Pirate Bay, but are basically of no use (users can’t upload new torrents, the database of torrents is either too old or don’t work at all).&lt;/p&gt;
@@ -656,9 +602,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Material Design in Linux</title>
-   <link href="http://r3bl.github.io///linux/2014/12/14/material-design-in-linux/"/>
+   <link href="http://r3bl.github.io///en/material-design-in-linux"/>
    <updated>2014-12-14T03:02:24+01:00</updated>
-   <id>http://r3bl.github.io//linux/2014/12/14/material-design-in-linux</id>
+   <id>http://r3bl.github.io//en/material-design-in-linux</id>
    <content type="html">&lt;p&gt;First of all, I do realize that I’m probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don’t believe me? Well, this video from Google now has well over 2 million views.&lt;/p&gt;
 
 &lt;p&gt;http://www.youtube.com/watch?v=Q8TXgCzxEnw&lt;/p&gt;
@@ -685,9 +631,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Through the Algorithm (2014) To a Free World</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/human%20hacking/2014/12/07/algorithm-to-a-free-world/"/>
+   <link href="http://r3bl.github.io///en/algorithm-to-a-free-world"/>
    <updated>2014-12-07T04:41:07+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/2014/12/07/algorithm-to-a-free-world</id>
+   <id>http://r3bl.github.io//en/algorithm-to-a-free-world</id>
    <content type="html">&lt;p&gt;I like watching movies about hacking. There are only two possible outcomes of me watching this kind of movies: they’re fantastic OR they’re terrible. If the movie is fantastic, I’m going to enjoy it of course. But, if the movie is terrible, I’m going to laugh my ass of how stupidly hacking is displayed in that movie.&lt;/p&gt;
 
 &lt;p&gt;Well, this movie goes into that other group. It’s called &lt;a href=&quot;http://www.imdb.com/title/tt3293462/&quot;&gt;Algorithm&lt;/a&gt; (like you haven’t seen that coming from the title of the post). I’m going to start my story by talking about how I found out about this movie.&lt;/p&gt;
@@ -716,9 +662,9 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
  
  <entry>
    <title>Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)</title>
-   <link href="http://r3bl.github.io///about%20me/linux/2014/12/04/witcher-2-installation-from-hell/"/>
+   <link href="http://r3bl.github.io///en/witcher-2-installation-from-hell"/>
    <updated>2014-12-04T20:56:24+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/linux/2014/12/04/witcher-2-installation-from-hell</id>
+   <id>http://r3bl.github.io//en/witcher-2-installation-from-hell</id>
    <content type="html">&lt;p&gt;Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I’ve decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on &lt;a href=&quot;http://www.gog.com/&quot;&gt;GOG&lt;/a&gt; and I got the 60% discount deal so the game cost me $7.99 total.&lt;/p&gt;
 
 &lt;p&gt;The game itself is big, and I mean &lt;em&gt;really _big. I needed to download over 19 gigabytes, but what the heck, I bought it because I wanted to play it, so I went ahead and started the download. On the first try, download failed after 3,5 GB with no apparent reason. My internet connection did not break or anything like that. I felt discouraged but I wanted to give it another go, so I started to download the game, _again&lt;/em&gt;. This time, I downloaded more than 7 GB of data and the download crashed again for no apparent reason.&lt;/p&gt;
@@ -772,9 +718,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu</title>
-   <link href="http://r3bl.github.io///no%20hate%20speech%20online/2014/12/04/anonimnost-nije-rjesenje/"/>
+   <link href="http://r3bl.github.io///bs/anonimnost-nije-rjesenje"/>
    <updated>2014-12-04T15:40:25+01:00</updated>
-   <id>http://r3bl.github.io//no%20hate%20speech%20online/2014/12/04/anonimnost-nije-rjesenje</id>
+   <id>http://r3bl.github.io//bs/anonimnost-nije-rjesenje</id>
    <content type="html">&lt;p&gt;Kao što sam već napisao &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/03/no-hate-speech-online/&quot;&gt;u prethodnom postu&lt;/a&gt; u &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/category/no-hate-speech-online/&quot;&gt;No Hate Speech Online&lt;/a&gt; kategoriji, učlanio sam se u radionice čiji je cilj umanjiti govor mržnje na internetu u našoj lokalnoj zajednici. Uspjeli u tome ili ne, glavni cilj radionica jeste da se tema pokrene i da se među nama mladima govor mržnje na internetu shvati kao jedan od problema digitalnog doba. Međutim, &lt;a href=&quot;https://www.youtube.com/watch?v=kp7ww3KvccE&quot;&gt;u videu&lt;/a&gt; kojem sam postavio u prethodnom postu kao jedan od prijedloga se spominje korišćenje pravog identiteta prilikom izražavanja mišljenja na internetu (4:28). Pošto se tome protivim u potpunosti, odlučio sam da preko ovog posta izrazim svoje mišljenje i time potaknem diskusiju na našim sledjećim radionicama.&lt;/p&gt;
 
 &lt;p&gt;Uzeću sebe kao primjer i način na koji ja koristim, kako društvene mreže, tako i ovaj blog. Na nekim od društvenih mreža (Facebook, Google+, ovaj blog i “poslovni” Twitter profil koji koristim za ovaj blog) koristim svoj pravi identitet, dok se na nekim društvenim mrežama ne predstavljam svojim pravim identitetom (Reddit i “lični” Twitter profil).&lt;/p&gt;
@@ -797,9 +743,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Pokret protiv govora mržnje na internetu</title>
-   <link href="http://r3bl.github.io///no%20hate%20speech%20online/2014/12/03/no-hate-speech-online/"/>
+   <link href="http://r3bl.github.io///bs/no-hate-speech-online"/>
    <updated>2014-12-03T01:11:49+01:00</updated>
-   <id>http://r3bl.github.io//no%20hate%20speech%20online/2014/12/03/no-hate-speech-online</id>
+   <id>http://r3bl.github.io//bs/no-hate-speech-online</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot; alt=&quot;nohate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“Govor mržnje je, govoreći van okvira zakona, svaki govor kojim se napada osoba ili određena grupa osoba na temelju njihovih atributa kao što su spol, etnička pripadnost, religija, rasa, invalidnost ili njihova seksualna orijentacija.”&lt;/p&gt;
@@ -820,9 +766,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>CodeCombat – The Most Fun Way To Learn New Programming Language</title>
-   <link href="http://r3bl.github.io///linux/projects/2014/12/02/codecombat/"/>
+   <link href="http://r3bl.github.io///en/codecombat"/>
    <updated>2014-12-02T01:38:30+01:00</updated>
-   <id>http://r3bl.github.io//linux/projects/2014/12/02/codecombat</id>
+   <id>http://r3bl.github.io//en/codecombat</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot; alt=&quot;about_comic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you ever programmed in your life, you’ve probably realized that the process of learning a new programming language can become quite a boring thing to do. You already know how to program in X programming language, but you need to learn the syntax of Y language for yourself / for some new project / for some job you want to get? Well, believe it or not, there _is _a fun way to do that.&lt;/p&gt;
@@ -843,9 +789,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size</title>
-   <link href="http://r3bl.github.io///cyber%20security/projects/2014/11/20/facebook-hack-no3/"/>
+   <link href="http://r3bl.github.io///en/facebook-hack-no3"/>
    <updated>2014-11-20T13:38:08+01:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/projects/2014/11/20/facebook-hack-no3</id>
+   <id>http://r3bl.github.io//en/facebook-hack-no3</id>
    <content type="html">&lt;p&gt;I found out about one more basic Facebook hack. Let’s say that you have a friend who locked his profile picture so that nobody could open it, but you’re interested to see &lt;em&gt;how&lt;/em&gt; that picture looks in full size. Can you do that? Well, thanks to Facebook’s constant consern about user privacy, of course you can.&lt;/p&gt;
 
 &lt;p&gt;So, what you need to do? You just need to use this URL:&lt;/p&gt;
@@ -871,15 +817,14 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
  <entry>
-   <title>I'm Joining Mozillians!</title>
-   <link href="http://r3bl.github.io///about%20me/mozilla%20firefox/projects/2014/11/14/im-joining-mozillians/"/>
+   <title>I'm Joining Mozillians</title>
+   <link href="http://r3bl.github.io///en/im-joining-mozillians"/>
    <updated>2014-11-14T18:04:56+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/mozilla%20firefox/projects/2014/11/14/im-joining-mozillians</id>
+   <id>http://r3bl.github.io//en/im-joining-mozillians</id>
    <content type="html">&lt;p&gt;So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I’m ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn’t go too well. Anyway, it’s time to try again.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Why do I want to try again exactly?&lt;/strong&gt;&lt;/p&gt;
@@ -902,9 +847,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Some Basic Facebook “Hacks” – Hack no. 2: Find out who's calling you on your phone by using Facebook</title>
-   <link href="http://r3bl.github.io///cyber%20security/projects/2014/11/13/facebook-hack-no2/"/>
+   <link href="http://r3bl.github.io///en/facebook-hack-no2"/>
    <updated>2014-11-13T15:58:56+01:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/projects/2014/11/13/facebook-hack-no2</id>
+   <id>http://r3bl.github.io//en/facebook-hack-no2</id>
    <content type="html">&lt;p&gt;As I’ve already said &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no1/&quot;&gt;in my previous post&lt;/a&gt;, In this blog post series I’m going to post about some useful Facebook “hacks” that you can do without ever leaving Facebook at all. I will &lt;em&gt;not&lt;/em&gt; be using any external software, website or something similar while posting about this topic.&lt;/p&gt;
 
 &lt;p&gt;You have some mobile numbers but you don’t know who’s behind them? Well, Facebook automatically allows you to search users by their mobile number, so all you have to do is to enter that phone number in Facebook’s search. There is absolutely no option for you to disable that what so ever.&lt;/p&gt;
@@ -928,15 +873,14 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Some Basic Facebook "Hacks" - Hack no. 1: Check who's your biggest "stalker" without leaving Facebook</title>
-   <link href="http://r3bl.github.io///cyber%20security/projects/2014/11/13/facebook-hack-no1/"/>
+   <link href="http://r3bl.github.io///en/facebook-hack-no1"/>
    <updated>2014-11-13T15:41:19+01:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/projects/2014/11/13/facebook-hack-no1</id>
+   <id>http://r3bl.github.io//en/facebook-hack-no1</id>
    <content type="html">&lt;p&gt;In this blog post series I’m going to post about some useful Facebook “hacks” that you can do without ever leaving Facebook at all. I will &lt;em&gt;not&lt;/em&gt; be using any external software, website or something similar while posting about this.&lt;/p&gt;
 
 &lt;p&gt;Want to see who checks your profile the most, reads your stories and stuff like that? Well, Facebook automatically adds some points to an account for stuff like that and you can check out who’s currently your biggest “stalker” by following the description described here. I recommend you to use Firefox, it’s a lot easier to do this in Firefox than it is in Chrome.&lt;/p&gt;
@@ -965,15 +909,14 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Changing the design of my blog, desktop and twitter account</title>
-   <link href="http://r3bl.github.io///about%20me/linux/projects/2014/11/12/changing-the-design/"/>
+   <link href="http://r3bl.github.io///en/changing-the-design"/>
    <updated>2014-11-12T23:18:36+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/linux/projects/2014/11/12/changing-the-design</id>
+   <id>http://r3bl.github.io//en/changing-the-design</id>
    <content type="html">&lt;p&gt;I feel pretty cyberpunk-ish lately so I’ve decided to change the whole look of three most important things to me: my blog, my Twitter account and my desktop.&lt;/p&gt;
 
 &lt;p&gt;I’m really feeling this concept art by a great artist called &lt;a href=&quot;http://andreewallin.com/&quot;&gt;Andree Wallin&lt;/a&gt;. The art I like the most is called &lt;a href=&quot;http://andreewallin.deviantart.com/art/Headphones-346542540&quot;&gt;Headphones&lt;/a&gt; so I’ve decided to use it as my main inspiration for the design. So this is how my desktop looks like right now:&lt;/p&gt;
@@ -987,15 +930,14 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My Twitter is also re-designed, which means I basically only changed my avatar, header photo and the colour scheme, so I don’t have a lot to talk about that.&lt;/p&gt;
 
 &lt;p&gt;Oh, and the &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/11/11/elementary-os-bosnian-language/&quot;&gt;translation of elementary OS&lt;/a&gt; is going great! Although, I have to admit that I’m not a huge fan of Launchpad as a tool for the translation of such a big project.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>What I've been doing lately? Translating elementary OS!</title>
-   <link href="http://r3bl.github.io///about%20me/linux/projects/2014/11/11/elementary-os-bosnian-language/"/>
+   <link href="http://r3bl.github.io///en/elementary-os-bosnian-language"/>
    <updated>2014-11-11T15:07:18+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/linux/projects/2014/11/11/elementary-os-bosnian-language</id>
+   <id>http://r3bl.github.io//en/elementary-os-bosnian-language</id>
    <content type="html">&lt;p&gt;So, apart from writing my first semi-professional paper (which I wrote about – although in Bosnian - &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/10/28/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment/&quot;&gt;here&lt;/a&gt;) and organizing a contest on my blog where you could win a couple of Office 365 licenses for free, I started to fall in love into programming again. It’s been a couple of months since I programmed &lt;em&gt;anything&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The last project I’ve been working on is working, but it has a hell of a lot of bugs. It’s called Sensitive Data Grabber and I’ve already written about it on my blog &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/08/03/sensitive-data-grabber-project/&quot;&gt;here&lt;/a&gt;. So, why ain’t I finishing it?&lt;/p&gt;
@@ -1020,9 +962,9 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>[Office 365 Giveaway] Winners announced!</title>
-   <link href="http://r3bl.github.io///about%20me/projects/2014/11/06/office-giveaway-winners/"/>
+   <link href="http://r3bl.github.io///en/office-giveaway-winners"/>
    <updated>2014-11-06T12:03:42+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/projects/2014/11/06/office-giveaway-winners</id>
+   <id>http://r3bl.github.io//en/office-giveaway-winners</id>
    <content type="html">&lt;p&gt;A few days back I published &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/10/30/get-free-office365-license/&quot;&gt;this article &lt;/a&gt;where I created a small giveaway, two Office 365 licenses for two of the best short stories I get.&lt;/p&gt;
 
 &lt;p&gt;Now, it’s time for me to declare winners. Both of the winners are from reddit’s &lt;a href=&quot;https://www.reddit.com/r/pcmasterrace&quot;&gt;PC Master Race subreddit&lt;/a&gt; and both of them had written some great short stories about Gaben’s road to success! The winners are: [/u/Stannis&lt;em&gt;](https://www.reddit.com/user/Stannis&lt;/em&gt;) and &lt;a href=&quot;https://www.reddit.com/user/hobbit9797&quot;&gt;/u/hobbit9797&lt;/a&gt;. Thanks to everyone for their participation! This post will be updated once I get in contact with winners with a screenshot as a proof that this contest was not a scam in any way.&lt;/p&gt;
@@ -1049,15 +991,14 @@ The beach perished and instead of birds there were black blocks of plastic and m
 &lt;p&gt;Scared by his dream he decided to live alone on the beach. He dreamt about one day when his idea of a perfect gaming system finally comes alive. But whenever he tried to build with electronics, the static discharge destroyed his works. And he kept being a mad man dreaming about black cases, television and game discs…&lt;/p&gt;
 
 &lt;p&gt;Somewhere else another man had the same dream. But unlike the first man he was gifted. He created the one system to rule the all. A system that is as complex as easy to work with. A system that could shatter the black dream blocks by its pure existenc. This system was his personal computer…&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Get Office 365 License For Free! [A Little Contest]</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/human%20hacking/linux/projects/2014/10/30/get-free-office365-license/"/>
+   <link href="http://r3bl.github.io///en/get-free-office365-license"/>
    <updated>2014-10-30T18:40:30+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/linux/projects/2014/10/30/get-free-office365-license</id>
+   <id>http://r3bl.github.io//en/get-free-office365-license</id>
    <content type="html">&lt;p&gt;So, even though I’m a regular Linux user, I use Microsoft’s software whenever I need them. I’ve bought an Office 365 Home Plus license in July of this year. So, what did I get with it? I got five Home subscriptions, each one with a licensed Office suite, 1 TB of OneDrive space and some premium Skype minutes (I can’t remember how many exactly). The license expires in July, but I will renew it as soon as it expires.&lt;/p&gt;
 
 &lt;p&gt;After using this license for a couple of months now, I still have two licenses laying around without an owner and I’ve decided to share it with you guys for free! The only requirement for this contest is that you have Windows 7 or newer installed on your PC because the older versions are not supported with this version of Office suite.&lt;/p&gt;
@@ -1078,9 +1019,9 @@ The beach perished and instead of birds there were black blocks of plastic and m
  
  <entry>
    <title>Da li su dobri muzički producenti ujedno i dobri psiholozi? [eksperiment]</title>
-   <link href="http://r3bl.github.io///about%20me/human%20hacking/projects/2014/10/28/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment/"/>
+   <link href="http://r3bl.github.io///bs/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment"/>
    <updated>2014-10-28T15:36:42+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/human%20hacking/projects/2014/10/28/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment</id>
+   <id>http://r3bl.github.io//bs/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment</id>
    <content type="html">&lt;p&gt;NAPOMENA: Ovaj članak nije ograničen na neki muzički žanr, preporučujem svim čitaocima da ga pročitaju bez obzira šta da slušate.&lt;/p&gt;
 
 &lt;p&gt;U &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/10/26/libre-28-slobodni-softver-i-internet-stvari-1-deo/&quot;&gt;prethodno objavljenom postu&lt;/a&gt; sam već najavio svoje najnoviji rad na temu o tome da li muzika može da utiče na ponašanje određene osobe. Prije nekih 10 dana sam počeo da se bavim time i još uvijek sam fazi pisanja draftova i traženja kvalitetne literature da bih uradio rad na nivou.&lt;/p&gt;
@@ -1131,9 +1072,9 @@ The beach perished and instead of birds there were black blocks of plastic and m
  
  <entry>
    <title>LiBRE! 28 - Slobodni softver i internet stvari (1. deo)</title>
-   <link href="http://r3bl.github.io///about%20me/human%20hacking/projects/2014/10/26/libre-28-slobodni-softver-i-internet-stvari-1-deo/"/>
+   <link href="http://r3bl.github.io///bs/libre-28-slobodni-softver-i-internet-stvari-1-deo"/>
    <updated>2014-10-26T03:30:59+01:00</updated>
-   <id>http://r3bl.github.io//about%20me/human%20hacking/projects/2014/10/26/libre-28-slobodni-softver-i-internet-stvari-1-deo</id>
+   <id>http://r3bl.github.io//bs/libre-28-slobodni-softver-i-internet-stvari-1-deo</id>
    <content type="html">&lt;p&gt;Izašao je novi, &lt;a href=&quot;https://libre.lugons.org/index.php/broj-28/&quot;&gt;28. po redu broj LiBRE! časopisa&lt;/a&gt;. U ovom broju možete pročitati prvi dio teme &lt;em&gt;Slobodni softver i internet stvari&lt;/em&gt; koju obrađujem u ime LiBRE! tima.&lt;/p&gt;
 
 &lt;p&gt;U prvom dijelu sam se zapitao možemo li računati na softverske gigante u uvođenje slobodnog softvera u internet stvari. Pored toga sam napravio uvod u to kako tačno rade pametni uređaji te tako napravio uvod za drugi dio članka u kojem ću obrađivati Spark projekat koji sam izdvojio kao najzanimljiviji projekat vezan za internet stvari koji se fokusira u potpunosti na slobodne tehnologije u svom biznis modelu.&lt;/p&gt;
@@ -1146,9 +1087,9 @@ The beach perished and instead of birds there were black blocks of plastic and m
  
  <entry>
    <title>What exactly is a hacker?</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/human%20hacking/2014/10/18/what-exactly-is-a-hacker/"/>
+   <link href="http://r3bl.github.io///en/what-exactly-is-a-hacker"/>
    <updated>2014-10-18T12:28:54+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/2014/10/18/what-exactly-is-a-hacker</id>
+   <id>http://r3bl.github.io//en/what-exactly-is-a-hacker</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Quote:&lt;/strong&gt;
 _ Not to be confused, hacker is a person who wants to share his knowledge about computers with others. Hacker is every person who thinks in an unconventional way. An idea that a hacker is someone who does something malicious is an idea created in Hollywood._&lt;/p&gt;
 
@@ -1172,9 +1113,9 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
  
  <entry>
    <title>elementary OS - Savršena distribucija za mene</title>
-   <link href="http://r3bl.github.io///about%20me/linux/2014/10/16/elementary-os-savrsena-distribucija-za-mene/"/>
+   <link href="http://r3bl.github.io///bs/elementary-os-savrsena-distribucija-za-mene"/>
    <updated>2014-10-16T22:16:17+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/linux/2014/10/16/elementary-os-savrsena-distribucija-za-mene</id>
+   <id>http://r3bl.github.io//bs/elementary-os-savrsena-distribucija-za-mene</id>
    <content type="html">&lt;p&gt;Sada sam tek shvatio da iako mi je blog pun postova o Linuksu, trenutno nemam niti jedan post posvećen u potpunosti distribuciji koja je zadovoljila sve kriterijume da bude savršeni operativni sistem za moje potrebe: elementary OS.&lt;/p&gt;
 
 &lt;p&gt;Već sam pisao ponešto o svojem putu koji me je doveo sve do elementary-a kada sam se pridružio &lt;a href=&quot;https://twitter.com/search?q=%23budiUbuntu&amp;amp;src=typd&quot;&gt;#budiUbuntu&lt;/a&gt; akciji blogeraša sa naših prostora &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/08/18/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu/&quot;&gt;u ovom postu&lt;/a&gt;, tako da se neću puno zadržavati tu nego ću vam ispričati zašto je baš elementary OS savršena distribucija za mene.&lt;/p&gt;
@@ -1199,9 +1140,9 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
  
  <entry>
    <title>Dronovi - moja perspektiva</title>
-   <link href="http://r3bl.github.io///about%20me/politics/2014/10/16/dronovi-moja-perspektiva/"/>
+   <link href="http://r3bl.github.io///bs/dronovi-moja-perspektiva"/>
    <updated>2014-10-16T12:47:39+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/politics/2014/10/16/dronovi-moja-perspektiva</id>
+   <id>http://r3bl.github.io//bs/dronovi-moja-perspektiva</id>
    <content type="html">&lt;p&gt;Dakle u zadnje vrijeme se digla tolika frka oko dronova da sam jednostavno morao da im posvetim prostora na svom blogu. Postaju dio naše svakodnevnice, u mom gradu već ima jedan i imao sam prilike izbliza da vidim kako tačno funkcioniše.&lt;/p&gt;
 
 &lt;p&gt;Svi smo već upoznati sa incidentom sa dronom na utakmici između Srbije i Albanije, a evo prije nekoliko minuta sam otkrio da će dronovi da budu i na današnjoj vojnoj paradi u Srbiji.&lt;/p&gt;
@@ -1212,7 +1153,7 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
 
 &lt;p&gt;Shvatio sam da su dronovi dio naše sadašnjice i budućnosti kada sam vidio &lt;a href=&quot;https://www.youtube.com/watch?v=f4WGhr9V_dI&quot;&gt;video snimak na YouTube-u&lt;/a&gt; u kome je moj kvart (a i mnogo veći dio grada) snimljen iz ptičje perspektive. Prva reakcija mi je bila da je tako nešto nedopustivo, ali kada sam malo bolje pogledao snimak shvatio sam da snimak izgleda predivno, jedinstveno i nešto što nikada prije nijedna tehnologija nije uspjela da mi omogući. Pošto sam veliki frik što se tiče privatnosti, kroz glavu mi je prošla ideja da bih vjerovatno pokušao da ga skinem da sam bio svjestan da se moj kvart snima i da sam bio upoznat sa time, iako nikakvog govora o invaziji na moju privatnost nije bilo u spomenutom videu. Na tome se sve završilo.&lt;/p&gt;
 
-&lt;p&gt;Kasnije sam sa istim dronom imao neka daljnja iskustva, počevši od toga da su iz ptičje perspektive &lt;a href=&quot;https://www.youtube.com/watch?v=_2e5HqrjJBA&quot;&gt;mnogo bolje prikazane posljedice poplava u mom gradu&lt;/a&gt;, pa sve do toga dok nisam upoznao vlasnika drona i po prvi put ga vidio uživo tokom jednog događaja u kome su video snimci snimljeni dronom pomogli da se snimi &lt;a href=&quot;http://vimeo.com/100238916&quot;&gt;ovaj video&lt;/a&gt; u kome je sumiran cijeli dvodnevni događaj. &lt;/p&gt;
+&lt;p&gt;Kasnije sam sa istim dronom imao neka daljnja iskustva, počevši od toga da su iz ptičje perspektive &lt;a href=&quot;https://www.youtube.com/watch?v=_2e5HqrjJBA&quot;&gt;mnogo bolje prikazane posljedice poplava u mom gradu&lt;/a&gt;, pa sve do toga dok nisam upoznao vlasnika drona i po prvi put ga vidio uživo tokom jednog događaja u kome su video snimci snimljeni dronom pomogli da se snimi &lt;a href=&quot;http://vimeo.com/100238916&quot;&gt;ovaj video&lt;/a&gt; u kome je sumiran cijeli dvodnevni događaj.&lt;/p&gt;
 
 &lt;p&gt;Na tom događaju sam imao priliku da radim i dron je stavljen na svega tridesetak centimetara od mojih nogu. Neću da lažem i prizaću da mi je u nekoliko navrata palo na pamet to da ga nagazim nogom i da ga na taj način onesposobim, međutim suzdržao sam se od toga shvativši koliki je to finansijski udar na džep i da zapravo može da donese toliko novih i pozitivnih načina za korištenje.&lt;/p&gt;
 
@@ -1222,9 +1163,9 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
  
  <entry>
    <title>Donacijama možemo da napravimo razliku</title>
-   <link href="http://r3bl.github.io///linux/2014/10/15/donacijama-mozemo-da-napravimo-razliku/"/>
+   <link href="http://r3bl.github.io///bs/donacijama-mozemo-da-napravimo-razliku"/>
    <updated>2014-10-15T20:21:51+02:00</updated>
-   <id>http://r3bl.github.io//linux/2014/10/15/donacijama-mozemo-da-napravimo-razliku</id>
+   <id>http://r3bl.github.io//bs/donacijama-mozemo-da-napravimo-razliku</id>
    <content type="html">&lt;p&gt;NAPOMENA: Ovo je stariji članak. Objavljen je u &lt;a href=&quot;https://libre.lugons.org/&quot;&gt;LiBRE! magazinu&lt;/a&gt; u 16. broju. Članak prenosim u cjelosti kao takav bez ikakvih izmjena. Ukoliko vas zanimaju članci na ovu temu svakako preporučujem da prelistate &lt;a href=&quot;https://libre.lugons.org/index.php/preuzimanje-pdf-hd-izdanja/&quot;&gt;LiBRE! arhivu&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Mi smo kao ljudska rasa dosad napravili velike korake – u pogrešnom smeru. Da, napravili smo računare, internet, otišli na mjesec, izlečili poneku bolest… Imamo mi tih nekoliko dobrih stvari koje smo napravili i uradili. A sa druge strane? Nuklearne, hidrogene i druge vrste bombi, terorizam, svaki pedalj zemlje je pod nečijim vlasništvom, svaki komad prirode je pod nečijim vlasništvom, ropstvo (i ono staromodno i ovo novo u 21. veku kada jednostavno cele dane radiš za nečiji drugi profit i jedva preživljavaš), dečja pornografija i tako dalje. Prisvojili smo sebi čitav svet jednostavno. Iako živimo sa ogromnim brojem drugih životinjskih i biljnih vrsta, nema tog dijela zemlje koji nije u vlasništvu ili neke osobe, ili neke korporacije, ili neke države. Čak smo i Antarktik uspjeli podijeliti među sobom onoliko koliko ga možemo iskoristiti – za ostatak naravno nikoga nije briga (svejedno će se istopiti u skorijoj budućnosti).&lt;/p&gt;
@@ -1253,9 +1194,9 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
  
  <entry>
    <title>Koje softverske firme vas kontrolišu?</title>
-   <link href="http://r3bl.github.io///about%20me/human%20hacking/linux/2014/10/15/koje-softverske-firme-vas-kontrolisu/"/>
+   <link href="http://r3bl.github.io///bs/koje-softverske-firme-vas-kontrolisu"/>
    <updated>2014-10-15T19:55:07+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/human%20hacking/linux/2014/10/15/koje-softverske-firme-vas-kontrolisu</id>
+   <id>http://r3bl.github.io//bs/koje-softverske-firme-vas-kontrolisu</id>
    <content type="html">&lt;p&gt;NAPOMENA: Ovaj blog post sam napisao prije mnogo vremena (dovoljno daleko da bude stariji od ideje da uopšte napravim blog). Sve do sada nije objavljen nigdje, a sada sam dobio želju da ga podijelim sa javnošću i na taj način malo popunim svoj blog. Post je ostao neizmijenjen u cjelosti i kao takav kopiran iz LibreOffice-a, tako da su podaci malo stariji a stil pisanja takav kakav jeste.&lt;/p&gt;
 
 &lt;p&gt;U zadnja dva mjeseca smo stalno bombardovani činjenicama da postoji neko ko upravlja svime što radimo na internetu. Od toga da mogu da skupljaju metapodatke o našim pozivima i SMS porukama, preko toga da čitaju naše mejlove, Facebook razgovore, objave na Twitter-u i aktivnosti na Youtube-u. Podaci koje smo saznali u zadnja dva mjeseca nam daju do znanja da negdje postoji računar koji zna više o nama od naših prijatelja, porodice, pa čak i od nas samih. Mi ne znamo šta smo pretraživali po Google-u prije godinu dana u ovo vrijeme, ali postoji neki računar u svijetu koji to zna. Moguće je čak i da postoji više računara koji to znaju. Recimo, jedan u Google-ovoj korporaciji, drugi u NSA kojem je Google dostavio te informacije, treći na teritoriji naše države koji su na neki način pokupili te informacije od prethodna dva računara a četvrti negdje od strane nekoga ko je uspjeo da se dokopa informacija sa bilo kojeg od prethodna tri računara. Ovo je samo pretpostavka, ali ne čini se toliko nemoguća, zar ne?&lt;/p&gt;
@@ -1280,9 +1221,9 @@ _ A hacker is someone who thinks outside the box. It’s someone who discards co
  
  <entry>
    <title>Da li živimo u cyberpunk svetu?</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/linux/2014/10/15/da-li-zivimo-u-cyberpunk-svetu/"/>
+   <link href="http://r3bl.github.io///bs/da-li-zivimo-u-cyberpunk-svetu"/>
    <updated>2014-10-15T19:51:45+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/linux/2014/10/15/da-li-zivimo-u-cyberpunk-svetu</id>
+   <id>http://r3bl.github.io//bs/da-li-zivimo-u-cyberpunk-svetu</id>
    <content type="html">&lt;p&gt;NAPOMENA: Ovaj blog post sam napisao prije mnogo vremena (dovoljno daleko da bude stariji od ideje da uopšte napravim blog). Sve do sada nije objavljen nigdje, a sada sam dobio želju da ga podijelim sa javnošću i na taj način malo popunim svoj blog. Post je ostao neizmijenjen u cjelosti i kao takav kopiran iz LibreOffice-a, tako da su podaci malo stariji a stil pisanja takav kakav jeste.&lt;/p&gt;
 
 &lt;p&gt;Inspirisan izvrsnim člankom koji je izašao u regionalnom portalu Linux Za Sve &lt;a href=&quot;http://www.linuxzasve.com/floss-kao-mainstream-da-ali-pod-kojim-uvjetima&quot;&gt;koji možete pročitati ovde&lt;/a&gt;, ne mogu da se ne zapitam koliko smo blizu jednoj izjavi iznesenoj u tom članku. Ta izjava glasi:&lt;/p&gt;
@@ -1306,9 +1247,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>Broadening my perspective</title>
-   <link href="http://r3bl.github.io///about%20me/2014/10/05/broadening-my-perspective/"/>
+   <link href="http://r3bl.github.io///en/broadening-my-perspective"/>
    <updated>2014-10-05T13:32:11+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/10/05/broadening-my-perspective</id>
+   <id>http://r3bl.github.io//en/broadening-my-perspective</id>
    <content type="html">&lt;p&gt;This blog is about to go into completely different direction. Don’t get me wrong, I still love Linux, I still use it regularly. I’m still a big FLOSS enthusiast and I still want to be a security expert. That won’t change as long as I’m alive.&lt;/p&gt;
 
 &lt;p&gt;But, there’s a lot more going on in my life and I want to express myself in a lot bigger way. I’m going to try to categorize my posts properly so you could filter them out just the way you want it, but I’m going to be writing about lots of stuff here.&lt;/p&gt;
@@ -1319,9 +1260,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>Ubuntu utopija #budiUbuntu</title>
-   <link href="http://r3bl.github.io///linux/2014/08/18/ubuntu-utopija-budiubuntu/"/>
+   <link href="http://r3bl.github.io///bs/ubuntu-utopija-budiubuntu"/>
    <updated>2014-08-18T03:25:38+02:00</updated>
-   <id>http://r3bl.github.io//linux/2014/08/18/ubuntu-utopija-budiubuntu</id>
+   <id>http://r3bl.github.io//bs/ubuntu-utopija-budiubuntu</id>
    <content type="html">&lt;p&gt;Postoji nešto što nas izdvaja iznad miliona i miliona drugih vrsta koje su živile nekada u istoriji naše planete: snalažljivi smo i držimo se zajedno.&lt;/p&gt;
 
 &lt;p&gt;Naravno, to držanje zajedno je često narušeno. Svake godine desetine hiljada ljudi izgubi svoj život raspravljajući se oko nekog mitskog bića za koje ne možemo da potvrdimo niti da postoji niti da ne postoji. Ljubomora nas čini užasnim osobama. Imamo različite poroke i u zavisnosti od tih poroka radimo neke užasne stvari.&lt;/p&gt;
@@ -1340,9 +1281,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>Moj put od Fedore preko Archa do Ubuntu derivata #budiUbuntu</title>
-   <link href="http://r3bl.github.io///linux/2014/08/18/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu/"/>
+   <link href="http://r3bl.github.io///bs/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu"/>
    <updated>2014-08-18T02:44:10+02:00</updated>
-   <id>http://r3bl.github.io//linux/2014/08/18/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu</id>
+   <id>http://r3bl.github.io//bs/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu</id>
    <content type="html">&lt;p&gt;Dakle, kao i svaka osoba na ovoj planeti, prije nešto više od godinu dana sam počeo biti bombardovan sa člancima o vijestima koje nam donosi &lt;em&gt;zviždač&lt;/em&gt; (eng. whistleblower) Edward Snowden. Saznao sam koliko je NSA duboko zavukla nos u naše guzice. Otprilike u isto vrijeme sam završio srednju školu te samim tim imao ogromnu količinu slobodnog vremena. To vrijeme sam iskoristio da bih se fokusirao na mrežnu sigurnost. Studirajući inženjersku informatiku znao sam da ću prije ili kasnije morati da se odlučim za neki dio računarstva koji me najviše zanima, a oduvijek me fascinirala sigurnost u moderno doba.&lt;/p&gt;
 
 &lt;p&gt;I tako, malo povučen od strane Snowdena i ljudi koji su na redditu pomagali jedni drugima da izbjegnu nadzor od strane NSA, malo povučen željom da naučim što više mogu o sigurnosti u digitalnom dobu, naletih na to čudo zvano Linux.&lt;/p&gt;
@@ -1365,9 +1306,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>Reading Mission Accomplished!</title>
-   <link href="http://r3bl.github.io///about%20me/2014/08/14/reading-mission-accomplished/"/>
+   <link href="http://r3bl.github.io///en/reading-mission-accomplished"/>
    <updated>2014-08-14T06:05:17+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/08/14/reading-mission-accomplished</id>
+   <id>http://r3bl.github.io//en/reading-mission-accomplished</id>
    <content type="html">&lt;p&gt;So, somewhere around the Middle of June I set a goal to myself: read three books by the end of August. And I did it! I’ve read three books so far and I’m planning on reading another one as soon as I get a hold of some book that I find interesting.&lt;/p&gt;
 
 &lt;p&gt;I kinda feel fascinated by George R. R. Martin. I’ve read the first part of A Song of Ice and Fire and I knew I wanted to read more of his books. So, book fair was organized in my city and I immediately ran over there.&lt;/p&gt;
@@ -1382,9 +1323,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>WhyMicrosoft.com - The Worst Marketing Site Ever?</title>
-   <link href="http://r3bl.github.io///linux/2014/08/10/67/"/>
+   <link href="http://r3bl.github.io///en/67"/>
    <updated>2014-08-10T16:38:28+02:00</updated>
-   <id>http://r3bl.github.io//linux/2014/08/10/67</id>
+   <id>http://r3bl.github.io//en/67</id>
    <content type="html">&lt;p&gt;Browsing through a &lt;a href=&quot;https://plus.google.com/u/0/communities/109586015108702871702&quot;&gt;Google+ group&lt;/a&gt; dedicated to Linux users in Serbia and Balkan region, I saw a post that linked a web page called &lt;a href=&quot;http://www.whymicrosoft.com/&quot;&gt;Why Microsoft&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To be honest, I’m &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/08/05/confession-microsoft-is-not-so-bad/&quot;&gt;not a Microsoft hater&lt;/a&gt; even though I use &lt;a href=&quot;http://kubuntu.org/&quot;&gt;Kubuntu Linux distribution&lt;/a&gt; as my primary operating system. I’ve decided to check out that site just to see why Microsoft thinks their products are so much better than competitors products.&lt;/p&gt;
@@ -1399,9 +1340,9 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
  
  <entry>
    <title>Cloud Wars from a Consumer Perspective</title>
-   <link href="http://r3bl.github.io///about%20me/2014/08/09/cloud-wars-from-a-consumer-perspective/"/>
+   <link href="http://r3bl.github.io///en/cloud-wars-from-a-consumer-perspective"/>
    <updated>2014-08-09T16:22:10+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/08/09/cloud-wars-from-a-consumer-perspective</id>
+   <id>http://r3bl.github.io//en/cloud-wars-from-a-consumer-perspective</id>
    <content type="html">&lt;p&gt;So, I’ve got two primary cloud providers: &lt;a href=&quot;https://cloud.mail.ru/&quot;&gt;Mail.ru cloud&lt;/a&gt; and &lt;a href=&quot;https://onedrive.live.com/&quot;&gt;OneDrive&lt;/a&gt;. I’ve been using both of them for quite some time. Mail.Ru cloud supports Linux and gives 100 GB for free. They’ve also had a promo action that lasted for a month and anyone who clicked on a certain link got 1 TB for free. Yup, 1 TB of cloud storage absolutely free. The only problem: the interface is in Russian. Not a big deal and once you get a hang of where things are located using the app is quite easy. They support pretty much any platform you can think of and Linux integration (tried it on Kubuntu and elementary OS) as well as Windows integration works perfectly.&lt;/p&gt;
 
 &lt;p&gt;But, sometimes I just want to share my files with someone. I’m not sure if that is possible with Mail.Ru cloud, but I know a place where it is: Microsoft OneDrive. As I’ve explained before in &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/08/05/confession-microsoft-is-not-so-bad/&quot;&gt;this post&lt;/a&gt;, I’m not a big Microsoft hater even though I’m a Linux user and I trust them &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/08/08/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome/&quot;&gt;far more then I trust Google&lt;/a&gt;. I have an Office 365 subscription for about a month or two and I got 20 GB of cloud storage because of that which, combining with 7 gigabytes for free
@@ -1419,9 +1360,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Ko koga špijunira u političkom vrhu BiH? (2. dio)</title>
-   <link href="http://r3bl.github.io///cyber%20security/politics/2014/08/08/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio/"/>
+   <link href="http://r3bl.github.io///bs/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio"/>
    <updated>2014-08-08T22:57:55+02:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/politics/2014/08/08/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio</id>
+   <id>http://r3bl.github.io//bs/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio</id>
    <content type="html">&lt;p&gt;Došlo je vrijeme za drugi dio članka o tome ko koga špijunira u političkom vrhu BiH. Prvi možete pročitati &lt;a href=&quot;http://aleksandartodorovic.wordpress.com/2014/08/07/ko-koga-spijunira-u-politickom-vrhu-bih/&quot;&gt;ovdje&lt;/a&gt;. Da skratim članak, nepoznat haker preuzeo 40ak gigabajta podataka od firme Gamma koja služi za kreiranje softvera za online špijuniranje koji se naziva FinFisher. Taj softver firma Gamma prodaje isključivo vladama, a među državama kojima je prodala softver se našla i Bosna i Hercegovina.&lt;/p&gt;
 
 &lt;p&gt;Nisam još uspio da preuzmem čitav torrent od 38,6 gigabajta podataka (trenutno je tek na 24%), tako da nisam bio ni u stanju da analiziram podatke koje preuzimam. Međutim, pomoć sam dobio od samog hakera koji je preko &lt;a href=&quot;https://twitter.com/GammaGroupPR&quot;&gt;tviter profila&lt;/a&gt; objavio link sa porukama koje su korisnici slali službi za podršku. Vrijedi pogledati, zar ne?&lt;/p&gt;
@@ -1452,9 +1393,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Mozilla Firefox – Does Everyone Thing of it Just as an Alternative to Chrome?</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/2014/08/08/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome/"/>
+   <link href="http://r3bl.github.io///en/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome"/>
    <updated>2014-08-08T15:32:27+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/2014/08/08/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome</id>
+   <id>http://r3bl.github.io//en/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome</id>
    <content type="html">&lt;p&gt;This is something that’s bothering me in the last 20 minutes I guess. Does really everyone think of it just as an alternative to Chrome? To be honest, Chrome is winning the browser market, Apple and Microsoft are trying to stop that, but only with one goal: replacing Chrome with their own solutions. Is there anyone who thinks that a small non-profit organization like Mozilla can do to mess that up?&lt;/p&gt;
 
 &lt;p&gt;Let’s step up a little. Let’s talk about operating systems. Microsoft has Windows and controls pretty much all of the desktops out there. Apple has his own Mac products. Google has most of the mobile users and Chrome OS. While Mozilla does not have anything besides Firefox OS.&lt;/p&gt;
@@ -1481,9 +1422,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Ko koga špijunira u političkom vrhu BiH?</title>
-   <link href="http://r3bl.github.io///cyber%20security/politics/2014/08/08/ko-koga-spijunira-u-politickom-vrhu-bih/"/>
+   <link href="http://r3bl.github.io///bs/ko-koga-spijunira-u-politickom-vrhu-bih"/>
    <updated>2014-08-08T00:27:08+02:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/politics/2014/08/08/ko-koga-spijunira-u-politickom-vrhu-bih</id>
+   <id>http://r3bl.github.io//bs/ko-koga-spijunira-u-politickom-vrhu-bih</id>
    <content type="html">&lt;p&gt;Listajući početnu na Tviteru naletio sam na nešto zanimljivo. Nepoznati haker koji se krije iza aliasa Phineas Fisher je 6. augusta hakovao stranicu koja stoji iza programa FinFisher. Taj program jeste dosta nepoznat za javnost, ali ne bi trebao da bude. Program je razvijen u Njemačkoj sa ciljem da se prodaje vladama različitih zemalja kako bi špijunirali one koje odluče da žele da špijuniraju. Haker je zatim objavio &lt;a href=&quot;https://netzpolitik.org/wp-upload/finfisher.torrent&quot;&gt;torrent&lt;/a&gt; od 40ak gigabajta sa podacima koje je uspio da ukrade.&lt;/p&gt;
 
 &lt;p&gt;E sada, podaci su ukrani, kompanija Gamma koja stoji iza programa je odbila da komentariše da je neko provalio u njihov sistem, a baza je postala dostupna u javnosti. Sada je na redu onaj manje zabavan dio: analiziranje svih tih podataka. Zanima me da li će iko od domaćih medija biti spreman za to. Ja jesam, zato trenutno preuzimam torrent od svih 40ak gigabajta.&lt;/p&gt;
@@ -1500,9 +1441,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Back to Kubuntu</title>
-   <link href="http://r3bl.github.io///about%20me/linux/2014/08/07/back-to-kubuntu/"/>
+   <link href="http://r3bl.github.io///en/back-to-kubuntu"/>
    <updated>2014-08-07T16:50:46+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/linux/2014/08/07/back-to-kubuntu</id>
+   <id>http://r3bl.github.io//en/back-to-kubuntu</id>
    <content type="html">&lt;p&gt;So, in the last 48 hours I was again, looking for a new distro. Don’t know why, but I just felt I should be using something else.&lt;/p&gt;
 
 &lt;p&gt;And again, I was search for the perfect distro for my needs. As you know if you’re following my blog, I’m a big security researcher kind a guy. So, naturally, my first choice was Kali Linux. But, the problem is that I don’t like GNOME interface. Don’t know why, but it’s just not right for me. So, I tried compiling my own Kali Linux .iso file with KDE interface. Well, it’s easy to say that that didn’t work as planned. I did not manage to get it working. So I tried installing regular Kali Linux and replacing GNOME interface with KDE. That also didn not work as planned.&lt;/p&gt;
@@ -1515,9 +1456,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Papers We Love</title>
-   <link href="http://r3bl.github.io///about%20me/2014/08/07/papers-we-love/"/>
+   <link href="http://r3bl.github.io///en/papers-we-love"/>
    <updated>2014-08-07T01:07:46+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/08/07/papers-we-love</id>
+   <id>http://r3bl.github.io//en/papers-we-love</id>
    <content type="html">&lt;p&gt;If you’re like me, the chances are you like learning new things. If you’re like me, than you love computer science. I have a big passion to learn as much as I can about computers. Because it’s kind of a huge subject and no human could ever learn everything about computers, I had to decide which subject I should focus on. The choice was not that hard for me and I’ve decided relatively easy that my subject of choice is cyber security. I care about privacy and man do I love breaking things!&lt;/p&gt;
 
 &lt;p&gt;So, what I want to represent today is a git. Inside that git, you’ll find a lot of computer science related academic papers uploaded my people like you and me. The point of doing this git is to create a high quality source for papers, and those 50 contributors are doing the hell of a job doing that. It’s the little projects like this that makes me happy. When people unite and do something awesome together. I’m even happier because this is the first use of git I found useful that is not related to any programming language.&lt;/p&gt;
@@ -1528,9 +1469,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Confession: Microsoft Is Not So Bad</title>
-   <link href="http://r3bl.github.io///about%20me/2014/08/05/confession-microsoft-is-not-so-bad/"/>
+   <link href="http://r3bl.github.io///en/confession-microsoft-is-not-so-bad"/>
    <updated>2014-08-05T14:02:03+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/08/05/confession-microsoft-is-not-so-bad</id>
+   <id>http://r3bl.github.io//en/confession-microsoft-is-not-so-bad</id>
    <content type="html">&lt;p&gt;There’s something I need to confess. Even though I’m a hardcore Linux and free software advocate, I have to say that Microsoft, as a company, is not so bad. So, why am I saying this?&lt;/p&gt;
 
 &lt;p&gt;I’ve never paid a single euro for any Microsoft product. I was running cracked software like 95% of people in my country. Now this is not a secret at all. My father runs a small company (around 10 of employees) and I was doing some research about how licensing works in my country. I was amazed. As it turns out, the companies &lt;em&gt;are&lt;/em&gt; required to have licensed software, &lt;em&gt;but&lt;/em&gt;, if the inspection comes, they will look at a specific list of software and they’ll ask you if you have a license for those programs. What I’m trying to say is that a company only needs to have legal operating system, legal office suite and that’s about it. Add some Adobe products if you use them inside of your company and you’re good to go! Now, the situation gets even worse when we focus on personal users. No-one will &lt;em&gt;ever&lt;/em&gt; ask you for a license. It’s like this word doesn’t even exist in my country.&lt;/p&gt;
@@ -1549,9 +1490,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Sensitive Data Grabber Project</title>
-   <link href="http://r3bl.github.io///projects/2014/08/03/sensitive-data-grabber-project/"/>
+   <link href="http://r3bl.github.io///en/sensitive-data-grabber-project"/>
    <updated>2014-08-03T15:18:43+02:00</updated>
-   <id>http://r3bl.github.io//projects/2014/08/03/sensitive-data-grabber-project</id>
+   <id>http://r3bl.github.io//en/sensitive-data-grabber-project</id>
    <content type="html">&lt;p&gt;So, what I want to present to you today is a project I’m currently working on. What I’m doing is I’m creating a program that will collect all of the sensitive data from the victim’s computer and saves them on a thumb drive. The program is currently being written as a form application using Microsoft’s Visual Basic and .NET framework 4.5. After I finish the beta version, I’m planning on re-writing the program so it will be a console application and it will work with some older .NET framework (I’m not yet sure which .NET framework will I support for now).&lt;/p&gt;
 
 &lt;p&gt;Now, what I want to do is to tell you what this program actually does for now and what I’m planning on implementing.&lt;/p&gt;
@@ -1624,9 +1565,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Notes on Build Your Own Cyber Lab at Home Course</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/2014/07/28/notes-on-build-your-own-cyber-lab-at-home-course/"/>
+   <link href="http://r3bl.github.io///en/notes-on-build-your-own-cyber-lab-at-home-course"/>
    <updated>2014-07-28T15:18:17+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/2014/07/28/notes-on-build-your-own-cyber-lab-at-home-course</id>
+   <id>http://r3bl.github.io//en/notes-on-build-your-own-cyber-lab-at-home-course</id>
    <content type="html">&lt;p&gt;Recently I finished a free course offered &lt;a href=&quot;http://www.cybersecurityschoolonline.com/&quot;&gt;Cyber Security School Online&lt;/a&gt; on &lt;a href=&quot;http://udemy.com/&quot;&gt;Udemy&lt;/a&gt; called &lt;a href=&quot;https://www.udemy.com/build-your-own-cyber-lab-at-home/#/&quot;&gt;Build Your Own Cyber Lab from Home&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What I want to do now is to share the notes I’ve written while taking the course. The courses are divided into a couple of cathegories and they’re written for my current knowledge and situation, but I hope that there will be a person out there that will find them useful.&lt;/p&gt;
@@ -1637,9 +1578,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>The Internet of Insecure Things</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/2014/07/27/the-internet-of-insecure-things/"/>
+   <link href="http://r3bl.github.io///en/the-internet-of-insecure-things"/>
    <updated>2014-07-27T14:13:30+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/2014/07/27/the-internet-of-insecure-things</id>
+   <id>http://r3bl.github.io//en/the-internet-of-insecure-things</id>
    <content type="html">&lt;p&gt;So, Internet of Things is happening. More and more things are connected to the internet every day. What about securing the Internet of Things? This great presentation by &lt;a href=&quot;https://twitter.com/securityweekly&quot;&gt;@securityweekly&lt;/a&gt; covered most of the problems. And I laughed a lot while reading it. Too bad I can’t listen to him explaining it in details.&lt;/p&gt;
 
 &lt;p&gt;http://www.slideshare.net/pauldotcom/the-internet-of-insecure-things-10-most-wanted-list&lt;/p&gt;
@@ -1648,9 +1589,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>How Hacking Changed My Life</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/linux/2014/07/27/how-hacking-changed-my-life/"/>
+   <link href="http://r3bl.github.io///en/how-hacking-changed-my-life"/>
    <updated>2014-07-27T13:47:21+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/linux/2014/07/27/how-hacking-changed-my-life</id>
+   <id>http://r3bl.github.io//en/how-hacking-changed-my-life</id>
    <content type="html">&lt;p&gt;I already wrote about my hacking beginnings &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/07/12/flashback-my-first-cybersecurity-discovery/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/07/27/flashback-my-first-steps-in-hacking/&quot;&gt;here&lt;/a&gt;. Now, I want to talk about something else. I want to talk about how hacking changed my life!&lt;/p&gt;
 
 &lt;p&gt;Well, first of all, because I kept running into BackTrack tutorials while I was learning how to hack, I began to be interested in Linux and free software. I’ve spent days trying to install BackTrack in a virtual machine and connecting it with my network. I thought I just couldn’t configure my VM but, at the time, I didn’t know that I need to enter some command in terminal to unblock WiFi in BackTrack which was blocked for some reason whenever I booted into live CD or just installed BackTrack on my computer.&lt;/p&gt;
@@ -1671,9 +1612,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Blogilo + Wordpress integration is terrible!</title>
-   <link href="http://r3bl.github.io///about%20me/2014/07/27/blogilo-wordpress-integration-is-terrible/"/>
+   <link href="http://r3bl.github.io///en/blogilo-wordpress-integration-is-terrible"/>
    <updated>2014-07-27T13:14:52+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/07/27/blogilo-wordpress-integration-is-terrible</id>
+   <id>http://r3bl.github.io//en/blogilo-wordpress-integration-is-terrible</id>
    <content type="html">&lt;p&gt;First of all, sorry about the design of my previous post. I was trying Blogilo as a program for posting entries and the result was horrible! What I did is write down a post in LO Writer (need spelling while I write), copied it to Blogilo and clicked submit. The font was terrible, and I had to edit a post from a web interface because somewhere between my Blogilo and my blog some spaces just disappered!&lt;/p&gt;
 
 &lt;p&gt;Anyway, now I’m writing in QTM and I hope the post will be formated better before I write my next post in it.&lt;/p&gt;
@@ -1682,9 +1623,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Flashback: My First Steps in Hacking</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/2014/07/27/flashback-my-first-steps-in-hacking/"/>
+   <link href="http://r3bl.github.io///en/flashback-my-first-steps-in-hacking"/>
    <updated>2014-07-27T12:48:26+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/2014/07/27/flashback-my-first-steps-in-hacking</id>
+   <id>http://r3bl.github.io//en/flashback-my-first-steps-in-hacking</id>
    <content type="html">&lt;p&gt;I was always a curious guy. I was always wondering how do some things work, but I just didn’t know how to find out about it. I, at the time, followed Discovery Channel, Viasat Explorer and other scientific shows because I wanted to know more. I would write down everything I thought it was fun to learn in my little notebook as a reference if I needed to learn more about that. I didn’t prepare for doing something like that. That’s why my notes were messy and Icouldn’t do anything about it. And of course, at the time, I did not have a computer or internet or smartphone or anything like that.&lt;/p&gt;
 
 &lt;p&gt;So,years later, I finally got internet connection! I was 16 years old back then. Yup, I lived 16 years without the internet and I can’t be happier about it. I had a nice childhood. Anyway, when I finally got an access to the internet, I did spend two years doing nothing and exploring the power of internet. I used Facebook a lot, used Skype, YouTube, and basically got an account in every social site ever. I was senior in high-school when I learned a thing or two about computers. I already mastered Pascal and Delphi, I knew some networking basics and I knew a lot about building my own desktop computer. But in my senior year, I was learning object-oriented programming. And while I was learning Visual Basic (6.0 was theversion my school decided to teach), I needed to do my final exam using Visual Basic, some basic printing app that will connect to MySQL database my friend was doing and print stuff from it on a specifically designed pieces of paper.&lt;/p&gt;
@@ -1699,18 +1640,18 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Time to take some break</title>
-   <link href="http://r3bl.github.io///about%20me/2014/07/26/time-to-take-some-break/"/>
+   <link href="http://r3bl.github.io///about%20me/time-to-take-some-break"/>
    <updated>2014-07-26T13:04:16+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/07/26/time-to-take-some-break</id>
+   <id>http://r3bl.github.io//about%20me/time-to-take-some-break</id>
    <content type="html">&lt;p&gt;Time to take a few days break from learning because I got a hold of a next book in A Song of Ice and Fire series I love so much: A Clash of Kings. I’m a huge Game of Thrones fan and I like books even more!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>[NinjaSec Course] Gathering Information</title>
-   <link href="http://r3bl.github.io///cyber%20security/2014/07/24/ninjasec-course-gathering-information/"/>
+   <link href="http://r3bl.github.io///en/ninjasec-course-gathering-information"/>
    <updated>2014-07-24T14:53:38+02:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/2014/07/24/ninjasec-course-gathering-information</id>
+   <id>http://r3bl.github.io//en/ninjasec-course-gathering-information</id>
    <content type="html">&lt;p&gt;I know that this post is going to be pretty basic, but it was not very detailed in my head so I wanted to write about it to remember it easier.&lt;/p&gt;
 
 &lt;p&gt;So, what tools and techniques can someone use to gather information about a certain person or company?&lt;/p&gt;
@@ -1727,9 +1668,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>[NinjaSec Course] Organizing information during PenTest</title>
-   <link href="http://r3bl.github.io///cyber%20security/2014/07/24/ninjasec-course-organizing-information-during-pentest/"/>
+   <link href="http://r3bl.github.io///en/ninjasec-course-organizing-information-during-pentest"/>
    <updated>2014-07-24T10:10:58+02:00</updated>
-   <id>http://r3bl.github.io//cyber%20security/2014/07/24/ninjasec-course-organizing-information-during-pentest</id>
+   <id>http://r3bl.github.io//en/ninjasec-course-organizing-information-during-pentest</id>
    <content type="html">&lt;p&gt;So, I found about this great tool for organizing notes while you do the penetration testing.&lt;/p&gt;
 
 &lt;p&gt;It’s basically a simple note-taking app called &lt;a href=&quot;http://dradisframework.org/download.html&quot;&gt;Dradis&lt;/a&gt; specifically designed to be used in penetration testing purposes. It’s open source, written in Ruby and runs straight in your browser.&lt;/p&gt;
@@ -1744,9 +1685,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Starting an Ethical Hacking Course</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/2014/07/23/starting-an-ethical-hacking-course/"/>
+   <link href="http://r3bl.github.io///en/starting-an-ethical-hacking-course"/>
    <updated>2014-07-23T22:50:58+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/2014/07/23/starting-an-ethical-hacking-course</id>
+   <id>http://r3bl.github.io//en/starting-an-ethical-hacking-course</id>
    <content type="html">&lt;p&gt;So, I found out about a personal blog about network security and while reading it I found out about a course offered by Udemy learning platform called: &lt;em&gt;Learn the Basics of Ethical Hacking and Penetration Testing&lt;/em&gt;. I used Google to find out if there is some code to finish that course for free and, of course, I managed to find it (thank you Reddit!). So, from now on I will probably write on my blog some information about how well am I doing in that course.&lt;/p&gt;
 
 &lt;p&gt;Also, I’m planning on writing a really long essay about the true type of hackers, who they are and what they do. My point of writing that essay is to try to convince people in my local area to think differently about a word &lt;em&gt;hacker&lt;/em&gt; next time they read it on some news reporting sites. The essay will be written in my native language (Bosnian) for one reason only and that is because I know that I’m not excellent with grammar in English language and I don’t want my essay to be full of grammatical errors.&lt;/p&gt;
@@ -1755,9 +1696,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Laverna</title>
-   <link href="http://r3bl.github.io///about%20me/2014/07/20/laverna/"/>
+   <link href="http://r3bl.github.io///en/laverna"/>
    <updated>2014-07-20T05:07:04+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/07/20/laverna</id>
+   <id>http://r3bl.github.io//en/laverna</id>
    <content type="html">&lt;p&gt;Today I found out about a great note-taking web-app called &lt;a href=&quot;https://github.com/Laverna/laverna&quot;&gt;Laverna&lt;/a&gt;. It’s an open source program that you can just download on your PC and run through your browser*. It has a built-in AES encryption so you can store confidential data in it. All your data will be encrypted using you password. It also supports saving your database in the cloud (via Dropbox or via SecureStorage with more cloud services to be implemented soon).&lt;/p&gt;
 
 &lt;p&gt;I need to say that even though its list of features is pretty amazing, the web-app has a lot of bugs. If you encounter some of them, I highly suggest that you report them &lt;a href=&quot;https://github.com/Laverna/laverna/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1772,9 +1713,9 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  
  <entry>
    <title>Man, Networking is Hard!</title>
-   <link href="http://r3bl.github.io///about%20me/2014/07/12/man-networking-is-hard/"/>
+   <link href="http://r3bl.github.io///en/man-networking-is-hard"/>
    <updated>2014-07-12T15:06:57+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/2014/07/12/man-networking-is-hard</id>
+   <id>http://r3bl.github.io//en/man-networking-is-hard</id>
    <content type="html">&lt;p&gt;So, I started my college education last October. First semester I wasn’t very good. I passed tree of five subjects I was supposed to pass and I got pretty much amazing grades in the subjects I did pass. But now, during the second semester, I started learning for my Cisco CCNA certificate. That certificate was the reason I decided to go on this collage (although, to be honest, my choice was very limited considering my financial situation at the time).&lt;/p&gt;
 
 &lt;p&gt;Now, I came to the end of the second semester. In my R&amp;amp;S course (first course in the path to CCNA certificate), I wasn’t very active. I didn’t go to all of the classes in that course I wasn’t very regular in lab exercises. I did not study every week and I had more and more materials to learn. I knew that, but I just didn’t pay attention. I took collage for granted and now I have a problem.&lt;/p&gt;
@@ -1786,10 +1727,10 @@ and synchronizing my Windows 8.1 sums up to 30 GB. Well, not so bad, but still, 
  </entry>
  
  <entry>
-   <title>Flashback: My first cybersecurity “discovery”</title>
-   <link href="http://r3bl.github.io///about%20me/cyber%20security/human%20hacking/2014/07/12/flashback-my-first-cybersecurity-discovery/"/>
+   <title>Flashback - My First Cybersecurity Discovery</title>
+   <link href="http://r3bl.github.io///en/flashback-my-first-cybersecurity-discovery"/>
    <updated>2014-07-12T14:31:36+02:00</updated>
-   <id>http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/2014/07/12/flashback-my-first-cybersecurity-discovery</id>
+   <id>http://r3bl.github.io//en/flashback-my-first-cybersecurity-discovery</id>
    <content type="html">&lt;p&gt;So, when I was 12 years old (at least I think I was) I didn’t have a functioning computer. My father contacted one of my neighbor and he had a spare laptop he didn’t use for a long time. He gave it to my family and I finally had something to amuse me.&lt;/p&gt;
 
 &lt;p&gt;The year was 2006. I was living in a small village located in northern Bosnia &amp;amp; Herzegovina, 40 kilometers away from the nearest town. Not an ideal place to live, I know. Having an internet in a place like that in that age was a privilege that not a lot of people could afford.&lt;/p&gt;

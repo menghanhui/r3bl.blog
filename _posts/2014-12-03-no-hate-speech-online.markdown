@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-03 00:11:49+00:00
 layout: post
 slug: no-hate-speech-online
 title: Pokret protiv govora mržnje na internetu
-wordpress_id: 204
-categories:
-- No Hate Speech Online
+categories: bs
 tags:
 - govor mržnje
 - no hate movement

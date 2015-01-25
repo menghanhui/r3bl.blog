@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-27 12:13:30+00:00
 layout: post
 slug: the-internet-of-insecure-things
 title: The Internet of Insecure Things
-wordpress_id: 29
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - education
 - IoT

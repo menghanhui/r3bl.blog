@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-10-16 20:16:17+00:00
 layout: post
 slug: elementary-os-savrsena-distribucija-za-mene
 title: elementary OS - Savršena distribucija za mene
-wordpress_id: 133
-categories:
-- About me
-- Linux
+categories: bs
 tags:
 - '#budiUbuntu'
 - about me

@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-08-09 14:22:10+00:00
 layout: post
 slug: cloud-wars-from-a-consumer-perspective
 title: Cloud Wars from a Consumer Perspective
-wordpress_id: 63
-categories:
-- About me
+categories: en
 tags:
 - cloud
 - elementary

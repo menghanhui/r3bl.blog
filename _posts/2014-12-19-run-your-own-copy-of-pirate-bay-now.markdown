@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-19 16:04:56+00:00
 layout: post
 slug: run-your-own-copy-of-pirate-bay-now
 title: Run Your Own Copy of Pirate Bay Now!
-wordpress_id: 274
-categories:
-- Free Culture
-- Projects
+categories: en
 tags:
 - DIY
 - isoHunt.to
@@ -42,13 +38,13 @@ Of course, this brigs up so many issues.
 
 
 
-	
+
   * How will we know what site is legit?
 
-	
+
   * How will we update our torrent database?
 
-	
+
   * How will we know what site does have an updated version of the torrent database?
 
 

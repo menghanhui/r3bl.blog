@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-11-06 11:03:42+00:00
 layout: post
 slug: office-giveaway-winners
 title: '[Office 365 Giveaway] Winners announced!'
-wordpress_id: 160
-categories:
-- About me
-- Projects
+categories: en
 tags:
 - contest
 - free license
@@ -50,10 +46,3 @@ The men soon disappeared one after another but the black blocks stood firm with 
 Scared by his dream he decided to live alone on the beach. He dreamt about one day when his idea of a perfect gaming system finally comes alive. But whenever he tried to build with electronics, the static discharge destroyed his works. And he kept being a mad man dreaming about black cases, television and game discs...
 
 Somewhere else another man had the same dream. But unlike the first man he was gifted. He created the one system to rule the all. A system that is as complex as easy to work with. A system that could shatter the black dream blocks by its pure existenc. This system was his personal computer...
-
-
-
-
-
-
-

@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-08-08 13:32:27+00:00
 layout: post
 slug: mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome
 title: Mozilla Firefox – Does Everyone Thing of it Just as an Alternative to Chrome?
-wordpress_id: 54
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - about me
 - Firefox

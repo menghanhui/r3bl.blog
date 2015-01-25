@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-24 12:53:38+00:00
 layout: post
 slug: ninjasec-course-gathering-information
 title: '[NinjaSec Course] Gathering Information'
-wordpress_id: 15
-categories:
-- Cyber Security
+categories: en
 tags:
 - educaion
 - hacking

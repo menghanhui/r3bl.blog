@@ -1,14 +1,11 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-04 14:40:25+00:00
 layout: post
 slug: anonimnost-nije-rjesenje
 title: Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na
   internetu
-wordpress_id: 213
-categories:
-- No Hate Speech Online
+categories: bs
 tags:
 - anonimnost
 - no hate speech online

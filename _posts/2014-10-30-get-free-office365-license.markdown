@@ -1,17 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-10-30 17:40:30+00:00
 layout: post
 slug: get-free-office365-license
 title: Get Office 365 License For Free! [A Little Contest]
-wordpress_id: 154
-categories:
-- About me
-- Cyber Security
-- Human Hacking
-- Linux
-- Projects
+categories: en
 tags:
 - contest
 - free license

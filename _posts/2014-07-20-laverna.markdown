@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-20 03:07:04+00:00
 layout: post
 slug: laverna
 title: Laverna
-wordpress_id: 7
-categories:
-- About me
+categories: en
 tags:
 - about me
 - note taking

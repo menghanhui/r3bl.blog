@@ -1,5 +1,5 @@
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:title
 relative_permalinks: true
 
 # Setup
@@ -20,7 +20,8 @@ repo:           https://github.com/r3bl/r3bl.github.io
 
 # Custom Pages
 pages_list:
-  About: '/about'
-  Archive: '/archive'
-  Contact: '/contact'
+  About: '/about.html'
+  Archive: '/archive.html'
+  Friends: '/friends.html'
+  Contact: '/contact.html'
   Feed: '/atom.xml'

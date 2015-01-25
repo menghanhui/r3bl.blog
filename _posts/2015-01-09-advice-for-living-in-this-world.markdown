@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2015-01-09 18:12:06+00:00
 layout: post
 slug: advice-for-living-in-this-world
 title: Advice for living in this world (by Quinn Norton)
-wordpress_id: 288
-categories:
-- Free Culture
+categories: en
 tags:
 - Advice
 - essay
@@ -21,10 +18,10 @@ Wow, this is the first time (although I can't guarantee you that it will be the 
 
 <blockquote>
 
-> 
+>
 > ## **Advice for Living in this World**
-> 
-> 
+>
+>
 Every day is stranger than the last one.
 
 Each of us has a point where we fall short, where we can’t go on at this mad pace. We ride the wave as long as we can until we start to drown in time and change, and nothing makes sense anymore. And then we fight back from that insanity. This is so common an experience, it’s practically a rite of passage in our new online lives.

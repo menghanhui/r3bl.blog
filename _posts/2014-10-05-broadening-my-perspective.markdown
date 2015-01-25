@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-10-05 11:32:11+00:00
 layout: post
 slug: broadening-my-perspective
 title: Broadening my perspective
-wordpress_id: 89
-categories:
-- About me
+categories: en
 tags:
 - about me
 ---

@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-12 13:06:57+00:00
 layout: post
 slug: man-networking-is-hard
 title: Man, Networking is Hard!
-wordpress_id: 5
-categories:
-- About me
+categories: en
 tags:
 - confession
 - education

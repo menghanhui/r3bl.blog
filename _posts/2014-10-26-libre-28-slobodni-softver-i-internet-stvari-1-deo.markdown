@@ -1,15 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-10-26 02:30:59+00:00
 layout: post
 slug: libre-28-slobodni-softver-i-internet-stvari-1-deo
 title: LiBRE! 28 - Slobodni softver i internet stvari (1. deo)
-wordpress_id: 142
-categories:
-- About me
-- Human Hacking
-- Projects
+categories: bs
 tags:
 - about me
 - education

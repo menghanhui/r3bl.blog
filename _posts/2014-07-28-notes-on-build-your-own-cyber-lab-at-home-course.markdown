@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-28 13:18:17+00:00
 layout: post
 slug: notes-on-build-your-own-cyber-lab-at-home-course
 title: Notes on Build Your Own Cyber Lab at Home Course
-wordpress_id: 31
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - education
 - mooc

@@ -1,15 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-10-15 17:51:45+00:00
 layout: post
 slug: da-li-zivimo-u-cyberpunk-svetu
 title: Da li živimo u cyberpunk svetu?
-wordpress_id: 93
-categories:
-- About me
-- Cyber Security
-- Linux
+categories: bs
 tags:
 - cyberpunk
 - moja shvatanja

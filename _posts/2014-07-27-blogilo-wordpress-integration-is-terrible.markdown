@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-07-27 11:14:52+00:00
 layout: post
 slug: blogilo-wordpress-integration-is-terrible
 title: Blogilo + Wordpress integration is terrible!
-wordpress_id: 25
-categories:
-- About me
+categories: en
 tags:
 - confession
 - wordpress

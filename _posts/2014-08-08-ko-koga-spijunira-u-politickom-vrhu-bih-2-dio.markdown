@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-08-08 20:57:55+00:00
 layout: post
 slug: ko-koga-spijunira-u-politickom-vrhu-bih-2-dio
 title: Ko koga špijunira u političkom vrhu BiH? (2. dio)
-wordpress_id: 59
-categories:
-- Cyber Security
-- Politics
+categories: bs
 tags:
 - BiH
 - kontrola

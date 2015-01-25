@@ -1,13 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-08-06 23:07:46+00:00
 layout: post
 slug: papers-we-love
 title: Papers We Love
-wordpress_id: 47
-categories:
-- About me
+categories: en
 tags:
 - about me
 - education

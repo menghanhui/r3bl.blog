@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-12-15 03:56:53+00:00
 layout: post
 slug: facebook-hack-no4
 title: 'Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook'
-wordpress_id: 244
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
 - DDoS
 - denial of service
@@ -56,13 +52,11 @@ You might want to check out previous posts in the series:
 
 
 
-	
+
   * [Some Basic Facebook “Hacks” – Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook](https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no1/)
 
-	
+
   * [Some Basic Facebook “Hacks” – Hack no. 2: Find out who’s calling you on your phone by using Facebook](https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no2/)
 
-	
+
   * [Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size](https://aleksandartodorovic.wordpress.com/2014/11/20/facebook-hack-no3/)
-
-

@@ -1,15 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-11-11 14:07:18+00:00
 layout: post
 slug: elementary-os-bosnian-language
 title: What I've been doing lately? Translating elementary OS!
-wordpress_id: 163
-categories:
-- About me
-- Linux
-- Projects
+categories: en
 tags:
 - about me
 - Bosnian language

@@ -1,14 +1,10 @@
 ---
-author: mrr3bl
-comments: true
+author: Aleksandar Todorović
 date: 2014-08-07 14:50:46+00:00
 layout: post
 slug: back-to-kubuntu
 title: Back to Kubuntu
-wordpress_id: 49
-categories:
-- About me
-- Linux
+categories: en
 tags:
 - '#budiUbuntu'
 - elementary
