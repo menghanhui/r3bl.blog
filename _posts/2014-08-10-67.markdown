@@ -1,0 +1,27 @@
+---
+author: mrr3bl
+comments: true
+date: 2014-08-10 14:38:28+00:00
+layout: post
+slug: '67'
+title: WhyMicrosoft.com - The Worst Marketing Site Ever?
+wordpress_id: 67
+categories:
+- Linux
+post_format:
+- Aside
+tags:
+- linux
+- microsoft
+- open source
+---
+
+Browsing through a [Google+ group](https://plus.google.com/u/0/communities/109586015108702871702) dedicated to Linux users in Serbia and Balkan region, I saw a post that linked a web page called [Why Microsoft](http://www.whymicrosoft.com/).
+
+To be honest, I'm [not a Microsoft hater](http://aleksandartodorovic.wordpress.com/2014/08/05/confession-microsoft-is-not-so-bad/) even though I use [Kubuntu Linux distribution](http://kubuntu.org/) as my primary operating system. I've decided to check out that site just to see why Microsoft thinks their products are so much better than competitors products.
+
+I took a few screenshots and I want to present to you Microsoft's marketing strategy.
+
+[gallery ids="68,69,70,71,72,73"]
+
+As you can see in the pictures, Microsoft's strategy consists on deceiving users by comparing their software's compatibility with _their software_, some lies and some double standards.
