@@ -1,9 +1,19 @@
 # To-do
 
-* Import all of my blog posts from [my previous blog](https://aleksandartodorovic.wordpress.com/) (hosted on Wordpress.com)
-* Make some slight design changes.
+* Make some design changes.
   * Header should be centered.
   * The color of the header and footer should be different than the color of the main text.
-  * Social media icons on a floating right sidebar.
-  * Floating global menu?  
-* Add links to my manifesto and my portfolio in the header.
+  * Floating global menu.
+* Add links to my manifesto and my portfolio in the main menu.
+* Add a [blogroll](https://aleksandartodorovic.wordpress.com/friends/).
+* Add a site with [my alternatives](https://aleksandartodorovic.wordpress.com/my-alternatives/).
+* Separate posts by the language they're written in.
+* Add a music section on the website.
+* Create a stunning home page.
+* Better integration with social media sites (like Twitter, Tumblr, Reddit...)
+* Sharing options below every single post.
+
+# To be considered
+
+* More creative ERROR 404 page?
+* Social media icons on a floating right sidebar?

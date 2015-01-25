@@ -10,10 +10,7 @@
 * Separate posts by the language they're written in.
 * Add a music section on the website.
 * Create a stunning home page.
-* Add Google analytics to the site (or find an alternative).
-* Add [Disqus](https://disqus.com/admin/signup/?utm_source=New-Site) as a platform for comments.
 * Better integration with social media sites (like Twitter, Tumblr, Reddit...)
-* Link to my Reddit profile in the footer.
 * Sharing options below every single post.
 
 # To be considered
