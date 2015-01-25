@@ -20,6 +20,6 @@ repo:           https://github.com/r3bl/r3bl.github.io
 
 # Custom Pages
 pages_list:
- 		About: '/about'
-		Archive: '/archive'
-		Feed: '/atom.xml'
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
