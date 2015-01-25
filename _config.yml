@@ -3,17 +3,23 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Aleksandar Todorović (r3bl)
+tagline:          Personal Blog
+url:              http://r3bl.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Aleksandar Todorović
+  url:            https:github.com/aleksandar-todorovic
+  email:          aleksandar.todorovic@mail.ru
 
 # Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+version:          0.0.2
+github:         https://github.com/aleksandar-todorovic
+repo:           https://github.com/r3bl/r3bl.github.io
+
+# Custom Pages
+pages_list:
+ 		About: '/about'
+		Archive: '/archive'
+		Feed: '/atom.xml'
