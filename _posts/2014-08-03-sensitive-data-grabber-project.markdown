@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-03 13:18:43+00:00
 layout: post
 slug: sensitive-data-grabber-project
 title: Sensitive Data Grabber Project
-categories: en
+wordpress_id: 39
+categories:
+- Projects
 tags:
 - about me
 - education
@@ -21,55 +24,55 @@ After that, the program will check if you have installed applications that are c
 
 
 
-
+	
   1. Evernote
 
-
+	
   2. Google Chrome
 
-
+	
   3. Microsoft OneNote
 
-
+	
   4. Mozilla Firefox
 
-
+	
   5. Mozilla Thunderbird
 
-
+	
   6. Pidgin
 
-
+	
   7. Steam
 
-
+	
   8. World of Tanks
 
 
 The next stop: copying some data! Here's the list of applications and a current list of sensitive data it will copy:
 
-
+	
   1. Evernote – file containing victim's current username, email associated with that username and a copy of victim's current database (implementing it right now).
 
-
+	
   2. Google Chrome – files containing bookmarks, cookies, history, login data and web data.
 
-
+	
   3. Microsoft OneNote – the copy of all of the victim's notebooks.
 
-
+	
   4. Mozilla Firefox – files containing cookies, addons, form history and downloads history.
 
-
+	
   5. Mozilla Thunderbird – files containing addons, address book and cookies (planning on supporting of copying all of the emails if a victim uses POP3 instead of IMAP).
 
-
+	
   6. Pidgin – file containing all of the victim's usernames and passwords in clear text and a directory where victim's logs are saved.
 
-
+	
   7. Steam – configuration file containing a list of all users ever connected on that PC and some decryption keys (not sure what those are for, but I will find it out).
 
-
+	
   8. World of Tanks – file containing all of your preferences and a folder containing your latest battle results.
 
 

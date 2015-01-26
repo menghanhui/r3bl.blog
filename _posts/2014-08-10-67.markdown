@@ -1,10 +1,15 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-10 14:38:28+00:00
 layout: post
-slug: 'whymicrosoft-worst-marketing-site-ever'
+slug: '67'
 title: WhyMicrosoft.com - The Worst Marketing Site Ever?
-categories: en
+wordpress_id: 67
+categories:
+- Linux
+post_format:
+- Aside
 tags:
 - linux
 - microsoft

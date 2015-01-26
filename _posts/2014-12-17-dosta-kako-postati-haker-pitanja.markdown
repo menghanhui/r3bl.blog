@@ -1,10 +1,18 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-12-17 16:38:49+00:00
 layout: post
 slug: dosta-kako-postati-haker-pitanja
 title: Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja
-categories: bs
+wordpress_id: 269
+categories:
+- About me
+- Cyber Security
+- Free Culture
+- Human Hacking
+- Linux
+- Projects
 tags:
 - hacking
 - haker

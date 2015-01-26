@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2015-01-10 17:19:41+00:00
 layout: post
 slug: best-linux-programs-and-services-in-2014
 title: Best (Linux) Programs and Services I've Started Using in 2014.
-categories: en
+wordpress_id: 291
+categories:
+- About me
 tags:
 - linux
 - open source

@@ -1,10 +1,14 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-07-23 20:50:58+00:00
 layout: post
 slug: starting-an-ethical-hacking-course
 title: Starting an Ethical Hacking Course
-categories: en
+wordpress_id: 9
+categories:
+- About me
+- Cyber Security
 tags:
 - education
 - mooc

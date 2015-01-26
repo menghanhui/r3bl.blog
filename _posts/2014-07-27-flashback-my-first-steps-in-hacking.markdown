@@ -1,10 +1,14 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-07-27 10:48:26+00:00
 layout: post
 slug: flashback-my-first-steps-in-hacking
 title: 'Flashback: My First Steps in Hacking'
-categories: en
+wordpress_id: 19
+categories:
+- About me
+- Cyber Security
 tags:
 - confession
 - education

@@ -1,10 +1,15 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-07-27 11:47:21+00:00
 layout: post
 slug: how-hacking-changed-my-life
 title: How Hacking Changed My Life
-categories: en
+wordpress_id: 27
+categories:
+- About me
+- Cyber Security
+- Linux
 tags:
 - about me
 - hacking

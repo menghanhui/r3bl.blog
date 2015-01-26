@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-10-15 18:21:51+00:00
 layout: post
 slug: donacijama-mozemo-da-napravimo-razliku
 title: Donacijama možemo da napravimo razliku
-categories: bs
+wordpress_id: 97
+categories:
+- Linux
 tags:
 - donacije
 - libre

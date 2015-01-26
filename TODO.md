@@ -3,21 +3,23 @@
 ### Priorities
 
 * I need to change the Jekyll theme.
+* Threat tags as categories.
+* Separate posts written in English from posts written in Bosnian.
 
 ### Other changes I need to do
 
 * Make some design changes.
-  * Header should be centered.
-  * The color of the header and footer should be different than the color of the main text.
-  * Floating global menu.
+* Header should be centered.
+* The color of the header and footer should be different than the color of the main text.
+* Floating global menu.
 * Add links in the main menu:
-  * [x] to my manifesto
-  * [ ] to my portfolio
+* [x] to my manifesto
+* [ ] to my portfolio
 * Add a [blogroll](https://aleksandartodorovic.wordpress.com/friends/) (needs some work).
 * Add a site with [my alternatives](https://aleksandartodorovic.wordpress.com/my-alternatives/).
 * Separate posts by the language they're written in.
-  * The sites are separated in two categories (/en and /bs)
-  * All I need to do is to create two pages that will serve as a place where a visitor can see all of the post written in the specific language.
+* The sites are separated in two categories (/en and /bs)
+* All I need to do is to create two pages that will serve as a place where a visitor can see all of the post written in the specific language.
 * Add a music section on the website.
 * Create a stunning home page.
 * Better integration with social media sites (implement my Tumblr profile)

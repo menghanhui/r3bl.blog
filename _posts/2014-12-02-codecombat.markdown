@@ -1,10 +1,14 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-12-02 00:38:30+00:00
 layout: post
 slug: codecombat
 title: CodeCombat – The Most Fun Way To Learn New Programming Language
-categories: en
+wordpress_id: 199
+categories:
+- Linux
+- Projects
 tags:
 - best way to
 - CodeCombat

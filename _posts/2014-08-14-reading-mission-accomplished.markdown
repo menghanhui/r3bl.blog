@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-14 04:05:17+00:00
 layout: post
 slug: reading-mission-accomplished
 title: Reading Mission Accomplished!
-categories: en
+wordpress_id: 83
+categories:
+- About me
 tags:
 - about me
 - books

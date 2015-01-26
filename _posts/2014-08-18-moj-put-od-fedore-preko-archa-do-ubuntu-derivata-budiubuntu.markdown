@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-18 00:44:10+00:00
 layout: post
 slug: moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu
 title: 'Moj put od Fedore preko Archa do Ubuntu derivata #budiUbuntu'
-categories: bs
+wordpress_id: 85
+categories:
+- Linux
 tags:
 - '#budiUbuntu'
 - linux

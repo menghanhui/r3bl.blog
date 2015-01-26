@@ -1,10 +1,15 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-10-15 17:55:07+00:00
 layout: post
 slug: koje-softverske-firme-vas-kontrolisu
 title: Koje softverske firme vas kontrolišu?
-categories: bs
+wordpress_id: 95
+categories:
+- About me
+- Human Hacking
+- Linux
 tags:
 - google
 - kontrola

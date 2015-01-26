@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-12-14 02:02:24+00:00
 layout: post
 slug: material-design-in-linux
 title: Material Design in Linux
-categories: en
+wordpress_id: 231
+categories:
+- Linux
 tags:
 - gnome
 - gtk

@@ -1,10 +1,14 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-12-14 17:54:27+00:00
 layout: post
 slug: is-it-time-for-the-pirate-bay-to-disappear-for-good
 title: Is It Time For The Pirate Bay to Disappear For Good?
-categories: en
+wordpress_id: 240
+categories:
+- Free Culture
+- Politics
 tags:
 - free culture
 - Old Pirate Bay

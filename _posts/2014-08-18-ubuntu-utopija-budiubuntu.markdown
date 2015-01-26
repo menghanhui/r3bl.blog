@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-18 01:25:38+00:00
 layout: post
 slug: ubuntu-utopija-budiubuntu
 title: 'Ubuntu utopija #budiUbuntu'
-categories: bs
+wordpress_id: 86
+categories:
+- Linux
 tags:
 - '#budiUbuntu'
 - blogerske igre

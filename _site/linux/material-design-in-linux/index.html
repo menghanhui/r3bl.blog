@@ -1,0 +1,215 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Material Design in Linux &#8211; Aleksandar Todorović (r3bl)</title>
+<meta name="description" content="">
+<meta name="keywords" content="gnome, gtk, gtk theme, material design, Paper GTK, Paper GTK theme, Sam Hewitt">
+
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Material Design in Linux">
+<meta property="og:description" content="">
+<meta property="og:url" content="http://r3bl.github.io//linux/material-design-in-linux">
+<meta property="og:site_name" content="Aleksandar Todorović (r3bl)">
+
+
+
+
+
+<link rel="canonical" href="http://r3bl.github.io//linux/material-design-in-linux">
+<link href="http://r3bl.github.io//feed.xml" type="application/atom+xml" rel="alternate" title="Aleksandar Todorović (r3bl) Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://r3bl.github.io//assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://r3bl.github.io//assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://r3bl.github.io//favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://r3bl.github.io//favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://r3bl.github.io//images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://r3bl.github.io//images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://r3bl.github.io//images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://r3bl.github.io//images/apple-touch-icon-144x144-precomposed.png">
+
+
+
+</head>
+
+<body id="post" >
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="http://r3bl.github.io//">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+				<li>
+					<img src="http://r3bl.github.io//images/" alt=" photo" class="author-photo">
+					<h4></h4>
+					<p></p>
+				</li>
+				<li><a href="http://r3bl.github.io//about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</ul><!-- /.dl-submenu -->
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="http://r3bl.github.io//posts/">All Posts</a></li>
+				<li><a href="http://r3bl.github.io//tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	    
+	        
+	    
+	    <li><a href="http://r3bl.github.io//theme-setup/" >Theme Setup</a></li>
+	  
+	    
+	        
+	        
+	    <li><a href="http://mademistakes.com" target="_blank">External Link</a></li>
+	  
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
+
+
+
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="http://r3bl.github.io//linux/material-design-in-linux" rel="bookmark" title="Material Design in Linux">Material Design in Linux</a></h1>
+        
+        <h2><span class="entry-date date published"><time datetime="2014-12-14T03:02:24+01:00">December 14, 2014</time></span></h2>
+        
+      </div><!-- /.header-title-wrap -->
+    </header>
+    <div class="entry-content">
+      <p>First of all, I do realize that I’m probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don’t believe me? Well, this video from Google now has well over 2 million views.</p>
+
+<p>http://www.youtube.com/watch?v=Q8TXgCzxEnw</p>
+
+<p>So, what exactly is material design? Well, it’s a <a href="https://en.wikipedia.org/wiki/Design_language">design language</a> developed by Google. The whole point of this design language is that every graphical user interface should be as simple and colorful as possible. The point of that is, of course, to provide users with an interface which is pretty appealing to the eye.</p>
+
+<p>Google already implemented material design in the newest version of Android called Lollipop. You can easily see the whole point of material design by looking at this excellent <a href="https://www.youtube.com/watch?v=cLYE3fgWI_4">Android 5.0 Lollipop Review</a> done by <a href="http://www.theverge.com/">The Verge</a> guys. The plan for Google is to implement this design language to every single one of their services.</p>
+
+<p>Linux community embraced the whole material design idea pretty quickly. So, we already have this thing called <a href="http://quantum-os.github.io/">Quantum OS</a> (previously known as Quartz OS). The point of this project is to create an operating system (which will probably be based on Arch Linux) that will follow Google’s own <a href="http://www.google.com/design/spec/material-design/introduction.html">material design guidelines</a>.</p>
+
+<p>I remember reading somewhere that it’s not fair to the KDE community to say that they’ve implemented the material design because some of the KDE 5 mockups were out far before Google released the whole material design idea to the public. Anyway, KDE Plasma 5 does seem to fit the concept, as you can see by looking at one of the huge number of YouTube reviews if you search for <a href="https://www.youtube.com/results?search_query=kde+plasma+5">KDE Plasma 5</a>.</p>
+
+<p>And now I came to the whole point of writing this post. I found out about a material design solution that I can implement right now using my current setup. As you may know already, I’m a huge <a href="http://elementaryos.org/">elementary OS</a> fan. elementary uses Pantheon as a DE, which is based on GNOME and uses GTK.</p>
+
+<p>So, today, <a href="http://snwh.org/">Sam Hewitt</a> published the first GTK theme (at least that I know about) that was created with the goal of implementing the rules of material design. The theme is called <a href="http://snwh.org/paper/">Paper</a> and it’s in alpha stage at the moment. It looks wonderful and I’m pretty happy with how well the theme integrated with my elementary OS.</p>
+
+<p><img src="http://snwh.org/paper/screenshot.png" alt="Screenshot" /></p>
+
+<p>If you want to use it, all you need to do is to extract the folder called Paper in the tarball into your ‘/usr/share/themes’ directory and that’s it. If you experience some problems with the theme, <a href="https://github.com/snwh/paper-gtk-theme/issues">this</a> is the proper place to report bugs.</p>
+
+<p>I hope that Sam will continue to work successfully on such a great GTK theme and that we will see more of the material design GTK themes soon!</p>
+
+      <footer class="entry-meta">
+        <span class="entry-tags"><a href="http://r3bl.github.io//tags/#gnome" title="Pages tagged gnome" class="tag"><span class="term">gnome</span></a><a href="http://r3bl.github.io//tags/#gtk" title="Pages tagged gtk" class="tag"><span class="term">gtk</span></a><a href="http://r3bl.github.io//tags/#gtk theme" title="Pages tagged gtk theme" class="tag"><span class="term">gtk theme</span></a><a href="http://r3bl.github.io//tags/#material design" title="Pages tagged material design" class="tag"><span class="term">material design</span></a><a href="http://r3bl.github.io//tags/#Paper GTK" title="Pages tagged Paper GTK" class="tag"><span class="term">Paper GTK</span></a><a href="http://r3bl.github.io//tags/#Paper GTK theme" title="Pages tagged Paper GTK theme" class="tag"><span class="term">Paper GTK theme</span></a><a href="http://r3bl.github.io//tags/#Sam Hewitt" title="Pages tagged Sam Hewitt" class="tag"><span class="term">Sam Hewitt</span></a></span>
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://r3bl.github.io//linux/material-design-in-linux" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://r3bl.github.io//linux/material-design-in-linux" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=http://r3bl.github.io//linux/material-design-in-linux" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div><!-- /.social-share -->
+      </footer>
+    </div><!-- /.entry-content -->
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    <div class="read-more">
+  
+    <div class="read-more-header">
+      <a href="http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world" class="read-more-btn">Read More</a>
+    </div><!-- /.read-more-header -->
+    <div class="read-more-content">
+      <h3><a href="http://r3bl.github.io//about%20me/free%20culture/linux/why-github-is-my-favorite-company" title="Reasons Why GitHub is My Favorite Technology-Related Company">Reasons Why GitHub is My Favorite Technology-Related Company</a></h3>
+      <p>In this post I'm going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don'...&hellip; <a href="http://r3bl.github.io//about%20me/free%20culture/linux/why-github-is-my-favorite-company">Continue reading</a></p>
+    </div><!-- /.read-more-content -->
+  
+  <div class="read-more-list">
+    
+      <div class="list-item">
+        <h4><a href="http://r3bl.github.io//about%20me/free%20culture/human%20hacking/manifesto" title="My Manifesto">My Manifesto</a></h4>
+        <span>Published on January 24, 2015</span>
+      </div><!-- /.list-item -->
+    
+      <div class="list-item">
+        <h4><a href="http://r3bl.github.io//about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze" title="Kako mladi u mom okruženju koriste društvene mreže?">Kako mladi u mom okruženju koriste društvene mreže?</a></h4>
+        <span>Published on January 18, 2015</span>
+      </div><!-- /.list-item -->
+    
+  </div><!-- /.read-more-list -->
+</div><!-- /.read-more -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>
+
+<p align="center">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+    </a>
+</p>
+<p>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International License</a>.
+</p>
+
+<p>Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/hpstr/" rel="notfollow">HPSTR Theme</a>.</p></span>
+
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://r3bl.github.io//assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://r3bl.github.io//assets/js/scripts.min.js"></script>
+
+
+
+	        
+
+</body>
+</html>

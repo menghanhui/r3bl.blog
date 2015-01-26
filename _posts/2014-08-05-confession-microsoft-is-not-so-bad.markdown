@@ -1,10 +1,13 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-08-05 12:02:03+00:00
 layout: post
 slug: confession-microsoft-is-not-so-bad
 title: 'Confession: Microsoft Is Not So Bad'
-categories: en
+wordpress_id: 45
+categories:
+- About me
 tags:
 - confession
 - linux

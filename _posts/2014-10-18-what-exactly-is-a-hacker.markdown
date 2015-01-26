@@ -1,10 +1,15 @@
 ---
-author: Aleksandar Todorović
+author: mrr3bl
+comments: true
 date: 2014-10-18 10:28:54+00:00
 layout: post
 slug: what-exactly-is-a-hacker
 title: What exactly is a hacker?
-categories: en
+wordpress_id: 135
+categories:
+- About me
+- Cyber Security
+- Human Hacking
 tags:
 - about me
 - Bruce Schneier
