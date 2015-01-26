@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Aleksandar Todorović (r3bl)</title>
+<title type="text">Aleksandar Todorović</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://r3bl.github.io//feed.xml" />
-<link rel="alternate" type="text/html" href="http://r3bl.github.io/" />
-<updated>2015-01-26T04:57:09+01:00</updated>
-<id>http://r3bl.github.io//</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-01-26T04:51:24+01:00</updated>
+<id>http://localhost:4000/</id>
 <author>
-  <name></name>
-  <uri>http://r3bl.github.io//</uri>
-  
+  <name>Aleksandar Todorović</name>
+  <uri>http://localhost:4000/</uri>
+  <email>you@email.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Reasons Why GitHub is My Favorite Technology-Related Company]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/free%20culture/linux/why-github-is-my-favorite-company" />
-  <id>http://r3bl.github.io//about%20me/free%20culture/linux/why-github-is-my-favorite-company</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/free%20culture/linux/why-github-is-my-favorite-company/" />
+  <id>http://localhost:4000/about%20me/free%20culture/linux/why-github-is-my-favorite-company</id>
   <published>2015-01-25T03:38:10+01:00</published>
   <updated>2015-01-25T03:38:10+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;In this post I’m going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don’t know what GitHub is, you should continue reading this article because I’m going to share with you some of the most popular features GitHub has integrated in their service.&lt;/p&gt;
 
@@ -98,20 +98,20 @@
 
 &lt;p&gt;Honestly, I don’t think there is. If you’re developing a proprietary software, there are plenty of reasons why you should not post the source code of your application on GitHub. But, that should not stop you from working on open source software in your free time. By doing so, it will benefit you (once you start looking for a new job), it will benefit the developers behind a project that you’ve decided to be a part of, and it will benefit every single user of that open source project. GitHub offers you a wide variety of opportunities and you should take advantage of them!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/free%20culture/linux/why-github-is-my-favorite-company&quot;&gt;Reasons Why GitHub is My Favorite Technology-Related Company&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/free%20culture/linux/why-github-is-my-favorite-company/&quot;&gt;Reasons Why GitHub is My Favorite Technology-Related Company&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Manifesto]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/free%20culture/human%20hacking/manifesto" />
-  <id>http://r3bl.github.io//about%20me/free%20culture/human%20hacking/manifesto</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/free%20culture/human%20hacking/manifesto/" />
+  <id>http://localhost:4000/about%20me/free%20culture/human%20hacking/manifesto</id>
   <published>2015-01-24T23:46:19+01:00</published>
   <updated>2015-01-24T23:46:19+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Across my Reddit feed, I came up with this great article titled &lt;a href=&quot;http://www.wiseism.com/write-personal-manifesto/&quot;&gt;Why You Should Write a Personal Manifesto&lt;/a&gt;, published by &lt;a href=&quot;http://wiseism.com/&quot;&gt;Wiseism&lt;/a&gt;. I feel like this is a great way to keep yourself motivated, so I’ve decided to do just that: to write down my own manifesto.&lt;/p&gt;
 
@@ -142,20 +142,20 @@
 
 &lt;p&gt;I’m also thinking about creating a dark version of the wallpaper. If I decide to make it, I will update this post immediately.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/free%20culture/human%20hacking/manifesto&quot;&gt;My Manifesto&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 24, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/free%20culture/human%20hacking/manifesto/&quot;&gt;My Manifesto&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 24, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kako mladi u mom okruženju koriste društvene mreže?]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze" />
-  <id>http://r3bl.github.io//about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze/" />
+  <id>http://localhost:4000/about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze</id>
   <published>2015-01-18T22:11:11+01:00</published>
   <updated>2015-01-18T22:11:11+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;h2 id=&quot;httpwwwcognitivebrandscomcreativeintelligencewp-contentuploads201408socialnetworksdepositphotos13876565xs-1jpg&quot;&gt;&lt;img src=&quot;http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/h2&gt;
 
@@ -213,20 +213,20 @@
 
 &lt;p&gt;&lt;strong&gt;Napomena&lt;/strong&gt;: Tekst je napisan po uzori na &lt;a href=&quot;https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6&quot;&gt;ovaj tekst&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze&quot;&gt;Kako mladi u mom okruženju koriste društvene mreže?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/no%20hate%20speech%20online/kako-mladi-koriste-drustvene-mreze/&quot;&gt;Kako mladi u mom okruženju koriste društvene mreže?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Best (Linux) Programs and Services I've Started Using in 2014.]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/best-linux-programs-and-services-in-2014" />
-  <id>http://r3bl.github.io//about%20me/best-linux-programs-and-services-in-2014</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/best-linux-programs-and-services-in-2014/" />
+  <id>http://localhost:4000/about%20me/best-linux-programs-and-services-in-2014</id>
   <published>2015-01-10T18:19:41+01:00</published>
   <updated>2015-01-10T18:19:41+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;In this post, I’m going to share with you a couple of programs / web services / apps that I’ve started using regularly in 2014. I’ve discovered some of them in 2013, but in 2014 I really started to use them on a regular basis. I hope that you will find something for yourself in my list.&lt;/p&gt;
 
@@ -282,20 +282,20 @@
 
 &lt;p&gt;You might also enjoy reading the &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/28/top-quotes-2014/&quot;&gt;Top Motivational Quotes I’ve Discovered in 2014&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/best-linux-programs-and-services-in-2014&quot;&gt;Best (Linux) Programs and Services I've Started Using in 2014.&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/best-linux-programs-and-services-in-2014/&quot;&gt;Best (Linux) Programs and Services I've Started Using in 2014.&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Advice for living in this world (by Quinn Norton)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//free%20culture/advice-for-living-in-this-world" />
-  <id>http://r3bl.github.io//free%20culture/advice-for-living-in-this-world</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/free%20culture/advice-for-living-in-this-world/" />
+  <id>http://localhost:4000/free%20culture/advice-for-living-in-this-world</id>
   <published>2015-01-09T19:12:06+01:00</published>
   <updated>2015-01-09T19:12:06+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Wow, this is the first time (although I can’t guarantee you that it will be the last) that I’m going to share with you a story that was &lt;em&gt;not&lt;/em&gt; written by myself. And there’s an excellent reason for that. I don’t think that I’ve read a single story (or an article if you please) that had so much influence on me about today’s technology. It was written by &lt;a href=&quot;http://en.wikipedia.org/wiki/Quinn_Norton&quot;&gt;&lt;strong&gt;Quinn Norton&lt;/strong&gt;&lt;/a&gt; and published in a book called &lt;a href=&quot;http://www.shareconference.net/en/news/share-book&quot;&gt;&lt;strong&gt;Share This Book (2012)&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&quot;http://www.shareconference.net/en&quot;&gt;&lt;strong&gt;Share Foundation&lt;/strong&gt;&lt;/a&gt;. Please, read it thoroughly. I promise you that you &lt;em&gt;will&lt;/em&gt; be amazed by this astonishing piece of writing.&lt;/p&gt;
 
@@ -330,20 +330,20 @@ how we manage unmanageable nature-- even if we supposedly built it. Without them
 
 Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//free%20culture/advice-for-living-in-this-world&quot;&gt;Advice for living in this world (by Quinn Norton)&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/free%20culture/advice-for-living-in-this-world/&quot;&gt;Advice for living in this world (by Quinn Norton)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Blog Stats for the Year 2014. (Happy 2015!)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//blog-stats-2014" />
-  <id>http://r3bl.github.io//blog-stats-2014</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/blog-stats-2014/" />
+  <id>http://localhost:4000/blog-stats-2014</id>
   <published>2015-01-01T01:13:20+01:00</published>
   <updated>2015-01-01T01:13:20+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;This blog is active since July the 12th (so almost a half of a year).&lt;/p&gt;
 
@@ -455,20 +455,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Loving the support I’m getting from you guys and those numbers definitely suggest to me that I should keep posting. Thanks to every single one of you guys and a happy 2015!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//blog-stats-2014&quot;&gt;Blog Stats for the Year 2014. (Happy 2015!)&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog-stats-2014/&quot;&gt;Blog Stats for the Year 2014. (Happy 2015!)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Top Motivational Quotes I Discovered in 2014]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/top-quotes-2014" />
-  <id>http://r3bl.github.io//about%20me/top-quotes-2014</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/top-quotes-2014/" />
+  <id>http://localhost:4000/about%20me/top-quotes-2014</id>
   <published>2014-12-28T01:30:10+01:00</published>
   <updated>2014-12-28T01:30:10+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;So, everybody is sharing a list of something they came up with in the year behind them. I’m going to step it up a little. I present to you a very special list of mine. I represent to you the list of quotes that kept me motivated and inspired in 2014. This list is _very _special to me and I’ve decided to give it to you guys as a reward for reading my blog.&lt;/p&gt;
 
@@ -544,20 +544,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;You might also want to check out &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2015/01/10/best-linux-programs-and-services-in-2014/&quot;&gt;Best (Linux) Programs and Services I’ve Started Using in 2014&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/top-quotes-2014&quot;&gt;Top Motivational Quotes I Discovered in 2014&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/top-quotes-2014/&quot;&gt;Top Motivational Quotes I Discovered in 2014&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Every One of Us Changes the World in One Way or Another]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another" />
-  <id>http://r3bl.github.io//about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another/" />
+  <id>http://localhost:4000/about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another</id>
   <published>2014-12-27T15:08:46+01:00</published>
   <updated>2014-12-27T15:08:46+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;We are all raindrops. We might seem small and insignificant, but together we have the power of the world.&lt;/blockquote&gt;
 
@@ -573,20 +573,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;blockquote&gt;A man has two deaths. The first time when he physically dies, and the second time when his name is mentioned for the last time.&lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another&quot;&gt;Every One of Us Changes the World in One Way or Another&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/free%20culture/every-one-of-us-changes-the-world-in-one-way-or-another/&quot;&gt;Every One of Us Changes the World in One Way or Another&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Run Your Own Copy of Pirate Bay Now!]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//free%20culture/projects/run-your-own-copy-of-pirate-bay-now" />
-  <id>http://r3bl.github.io//free%20culture/projects/run-your-own-copy-of-pirate-bay-now</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/free%20culture/projects/run-your-own-copy-of-pirate-bay-now/" />
+  <id>http://localhost:4000/free%20culture/projects/run-your-own-copy-of-pirate-bay-now</id>
   <published>2014-12-19T17:04:56+01:00</published>
   <updated>2014-12-19T17:04:56+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot; alt=&quot;Open Bay logo&quot; /&gt;&lt;/a&gt;OK, so, as you probably already know, the official Pirate Bay was shut down 10 days ago. There are plenty of articles already covering this subject. I already stated &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;my opinion on Pirate Bay disappearing for good&lt;/a&gt;, where &lt;a href=&quot;http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/&quot;&gt;I agreed with Peter Sunde&lt;/a&gt; (co-founder and ex-spokesperson of the Pirate Bay).&lt;/p&gt;
 
@@ -620,20 +620,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;These issues are yet to be resolved. If you do have some suggestions, leave them in the comments bellow or &lt;a href=&quot;https://github.com/isohuntto/openbay/issues/new&quot;&gt;create an issue&lt;/a&gt; on the repository itself. Lets make pirating impossible to stop together!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//free%20culture/projects/run-your-own-copy-of-pirate-bay-now&quot;&gt;Run Your Own Copy of Pirate Bay Now!&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/free%20culture/projects/run-your-own-copy-of-pirate-bay-now/&quot;&gt;Run Your Own Copy of Pirate Bay Now!&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja" />
-  <id>http://r3bl.github.io//about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja/" />
+  <id>http://localhost:4000/about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja</id>
   <published>2014-12-17T17:38:49+01:00</published>
   <updated>2014-12-17T17:38:49+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;uvod&quot;&gt;Uvod&lt;/h3&gt;
 
@@ -659,20 +659,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Dozvoljeni su samo tekstovi prema kojima čitaoc nije dužan da se registruje na neki sajt da bi ih pročitao.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja&quot;&gt;Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/cyber%20security/free%20culture/human%20hacking/linux/projects/dosta-kako-postati-haker-pitanja/&quot;&gt;Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//cyber%20security/projects/facebook-hack-no4" />
-  <id>http://r3bl.github.io//cyber%20security/projects/facebook-hack-no4</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/cyber%20security/projects/facebook-hack-no4/" />
+  <id>http://localhost:4000/cyber%20security/projects/facebook-hack-no4</id>
   <published>2014-12-15T04:56:53+01:00</published>
   <updated>2014-12-15T04:56:53+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;So, today I’m going to share with you a trick to DDoS a certain website by using Facebook’s notes feature. The process, although pretty simple, is a bit more complicated than previous posts I wrote in this series.&lt;/p&gt;
 
@@ -709,20 +709,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//cyber%20security/projects/facebook-hack-no4&quot;&gt;Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cyber%20security/projects/facebook-hack-no4/&quot;&gt;Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Is It Time For The Pirate Bay to Disappear For Good?]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good" />
-  <id>http://r3bl.github.io//free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good/" />
+  <id>http://localhost:4000/free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
   <published>2014-12-14T18:54:27+01:00</published>
   <updated>2014-12-14T18:54:27+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot; alt=&quot;Selection_002&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -746,20 +746,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Interesting read by Peter Sunde: &lt;a href=&quot;http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde&quot;&gt;I went to jail for my cause. What did you do?&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good&quot;&gt;Is It Time For The Pirate Bay to Disappear For Good?&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/free%20culture/politics/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;Is It Time For The Pirate Bay to Disappear For Good?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Material Design in Linux]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//linux/material-design-in-linux" />
-  <id>http://r3bl.github.io//linux/material-design-in-linux</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/linux/material-design-in-linux/" />
+  <id>http://localhost:4000/linux/material-design-in-linux</id>
   <published>2014-12-14T03:02:24+01:00</published>
   <updated>2014-12-14T03:02:24+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;First of all, I do realize that I’m probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don’t believe me? Well, this video from Google now has well over 2 million views.&lt;/p&gt;
 
@@ -783,20 +783,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;I hope that Sam will continue to work successfully on such a great GTK theme and that we will see more of the material design GTK themes soon!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//linux/material-design-in-linux&quot;&gt;Material Design in Linux&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/material-design-in-linux/&quot;&gt;Material Design in Linux&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Through the Algorithm (2014) To a Free World]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world" />
-  <id>http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world/" />
+  <id>http://localhost:4000/about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world</id>
   <published>2014-12-07T04:41:07+01:00</published>
   <updated>2014-12-07T04:41:07+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;I like watching movies about hacking. There are only two possible outcomes of me watching this kind of movies: they’re fantastic OR they’re terrible. If the movie is fantastic, I’m going to enjoy it of course. But, if the movie is terrible, I’m going to laugh my ass of how stupidly hacking is displayed in that movie.&lt;/p&gt;
 
@@ -822,20 +822,20 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;&lt;em&gt;I’m crazy enough to believe I can help change the world. And the world I want is when the future is free!”&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world&quot;&gt;Through the Algorithm (2014) To a Free World&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/cyber%20security/human%20hacking/algorithm-to-a-free-world/&quot;&gt;Through the Algorithm (2014) To a Free World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/linux/witcher-2-installation-from-hell" />
-  <id>http://r3bl.github.io//about%20me/linux/witcher-2-installation-from-hell</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/linux/witcher-2-installation-from-hell/" />
+  <id>http://localhost:4000/about%20me/linux/witcher-2-installation-from-hell</id>
   <published>2014-12-04T20:56:24+01:00</published>
   <updated>2014-12-04T20:56:24+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I’ve decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on &lt;a href=&quot;http://www.gog.com/&quot;&gt;GOG&lt;/a&gt; and I got the 60% discount deal so the game cost me $7.99 total.&lt;/p&gt;
 
@@ -886,20 +886,20 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; I love GOG, this text is not an attack on them in any way. This is just a satire text to show you my stupidity.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/linux/witcher-2-installation-from-hell&quot;&gt;Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/linux/witcher-2-installation-from-hell/&quot;&gt;Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//no%20hate%20speech%20online/anonimnost-nije-rjesenje" />
-  <id>http://r3bl.github.io//no%20hate%20speech%20online/anonimnost-nije-rjesenje</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/no%20hate%20speech%20online/anonimnost-nije-rjesenje/" />
+  <id>http://localhost:4000/no%20hate%20speech%20online/anonimnost-nije-rjesenje</id>
   <published>2014-12-04T15:40:25+01:00</published>
   <updated>2014-12-04T15:40:25+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Kao što sam već napisao &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/03/no-hate-speech-online/&quot;&gt;u prethodnom postu&lt;/a&gt; u &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/category/no-hate-speech-online/&quot;&gt;No Hate Speech Online&lt;/a&gt; kategoriji, učlanio sam se u radionice čiji je cilj umanjiti govor mržnje na internetu u našoj lokalnoj zajednici. Uspjeli u tome ili ne, glavni cilj radionica jeste da se tema pokrene i da se među nama mladima govor mržnje na internetu shvati kao jedan od problema digitalnog doba. Međutim, &lt;a href=&quot;https://www.youtube.com/watch?v=kp7ww3KvccE&quot;&gt;u videu&lt;/a&gt; kojem sam postavio u prethodnom postu kao jedan od prijedloga se spominje korišćenje pravog identiteta prilikom izražavanja mišljenja na internetu (4:28). Pošto se tome protivim u potpunosti, odlučio sam da preko ovog posta izrazim svoje mišljenje i time potaknem diskusiju na našim sledjećim radionicama.&lt;/p&gt;
 
@@ -919,20 +919,20 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
   &lt;li&gt;Zaključak na osnovu sjećanja, ne mogu trenutno da pronađem neko istraživanje da pokrijem tu izjavu.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//no%20hate%20speech%20online/anonimnost-nije-rjesenje&quot;&gt;Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/no%20hate%20speech%20online/anonimnost-nije-rjesenje/&quot;&gt;Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Pokret protiv govora mržnje na internetu]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//no%20hate%20speech%20online/no-hate-speech-online" />
-  <id>http://r3bl.github.io//no%20hate%20speech%20online/no-hate-speech-online</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/no%20hate%20speech%20online/no-hate-speech-online/" />
+  <id>http://localhost:4000/no%20hate%20speech%20online/no-hate-speech-online</id>
   <published>2014-12-03T01:11:49+01:00</published>
   <updated>2014-12-03T01:11:49+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot; alt=&quot;nohate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -950,20 +950,20 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;http://www.youtube.com/watch?v=kp7ww3KvccE&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//no%20hate%20speech%20online/no-hate-speech-online&quot;&gt;Pokret protiv govora mržnje na internetu&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/no%20hate%20speech%20online/no-hate-speech-online/&quot;&gt;Pokret protiv govora mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CodeCombat – The Most Fun Way To Learn New Programming Language]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//linux/projects/codecombat" />
-  <id>http://r3bl.github.io//linux/projects/codecombat</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/linux/projects/codecombat/" />
+  <id>http://localhost:4000/linux/projects/codecombat</id>
   <published>2014-12-02T01:38:30+01:00</published>
   <updated>2014-12-02T01:38:30+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot; alt=&quot;about_comic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -981,20 +981,20 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
   &lt;li&gt;DISCLAIMER: I’m not saying that gaming on Linux is not possible. I’m a huge fan of the way how Linux gaming is advancing in the last year or two. I’m just having a huge self control over it.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//linux/projects/codecombat&quot;&gt;CodeCombat – The Most Fun Way To Learn New Programming Language&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on December 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/projects/codecombat/&quot;&gt;CodeCombat – The Most Fun Way To Learn New Programming Language&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//cyber%20security/projects/facebook-hack-no3" />
-  <id>http://r3bl.github.io//cyber%20security/projects/facebook-hack-no3</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/cyber%20security/projects/facebook-hack-no3/" />
+  <id>http://localhost:4000/cyber%20security/projects/facebook-hack-no3</id>
   <published>2014-11-20T13:38:08+01:00</published>
   <updated>2014-11-20T13:38:08+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;I found out about one more basic Facebook hack. Let’s say that you have a friend who locked his profile picture so that nobody could open it, but you’re interested to see &lt;em&gt;how&lt;/em&gt; that picture looks in full size. Can you do that? Well, thanks to Facebook’s constant consern about user privacy, of course you can.&lt;/p&gt;
 
@@ -1023,20 +1023,20 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//cyber%20security/projects/facebook-hack-no3&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on November 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/cyber%20security/projects/facebook-hack-no3/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on November 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[I'm Joining Mozillians!]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io//about%20me/mozilla%20firefox/projects/im-joining-mozillians" />
-  <id>http://r3bl.github.io//about%20me/mozilla%20firefox/projects/im-joining-mozillians</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/about%20me/mozilla%20firefox/projects/im-joining-mozillians/" />
+  <id>http://localhost:4000/about%20me/mozilla%20firefox/projects/im-joining-mozillians</id>
   <published>2014-11-14T18:04:56+01:00</published>
   <updated>2014-11-14T18:04:56+01:00</updated>
   <author>
-    <name></name>
-    <uri>http://r3bl.github.io/</uri>
-    <email></email>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I’m ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn’t go too well. Anyway, it’s time to try again.&lt;/p&gt;
 
@@ -1056,7 +1056,7 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io//about%20me/mozilla%20firefox/projects/im-joining-mozillians&quot;&gt;I'm Joining Mozillians!&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;Aleksandar Todorović (r3bl)&lt;/a&gt; on November 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/about%20me/mozilla%20firefox/projects/im-joining-mozillians/&quot;&gt;I'm Joining Mozillians!&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on November 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

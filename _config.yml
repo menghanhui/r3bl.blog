@@ -1,27 +1,64 @@
-# Permalinks
-permalink:        /:categories/:title
-relative_permalinks: true
+title:            Aleksandar Todorović
+description:      Student, hacker and a free culture advocate.
+disqus_shortname: r3bl
+reading_time:     true
+words_per_minute: 200
 
-# Setup
-title:            Aleksandar Todorović (r3bl)
-tagline:          Personal Blog
-url:              http://r3bl.github.io/
-paginate:         1
-baseurl:          /
-author:
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url: http://localhost:4000
+
+# Owner/author information
+owner:
   name:           Aleksandar Todorović
-  url:            https:github.com/aleksandar-todorovic
-  email:          aleksandar.todorovic@mail.ru
+  avatar:         avatar2.jpg
+  bio:            "Student, hacker and a free culture advocate. I love to share my stories with the world."
+  email:          you@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:          r3bl_
+  github:           aleksandar-todorovic/
+  linkedin:         aleksandartodorovic
+  tumblr:           r3bl-ba
 
-# Custom vars
-version:          0.0.2
-github:         https://github.com/aleksandar-todorovic
-repo:           https://github.com/r3bl/r3bl.github.io
+# Background image to be tiled on all pages
+background:
 
-# Custom Pages
-pages_list:
-  About: '/about.html'
-  Archive: '/archive.html'
-  Friends: '/friends.html'
-  Contact: '/contact.html'
-  Feed: '/atom.xml'
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Sarajevo
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
