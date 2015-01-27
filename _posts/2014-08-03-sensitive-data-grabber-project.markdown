@@ -11,6 +11,8 @@ tags:
 - about me
 - education
 - microsoft
+image:
+  feature: abstract-1
 ---
 
 So, what I want to present to you today is a project I'm currently working on. What I'm doing is I'm creating a program that will collect all of the sensitive data from the victim's computer and saves them on a thumb drive. The program is currently being written as a form application using Microsoft's Visual Basic and .NET framework 4.5. After I finish the beta version, I'm planning on re-writing the program so it will be a console application and it will work with some older .NET framework (I'm not yet sure which .NET framework will I support for now).

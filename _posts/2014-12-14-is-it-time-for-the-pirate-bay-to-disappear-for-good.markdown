@@ -13,6 +13,8 @@ tags:
 - confession
 - hacking
 - open source
+image:
+  feature: abstract-1
 ---
 
 [![Selection_002](https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png)](https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png)

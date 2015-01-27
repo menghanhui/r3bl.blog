@@ -13,6 +13,8 @@ tags:
 - linux
 - open source
 - reading
+image:
+  feature: abstract-1
 ---
 
 Izašao je novi, [28. po redu broj LiBRE! časopisa](https://libre.lugons.org/index.php/broj-28/). U ovom broju možete pročitati prvi dio teme _Slobodni softver i internet stvari_ koju obrađujem u ime LiBRE! tima.

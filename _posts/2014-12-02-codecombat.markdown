@@ -10,6 +10,8 @@ tags:
 - education
 - projects
 - open source
+image:
+  feature: abstract-1
 ---
 
 [![about_comic](https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg)](https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg)

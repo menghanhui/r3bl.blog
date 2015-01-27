@@ -12,6 +12,8 @@ tags:
 - confession
 - hacking
 - surveillance
+image:
+  feature: abstract-1
 ---
 
 Dakle u zadnje vrijeme se digla tolika frka oko dronova da sam jednostavno morao da im posvetim prostora na svom blogu. Postaju dio naše svakodnevnice, u mom gradu već ima jedan i imao sam prilike izbliza da vidim kako tačno funkcioniše.

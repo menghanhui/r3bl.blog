@@ -11,6 +11,8 @@ tags:
 - hacking
 - linux
 - education
+image:
+  feature: abstract-1
 ---
 
 I already wrote about my hacking beginnings [here](https://aleksandartodorovic.wordpress.com/2014/07/12/flashback-my-first-cybersecurity-discovery/) and [here](https://aleksandartodorovic.wordpress.com/2014/07/27/flashback-my-first-steps-in-hacking/). Now, I want to talk about something else. I want to talk about how hacking changed my life!

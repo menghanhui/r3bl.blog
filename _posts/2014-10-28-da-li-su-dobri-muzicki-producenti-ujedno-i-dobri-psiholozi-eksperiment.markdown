@@ -12,6 +12,8 @@ tags:
 - confession
 - human hacking
 - education
+image:
+  feature: abstract-1
 ---
 
 NAPOMENA: Ovaj članak nije ograničen na neki muzički žanr, preporučujem svim čitaocima da ga pročitaju bez obzira šta da slušate.

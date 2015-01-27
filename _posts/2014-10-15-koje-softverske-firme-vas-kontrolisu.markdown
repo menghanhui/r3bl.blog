@@ -13,6 +13,8 @@ tags:
 - open source
 - surveillance
 - microsoft
+image:
+  feature: abstract-1
 ---
 
 NAPOMENA: Ovaj blog post sam napisao prije mnogo vremena (dovoljno daleko da bude stariji od ideje da uopšte napravim blog). Sve do sada nije objavljen nigdje, a sada sam dobio želju da ga podijelim sa javnošću i na taj način malo popunim svoj blog. Post je ostao neizmijenjen u cjelosti i kao takav kopiran iz LibreOffice-a, tako da su podaci malo stariji a stil pisanja takav kakav jeste.

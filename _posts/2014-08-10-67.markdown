@@ -12,6 +12,8 @@ tags:
 - personal
 - confession
 - open source
+image:
+  feature: abstract-1
 ---
 
 Browsing through a [Google+ group](https://plus.google.com/u/0/communities/109586015108702871702) dedicated to Linux users in Serbia and Balkan region, I saw a post that linked a web page called [Why Microsoft](http://www.whymicrosoft.com/).

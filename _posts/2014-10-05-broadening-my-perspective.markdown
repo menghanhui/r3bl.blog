@@ -9,6 +9,8 @@ categories: en
 tags:
 - personal
 - confession
+image:
+  feature: abstract-1
 ---
 
 This blog is about to go into completely different direction. Don't get me wrong, I still love Linux, I still use it regularly. I'm still a big FLOSS enthusiast and I still want to be a security expert. That won't change as long as I'm alive.

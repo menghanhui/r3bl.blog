@@ -8,6 +8,8 @@ title: The Internet of Insecure Things
 categories: en
 tags:
 - education
+image:
+  feature: abstract-1
 ---
 
 So, Internet of Things is happening. More and more things are connected to the internet every day. What about securing the Internet of Things? This great presentation by [@securityweekly](https://twitter.com/securityweekly) covered most of the problems. And I laughed a lot while reading it. Too bad I can't listen to him explaining it in details.

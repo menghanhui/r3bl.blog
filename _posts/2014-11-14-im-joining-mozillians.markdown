@@ -10,6 +10,8 @@ tags:
 - development
 - Mozilla
 - personal
+image:
+  feature: abstract-1
 ---
 
 So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I'm ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn't go too well. Anyway, it's time to try again.

@@ -11,6 +11,8 @@ tags:
 - microsoft
 - personal
 - linux
+image:
+  feature: abstract-1
 ---
 
 So, even though I'm a regular Linux user, I use Microsoft's software whenever I need them. I've bought an Office 365 Home Plus license in July of this year. So, what did I get with it? I got five Home subscriptions, each one with a licensed Office suite, 1 TB of OneDrive space and some premium Skype minutes (I can't remember how many exactly). The license expires in July, but I will renew it as soon as it expires.

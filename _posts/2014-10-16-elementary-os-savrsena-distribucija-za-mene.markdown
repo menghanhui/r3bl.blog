@@ -12,6 +12,8 @@ tags:
 - personal
 - open source
 - linux
+image:
+  feature: abstract-1
 ---
 
 Sada sam tek shvatio da iako mi je blog pun postova o Linuksu, trenutno nemam niti jedan post posvećen u potpunosti distribuciji koja je zadovoljila sve kriterijume da bude savršeni operativni sistem za moje potrebe: elementary OS.

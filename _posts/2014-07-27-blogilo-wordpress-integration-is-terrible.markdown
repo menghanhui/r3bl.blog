@@ -9,6 +9,8 @@ categories:
 - About me
 tags:
 - confession
+image:
+  feature: abstract-1
 ---
 
 First of all, sorry about the design of my previous post. I was trying Blogilo as a program for posting entries and the result was horrible! What I did is write down a post in LO Writer (need spelling while I write), copied it to Blogilo and clicked submit. The font was terrible, and I had to edit a post from a web interface because somewhere between my Blogilo and my blog some spaces just disappered!

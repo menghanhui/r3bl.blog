@@ -12,6 +12,8 @@ tags:
 - free culture
 - linux
 - human hacking
+image:
+  feature: abstract-1
 ---
 
 ### Uvod

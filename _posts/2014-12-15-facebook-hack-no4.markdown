@@ -12,6 +12,8 @@ tags:
 - projects
 - Facebook
 - hacking
+image:
+  feature: abstract-1
 ---
 
 So, today I'm going to share with you a trick to DDoS a certain website by using Facebook's notes feature. The process, although pretty simple, is a bit more complicated than previous posts I wrote in this series.

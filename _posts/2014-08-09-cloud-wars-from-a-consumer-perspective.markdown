@@ -11,6 +11,8 @@ tags:
 - open source
 - personal
 - confession
+image:
+  feature: abstract-1
 ---
 
 So, I've got two primary cloud providers: [Mail.ru cloud](https://cloud.mail.ru/) and [OneDrive](https://onedrive.live.com/). I've been using both of them for quite some time. Mail.Ru cloud supports Linux and gives 100 GB for free. They've also had a promo action that lasted for a month and anyone who clicked on a certain link got 1 TB for free. Yup, 1 TB of cloud storage absolutely free. The only problem: the interface is in Russian. Not a big deal and once you get a hang of where things are located using the app is quite easy. They support pretty much any platform you can think of and Linux integration (tried it on Kubuntu and elementary OS) as well as Windows integration works perfectly.

@@ -11,6 +11,8 @@ tags:
 - libre
 - linux
 - open source
+image:
+  feature: abstract-1
 ---
 
 NAPOMENA: Ovo je stariji članak. Objavljen je u [LiBRE! magazinu](https://libre.lugons.org/) u 16. broju. Članak prenosim u cjelosti kao takav bez ikakvih izmjena. Ukoliko vas zanimaju članci na ovu temu svakako preporučujem da prelistate [LiBRE! arhivu](https://libre.lugons.org/index.php/preuzimanje-pdf-hd-izdanja/).

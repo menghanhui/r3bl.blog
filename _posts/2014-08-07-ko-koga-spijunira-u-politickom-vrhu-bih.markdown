@@ -11,6 +11,8 @@ tags:
 - surveillance
 - hacking
 - security
+image:
+  feature: abstract-1
 ---
 
 Listajući početnu na Tviteru naletio sam na nešto zanimljivo. Nepoznati haker koji se krije iza aliasa Phineas Fisher je 6. augusta hakovao stranicu koja stoji iza programa FinFisher. Taj program jeste dosta nepoznat za javnost, ali ne bi trebao da bude. Program je razvijen u Njemačkoj sa ciljem da se prodaje vladama različitih zemalja kako bi špijunirali one koje odluče da žele da špijuniraju. Haker je zatim objavio [torrent](https://netzpolitik.org/wp-upload/finfisher.torrent) od 40ak gigabajta sa podacima koje je uspio da ukrade.

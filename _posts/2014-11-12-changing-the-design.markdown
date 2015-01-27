@@ -12,6 +12,8 @@ tags:
 - linux
 - open source
 - elementary OS
+image:
+  feature: abstract-1
 ---
 
 I feel pretty cyberpunk-ish lately so I've decided to change the whole look of three most important things to me: my blog, my Twitter account and my desktop.

@@ -13,6 +13,8 @@ tags:
 - projects
 - hacking
 - The Pirate Bay
+image:
+  feature: abstract-1
 ---
 
 [![Open Bay logo](https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg)](https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg)OK, so, as you probably already know, the official Pirate Bay was shut down 10 days ago. There are plenty of articles already covering this subject. I already stated [my opinion on Pirate Bay disappearing for good](https://aleksandartodorovic.wordpress.com/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/), where [I agreed with Peter Sunde](http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/) (co-founder and ex-spokesperson of the Pirate Bay).

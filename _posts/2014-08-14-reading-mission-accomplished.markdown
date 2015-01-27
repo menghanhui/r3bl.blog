@@ -10,6 +10,8 @@ tags:
 - personal
 - education
 - reading
+image:
+  feature: abstract-1
 ---
 
 So, somewhere around the Middle of June I set a goal to myself: read three books by the end of August. And I did it! I've read three books so far and I'm planning on reading another one as soon as I get a hold of some book that I find interesting.

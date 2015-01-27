@@ -11,6 +11,8 @@ tags:
 - personal
 - no hate speech online
 - projects
+image:
+  feature: abstract-1
 ---
 
 Kao što sam već napisao [u prethodnom postu](https://aleksandartodorovic.wordpress.com/2014/12/03/no-hate-speech-online/) u [No Hate Speech Online](https://aleksandartodorovic.wordpress.com/category/no-hate-speech-online/) kategoriji, učlanio sam se u radionice čiji je cilj umanjiti govor mržnje na internetu u našoj lokalnoj zajednici. Uspjeli u tome ili ne, glavni cilj radionica jeste da se tema pokrene i da se među nama mladima govor mržnje na internetu shvati kao jedan od problema digitalnog doba. Međutim, [u videu](https://www.youtube.com/watch?v=kp7ww3KvccE) kojem sam postavio u prethodnom postu kao jedan od prijedloga se spominje korišćenje pravog identiteta prilikom izražavanja mišljenja na internetu (4:28). Pošto se tome protivim u potpunosti, odlučio sam da preko ovog posta izrazim svoje mišljenje i time potaknem diskusiju na našim sledjećim radionicama.

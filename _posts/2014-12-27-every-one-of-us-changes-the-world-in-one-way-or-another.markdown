@@ -10,6 +10,8 @@ tags:
 - personal
 - productivity
 - motivation
+image:
+  feature: abstract-1
 ---
 
 <blockquote>We are all raindrops. We might seem small and insignificant, but together we have the power of the world.</blockquote>

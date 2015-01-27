@@ -13,6 +13,8 @@ tags:
 - linux
 - personal
 - open source
+image:
+  feature: abstract-1
 ---
 
 So, in the last 48 hours I was again, looking for a new distro. Don't know why, but I just felt I should be using something else.

@@ -13,6 +13,8 @@ tags:
 - personal
 - open source
 - elementary OS
+image:
+  feature: abstract-1
 ---
 
 Postoji nešto što nas izdvaja iznad miliona i miliona drugih vrsta koje su živile nekada u istoriji naše planete: snalažljivi smo i držimo se zajedno.

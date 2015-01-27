@@ -10,6 +10,8 @@ tags:
 - linux
 - open source
 - productivity
+image:
+  feature: abstract-1
 ---
 
 In this post, I'm going to share with you a couple of programs / web services / apps that I've started using regularly in 2014. I've discovered some of them in 2013, but in 2014 I really started to use them on a regular basis. I hope that you will find something for yourself in my list.

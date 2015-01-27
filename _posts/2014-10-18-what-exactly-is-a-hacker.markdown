@@ -13,6 +13,8 @@ tags:
 - hacking
 - open source
 - reading
+image:
+  feature: abstract-1
 ---
 
 **Quote:**

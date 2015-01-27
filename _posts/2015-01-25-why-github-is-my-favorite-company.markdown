@@ -11,6 +11,8 @@ tags:
 - personal
 - GitHub
 - open source
+image:
+  feature: abstract-1
 ---
 
 In this post I'm going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don't know what GitHub is, you should continue reading this article because I'm going to share with you some of the most popular features GitHub has integrated in their service.

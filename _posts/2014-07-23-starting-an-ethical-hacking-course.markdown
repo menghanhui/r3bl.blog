@@ -10,6 +10,8 @@ tags:
 - education
 - cybersecurity
 - hacking
+image:
+  feature: abstract-1
 ---
 
 So, I found out about a personal blog about network security and while reading it I found out about a course offered by Udemy learning platform called: _Learn the Basics of Ethical Hacking and Penetration Testing_. I used Google to find out if there is some code to finish that course for free and, of course, I managed to find it (thank you Reddit!). So, from now on I will probably write on my blog some information about how well am I doing in that course.
