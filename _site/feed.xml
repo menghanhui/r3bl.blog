@@ -4,13 +4,68 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-01-27T02:35:30+01:00</updated>
+<updated>2015-01-27T16:12:14+01:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Aleksandar Todorović</name>
   <uri>http://localhost:4000/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combination]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/en/why-switching-to-github-and-jekyll/" />
+  <id>http://localhost:4000/en/why-switching-to-github-and-jekyll</id>
+  <published>2015-01-25T03:38:10+01:00</published>
+  <updated>2015-01-25T03:38:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>http://localhost:4000</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;Wordpress was a great platform for the beginning of my blogging experience. The simplicity needed for the creation and maintaining of the Wordpress blog is amazing. It literally took me 10 minutes from the creation of my blog to my first post. But, a few days ago, I’ve decided that it is time for me to switch to something more powerful. I’ve decided to switch to Jekyll blogging platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-have-i-chosen-github--jekyll-as-my-new-platform&quot;&gt;Why have I chosen GitHub + Jekyll as my new platform?&lt;/h3&gt;
+
+&lt;p&gt;Well, first of all, my PHP knowledge is &lt;em&gt;very&lt;/em&gt; limited. I have always considered PHP to be the weakest spot in my education. And, on top of that, I’m not that comfortable with databases for now. Jekyll has allowed me to run a completely self-maintained blog without using any PHP or MySQL.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-this-combo-is-going-to-boost-my-github-profile-and-my-git-knowledge&quot;&gt;Using this combo is going to boost my GitHub profile &lt;em&gt;and&lt;/em&gt; my Git knowledge&lt;/h3&gt;
+
+&lt;p&gt;Because of the excellent Jekyll integration with GitHub pages, maintaining a blog using Jekyll is going to force me to use GitHub even more than I have used it so far. And I think that is great. By doing so, I’m going to visit GitHub more often, which will boost my desire to hack and program new things (&lt;a href=&quot;https://github.com/personal-assistant/pa-wiki#personal-assistant&quot;&gt;this&lt;/a&gt; is the newest project I’m planing on making a reality).&lt;/p&gt;
+
+&lt;p&gt;It will also boost my GitHub profile in the search results, which is something I desperately need to do. While Google-ing my full name, I found out that there’s &lt;a href=&quot;http://www.imdb.com/name/nm0865390/&quot;&gt;an actor&lt;/a&gt;, &lt;a href=&quot;http://aleksandartodorovic.com/&quot;&gt;a photographer&lt;/a&gt; and a war criminal with the same name as mine. You can imagine the surprise of my future employer if he sees my name associated with a term such as a war criminal.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-love-every-single-product-that-github-developed-over-the-years&quot;&gt;I love every single product that GitHub developed over the years&lt;/h3&gt;
+
+&lt;p&gt;Lets be honest, &lt;a href=&quot;http://r3bl.github.io/en/why-github-is-my-favorite-company/&quot;&gt;GitHub is my favorite company&lt;/a&gt; and I love every single feature they’ve developed over the years. I love their tight integration with Git,  their pages, their Gists, their &lt;a href=&quot;http://atom.io/&quot;&gt;Atom text editor&lt;/a&gt; and their &lt;a href=&quot;https://education.github.com/pack&quot;&gt;Student Developer Pack&lt;/a&gt; (even though my request is still in the verification process).&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown-has-become-my-favorite-markup-language&quot;&gt;Markdown has become my favorite markup language&lt;/h3&gt;
+
+&lt;p&gt;Ever since I’ve started using GitHub more regularly, I’m amazed by the simplicity behind Markdown. I’m using it to type everything from by blog posts to my collage papers and essays. Now, to be honest, I’ve written most of my posts using Markdown even back when in my Wordpress days, but Jekyll allows me to update my blog in an incredibly simple way. I just have to write my post inside of a new Markdown file, update my repository and that’s it. I don’t even have to open Firefox to post something.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-option-to-choose-a-commenting-platform&quot;&gt;An option to choose a commenting platform&lt;/h3&gt;
+
+&lt;p&gt;Lets be honest, if you need comments on your website, Disqus is the way to go. Most of the sites I’m visiting are using it, and I see no reason of why I should choose anything else.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-love-having-the-full-control-over-my-blog&quot;&gt;I love having the full control over my blog&lt;/h3&gt;
+
+&lt;p&gt;Worpress.com is a free platform and as such it does have some advantages and some limitations. Even though I loved the simplicity of some feature (like a Wordpress stats feature), I hated the way I was limited in the customization of my blog. Using this combination, I have no limitation that I’m uncomfortable with. I can customize my blog in any way I want and it feels great! Every Jekyll customization, every theme and every plugin I ran into were completely free (as in both speech &lt;em&gt;and&lt;/em&gt; beer) and because of that I can customize every single aspect of them as I wish.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-how-will-i-make-the-transition-happen&quot;&gt;So, how will I make the transition happen?&lt;/h3&gt;
+
+&lt;p&gt;Now this is a tricky one. I &lt;em&gt;have&lt;/em&gt; decided that I’m going to be using this combination permanently, but I &lt;em&gt;do&lt;/em&gt; have a lot of work to do before making the final switch.&lt;/p&gt;
+
+&lt;p&gt;First of all, there are still some parts of this excellent &lt;a href=&quot;https://mmistakes.github.io/hpstr-jekyll-theme/&quot;&gt;HPSTR Jekyll theme&lt;/a&gt; that I haven’t customized properly (or &lt;em&gt;at all&lt;/em&gt;). This is why I’m regularly updating a &lt;a href=&quot;https://github.com/r3bl/r3bl.github.io/blob/master/TODO.md&quot;&gt;TODO.md&lt;/a&gt; file to remind myself of what still needs to be done.&lt;/p&gt;
+
+&lt;p&gt;So, if you like my blog, I encourage you to go through that TODO.md file and to report any issues that I haven’t noticed inside of that file &lt;a href=&quot;https://github.com/r3bl/r3bl.github.io/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’m going to post on &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/&quot;&gt;my old platform&lt;/a&gt; and &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;my new platform&lt;/a&gt; until I’m completely satisfied with the switch. I have also started posting my most interesting articles on Medium not too long ago, so you might want to [check that out]((https://medium.com/@r3bl) as well.&lt;/p&gt;
+
+&lt;p&gt;You can expect some great new things like SSL support, my own domain and a fully customized home page in the near future. And, in the spirit of open source software, every single line of code &lt;a href=&quot;https://github.com/r3bl/r3bl.github.io&quot;&gt;is available&lt;/a&gt; for you to fork and use in your project in any way you want.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/en/why-switching-to-github-and-jekyll/&quot;&gt;Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combination&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -120,19 +175,24 @@
 &lt;p&gt;At the end of the post, there’s a picture with the manifesto that I made because I wanted to use it as my wallpaper. From time to time, I really enjoy reading &lt;a href=&quot;http://phrack.org/issues/7/3.html&quot;&gt;Hacker’s Manifesto&lt;/a&gt;, and I made this Manifesto to replace that occasional reading with something I wrote myself. This Manifesto is not new, it’s saved on my computer for a long time now and I had a different reason to write it. After reading this article, I’ve just rearranged it a little to look more “manifestish” (whatever that means).&lt;/p&gt;
 
 &lt;blockquote&gt;
+  &lt;h1 id=&quot;my-manifesto&quot;&gt;My Manifesto&lt;/h1&gt;
 
+  &lt;p&gt;I’m not like most of you.&lt;/p&gt;
 
-&amp;gt; # My Manifesto
+  &lt;p&gt;I do not have emotions. I don’t feel the same way as most people feel. I don’t get hurt easily. I don’t believe I’m going to go to hell if I do something. I don’t believe I should be forbidden to do something I would like to do.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;gt; I'm not like most of you.
+&lt;blockquote&gt;
+  &lt;p&gt;I’m not a role model of any kind and I’m not trying to be a role model to anyone. I’ve tried most of the things people consider bad. I don’t think that anyone could help me if I don’t want to help myself. I don’t believe anyone will be by my side until death do as apart. I realize I’m on my own in this world and that’s the way I like to live my life.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;gt; I do not have emotions. I don't feel the same way as most people feel. I don't get hurt easily. I don't believe I'm going to go to hell if I do something. I don't believe I should be forbidden to do something I would like to do.
+&lt;blockquote&gt;
+  &lt;p&gt;When I meet someone, all I see is a game. A game that I can win or loose. I don’t get attached to people, all I see is a way to exploit them. A way to manipulate them to get what I want. And you know what I want? I want to be happy. And I am just that.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;gt; I'm not a role model of any kind and I'm not trying to be a role model to anyone. I've tried most of the things people consider bad. I don't think that anyone could help me if I don't want to help myself. I don't believe anyone will be by my side until death do as apart. I realize I'm on my own in this world and that's the way I like to live my life.
-
-&amp;gt; When I meet someone, all I see is a game. A game that I can win or loose. I don't get attached to people, all I see is a way to exploit them. A way to manipulate them to get what I want. And you know what I want? I want to be happy. And I am just that.
-
-&amp;gt; You wanna know why? Because I have something that most of the people surrounding me do not have. I have my mind and I know how to use it. I know how to make the best out of any situation and I'm perfectly happy in every situation I can possibly run into. I'm not saying I'm any more intelligent that you. I'm not saying that I think of myself as some higher species than most of the people. I'm not saying I've read more books than you. I'm just saying that I know how to be happy. I know how to feel alive...&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;You wanna know why? Because I have something that most of the people surrounding me do not have. I have my mind and I know how to use it. I know how to make the best out of any situation and I’m perfectly happy in every situation I can possibly run into. I’m not saying I’m any more intelligent that you. I’m not saying that I think of myself as some higher species than most of the people. I’m not saying I’ve read more books than you. I’m just saying that I know how to be happy. I know how to feel alive…&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;PNG version:&lt;/p&gt;
 
@@ -1022,39 +1082,6 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 &lt;/ul&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/en/facebook-hack-no3/&quot;&gt;Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on November 20, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[I'm Joining Mozillians!]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/en/im-joining-mozillians/" />
-  <id>http://localhost:4000/en/im-joining-mozillians</id>
-  <published>2014-11-14T18:04:56+01:00</published>
-  <updated>2014-11-14T18:04:56+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>http://localhost:4000</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I’m ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn’t go too well. Anyway, it’s time to try again.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why do I want to try again exactly?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Well, it’s been a couple of years since I started using Mozilla’s service in every opportunity I get. I’m using Firefox and Thunderbird all of the time, I started chatting on IRC regularly (you can find me on &lt;a href=&quot;http://www.freenode.org/&quot;&gt;Freenode&lt;/a&gt; almost all of the time), I do have some kind of coding skills and thanks to &lt;a href=&quot;http://elementaryos.org/&quot;&gt;elementary OS&lt;/a&gt;, I started to feel pretty confident in testing out beta software. Other than that, I do have a lot of translation experience, translating projects like &lt;a href=&quot;https://www.reddit.com/user/r3bl/&quot;&gt;reddit&lt;/a&gt;, &lt;a href=&quot;http://torproject.org/&quot;&gt;The Tor Project&lt;/a&gt;, &lt;a href=&quot;http://elementaryos.org/&quot;&gt;elementary OS&lt;/a&gt; (and all of the software it contains by default) and the list goes on and on. I also happened to have a lot of free time lately, so the only question is why shouldn’t I help a project that’s doing so much to help us who use free software regularly?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;So, what I will be doing then?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m going to test out Mozilla’s services as much as I can. I’m going to help my local team to translate all of the products to Bosnian language, and, if I start to feel confident enough, I’m going to start writing some code for Mozilla in my spare time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Come and join us!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Come and join us at &lt;a href=&quot;https://mozillians.org/en-US/&quot;&gt;mozillians.org&lt;/a&gt;! You can find my freshly created profile there by visiting &lt;a href=&quot;https://mozillians.org/en-US/u/aleksandar.todorovic/&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For the start, it’s time for me to stop writing this blog post and check out my mail, join the Mozilla’s IRC and so on and so on. I hope that this attempt is going to be much much better than my previous one and that I’m going to start contributing to Mozilla on a regular basis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/en/im-joining-mozillians/&quot;&gt;I'm Joining Mozillians!&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://localhost:4000&quot;&gt;Aleksandar Todorović&lt;/a&gt; on November 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -1,10 +1,10 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2015-01-25 02:38:10+00:00
 layout: post
 slug: why-github-is-my-favorite-company
-title: Reasons Why GitHub is My Favorite Technology-Related Company
+title: 'Reasons Why GitHub is My Favorite Technology-Related Company'
 wordpress_id: 307
 categories: en
 tags:
