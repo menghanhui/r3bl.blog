@@ -1,21 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-12-14 02:02:24+00:00
 layout: post
 slug: material-design-in-linux
 title: Material Design in Linux
-wordpress_id: 231
-categories:
-- Linux
+categories: en
 tags:
-- gnome
-- gtk
-- gtk theme
-- material design
-- Paper GTK
-- Paper GTK theme
-- Sam Hewitt
+- linux
+- open source
+- projects
 ---
 
 First of all, I do realize that I'm probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don't believe me? Well, this video from Google now has well over 2 million views.

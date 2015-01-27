@@ -1,24 +1,17 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-11-12 22:18:36+00:00
 layout: post
 slug: changing-the-design
 title: Changing the design of my blog, desktop and twitter account
-wordpress_id: 174
-categories:
-- About me
-- Linux
-- Projects
+categories: en
 tags:
-- Andree Wallin
+- personal
 - cyberpunk
-- elementary
-- elementary OS
 - linux
 - open source
-- translation
-- Twitter
+- elementary OS
 ---
 
 I feel pretty cyberpunk-ish lately so I've decided to change the whole look of three most important things to me: my blog, my Twitter account and my desktop.
@@ -34,5 +27,3 @@ Next thing I freshened up the design of my blog. So I've changed the theme and c
 My Twitter is also re-designed, which means I basically only changed my avatar, header photo and the colour scheme, so I don't have a lot to talk about that.
 
 Oh, and the [translation of elementary OS](https://aleksandartodorovic.wordpress.com/2014/11/11/elementary-os-bosnian-language/) is going great! Although, I have to admit that I'm not a huge fan of Launchpad as a tool for the translation of such a big project.
-
-

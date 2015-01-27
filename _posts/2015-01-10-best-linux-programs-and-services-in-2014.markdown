@@ -1,19 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2015-01-10 17:19:41+00:00
 layout: post
 slug: best-linux-programs-and-services-in-2014
 title: Best (Linux) Programs and Services I've Started Using in 2014.
-wordpress_id: 291
-categories:
-- About me
+categories: en
 tags:
 - linux
 - open source
 - productivity
-- programs
-- services
 ---
 
 In this post, I'm going to share with you a couple of programs / web services / apps that I've started using regularly in 2014. I've discovered some of them in 2013, but in 2014 I really started to use them on a regular basis. I hope that you will find something for yourself in my list.

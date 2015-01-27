@@ -1,19 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-12 12:31:36+00:00
 layout: post
-slug: flashback-my-first-cybersecurity-discovery
-title: 'Flashback: My first cybersecurity “discovery”'
-wordpress_id: 3
-categories:
-- About me
-- Cyber Security
-- Human Hacking
+slug: my-first-cybersecurity-discovery
+title: 'Flashback: My First Cybersecurity “Discovery”'
+categories: en
 tags:
-- about me
-- confession
+- flashback
 - education
+- confession
+- cybersecurity
 ---
 
 So, when I was 12 years old (at least I think I was) I didn't have a functioning computer. My father contacted one of my neighbor and he had a spare laptop he didn't use for a long time. He gave it to my family and I finally had something to amuse me.

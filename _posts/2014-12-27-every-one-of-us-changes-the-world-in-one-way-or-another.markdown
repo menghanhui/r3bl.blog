@@ -1,19 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-12-27 14:08:46+00:00
 layout: post
 slug: every-one-of-us-changes-the-world-in-one-way-or-another
 title: Every One of Us Changes the World in One Way or Another
-wordpress_id: 277
-categories:
-- About me
-- Free Culture
+categories: en
 tags:
-- change the world
-- make an impact
-- personal opinion
-- we all make an impact
+- personal
+- productivity
+- motivation
 ---
 
 <blockquote>We are all raindrops. We might seem small and insignificant, but together we have the power of the world.</blockquote>

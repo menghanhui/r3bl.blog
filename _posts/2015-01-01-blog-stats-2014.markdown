@@ -1,48 +1,51 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2015-01-01 00:13:20+00:00
 layout: post
 slug: blog-stats-2014
 title: Blog Stats for the Year 2014. (Happy 2015!)
-wordpress_id: 284
+categories: en
+tags:
+- personal
+- blogging
 ---
 
 This blog is active since July the 12th (so almost a half of a year).
 
 
 
-	
+
   * Number of views: 4,389
 
-	
+
   * Number of visitors: 2,616
 
-	
+
   * Number of posts: 53
 
 
 Got most of my views from:
 
-	
+
   1. search engines (973) (898 from Google)
 
-	
+
   2. Reddit (852)
 
-	
+
   3. Twitter (282)
 
 
 Top countries:
 
-	
+
   * United States – 1,058 views
 
-	
+
   * Bosnia & Herzegovina – 824 views
 
-	
+
   * Serbia – 698 views
 
 
@@ -50,43 +53,43 @@ Other countries with over 100 views: United Kingdom (135), Canada (134), Croatia
 
 Top 10 pages (with the number of views in brackets):
 
-	
+
   1. Home page/Archive (795)
 
-	
+
   2. Top Motivational Quotes I've Discovered in 2014 (666)
 
-	
+
   3. Ko koga špijunira u političkom vrhu BiH? (2. dio) (465)
 
-	
+
   4. Some Basic Facebook “Hacks” - Hack no. 3: See Locked Profile Picture in Full Size (359)
 
-	
+
   5. Get Office 365 licence for free! [A Little Contest] (299)
 
-	
+
   6. Some Basic Facebook “Hacks” - Hack no. 1: Check who's your biggest “stalker” without leaving Facebook (208)
 
-	
+
   7. Through The Algorithm (2014) To a Free World (188)
 
-	
+
   8. Ko koga špijunira u političkom vrhu BiH? (185)
 
-	
+
   9. Papers We Love (152)
 
-	
+
   10. Material Design in Linux (120)
 
 
 Number of followers:
 
-	
+
   * Wordpress followers: 10
 
-	
+
   * Twitter followers: 103
 
 
@@ -98,13 +101,13 @@ Goals for 2015:
 
 
 
-	
+
   * Over 30,000 views (7 times more than in 2014)
 
-	
+
   * Over 20,000 visitors (8 times more than in 2014)
 
-	
+
   * Over 1,000 Twitter followers (10 times more than in 2014)
 
 

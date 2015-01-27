@@ -1,17 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-23 20:50:58+00:00
 layout: post
 slug: starting-an-ethical-hacking-course
 title: Starting an Ethical Hacking Course
-wordpress_id: 9
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - education
-- mooc
+- cybersecurity
+- hacking
 ---
 
 So, I found out about a personal blog about network security and while reading it I found out about a course offered by Udemy learning platform called: _Learn the Basics of Ethical Hacking and Penetration Testing_. I used Google to find out if there is some code to finish that course for free and, of course, I managed to find it (thank you Reddit!). So, from now on I will probably write on my blog some information about how well am I doing in that course.

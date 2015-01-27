@@ -1,24 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-11-14 17:04:56+00:00
 layout: post
 slug: im-joining-mozillians
 title: I'm Joining Mozillians!
-wordpress_id: 185
-categories:
-- About me
-- Mozilla Firefox
-- Projects
+categories: en
 tags:
-- better web
 - development
-- Firefox
-- Join us
 - Mozilla
-- Mozillians
-- QA
-- translation
+- personal
 ---
 
 So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I'm ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn't go too well. Anyway, it's time to try again.

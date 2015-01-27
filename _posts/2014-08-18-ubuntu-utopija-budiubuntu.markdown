@@ -1,18 +1,18 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-18 01:25:38+00:00
 layout: post
 slug: ubuntu-utopija-budiubuntu
 title: 'Ubuntu utopija #budiUbuntu'
-wordpress_id: 86
-categories:
-- Linux
+categories: bs
 tags:
+- projects
 - '#budiUbuntu'
-- blogerske igre
 - linux
-- ubuntu
+- personal
+- open source
+- elementary OS
 ---
 
 Postoji nešto što nas izdvaja iznad miliona i miliona drugih vrsta koje su živile nekada u istoriji naše planete: snalažljivi smo i držimo se zajedno.

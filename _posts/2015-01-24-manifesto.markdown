@@ -1,21 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2015-01-24 22:46:19+00:00
 layout: post
 slug: manifesto
 title: My Manifesto
-wordpress_id: 303
-categories:
-- About me
-- Free Culture
-- Human Hacking
+categories: en
 tags:
-- manifesto
-- manifesto example
+- personal
 - motivation
 - productivity
-- write your own manifesto
+- human hacking
 ---
 
 Across my Reddit feed, I came up with this great article titled [Why You Should Write a Personal Manifesto](http://www.wiseism.com/write-personal-manifesto/), published by [Wiseism](http://wiseism.com/). I feel like this is a great way to keep yourself motivated, so I've decided to do just that: to write down my own manifesto.

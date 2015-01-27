@@ -1,21 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-11-13 14:58:56+00:00
 layout: post
 slug: facebook-hack-no2
 title: 'Some Basic Facebook “Hacks” – Hack no. 2: Find out who''s calling you on your
   phone by using Facebook'
-wordpress_id: 182
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
-- Facebook
-- Facebook hacks
+- projects
 - hacking
-- mobile number
-- smarphone
+- Facebook
 ---
 
 As I've already said [in my previous post](https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no1/), In this blog post series I’m going to post about some useful Facebook “hacks” that you can do without ever leaving Facebook at all. I will _not_ be using any external software, website or something similar while posting about this topic.
@@ -44,5 +39,3 @@ You might want to check out other posts in this series:
 
 
   * [Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook](https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/)
-
-

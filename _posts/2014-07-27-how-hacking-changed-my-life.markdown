@@ -1,19 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-27 11:47:21+00:00
 layout: post
 slug: how-hacking-changed-my-life
 title: How Hacking Changed My Life
-wordpress_id: 27
-categories:
-- About me
-- Cyber Security
-- Linux
+categories: en
 tags:
-- about me
+- personal
 - hacking
-- moja shvatanja
+- linux
+- education
 ---
 
 I already wrote about my hacking beginnings [here](https://aleksandartodorovic.wordpress.com/2014/07/12/flashback-my-first-cybersecurity-discovery/) and [here](https://aleksandartodorovic.wordpress.com/2014/07/27/flashback-my-first-steps-in-hacking/). Now, I want to talk about something else. I want to talk about how hacking changed my life!

@@ -1,23 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-11-20 12:38:08+00:00
 layout: post
 slug: facebook-hack-no3
 title: 'Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full
   Size'
-wordpress_id: 196
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
 - Facebook
-- Facebook hacks
-- full size
 - hacking
-- picture
-- privacy
-- profile picture
+- projects
 ---
 
 I found out about one more basic Facebook hack. Let's say that you have a friend who locked his profile picture so that nobody could open it, but you're interested to see _how_ that picture looks in full size. Can you do that? Well, thanks to Facebook's constant consern about user privacy, of course you can.
@@ -44,5 +37,3 @@ Check out the rest of the Facebook “hacks” here:
 
 
   * [Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook](https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/)
-
-

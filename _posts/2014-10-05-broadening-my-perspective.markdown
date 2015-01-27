@@ -1,15 +1,14 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-10-05 11:32:11+00:00
 layout: post
 slug: broadening-my-perspective
-title: Broadening my perspective
-wordpress_id: 89
-categories:
-- About me
+title: Broadening My Perspective
+categories: en
 tags:
-- about me
+- personal
+- confession
 ---
 
 This blog is about to go into completely different direction. Don't get me wrong, I still love Linux, I still use it regularly. I'm still a big FLOSS enthusiast and I still want to be a security expert. That won't change as long as I'm alive.

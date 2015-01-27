@@ -6,30 +6,28 @@ words_per_minute: 200
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://localhost:4000
+url: http://r3bl.github.io
 
 # Owner/author information
 owner:
   name:           Aleksandar Todorović
   avatar:         avatar2.jpg
   bio:            "Student, hacker and a free culture advocate. I love to share my stories with the world."
-  email:          you@email.com
+  email:          aleksandar.todorovic@mail.ru
   # Social networking links used in footer. Update and remove as you like.
-  twitter:          r3bl_
   github:           aleksandar-todorovic/
+  twitter:          r3bl_
+  google_plus:
   linkedin:         aleksandartodorovic
-  tumblr:           r3bl-ba
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+google_analytics: UA-57666570-2
+google_verify: HN3OhhGuSzg22f65gyXnyo2HoR3Qaa0wwGE8z__aP9g
+bing_verify: 48E4664E51E766F96D2C457671427047
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Sarajevo
 future:      true
 highlighter: pygments

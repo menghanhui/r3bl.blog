@@ -1,18 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-07 22:27:08+00:00
 layout: post
 slug: ko-koga-spijunira-u-politickom-vrhu-bih
 title: Ko koga špijunira u političkom vrhu BiH?
-wordpress_id: 51
-categories:
-- Cyber Security
-- Politics
+categories: bs
 tags:
-- BiH
-- kontrola
-- špijunaža
+- politics
+- surveillance
+- hacking
+- security
 ---
 
 Listajući početnu na Tviteru naletio sam na nešto zanimljivo. Nepoznati haker koji se krije iza aliasa Phineas Fisher je 6. augusta hakovao stranicu koja stoji iza programa FinFisher. Taj program jeste dosta nepoznat za javnost, ali ne bi trebao da bude. Program je razvijen u Njemačkoj sa ciljem da se prodaje vladama različitih zemalja kako bi špijunirali one koje odluče da žele da špijuniraju. Haker je zatim objavio [torrent](https://netzpolitik.org/wp-upload/finfisher.torrent) od 40ak gigabajta sa podacima koje je uspio da ukrade.

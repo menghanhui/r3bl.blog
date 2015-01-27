@@ -1,17 +1,13 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-27 12:13:30+00:00
 layout: post
 slug: the-internet-of-insecure-things
 title: The Internet of Insecure Things
-wordpress_id: 29
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - education
-- IoT
 ---
 
 So, Internet of Things is happening. More and more things are connected to the internet every day. What about securing the Internet of Things? This great presentation by [@securityweekly](https://twitter.com/securityweekly) covered most of the problems. And I laughed a lot while reading it. Too bad I can't listen to him explaining it in details.

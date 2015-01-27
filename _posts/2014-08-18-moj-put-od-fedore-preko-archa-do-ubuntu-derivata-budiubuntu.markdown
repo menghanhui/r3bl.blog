@@ -1,19 +1,18 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-18 00:44:10+00:00
 layout: post
 slug: moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu
 title: 'Moj put od Fedore preko Archa do Ubuntu derivata #budiUbuntu'
-wordpress_id: 85
-categories:
-- Linux
+categories: bs
 tags:
+- projects
 - '#budiUbuntu'
 - linux
-- moja shvatanja
+- personal
 - open source
-- ubuntu
+- elementary OS
 ---
 
 Dakle, kao i svaka osoba na ovoj planeti, prije nešto više od godinu dana sam počeo biti bombardovan sa člancima o vijestima koje nam donosi _zviždač_ (eng. whistleblower) Edward Snowden. Saznao sam koliko je NSA duboko zavukla nos u naše guzice. Otprilike u isto vrijeme sam završio srednju školu te samim tim imao ogromnu količinu slobodnog vremena. To vrijeme sam iskoristio da bih se fokusirao na mrežnu sigurnost. Studirajući inženjersku informatiku znao sam da ću prije ili kasnije morati da se odlučim za neki dio računarstva koji me najviše zanima, a oduvijek me fascinirala sigurnost u moderno doba.

@@ -1,26 +1,17 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-10-16 20:16:17+00:00
 layout: post
 slug: elementary-os-savrsena-distribucija-za-mene
 title: elementary OS - Savršena distribucija za mene
-wordpress_id: 133
-categories:
-- About me
-- Linux
+categories: bs
 tags:
 - '#budiUbuntu'
-- about me
-- confession
-- donacije
-- elementary
-- Firefox
-- libre
-- linux
-- moja shvatanja
+- elementary OS
+- personal
 - open source
-- ubuntu
+- linux
 ---
 
 Sada sam tek shvatio da iako mi je blog pun postova o Linuksu, trenutno nemam niti jedan post posvećen u potpunosti distribuciji koja je zadovoljila sve kriterijume da bude savršeni operativni sistem za moje potrebe: elementary OS.

@@ -6,15 +6,11 @@ layout: post
 slug: why-github-is-my-favorite-company
 title: Reasons Why GitHub is My Favorite Technology-Related Company
 wordpress_id: 307
-categories:
-- About me
-- Free Culture
-- Linux
+categories: en
 tags:
-- development
+- personal
 - GitHub
 - open source
-- technology
 ---
 
 In this post I'm going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don't know what GitHub is, you should continue reading this article because I'm going to share with you some of the most popular features GitHub has integrated in their service.

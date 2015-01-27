@@ -1,23 +1,18 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-12-04 19:56:24+00:00
 layout: post
 slug: witcher-2-installation-from-hell
 title: 'Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From
   Hell)'
-wordpress_id: 217
-categories:
-- About me
-- Linux
+categories: en
 tags:
-- Assasins of Kings
+- humoristic
+- personal
 - floss problems
-- GOG
-- installation from hell
-- linux gaming
-- Linux installation
-- Wither 2
+- linux
+- gaming
 ---
 
 Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I've decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on [GOG](http://www.gog.com/) and I got the 60% discount deal so the game cost me $7.99 total.

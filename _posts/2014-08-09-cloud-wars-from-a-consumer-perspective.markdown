@@ -1,19 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-09 14:22:10+00:00
 layout: post
 slug: cloud-wars-from-a-consumer-perspective
 title: Cloud Wars from a Consumer Perspective
-wordpress_id: 63
-categories:
-- About me
+categories: en
 tags:
-- cloud
-- elementary
-- libre
 - linux
 - open source
+- personal
+- confession
 ---
 
 So, I've got two primary cloud providers: [Mail.ru cloud](https://cloud.mail.ru/) and [OneDrive](https://onedrive.live.com/). I've been using both of them for quite some time. Mail.Ru cloud supports Linux and gives 100 GB for free. They've also had a promo action that lasted for a month and anyone who clicked on a certain link got 1 TB for free. Yup, 1 TB of cloud storage absolutely free. The only problem: the interface is in Russian. Not a big deal and once you get a hang of where things are located using the app is quite easy. They support pretty much any platform you can think of and Linux integration (tried it on Kubuntu and elementary OS) as well as Windows integration works perfectly.

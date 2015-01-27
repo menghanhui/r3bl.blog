@@ -1,19 +1,14 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2015-01-09 18:12:06+00:00
 layout: post
 slug: advice-for-living-in-this-world
 title: Advice for living in this world (by Quinn Norton)
-wordpress_id: 288
-categories:
-- Free Culture
+categories: en
 tags:
-- Advice
 - essay
-- modern world
-- Quinn Norton
-- technology
+- personal
 ---
 
 Wow, this is the first time (although I can't guarantee you that it will be the last) that I'm going to share with you a story that was _not_ written by myself. And there's an excellent reason for that. I don't think that I've read a single story (or an article if you please) that had so much influence on me about today's technology. It was written by [**Quinn Norton**](http://en.wikipedia.org/wiki/Quinn_Norton) and published in a book called [**Share This Book (2012)**](http://www.shareconference.net/en/news/share-book) by [**Share Foundation**](http://www.shareconference.net/en). Please, read it thoroughly. I promise you that you _will_ be amazed by this astonishing piece of writing.
@@ -21,10 +16,10 @@ Wow, this is the first time (although I can't guarantee you that it will be the 
 
 <blockquote>
 
-> 
+>
 > ## **Advice for Living in this World**
-> 
-> 
+>
+>
 Every day is stranger than the last one.
 
 Each of us has a point where we fall short, where we can’t go on at this mad pace. We ride the wave as long as we can until we start to drown in time and change, and nothing makes sense anymore. And then we fight back from that insanity. This is so common an experience, it’s practically a rite of passage in our new online lives.

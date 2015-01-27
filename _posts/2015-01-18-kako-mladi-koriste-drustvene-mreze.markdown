@@ -5,14 +5,9 @@ date: 2015-01-18 21:11:11+00:00
 layout: post
 slug: kako-mladi-koriste-drustvene-mreze
 title: Kako mladi u mom okruženju koriste društvene mreže?
-wordpress_id: 299
-categories:
-- About me
-- No Hate Speech Online
+categories: bs
 tags:
-- about me
-- društvene mreže
-- korišćenje društvenih mreža
+- personal
 - mladi
 - no hate speech online
 ---

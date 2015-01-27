@@ -6,16 +6,13 @@ layout: post
 slug: run-your-own-copy-of-pirate-bay-now
 title: Run Your Own Copy of Pirate Bay Now!
 wordpress_id: 274
-categories:
-- Free Culture
-- Projects
+categories: en
 tags:
-- DIY
-- isoHunt.to
-- Open Bay
-- run your own Pirate Bay
+- open source
+- free culture
+- projects
+- hacking
 - The Pirate Bay
-- The Pirate Bay raid
 ---
 
 [![Open Bay logo](https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg)](https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg)OK, so, as you probably already know, the official Pirate Bay was shut down 10 days ago. There are plenty of articles already covering this subject. I already stated [my opinion on Pirate Bay disappearing for good](https://aleksandartodorovic.wordpress.com/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/), where [I agreed with Peter Sunde](http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/) (co-founder and ex-spokesperson of the Pirate Bay).
@@ -42,13 +39,13 @@ Of course, this brigs up so many issues.
 
 
 
-	
+
   * How will we know what site is legit?
 
-	
+
   * How will we update our torrent database?
 
-	
+
   * How will we know what site does have an updated version of the torrent database?
 
 

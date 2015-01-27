@@ -1,15 +1,13 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-26 11:04:16+00:00
 layout: post
 slug: time-to-take-some-break
 title: Time to take some break
-wordpress_id: 17
-categories:
-- About me
+categories: en
 tags:
-- about me
+- personal
 - education
 - reading
 ---

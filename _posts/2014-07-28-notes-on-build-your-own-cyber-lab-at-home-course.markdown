@@ -5,13 +5,11 @@ date: 2014-07-28 13:18:17+00:00
 layout: post
 slug: notes-on-build-your-own-cyber-lab-at-home-course
 title: Notes on Build Your Own Cyber Lab at Home Course
-wordpress_id: 31
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - education
-- mooc
+- personal
+- cybersecurity
 ---
 
 Recently I finished a free course offered [Cyber Security School Online](http://www.cybersecurityschoolonline.com/) on [Udemy](http://udemy.com/) called [Build Your Own Cyber Lab from Home](https://www.udemy.com/build-your-own-cyber-lab-at-home/#/).

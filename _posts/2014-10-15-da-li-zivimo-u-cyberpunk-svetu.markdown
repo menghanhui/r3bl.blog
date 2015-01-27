@@ -1,18 +1,18 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-10-15 17:51:45+00:00
 layout: post
 slug: da-li-zivimo-u-cyberpunk-svetu
 title: Da li živimo u cyberpunk svetu?
-wordpress_id: 93
-categories:
-- About me
-- Cyber Security
-- Linux
+categories: bs
 tags:
-- cyberpunk
-- moja shvatanja
+- open source
+- surveillance
+- linux
+- cybersecurity
+- personal
+- cyberpu
 ---
 
 NAPOMENA: Ovaj blog post sam napisao prije mnogo vremena (dovoljno daleko da bude stariji od ideje da uopšte napravim blog). Sve do sada nije objavljen nigdje, a sada sam dobio želju da ga podijelim sa javnošću i na taj način malo popunim svoj blog. Post je ostao neizmijenjen u cjelosti i kao takav kopiran iz LibreOffice-a, tako da su podaci malo stariji a stil pisanja takav kakav jeste.
@@ -33,3 +33,4 @@ Preko 15% svih ljudi koji trenutno žive na svijetu posjećuje YouTube bar jedno
 Dakle u osnovi imamo tri kompanije o kojima je prosečan čovek ovisan: Microsoft, Google i Facebook. Da li je tu kraj? Naravno da ne. Postoji i NSA, organizacija koja sigurno sakuplja podatke koje korisnici ostave na 10 od 20 najposećenijih stranica na svetu ([prema ovim izvorima](www.alexa.com/topsites)). Dakle stvari nisu baš kompletno kao na filmu, ali su dovoljno blizu da se zapitamo šta je sledeće. Ogromna količina korisnika neće ni da čuje za operativni sistem koji nije razvijen od strane Microsoft-a. Ogromna količina korisnika neće ni da pokuša da koristi neki drugi pretraživač osim već onih dobro poznatih kao što su Google, Yahoo i Bing.
 
 Pitate se kada ćemo da živimo u cyberpunk svetu? Shvatite da smo već njegov deo. Naravno, ništa od ovoga trenutno nije obavezno i još uvek imamo pravo na slobodan izbor. Ali, da budemo iskreni, taj izbor koristi toliko malen broj ljudi da je zanemarljiv. Sada je samo pitanje kada ćemo mi koji pripadamo tom malom broju ljudi početi da budemo proganjani zbog toga i kada će celo stanovništvo biti čipovano tako da nam se prati svaki korak.
+.

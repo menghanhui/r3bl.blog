@@ -1,18 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-08 20:57:55+00:00
 layout: post
 slug: ko-koga-spijunira-u-politickom-vrhu-bih-2-dio
 title: Ko koga špijunira u političkom vrhu BiH? (2. dio)
-wordpress_id: 59
-categories:
-- Cyber Security
-- Politics
+categories: bs
 tags:
-- BiH
-- kontrola
-- špijunaža
+- politics
+- hacking
+- surveillance
+- security
 ---
 
 Došlo je vrijeme za drugi dio članka o tome ko koga špijunira u političkom vrhu BiH. Prvi možete pročitati [ovdje](http://aleksandartodorovic.wordpress.com/2014/08/07/ko-koga-spijunira-u-politickom-vrhu-bih/). Da skratim članak, nepoznat haker preuzeo 40ak gigabajta podataka od firme Gamma koja služi za kreiranje softvera za online špijuniranje koji se naziva FinFisher. Taj softver firma Gamma prodaje isključivo vladama, a među državama kojima je prodala softver se našla i Bosna i Hercegovina.

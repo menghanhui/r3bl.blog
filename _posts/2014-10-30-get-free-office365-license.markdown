@@ -1,25 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-10-30 17:40:30+00:00
 layout: post
 slug: get-free-office365-license
 title: Get Office 365 License For Free! [A Little Contest]
-wordpress_id: 154
-categories:
-- About me
-- Cyber Security
-- Human Hacking
-- Linux
-- Projects
+categories: en
 tags:
-- contest
-- free license
-- Office 365
-- Office 365 Home Plus license
-- Office suite
-- short story contest
-- software giveaway
+- projects
+- microsoft
+- personal
+- linux
 ---
 
 So, even though I'm a regular Linux user, I use Microsoft's software whenever I need them. I've bought an Office 365 Home Plus license in July of this year. So, what did I get with it? I got five Home subscriptions, each one with a licensed Office suite, 1 TB of OneDrive space and some premium Skype minutes (I can't remember how many exactly). The license expires in July, but I will renew it as soon as it expires.

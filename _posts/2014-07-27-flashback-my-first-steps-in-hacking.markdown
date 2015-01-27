@@ -1,17 +1,16 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-07-27 10:48:26+00:00
 layout: post
 slug: flashback-my-first-steps-in-hacking
 title: 'Flashback: My First Steps in Hacking'
-wordpress_id: 19
-categories:
-- About me
-- Cyber Security
+categories: en
 tags:
 - confession
+- hacking
 - education
+- flashback
 ---
 
 I was always a curious guy. I was always wondering how do some things work, but I just didn't know how to find out about it. I, at the time, followed Discovery Channel, Viasat Explorer and other scientific shows because I wanted to know more. I would write down everything I thought it was fun to learn in my little notebook as a reference if I needed to learn more about that. I didn't prepare for doing something like that. That's why my notes were messy and Icouldn't do anything about it. And of course, at the time, I did not have a computer or internet or smartphone or anything like that.

@@ -5,12 +5,11 @@ date: 2014-07-24 12:53:38+00:00
 layout: post
 slug: ninjasec-course-gathering-information
 title: '[NinjaSec Course] Gathering Information'
-wordpress_id: 15
-categories:
-- Cyber Security
+categories: en
 tags:
 - educaion
 - hacking
+- cybersecurity
 ---
 
 I know that this post is going to be pretty basic, but it was not very detailed in my head so I wanted to write about it to remember it easier.

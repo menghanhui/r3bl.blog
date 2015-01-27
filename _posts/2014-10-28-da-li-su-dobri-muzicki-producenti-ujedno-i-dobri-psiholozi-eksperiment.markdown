@@ -1,22 +1,17 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-10-28 14:36:42+00:00
 layout: post
 slug: da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment
 title: Da li su dobri muzički producenti ujedno i dobri psiholozi? [eksperiment]
-wordpress_id: 141
-categories:
-- About me
-- Human Hacking
-- Projects
+categories: bs
 tags:
-- about me
-- blogerske igre
+- personal
+- music
 - confession
+- human hacking
 - education
-- kontrola
-- moja shvatanja
 ---
 
 NAPOMENA: Ovaj članak nije ograničen na neki muzički žanr, preporučujem svim čitaocima da ga pročitaju bez obzira šta da slušate.

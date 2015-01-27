@@ -1,18 +1,15 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-08-05 12:02:03+00:00
 layout: post
 slug: confession-microsoft-is-not-so-bad
 title: 'Confession: Microsoft Is Not So Bad'
-wordpress_id: 45
-categories:
-- About me
+categories: en
 tags:
 - confession
 - linux
-- microsoft
-- open source
+- personal
 ---
 
 There's something I need to confess. Even though I'm a hardcore Linux and free software advocate, I have to say that Microsoft, as a company, is not so bad. So, why am I saying this?
