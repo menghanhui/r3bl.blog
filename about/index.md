@@ -13,12 +13,12 @@ I'm a first year student from Bosnia &amp; Herzegovina studying IT engineering a
 
 ### My projects:
 
-* [Sensitive Data Grabber](https://github.com/aleksandar-todorovic/SensitiveDataGrabber) (Visual Basic .NET)
-* [Some Basic Facebook Hacks](https://github.com/aleksandar-todorovic/my-published-papers) (writing)
-* [My web portfolio](http://aleksandar-todorovic.github.io) (HTML / CSS)
-* [My blog](https://aleksandartodorovic.wordpress.com) (HTML / CSS / Jekyll / writing)
-* [Implementacija sigurnosnih algoritama](https://github.com/aleksandar-todorovic/Implementacija-sigurnosnih-algoritama) (Visual Basic .NET)
-* [Kako postati haker?](https://github.com/aleksandar-todorovic/kako-postati-haker) (writing / collecting papers)
+* [Sensitive Data Grabber](https://github.com/aleksandar-todorovic/SensitiveDataGrabber) (Visual Basic .NET) - A program that sends sensitive data to your email or saves them on a removable thumb drive.
+* [Some Basic Facebook Hacks](https://github.com/aleksandar-todorovic/my-published-papers#some-basic-facebook-hacks) (writing) - The list of the ways for the end user to use some of the Facebook's "features" in a way they're not intended to be used.
+* [My web portfolio](http://aleksandar-todorovic.github.io) (HTML / CSS) - My basic web portfolio powered by GitHub Pages.
+* [My blog](https://r3bl.github.com) (HTML / CSS / Jekyll / writing) - My Jekyll-powered blog that I update with new posts on a regular basis. The blog was previously hosted [here](https://aleksandartodorovic.wordpress.com/).
+* [Implementacija sigurnosnih algoritama](https://github.com/aleksandar-todorovic/Implementacija-sigurnosnih-algoritama) (Visual Basic .NET) - An example of the implementation of functions inside .NET encryption library.
+* [Kako postati haker?](https://github.com/aleksandar-todorovic/kako-postati-haker) (writing / collecting papers) - I'm maintaining a repository where a person who wants to be a hacker can find all of the materials he needs in Bosnian / Serbian / Croatian / Montenegro language (to be honest, they're all the same).
 
 ### Projects I'm translating:
 
@@ -29,11 +29,20 @@ I'm a first year student from Bosnia &amp; Herzegovina studying IT engineering a
 
 ### Projects I am contributing to (or have contributed to in the past):
 
-* [LiBRE! magazine](http://libre.lugons.org/) - I'm one of the authors for LiBRE!, a regional free software magazine written in Serbian language.</li>
+* [LiBRE! magazine](http://libre.lugons.org/) - I'm one of the authors for LiBRE!, a regional free software magazine written in Serbian language.
 * [PRISM Break](https://prism-break.org/en/) - I've tested the software that helps you circumvent NSA's PRISM program and gave my contribution to this list.
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) - I've added a couple of papers I love to the Papers We Love repository, helping them grow in the process by spreading the word amongst my peers.
 * [Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade) I've tested and added a couple of software products for this HackerNews project.
 * [justdelete.me](https://github.com/rmlewisuk/justdelete.me) - I've tested the ways of deleting user profiles on popular web services and updated the list with my discoveries.
+
+### My résumé and my certificates
+
+You can download my résumé in two different languages:
+
+*  [English version](https://drive.google.com/file/d/0By-yP9sfB84VY0cxeGV4THNNbTQ/view?usp=sharing)
+*  [Bosnian version](https://drive.google.com/file/d/0By-yP9sfB84VWENhQmtJX0x4cTg/view?usp=sharing)
+
+You can also download a pack filled with .pdf versions of my certificates [here](https://drive.google.com/file/d/0By-yP9sfB84VaFdUeU5kUXdTams/view?usp=sharing).
 
 ### Contact
 
