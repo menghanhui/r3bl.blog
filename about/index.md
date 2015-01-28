@@ -48,7 +48,7 @@ You can also download a pack filled with .pdf versions of my certificates [here]
 
 [aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru)
 
-My GPG key:
+My public PGP key:
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1
