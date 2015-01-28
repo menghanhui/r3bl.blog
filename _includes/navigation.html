@@ -19,6 +19,11 @@
 			</ul>
 		</li>
 
+		<li><a href="http://aleksandar-todorovic.github.io/" target="_blank">My Portfolio</a></li>
+		<li><a href="/en/manifesto/">My Manifesto</a></li>
+		<li><a href="https://github.com/r3bl/r3bl.github.io"><i class="fa fa-fw fa-fork-this"></i> Fork This Website</a></li>
+
+<!---
 		{% for link in site.data.navigation %}
 	    {% if link.url contains 'http' %}
 	        {% assign domain = '' %}
@@ -26,7 +31,17 @@
 	        {% assign domain = site.url %}
 	    {% endif %}
 
-		<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		<li>
+			<a href="{{ domain }}{{ link.url }}"
+				{% if link.url contains 'http' %}
+					target="_blank"
+				{% endif %}>
+				{{ link.title }}
+			</a>
+		</li>
+
 	  {% endfor %}
+-->
+
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
