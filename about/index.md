@@ -1,34 +1,49 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: abstract-1.jpg
 comments: false
-modified: 2014-12-24
+modified: 2015-01-28
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+I'm a first year student from Bosnia &amp; Herzegovina studying IT engineering at [eMPIRICA](http://empirica.ba/). I'm really passionate about artificial intelligence, open source software, open culture and cyber security. I have a lot of experience in working with Linux-based operating systems. I'm capable of programming in a variety of programming languages and I have a decent (mostly theoretical) knowledge in cyber security.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+<u>My Goal</u>: to become an artificial intelligence / cyber security expert and to contribute as much as I can to all kinds of open source communities.
 
-## What HPSTR brings to the table:
+### My projects:
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+* [Sensitive Data Grabber](https://github.com/aleksandar-todorovic/SensitiveDataGrabber) (Visual Basic .NET)
+* [Some Basic Facebook Hacks](https://github.com/aleksandar-todorovic/my-published-papers) (writing)
+* [My web portfolio](http://aleksandar-todorovic.github.io) (HTML / CSS)
+* [My blog](https://aleksandartodorovic.wordpress.com) (HTML / CSS / Jekyll / writing)
+* [Implementacija sigurnosnih algoritama](https://github.com/aleksandar-todorovic/Implementacija-sigurnosnih-algoritama) (Visual Basic .NET)
+* [Kako postati haker?](https://github.com/aleksandar-todorovic/kako-postati-haker) (writing / collecting papers)
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+### Projects I'm translating:
 
-[^1]: Example: *domain.com/category-name/post-title*
+* [elementary OS](http://elementaryos.org/) (English -&gt; Bosnian)
+* [Reddit](https://www.reddit.com/) (English -&gt; Serbian)
+* [Tor Project](https://www.torproject.org/) (English -&gt; Serbian)
+* [Open WhisperSystems](https://whispersystems.org/) (English -&gt; Serbian)
+
+### Projects I am contributing to (or have contributed to in the past):
+
+* [LiBRE! magazine](http://libre.lugons.org/) - I'm one of the authors for LiBRE!, a regional free software magazine written in Serbian language.</li>
+* [PRISM Break](https://prism-break.org/en/) - I've tested the software that helps you circumvent NSA's PRISM program and gave my contribution to this list.
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) - I've added a couple of papers I love to the Papers We Love repository, helping them grow in the process by spreading the word amongst my peers.
+* [Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade) I've tested and added a couple of software products for this HackerNews project.
+* [justdelete.me](https://github.com/rmlewisuk/justdelete.me) - I've tested the ways of deleting user profiles on popular web services and updated the list with my discoveries.
+
+### Contact
+
+[aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru)
+
+My GPG key:
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1
+
+    mQENBFSQ4R8BCADEZirNm74nBFMHsCU/URoO6qXv03qnSmTZ+ZkxX/0eYTXc+TR2rY/+S+kffNkk4Fe/fjaVh4L26NmvaJhfKo1OTtPXZeUivSYPoVGuTyuEYVElyS4C40MdGGYeEKs5TIP+R5B6W/SOp4q1uxSTMWXdPq8B0NZNyxWGVdlfn9NtzZr4wKD7EQNDIwUI2XS4u36+bJ1w1+JmyF650cjXS+/gRFiCjxnUasyX1aGvMN3BDwXSvWXS79ogs7tJarhSoGKPf3KpXceeW1NqeftwRA9iJcaTTiVnEPVd6ng0a+9WL9pC0f5aKal4/br0U+wDQAAOUrk7Z5wL1z1ocR+7wgq1ABEBAAG0NEFsZWtzYW5kYXIgVG9kb3JvdmnEhyA8YWxla3NhbmRhci50b2Rvcm92aWNAbWFpbC5ydT6JAT4EEwECACgFAlSQ4R8CGwMFCQHhM4AGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAAAoJEDM5jMT2EiZEUlQH/0IeS6bjMisOWir1PeZb1b5zK7VWJFbx0QqVk1y94WRl6ZiC9fVDzoK7zAFdBpICDzO8fWJBYvGFnQoyoST3UDlW3NLTRZt6jOiwUjFKwZ8JjsJcjSMRLO7ty9MZ9jajfAIlwp9HPCqUe4zYDElLlIf4Vg1US6P5yOFnhvyyTYZofo0RWMUkdnY+POo4GKseq9sEL4vWEWaYPsW4unnMY1+Ra21997Bi6xt99k7UPCYpmMOQVezG6EkglXyYNrj9lWLko07monfG70G9qu0171QtT0oprMSfW54+PpK+eQlcW9Xf8SM0hvkK3mwCY2Brj+8xQjAH3LR+UAjkqDzf/cu5AQ0EVJDhHwEIALwrmnegWS1XufHcfPjimMVuDrXitp6XYHy1YAdVvdkeQtTkU9Gw+8CHFAWIZ27jZkxCcj+LwXT5ciAh86uR8dW0yRydZLwjtueUUZZxa6MtZh4OQWh7bQcfTUgrNbtGXuqlbkKgeBk83TpPmOn3GkDRH8f/uSzXIVmJ49BxvUDOEAOvFrmmtmUjvSk1UaTOKkmtQN4wUHXll6eGi0hNEvRz6kWSC0EaJTLWqgtQNxU6EQtQJTFSSU1YjlXIjxT3/8pE+H5rNqXhyVQBhKBeDTEXfYBTtIjBmnm76FWnf03SwYGslEyqR8AgGPialvEi8Vf9/oldi43Oh5mU53LJxVEAEQEAAYkBJQQYAQIADwUCVJDhHwIbDAUJAeEzgAAKCRAzOYzE9hImROTLB/97Q0XFjUHDn+Oh7iGokXZV9xj+KMdlOM5Z/gcTlr12PWKvqHwGI7zmPuDq605hjb9IhZy/zdDjij8p+T62imbu8DYatW07bwI8oA70fsvO7xrB3hAsiWuuC2qYhbTCShRotRBoYEzKTQbP4V1Ow7uJ5/WF6dPNJLcs2q6s/9i4ghtAAqHfuTSXQvkjDS1etrwYIyDYagyb7feFCZQWD6+33otCUc0RfscIG07K/cAUnftIZI6MMCkyE2K89dXLzVfU3kqeil+/aU7gj8Wxz8A8Xp/819sP1T+WD+BFiKMlc0/VAHpfVSe0qeXqgKElEUBhxCZUBELqxaiAZkKsHBUm=P11D
+
+    ----- END PUBLIC KEY BLOCK-----

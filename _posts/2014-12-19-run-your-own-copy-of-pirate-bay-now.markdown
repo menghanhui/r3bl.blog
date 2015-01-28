@@ -1,11 +1,10 @@
 ---
-author: mrr3bl
+author: Aleksandar Todorović
 comments: true
 date: 2014-12-19 16:04:56+00:00
 layout: post
 slug: run-your-own-copy-of-pirate-bay-now
 title: Run Your Own Copy of Pirate Bay Now!
-wordpress_id: 274
 categories: en
 tags:
 - open source
@@ -23,9 +22,7 @@ There are already some non-legit Pirate Bay clones [like this one](http://torren
 
 The system now is messed up, but that [hasn't stopped people from sharing](http://torrentfreak.com/pirate-bay-shutdown-doesnt-stop-people-sharing-141216/) using their favorite technology.
 
-
 ## Presenting: Open Bay
-
 
 Out of all those alternatives that came online after the raid, one really stands out and it's called [Old Pirate Bay](https://oldpiratebay.org/). So, why _exactly_ did it stand out? Well, the whole point is that this copy is from a reputable source ([isoHunt](http://isohunt.to/)). Now, isoHunt is taking one step further by doing something Pirate Bay should have done a long time ago: they released the source code of Old Pirate Bay to the public and called it [The Open Bay](http://openbay.isohunt.to/).
 
@@ -33,22 +30,12 @@ You can find all of the source code in the [GitHub repository](https://github.co
 
 The point of doing this is simple: making pirates impossible to stop.
 
-
 ## Issues
-
 
 Of course, this brigs up so many issues.
 
-
-
-
   * How will we know what site is legit?
-
-
   * How will we update our torrent database?
-
-
   * How will we know what site does have an updated version of the torrent database?
-
 
 These issues are yet to be resolved. If you do have some suggestions, leave them in the comments bellow or [create an issue](https://github.com/isohuntto/openbay/issues/new) on the repository itself. Lets make pirating impossible to stop together!
