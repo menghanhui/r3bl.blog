@@ -13,7 +13,6 @@
 
 If an item on this list is checked, that means that I will probably do that in the near future.
 
-- [ ] Changing icons to font-awesome?
 - [x] Replacing images with the ones I pick?
 - [x] Create a totally different repository for my music?
 - [ ] To add a blogroll or not? Useful articles [here](http://www.bloggersentral.com/2012/10/do-you-really-need-blogroll.html), [here](http://www.blogworld.com/2010/08/17/to-blogroll-or-not-to-blogroll/) and [here](http://www.chrisg.com/another-good-reason-to-not-have-a-blogroll/).
