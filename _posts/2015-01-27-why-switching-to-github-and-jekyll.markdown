@@ -51,6 +51,6 @@ First of all, there are still some parts of this excellent [HPSTR Jekyll theme](
 
 So, if you like my blog, I encourage you to go through that TODO.md file and to report any issues that I haven't noticed inside of that file [here](https://github.com/r3bl/r3bl.github.io/issues).
 
-In the meantime, I'm going to post on [my old platform](https://aleksandartodorovic.wordpress.com/) and [my new platform](http://r3bl.github.io/) until I'm completely satisfied with the switch. I have also started posting my most interesting articles on Medium not too long ago, so you might want to [check that out]((https://medium.com/@r3bl) as well.
+In the meantime, I'm going to post on [my old platform](https://aleksandartodorovic.wordpress.com/) and [my new platform](http://r3bl.github.io/) until I'm completely satisfied with the switch. I have also started posting my most interesting articles on Medium not too long ago, so you might want to [check that out](https://medium.com/@r3bl) as well.
 
 You can expect some great new things like SSL support, my own domain and a fully customized home page in the near future. And, in the spirit of open source software, every single line of code [is available](https://github.com/r3bl/r3bl.github.io) for you to fork and use in your project in any way you want.
