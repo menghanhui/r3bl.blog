@@ -3,7 +3,6 @@
 * Find a better way to give credits to the source images.
 * Add an archive by the language of the post inside of the navigation.
 * Sharing options need some re-design and I need to integrate more sharing options under every post.
-* Share on Twitter should automatically add the title of the post, to shorten the link of the post and to add "via @r3bl_"  in the end of the tweet.
 * Create a subscribe option (by email, using RSS or something else) and link to it in a way that is easily accessible to the visitors.
 
 # To consider
