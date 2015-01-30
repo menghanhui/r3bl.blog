@@ -12,14 +12,17 @@
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
-{% if page.image.feature %}
 <div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
-  <div class="entry-image">
-    <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
-  </div><!-- /.entry-image -->
+    <div class="image-credit"><a href="https://github.com/aleksandar-todorovic" target="_blank">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span> GitHub Profile</a>
+    </div>
+    <div class="entry-image">
+        <img src="{{ site.url }}/images/{{ page.image.feature }}.jpg" alt="{{ page.title }}">
+    </div><!-- /.entry-image -->
 </div><!-- /.entry-header -->
-{% endif %}
 
 <div id="main" role="main">
   <article class="hentry">
@@ -53,7 +56,7 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}          
+{% include scripts.html %}
 
 </body>
 </html>
