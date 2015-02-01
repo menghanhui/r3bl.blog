@@ -16,23 +16,16 @@ image:
 
 ## ![](http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg)
 
-
-
-
 ## Uvod
 
-
 U ovom tekstu neću da pričam o statistici. U koliko vas zanimaju statistike o tome koliko se koja društvena mreža koristi, vrlo lako ćete pronaći sve potrebne podatke na internetu. U ovom tekstu ću da objasnim kako mladi u mojoj lokalnoj zajednici koriste koju društvenu mrežu, gledajući prvenstveno svoje vlastito iskustvo i iskustvo mojih prijatelja (onih van društvenih mreža).
-
 
 ## Šta smatram pod pojmom mladi?
 
 
 Pod pojmom mladi u ovom tekstu smatram osobe između 16 i 20 godina. Dakle osobe stare da bi se nazivale tinejdžerima, ali premlade da bi se shvatile ozbiljno u svijetu odraslih osoba.
 
-
 ### Facebook
-
 
 Sve više se primjeti da Facebook gubi moć među mojim prijateljima i poznanicima. Većina ga koristi samo zbog _chat_ opcije, koja je mnogo zastupljenija od bilo koje druge IM opcije. Primjeti se da sve manje ljudi objavljuje statuse. Objave se većinom svode na postavljanje novih fotografija, koje u većini slučajeva budu dijeljene sa Instagrama. Takođe se primjeti i da sve manje ljudi iz ove populacije zapravo čita početnu stranicu, te su korisnici sada većinom fokusirani na Facebook grupe, prvenstveno zbog toga što tu nema filtriranja vijesti. Korisnici sve više odustaju od objavljivanja sadržaja baš zbog tih algoritama. Vrlo je teško da će neki vaš _post_ postati popularan ako ništa prije toga niste objavili u posljednjih mjesec dana. Potrebna je predanost i aktivnost da bi bili čitani. Zbog toga je većina mojih prijatelja počela da traži alternativne metode da bi bili čitani.
 
