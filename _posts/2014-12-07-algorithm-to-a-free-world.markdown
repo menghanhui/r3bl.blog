@@ -5,10 +5,7 @@ date: 2014-12-07 03:41:07+00:00
 layout: post
 slug: algorithm-to-a-free-world
 title: Through the Algorithm (2014) To a Free World
-categories:
-- About me
-- Cyber Security
-- Human Hacking
+categories: en
 tags:
 - hacking
 - free culture
@@ -44,7 +41,7 @@ I'm going to end the post by sharing the last couple of sentences from the post 
 
 
 > When everything is free there won’t be any poor. There won’t be any wealth inequalities. There won’t be people starving because anyone can just print food. People won’t go into debt for the rest of their life to go to college because we’ll have equal access to information and art. There will be no tricking the ignorant because people won’t be ignorant because information will be free.
-
+>
 > I’m crazy enough to believe I can help change the world. And the world I want is when the future is free!”
 
 **EDIT:** The whole movie is now released completely free and you can watch it from YouTube right here:
