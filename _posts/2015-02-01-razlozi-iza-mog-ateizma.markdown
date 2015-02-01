@@ -53,3 +53,5 @@ Dakle, za mene je odbacivanje vjere bio jedan (a i najvažniji) od koraka koje s
 Na kraju, želim da citiram sam sebe (koliko god to glupo zvučalo) tako što što ću navesti jednu rečenicu koju obožavam da izgovaram:
 
 > Možda nisam najljepši, možda nisam najzgodniji, možda imam svoje poroke, međutim, imam mozak i znam kako da ga iskoristim.
+
+**EDIT:** 1.2.2015. 21:23 - [Relevantna slika](https://i.imgur.com/mpQA0.jpg) (prevelika da je ubacim unutar članka).
