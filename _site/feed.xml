@@ -4,13 +4,62 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://r3bl.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://r3bl.github.io" />
-<updated>2015-02-02T02:21:40+01:00</updated>
+<updated>2015-02-02T03:48:52+01:00</updated>
 <id>http://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
   <uri>http://r3bl.github.io/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[New Goal: To Learn Something New Every Single Day]]></title>
+ <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/learn-something-every-day/" />
+  <id>http://r3bl.github.io/en/learn-something-every-day</id>
+  <published>2015-02-02T03:38:10+01:00</published>
+  <updated>2015-02-02T03:38:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>http://r3bl.github.io</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.marksanborn.com/wp-content/uploads/2012/12/learning-priorities-Development.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, this was actually not a part of my goals for 2015, but it &lt;em&gt;is&lt;/em&gt; something that I thought of in the meantime.&lt;/p&gt;
+
+&lt;p&gt;I love learning and I love dedicating my free time to learn something new. Currently, I’m really enjoying learning about artificial intelligence, which is definitely one of the most promising technology-related topics there is. I’m intrigued and amazed by every single new line that I read about it and I’m probably going to keep up with the learning of artificial intelligence for quite some time.&lt;/p&gt;
+
+&lt;p&gt;So, today, it got me wondered, why not pledge to learn something new every single day?&lt;/p&gt;
+
+&lt;p&gt;And I really mean &lt;em&gt;every&lt;/em&gt;. &lt;em&gt;single&lt;/em&gt;. &lt;em&gt;day&lt;/em&gt;. No breaks, no vacations, no nothing. I love learning and I have developed a habit of learning something new at least once a week. So, why don’t I kick it up a notch?&lt;/p&gt;
+
+&lt;p&gt;Starting from today (well, actually, I have been learning something new for a few days in a row now), I’ve decided to learn something new every single day out of the topics I’m interested in. I’ve devoted my last month into getting quite a lot of books that are interesting to me, so now, I’m going to start reading them a day after day. One page a day is better than none.&lt;/p&gt;
+
+&lt;p&gt;I want to build a healthy habit that could help me throughout my career and this is the way of accomplishing it I’m completely comfortable with.&lt;/p&gt;
+
+&lt;p&gt;So, starting from today, you can expect me to push at least one commit to &lt;a href=&quot;https://github.com/aleksandar-todorovic/notes/&quot;&gt;my notes repository&lt;/a&gt; every day. That repository already has over 5,000 words written in it and the list is only going to get bigger and bigger as I’m going to research as much interesting topics as possible.&lt;/p&gt;
+
+&lt;p&gt;During the weekends, I’m going to review my notes from the previous week, simplifying them and shortening them if needed. After I start to organize my time in an efficient way, I’m going to start to &lt;a href=&quot;http://ejohn.org/blog/write-code-every-day/&quot;&gt;write code every day&lt;/a&gt;, and, in a couple of months, I should know much more than I know currently in a wide variety of topics.&lt;/p&gt;
+
+&lt;p&gt;I should emphasize that my goal is not to become an expert in a specific topic. My goal is to have a reasonable amount of knowledge in every single topic I can think of. My goal is to stop asking myself how something works. My goal is to start &lt;em&gt;learning&lt;/em&gt; how something works on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;Who knows, if I work &lt;em&gt;really&lt;/em&gt; hard, I might even be able to get a summer internship in some company that I deeply admire.&lt;/p&gt;
+
+&lt;p&gt;At the end of the post, I’m going to share my short-term goals with the public, to make sure that I make them a reality and to get an even higher inspiration:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pass every subject from my first semester in the first half of February (two of them left, my finals are starting in five days).&lt;/li&gt;
+  &lt;li&gt;Start the coding challenge that I’ve mentioned before by the end of February.&lt;/li&gt;
+  &lt;li&gt;Pass every subject from my second semester by the end of the first half of April (again, only two of them left).&lt;/li&gt;
+  &lt;li&gt;Have a decent amount of knowledge in artificial intelligence by the end of May.&lt;/li&gt;
+  &lt;li&gt;Have a decent amount of proficiency in C / C++ / Vala by the end of June.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m going to update this post every time I accomplish a goal I stated here by adding a check mark (✓) next to it. And, of course, every time I learn something interesting worthy of posting, I will put an update my blog.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/learn-something-every-day/&quot;&gt;New Goal: To Learn Something New Every Single Day&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 02, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1069,37 +1118,6 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;http://www.youtube.com/watch?v=kp7ww3KvccE&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/bs/no-hate-speech-online/&quot;&gt;Pokret protiv govora mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 03, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[CodeCombat – The Most Fun Way To Learn New Programming Language]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/codecombat/" />
-  <id>http://r3bl.github.io/en/codecombat</id>
-  <published>2014-12-02T01:38:30+01:00</published>
-  <updated>2014-12-02T01:38:30+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/about_comic.jpg&quot; alt=&quot;about_comic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you ever programmed in your life, you’ve probably realized that the process of learning a new programming language can become quite a boring thing to do. You already know how to program in X programming language, but you need to learn the syntax of Y language for yourself / for some new project / for some job you want to get? Well, believe it or not, there _is _a fun way to do that.&lt;/p&gt;
-
-&lt;p&gt;I was never a huge fan of video games, but I did like to play a game or two once every few days. I haven’t played a single game for months now. I consider playing games as a huge procrastination. One of the main reasons I switched to Linux (almost completely now) is because I wanted to be more productive, and one of the ways to be more productive is to limit your access to the things that make you procrastinate*.&lt;/p&gt;
-
-&lt;p&gt;But, there’s a certain game that got my attention. It’s called &lt;a href=&quot;http://codecombat.com/&quot;&gt;CodeCombat&lt;/a&gt; and the point of playing this game is to teach you the syntax of a programming language in a very fun way. It’s an open source project (and if you’ve been reading my blog you know how much am I obsessed by everything related to open source) and the game is not limited to one specific programming language. You can select which programming language you want to use. My choice for a new programming language was JavaScript. This is a pretty well done browser game, so you can start playing the game no matter what platform you’re using currently.&lt;/p&gt;
-
-&lt;p&gt;Now I’m not in any way suggesting that this is the best way to learn some programming language, but it pretty much is the most fun way of doing that. So, if you like playing computer games, but you think that you’re waisting your time by playing them instead of learning something, this game is pretty much the best of both worlds.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/trailer_1.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/trailer_1.png&quot; alt=&quot;trailer_1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DISCLAIMER: I’m not saying that gaming on Linux is not possible. I’m a huge fan of the way how Linux gaming is advancing in the last year or two. I’m just having a huge self control over it.&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/codecombat/&quot;&gt;CodeCombat – The Most Fun Way To Learn New Programming Language&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
