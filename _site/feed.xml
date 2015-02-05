@@ -4,13 +4,58 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://r3bl.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://r3bl.github.io" />
-<updated>2015-02-02T03:48:52+01:00</updated>
+<updated>2015-02-03T00:16:14+01:00</updated>
 <id>http://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
   <uri>http://r3bl.github.io/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Is Artificial Intelligence our New FUD?]]></title>
+ <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/ai-as-the-new-fud/" />
+  <id>http://r3bl.github.io/en/ai-as-the-new-fud</id>
+  <published>2015-02-03T00:38:10+01:00</published>
+  <updated>2015-02-03T00:38:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>http://r3bl.github.io</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;It seems like we’re slowly moving from cyber security to artificial intelligence as our new FUD.&lt;/p&gt;
+
+&lt;p&gt;First of all, to those of you who don’t know:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FUD Stands for &lt;strong&gt;F&lt;/strong&gt;ear, &lt;strong&gt;U&lt;/strong&gt;ncertaint and &lt;strong&gt;D&lt;/strong&gt;oubt. It’s a strategic process that attempts to create a negative impression and opinion of a competing organization, an individual, an ideology, or (in this case) a field of technology.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In previous five years (if not even longer), cyber security was the main technology-related FUD topic. People are scared by what hackers can do to them. We constantly hear that those who control the machine, controls the human who operates it. And it is true.&lt;/p&gt;
+
+&lt;p&gt;Today, everything we do is in some way connected to our online activities. We started living in the cyber space, a place without borders, a place without leaders. In this anarchistical system, we found freedom, we found escape and we found comfort. We mitigated to the Internet as much as we can, and we feel amazing doing it. It sets us free. It encurages us to build more, to work more, to accomplish our goals. And if we fail in our mission, we can always use Internet as a space where we can procrastrinate, forget our problems and escape from reality.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Internet is a wonderful place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That is, it was until we started to feel threatened. When we started to feel threatened by hackers, by those big corporations that knows everything we did better than we do, and by those governments that can obtain those information about us from those companies. Suddenly, we started to change the way we use Internet. We started to be more careful. Even though we still have the right to search for anything we want, it is not the same as it used to how. Now, information we post are not anonymous and we no longer have the same amount of privacy as we used to do. Our biggest fears have turned out to be true, and we are kind of scared.&lt;/p&gt;
+
+&lt;p&gt;But, I strongly believe that this kind of scariness is slowly being replaced by something else, something even worse. It is slowly being replaced by the fear of creating a new “computer” that is going to replace us, that is going to destroy us. We’re slowly starting to fear of artificial intelligence.&lt;/p&gt;
+
+&lt;p&gt;I’m not an expert in artificial intelligence and I probably will never be that. I’m just a regular computer science student who loves to research topics that he finds interesting. Not too long ago, I started being interested in Artificial Intelligence, and &lt;em&gt;it was scary&lt;/em&gt;! My wish to learn more about this topic started somewhere in the December of 2014 when I watched a movie called &lt;a href=&quot;http://www.imdb.com/title/tt2209764/&quot;&gt;Transcendence (2014)&lt;/a&gt;. You’ve probably heard about it because it is one of the most popular movies of 2014, and it does have some pretty amazing actors (like Johnny Depp, Rebecca Hall and Morgan Freeman). When I watched that movie, I got scared big time, &lt;em&gt;not&lt;/em&gt; because of the message in this movie, but because of the fact that the story &lt;em&gt;was not&lt;/em&gt; placed in the long distanced future. The story was presented in a way that could happen right now, or five years from now. I’ve decided to learn more about it.&lt;/p&gt;
+
+&lt;p&gt;So, how far &lt;em&gt;are&lt;/em&gt; we really from artificial intelligence? Well, Ray Kurzweil, one of the biggest AI gurus recently predicted that we will create a HLAI (human-level AI) by the year 2025. That’s 10 years for now! That means that 10 years from now we might be able to replicate human brain in a way that a machine can’t be distinquished from a human brain. Beyond that point, we will reach singularity.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The technological singularity is the hypothesis that accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing civilization in an event called the singularity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Singularity is a point where turning back will not be an option. It is a point where we won’t be the only species capable of thinking, and it kind of scares us. Instead of hoping to &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/ai-as-the-new-fud/&quot;&gt;Is Artificial Intelligence our New FUD?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1087,37 +1132,6 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 &lt;/ul&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/anonimnost-nije-rjesenje/&quot;&gt;Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Pokret protiv govora mržnje na internetu]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/bs/no-hate-speech-online/" />
-  <id>http://r3bl.github.io/bs/no-hate-speech-online</id>
-  <published>2014-12-03T01:11:49+01:00</published>
-  <updated>2014-12-03T01:11:49+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png&quot; alt=&quot;nohate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;“Govor mržnje je, govoreći van okvira zakona, svaki govor kojim se napada osoba ili određena grupa osoba na temelju njihovih atributa kao što su spol, etnička pripadnost, religija, rasa, invalidnost ili njihova seksualna orijentacija.”&lt;/p&gt;
-
-&lt;p&gt;Ovo je prevedeni citat iz engleskog članka na Wikipediji za pojam govora mržnje (zašto ne volim domaće Wikipedije je već tema za drugi blog post). E sada kombinujte govor mržnje sa slobodom govora na internetu i dobija se nešto potpuno uznemirujuće.&lt;/p&gt;
-
-&lt;p&gt;Da budemo iskreni, sa govorom mržnje na internetu se susrećemo svakodnevno, dok na skoro pa svakodnevnoj bazi i sami učestvujemo u njima, svjesno ili ne. U digitalnom dobu u kojem tek počinjemo da živimo na našim prostorima govor mržnje postaje jedan od glavnih problema sa kojima se susrećemo. Trajno rješenje ovog problema koje bi se moglo odmah sprovesti jednostavno ne postoji i potrebno je da svako na svoj način doprinese “ljepšem internetu”. Velika je vjerovatnoća da ste čuli onu čuvenu izjavu “internet ne pripada nikome, ali u isto vrijeme internet pripada svima nama”. E pa o tome se i radi, internet je baš onakav kakvim ga mi kreiramo.&lt;/p&gt;
-
-&lt;p&gt;Smatram da je najbolji način da se dođe do rješenja tog problema tako da se zapravo priča o njemu kao o problemu današnjice. Smatrajući da je to jedan od vrlo bitnih problema sa kojima se susrećemo, odlučio sam se priključiti radionicama u mom gradu koje se održavaju pod nazivom &lt;a href=&quot;https://www.facebook.com/pages/No-Hate-Online-No-Hate-Offline/579839252093782&quot;&gt;No Hate Online - No Hate Offline&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Neću zauzimati ogroman dio ovog posta da bih pričao o tome kako su radionice nastale i ko sve stoji iza njih (mada ne isključujem mogućnost da tome posvetim poseban post na blogu) jer smatram da je sama njihova poenta sasvim jasna: okupiti mlade ljude i kroz razgovor sa njima uticati na njih i na ostale mlade ljude oko njih i kroz razgovor se postepeno boriti protiv govora mržnje na internetu. Iako smo svjesni da mi kao grupa ne možemo puno toga da uradimo, smatramo se pojedinicima koji su spremni da načnu tu “pandorinu kutiju”.&lt;/p&gt;
-
-&lt;p&gt;Ovaj post je više introdukcija na neku novu temu kojoj planiram da posvetim prostor na svom blogu nego post koji će konkretno da se bavi problemom. Već imam u glavi pripremljenu temu za sledjećih nekoliko postova, tako da ukoliko vas zanima kako se ja kao pojedinac i mi kao grupa odnosimo prema problemu, obratite pažnju na novu kategoriju postova na blogu pod nazivom &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/category/no-hate-speech-online/&quot;&gt;No Hate Speech Online&lt;/a&gt;, gdje će se nalaziti svi moji postovi vezani za ovu temu na jednom mjestu.&lt;/p&gt;
-
-&lt;p&gt;http://www.youtube.com/watch?v=kp7ww3KvccE&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/bs/no-hate-speech-online/&quot;&gt;Pokret protiv govora mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

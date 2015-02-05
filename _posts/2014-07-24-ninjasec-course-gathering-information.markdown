@@ -7,7 +7,7 @@ slug: ninjasec-course-gathering-information
 title: '[NinjaSec Course] Gathering Information'
 categories: en
 tags:
-- educaion
+- education
 - hacking
 - cybersecurity
 image:
