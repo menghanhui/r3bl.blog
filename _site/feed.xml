@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://r3bl.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://r3bl.github.io" />
-<updated>2015-02-03T00:16:14+01:00</updated>
+<updated>2015-02-05T02:04:29+01:00</updated>
 <id>http://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
@@ -14,9 +14,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Is Artificial Intelligence our New FUD?]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/ai-as-the-new-fud/" />
-  <id>http://r3bl.github.io/en/ai-as-the-new-fud</id>
+  <title type="html"><![CDATA[How AI is Already Changing the World]]></title>
+ <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/ai-already-changing-the-world/" />
+  <id>http://r3bl.github.io/en/ai-already-changing-the-world</id>
   <published>2015-02-03T00:38:10+01:00</published>
   <updated>2015-02-03T00:38:10+01:00</updated>
   <author>
@@ -24,37 +24,51 @@
     <uri>http://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
-  <content type="html">&lt;p&gt;It seems like we’re slowly moving from cyber security to artificial intelligence as our new FUD.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Artificial Intelligence is not only &lt;em&gt;going to&lt;/em&gt; change the world. It already &lt;em&gt;has&lt;/em&gt; changed the world. There’s a lot of difference between those two statements.&lt;/p&gt;
 
-&lt;p&gt;First of all, to those of you who don’t know:&lt;/p&gt;
+&lt;p&gt;To talk about this, first, we need to agree on what Artificial Intelligence really is. As with the pretty much every single topic that has ever existed, there are &lt;em&gt;plenty&lt;/em&gt; of different definitions on what AI really is.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;FUD Stands for &lt;strong&gt;F&lt;/strong&gt;ear, &lt;strong&gt;U&lt;/strong&gt;ncertaint and &lt;strong&gt;D&lt;/strong&gt;oubt. It’s a strategic process that attempts to create a negative impression and opinion of a competing organization, an individual, an ideology, or (in this case) a field of technology.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;You can consider AI to be a human-like robot that operates and thinks as a human, but you will be wrong. You can consider AI to be a computer with feelings, and you will, once again, be wrong.&lt;/p&gt;
 
-&lt;p&gt;In previous five years (if not even longer), cyber security was the main technology-related FUD topic. People are scared by what hackers can do to them. We constantly hear that those who control the machine, controls the human who operates it. And it is true.&lt;/p&gt;
+&lt;p&gt;So, lets start this article by defining AI as a hardware + software combination (or just a software) that takes the input data, processes it in some way that no human intelligence could ever be capable of doing, and then returns the output to the user. Now, you might argue with me that this definition does not represent AI and that it only represents what every single computer program is made for, but I think that you will be wrong.&lt;/p&gt;
 
-&lt;p&gt;Today, everything we do is in some way connected to our online activities. We started living in the cyber space, a place without borders, a place without leaders. In this anarchistical system, we found freedom, we found escape and we found comfort. We mitigated to the Internet as much as we can, and we feel amazing doing it. It sets us free. It encurages us to build more, to work more, to accomplish our goals. And if we fail in our mission, we can always use Internet as a space where we can procrastrinate, forget our problems and escape from reality.&lt;/p&gt;
+&lt;p&gt;We currently do not have any all-purpose AI solution. What this means is that every algorithm and every robot is built with the specific purpose in mind. Take it and put it in some other environment, the one that the programmers and/or engineers haven’t thought of while they were building it, and you got yourself a pretty useless piece of software (+ hardware in some cases).&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;The Internet is a wonderful place.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;That is, it was until we started to feel threatened. When we started to feel threatened by hackers, by those big corporations that knows everything we did better than we do, and by those governments that can obtain those information about us from those companies. Suddenly, we started to change the way we use Internet. We started to be more careful. Even though we still have the right to search for anything we want, it is not the same as it used to how. Now, information we post are not anonymous and we no longer have the same amount of privacy as we used to do. Our biggest fears have turned out to be true, and we are kind of scared.&lt;/p&gt;
-
-&lt;p&gt;But, I strongly believe that this kind of scariness is slowly being replaced by something else, something even worse. It is slowly being replaced by the fear of creating a new “computer” that is going to replace us, that is going to destroy us. We’re slowly starting to fear of artificial intelligence.&lt;/p&gt;
-
-&lt;p&gt;I’m not an expert in artificial intelligence and I probably will never be that. I’m just a regular computer science student who loves to research topics that he finds interesting. Not too long ago, I started being interested in Artificial Intelligence, and &lt;em&gt;it was scary&lt;/em&gt;! My wish to learn more about this topic started somewhere in the December of 2014 when I watched a movie called &lt;a href=&quot;http://www.imdb.com/title/tt2209764/&quot;&gt;Transcendence (2014)&lt;/a&gt;. You’ve probably heard about it because it is one of the most popular movies of 2014, and it does have some pretty amazing actors (like Johnny Depp, Rebecca Hall and Morgan Freeman). When I watched that movie, I got scared big time, &lt;em&gt;not&lt;/em&gt; because of the message in this movie, but because of the fact that the story &lt;em&gt;was not&lt;/em&gt; placed in the long distanced future. The story was presented in a way that could happen right now, or five years from now. I’ve decided to learn more about it.&lt;/p&gt;
-
-&lt;p&gt;So, how far &lt;em&gt;are&lt;/em&gt; we really from artificial intelligence? Well, Ray Kurzweil, one of the biggest AI gurus recently predicted that we will create a HLAI (human-level AI) by the year 2025. That’s 10 years for now! That means that 10 years from now we might be able to replicate human brain in a way that a machine can’t be distinquished from a human brain. Beyond that point, we will reach singularity.&lt;/p&gt;
+&lt;p&gt;To get back to the subject, I strongly think that AI is not something that &lt;em&gt;is going to&lt;/em&gt; change the future. I think that it already has. It is only going to increase the way it changes us and the world around us following the Moore’s law.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The technological singularity is the hypothesis that accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing civilization in an event called the singularity.&lt;/p&gt;
+  &lt;p&gt;Moore’s law is the observation that the power of the computer doubles approximately every two years.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Singularity is a point where turning back will not be an option. It is a point where we won’t be the only species capable of thinking, and it kind of scares us. Instead of hoping to &lt;/p&gt;
+&lt;p&gt;Now there are some different definitions of how long does it take to the computer power to double. Some say that this process lasts only a year, some say that lasts 18 months, and others say that it lasts for two years. The point is that the computer power is increasing constantly at a &lt;em&gt;very&lt;/em&gt; fast rate.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/ai-as-the-new-fud/&quot;&gt;Is Artificial Intelligence our New FUD?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
+&lt;h3 id=&quot;so-how-is-the-world-around-us-changed-with-the-ai&quot;&gt;So, how is the world around us changed with the AI?&lt;/h3&gt;
+
+&lt;p&gt;First of all, we all got smartphones in our pockets. I know, you’re probably tired of hearing this, but todays low-end smartphones &lt;em&gt;are&lt;/em&gt; more powerful than the supercomputers we had as recently as 20 years ago, and we can’t even properly compare the physical size of them (one of them being as big as a room and the other being small enough to fit in a pocket). So, lets take Siri for an example. She is powerful, not powerful enough as a “regular” personal assistant (and by regular I mean human), but she is getting better and better. Her biggest flaw definitely is the speech recognition, which is quite a challenging topic in AI. It is a fine example of AI that runs &lt;em&gt;from your phone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Next example: Google Search. Long time ago, Google stopped offering all around search results and started memorizing what we searched for in the past and started using it to predict the topics we’re interested in searching. As an example, as you might already know, I have hosted my blog for almost six months using my &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/&quot;&gt;Wordpress.com domain&lt;/a&gt;. After that, I have decided to ditch it and to start using my &lt;a href=&quot;http://r3bl.github.io/&quot;&gt;current domain&lt;/a&gt; together with Jekyll blogging platform. After I’ve started searching for some Jekyll tweaks and themes, I kept finding Wordpress tweaks as my top results. This type of AI is not easily recognizable, the search results vary only a little, but it is happening and you are using AI every time you use Google’s search provider. Try looking up your name from two different devices (both running different Google accounts) and see it for yourself.&lt;/p&gt;
+
+&lt;p&gt;Next stop: Google Glass and Google’s self-driving vehicles. After that: that annoying Facebook algorithm that “predicts” people you should add to your friends based on your common interests, your location and with the interaction with your mutual friends. Face recognition? Of course, AI (and it is getting pretty good with it). YouTube video suggestions? Again, AI. Evernote tags? AI. Facebook timeline? AI. Cleverbot? (A pretty stupid use of) AI. Stock markets? We now have AI platforms that advises us which stocks should we buy and which stocks should we sell.&lt;/p&gt;
+
+&lt;p&gt;You see, everything we do online &lt;em&gt;is&lt;/em&gt; starting to be enhanced by AI. That line is not going to decrease over time, it is only going to increase at an exponential rate (as seen in the picture I showed as an example below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.regentsprep.org/regents/math/algebra/AE7/fixpic2.gif&quot; alt=&quot;exponential growth&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;so-what-could-we-expect-in-the-near-future&quot;&gt;So, what could we expect in the near future?&lt;/h3&gt;
+
+&lt;p&gt;Ray Kurzweil is probably the biggest futurist alive. He has received 20 honorary doctorates and he has been awarded by three U.S. presidents. He published seven books, five of which have been national bestsellers. He already predicted some of our achievements and when they’re going to happen. He predicted that computers will be able to beat chess masters in (you guessed it) chess, that we will have WiFi broadly implemented across the world, that there will be self-driving vehicles reaching consumerism (OK, we still have a few years ahead of this, but does anyone really doubt it?), that we will find a way to project images right before our eyes… The list goes on and on. Following Moore’s law, he predicted even more amazing things in the next 25 years.&lt;/p&gt;
+
+&lt;p&gt;He predicts that we will be able to fight most of the known diseases by using nanobots. He predicts that the virtual reality is going to feel 100% real by the 2030s. He says that we will reach a point of singularity probably around 2029. He predicts that the line between the reality and the virtual reality is going to blur out.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Singularity is the hypothesis that accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing civilization in an event called the singularity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;will-ai-destoy-us&quot;&gt;Will AI destoy us?&lt;/h3&gt;
+
+&lt;p&gt;This is probably the most misleading statement in the field of AI. And it is pretty simple to figure out why. We have tons of movies with scenarios in which we created something so powerful that it considered us just as a threat and destroyed us. Take &lt;a href=&quot;http://www.imdb.com/title/tt2209764/&quot;&gt;Transcendence (2014)&lt;/a&gt; as an example (although it doesn’t blindly follow that pattern). But I don’t think that anyone who knows something about AI agrees with it. You see, for the machine to become intelligent, first we need to program it. And I don’t think that anyone with the capacity of creating the real AI is going to try to dominate the world in any way. Our biggest bet probably relies on some huge company like IBM or Google, and I don’t think that they’re going to make such an awful mistake. Most of the AI scientissts and futurists agree with me on that. After all, the goal of AI is not to kill every potential buyer out there. The goal of creating AI is to create something that will exceed human intelligence and help us to find some answers to the questions we’re struggling with for a very long time.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/ai-already-changing-the-world/&quot;&gt;How AI is Already Changing the World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 
