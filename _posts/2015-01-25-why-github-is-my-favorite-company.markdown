@@ -15,6 +15,8 @@ image:
   feature: abstract-1
 ---
 
+The edited version of this article is posted on [Opensource.com](http://opensource.com/): [A beginner's guide to GitHub](http://opensource.com/life/15/2/beginners-guide-github).
+
 In this post I'm going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don't know what GitHub is, you should continue reading this article because I'm going to share with you some of the most popular features GitHub has integrated in their service.
 
 [![GitHub logo](https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png?w=300)](https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png)
