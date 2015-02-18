@@ -1,364 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://r3bl.github.io/en/ai-already-changing-the-world/</loc>
+    <loc>https://r3bl.github.io/en/upgrade-your-curriculum/</loc>
+    <lastmod>2015-02-18T02:07:10+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://r3bl.github.io/en/ai-already-changing-the-world/</loc>
     <lastmod>2015-02-03T00:38:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/learn-something-every-day/</loc>
+    <loc>https://r3bl.github.io/en/learn-something-every-day/</loc>
     <lastmod>2015-02-02T03:38:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/razlozi-iza-mog-ateizma/</loc>
+    <loc>https://r3bl.github.io/bs/razlozi-iza-mog-ateizma/</loc>
     <lastmod>2015-02-01T02:38:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/why-switching-to-github-and-jekyll/</loc>
+    <loc>https://r3bl.github.io/en/why-switching-to-github-and-jekyll/</loc>
     <lastmod>2015-01-25T03:38:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/why-github-is-my-favorite-company/</loc>
+    <loc>https://r3bl.github.io/en/why-github-is-my-favorite-company/</loc>
     <lastmod>2015-01-25T03:38:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/manifesto/</loc>
+    <loc>https://r3bl.github.io/en/manifesto/</loc>
     <lastmod>2015-01-24T23:46:19+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/</loc>
+    <loc>https://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/</loc>
     <lastmod>2015-01-18T22:11:11+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/best-linux-programs-and-services-in-2014/</loc>
+    <loc>https://r3bl.github.io/en/best-linux-programs-and-services-in-2014/</loc>
     <lastmod>2015-01-10T18:19:41+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/advice-for-living-in-this-world/</loc>
+    <loc>https://r3bl.github.io/en/advice-for-living-in-this-world/</loc>
     <lastmod>2015-01-09T19:12:06+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/blog-stats-2014/</loc>
+    <loc>https://r3bl.github.io/en/blog-stats-2014/</loc>
     <lastmod>2015-01-01T01:13:20+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/top-quotes-2014/</loc>
+    <loc>https://r3bl.github.io/en/top-quotes-2014/</loc>
     <lastmod>2014-12-28T01:30:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/</loc>
+    <loc>https://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/</loc>
     <lastmod>2014-12-27T15:08:46+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/</loc>
+    <loc>https://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/</loc>
     <lastmod>2014-12-19T17:04:56+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/</loc>
+    <loc>https://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/</loc>
     <lastmod>2014-12-17T17:38:49+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/</loc>
+    <loc>https://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/</loc>
     <lastmod>2014-12-15T04:56:53+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/</loc>
+    <loc>https://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/</loc>
     <lastmod>2014-12-14T18:54:27+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/material-design-in-linux/</loc>
+    <loc>https://r3bl.github.io/en/material-design-in-linux/</loc>
     <lastmod>2014-12-14T03:02:24+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/algorithm-to-a-free-world/</loc>
+    <loc>https://r3bl.github.io/en/algorithm-to-a-free-world/</loc>
     <lastmod>2014-12-07T04:41:07+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/witcher-2-installation-from-hell/</loc>
+    <loc>https://r3bl.github.io/en/witcher-2-installation-from-hell/</loc>
     <lastmod>2014-12-04T20:56:24+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/anonimnost-nije-rjesenje/</loc>
+    <loc>https://r3bl.github.io/en/anonimnost-nije-rjesenje/</loc>
     <lastmod>2014-12-04T15:40:25+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/no-hate-speech-online/</loc>
+    <loc>https://r3bl.github.io/bs/no-hate-speech-online/</loc>
     <lastmod>2014-12-03T01:11:49+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/codecombat/</loc>
+    <loc>https://r3bl.github.io/en/codecombat/</loc>
     <lastmod>2014-12-02T01:38:30+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/facebook-hack-no3/</loc>
+    <loc>https://r3bl.github.io/en/facebook-hack-no3/</loc>
     <lastmod>2014-11-20T13:38:08+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/im-joining-mozillians/</loc>
+    <loc>https://r3bl.github.io/en/im-joining-mozillians/</loc>
     <lastmod>2014-11-14T18:04:56+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/facebook-hack-no2/</loc>
+    <loc>https://r3bl.github.io/en/facebook-hack-no2/</loc>
     <lastmod>2014-11-13T15:58:56+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/facebook-hack-no1/</loc>
+    <loc>https://r3bl.github.io/en/facebook-hack-no1/</loc>
     <lastmod>2014-11-13T15:41:19+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/changing-the-design/</loc>
+    <loc>https://r3bl.github.io/en/changing-the-design/</loc>
     <lastmod>2014-11-12T23:18:36+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/elementary-os-bosnian-language/</loc>
+    <loc>https://r3bl.github.io/en/elementary-os-bosnian-language/</loc>
     <lastmod>2014-11-11T15:07:18+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/office-giveaway-winners/</loc>
+    <loc>https://r3bl.github.io/en/office-giveaway-winners/</loc>
     <lastmod>2014-11-06T12:03:42+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/get-free-office365-license/</loc>
+    <loc>https://r3bl.github.io/en/get-free-office365-license/</loc>
     <lastmod>2014-10-30T18:40:30+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment/</loc>
+    <loc>https://r3bl.github.io/bs/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment/</loc>
     <lastmod>2014-10-28T15:36:42+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/libre-28-slobodni-softver-i-internet-stvari-1-deo/</loc>
+    <loc>https://r3bl.github.io/bs/libre-28-slobodni-softver-i-internet-stvari-1-deo/</loc>
     <lastmod>2014-10-26T03:30:59+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/what-exactly-is-a-hacker/</loc>
+    <loc>https://r3bl.github.io/en/what-exactly-is-a-hacker/</loc>
     <lastmod>2014-10-18T12:28:54+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/elementary-os-savrsena-distribucija-za-mene/</loc>
+    <loc>https://r3bl.github.io/bs/elementary-os-savrsena-distribucija-za-mene/</loc>
     <lastmod>2014-10-16T22:16:17+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/dronovi-moja-perspektiva/</loc>
+    <loc>https://r3bl.github.io/bs/dronovi-moja-perspektiva/</loc>
     <lastmod>2014-10-16T12:47:39+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/donacijama-mozemo-da-napravimo-razliku/</loc>
+    <loc>https://r3bl.github.io/bs/donacijama-mozemo-da-napravimo-razliku/</loc>
     <lastmod>2014-10-15T20:21:51+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/koje-softverske-firme-vas-kontrolisu/</loc>
+    <loc>https://r3bl.github.io/bs/koje-softverske-firme-vas-kontrolisu/</loc>
     <lastmod>2014-10-15T19:55:07+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/da-li-zivimo-u-cyberpunk-svetu/</loc>
+    <loc>https://r3bl.github.io/bs/da-li-zivimo-u-cyberpunk-svetu/</loc>
     <lastmod>2014-10-15T19:51:45+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/broadening-my-perspective/</loc>
+    <loc>https://r3bl.github.io/en/broadening-my-perspective/</loc>
     <lastmod>2014-10-05T13:32:11+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/ubuntu-utopija-budiubuntu/</loc>
+    <loc>https://r3bl.github.io/bs/ubuntu-utopija-budiubuntu/</loc>
     <lastmod>2014-08-18T03:25:38+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu/</loc>
+    <loc>https://r3bl.github.io/bs/moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu/</loc>
     <lastmod>2014-08-18T02:44:10+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/reading-mission-accomplished/</loc>
+    <loc>https://r3bl.github.io/en/reading-mission-accomplished/</loc>
     <lastmod>2014-08-14T06:05:17+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/67/</loc>
+    <loc>https://r3bl.github.io/en/67/</loc>
     <lastmod>2014-08-10T16:38:28+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/cloud-wars-from-a-consumer-perspective/</loc>
+    <loc>https://r3bl.github.io/en/cloud-wars-from-a-consumer-perspective/</loc>
     <lastmod>2014-08-09T16:22:10+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio/</loc>
+    <loc>https://r3bl.github.io/bs/ko-koga-spijunira-u-politickom-vrhu-bih-2-dio/</loc>
     <lastmod>2014-08-08T22:57:55+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome/</loc>
+    <loc>https://r3bl.github.io/en/mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome/</loc>
     <lastmod>2014-08-08T15:32:27+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/bs/ko-koga-spijunira-u-politickom-vrhu-bih/</loc>
+    <loc>https://r3bl.github.io/bs/ko-koga-spijunira-u-politickom-vrhu-bih/</loc>
     <lastmod>2014-08-08T00:27:08+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/back-to-kubuntu/</loc>
+    <loc>https://r3bl.github.io/en/back-to-kubuntu/</loc>
     <lastmod>2014-08-07T16:50:46+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/papers-we-love/</loc>
+    <loc>https://r3bl.github.io/en/papers-we-love/</loc>
     <lastmod>2014-08-07T01:07:46+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/confession-microsoft-is-not-so-bad/</loc>
+    <loc>https://r3bl.github.io/en/confession-microsoft-is-not-so-bad/</loc>
     <lastmod>2014-08-05T14:02:03+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/sensitive-data-grabber-project/</loc>
+    <loc>https://r3bl.github.io/en/sensitive-data-grabber-project/</loc>
     <lastmod>2014-08-03T15:18:43+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/notes-on-build-your-own-cyber-lab-at-home-course/</loc>
+    <loc>https://r3bl.github.io/en/notes-on-build-your-own-cyber-lab-at-home-course/</loc>
     <lastmod>2014-07-28T15:18:17+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/the-internet-of-insecure-things/</loc>
+    <loc>https://r3bl.github.io/en/the-internet-of-insecure-things/</loc>
     <lastmod>2014-07-27T14:13:30+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/how-hacking-changed-my-life/</loc>
+    <loc>https://r3bl.github.io/en/how-hacking-changed-my-life/</loc>
     <lastmod>2014-07-27T13:47:21+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/about%20me/blogilo-wordpress-integration-is-terrible/</loc>
+    <loc>https://r3bl.github.io/about%20me/blogilo-wordpress-integration-is-terrible/</loc>
     <lastmod>2014-07-27T13:14:52+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/flashback-my-first-steps-in-hacking/</loc>
+    <loc>https://r3bl.github.io/en/flashback-my-first-steps-in-hacking/</loc>
     <lastmod>2014-07-27T12:48:26+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/time-to-take-some-break/</loc>
+    <loc>https://r3bl.github.io/en/time-to-take-some-break/</loc>
     <lastmod>2014-07-26T13:04:16+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/ninjasec-course-gathering-information/</loc>
+    <loc>https://r3bl.github.io/en/ninjasec-course-gathering-information/</loc>
     <lastmod>2014-07-24T14:53:38+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/cyber%20security/ninjasec-course-organizing-information-during-pentest/</loc>
+    <loc>https://r3bl.github.io/cyber%20security/ninjasec-course-organizing-information-during-pentest/</loc>
     <lastmod>2014-07-24T10:10:58+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/starting-an-ethical-hacking-course/</loc>
+    <loc>https://r3bl.github.io/en/starting-an-ethical-hacking-course/</loc>
     <lastmod>2014-07-23T22:50:58+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/about%20me/laverna/</loc>
+    <loc>https://r3bl.github.io/about%20me/laverna/</loc>
     <lastmod>2014-07-20T05:07:04+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/man-networking-is-hard/</loc>
+    <loc>https://r3bl.github.io/en/man-networking-is-hard/</loc>
     <lastmod>2014-07-12T15:06:57+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/en/flashback-my-first-cybersecurity-discovery/</loc>
+    <loc>https://r3bl.github.io/en/flashback-my-first-cybersecurity-discovery/</loc>
     <lastmod>2014-07-12T14:31:36+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/404.html</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/404.html</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/tags/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/tags/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/posts/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/posts/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/about/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/about/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/theme-setup/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/theme-setup/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/stuff-i-like/</loc>
-    <lastmod>2015-02-05T02:04:29+01:00</lastmod>
+    <loc>https://r3bl.github.io/stuff-i-like/</loc>
+    <lastmod>2015-02-18T22:11:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://r3bl.github.io/googlec0553c9bba31fae8.html</loc>
+    <loc>https://r3bl.github.io/googlec0553c9bba31fae8.html</loc>
     <lastmod>2015-02-01T19:34:50+01:00</lastmod>
     <priority>0.6</priority>
   </url>

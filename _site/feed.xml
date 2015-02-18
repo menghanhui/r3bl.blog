@@ -2,26 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Aleksandar Todorović</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://r3bl.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://r3bl.github.io" />
-<updated>2015-02-05T02:04:29+01:00</updated>
-<id>http://r3bl.github.io/</id>
+<link rel="self" type="application/atom+xml" href="https://r3bl.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://r3bl.github.io" />
+<updated>2015-02-18T22:11:15+01:00</updated>
+<id>https://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
-  <uri>http://r3bl.github.io/</uri>
+  <uri>https://r3bl.github.io/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[How and Why You Should Upgrade Your Collage Curriculum]]></title>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/upgrade-your-curriculum/" />
+  <id>https://r3bl.github.io/en/upgrade-your-curriculum</id>
+  <published>2015-02-18T02:07:10+01:00</published>
+  <updated>2015-02-18T02:07:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>https://r3bl.github.io</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;Sure, you might be satisfied with the courses your collage is offering. But what if you’re not? What if you want to improve it? What if you want to learn some skill that your collage is not offering as a part of their program?&lt;/p&gt;
+
+&lt;p&gt;We used to be limited by the courses our collages are offering  us. Sure, if we wanted to learn something new and exciting, we could always buy a book or two and learn a new skill. But, thanks to the Internet, now there is a better way to learn.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-mit-challenge&quot;&gt;The MIT Challenge&lt;/h2&gt;
+
+&lt;p&gt;The MIT Challenge is a project by &lt;a href=&quot;http://www.scotthyoung.com/&quot;&gt;Scott H. Young&lt;/a&gt; that he started in 2011. Explained as short as possible, he tried to replicate MIT’s 4-year Computer Science Curriculum using courses offered by the MIT itself on their &lt;a href=&quot;http://ocw.mit.edu/index.htm&quot;&gt;OpenCourseWare platform&lt;/a&gt;. He managed to successfully replicate a curriculum that’s nearly identical to the curriculum offered by the MIT, and he managed to learn the four year curriculum in a year! For more details, see &lt;a href=&quot;http://www.scotthyoung.com/blog/mit-challenge/&quot;&gt;his blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, you might argue that he didn’t finish MIT program &lt;em&gt;per se&lt;/em&gt;, and you will be right. He did not get an actual diploma from MIT, he never even visited MIT, he graded himself and he did not enjoy any other privileges offered by the MIT as a part of their program. But what he did do is he managed to learn pretty much everything offered by the MIT in under a year for a price that’s &lt;em&gt;a lot&lt;/em&gt; less expensive than actually going to MIT.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/piSLobJfZ3c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When he started the challenge, he believed that the diploma is overrated in todays world (something I completely agree with). It gave him a unique perspective on learning and education, as he said to me in an email response. As far as he knows, nobody was able to replicate his project so far. He proved to himself that he’s capable of doing a lot more than he used to think. He was not interested in an MIT diploma. What he &lt;em&gt;was&lt;/em&gt; interested in was the Computer Science, and he (in his own words) managed to learn a great deal of Computer Science and he perfected his programming skills. Of course, if he wanted to specialize in something, he’d probably need more specific training in that field.&lt;/p&gt;
+
+&lt;p&gt;His idea might be a little extreme, but he might be up to something. He encouraged me to look at my collage curriculum from a critical point of view. This is why I have decided to improve my curriculum a little bit.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-situation-in-bosnia--herzegovina&quot;&gt;The Situation in Bosnia &amp;amp; Herzegovina&lt;/h2&gt;
+
+&lt;p&gt;Before I talk about a way for you to improve your curriculum, I kind of wanted to tell you a short story of why I have decided to so.&lt;/p&gt;
+
+&lt;p&gt;You’re probably aware that Bosnia &amp;amp; Herzegovina is not very familiar as a country with a good higher education. Here, there’s a constant debate whether or not young people should go to private or state collages. State collages are a little overrated and private collages are considered a joke that anyone is capable of finishing. And I’m not blaming them, because they’re right in 90% of cases. It is nearly impossible to get a job in my country if you finish a private collage in, lets say, law, medicine, or economics, and there’s a good reason for that. But the situation is quite different if you’re learning Computer Science.&lt;/p&gt;
+
+&lt;p&gt;My collage is pretty small and unknown even in my country. We only have about 150 students (in all years), our collage staff is pretty small (I would say that my collage has less than 30 employees), and we don’t actually have the comfort of choosing subjects that we’re going to take.&lt;/p&gt;
+
+&lt;p&gt;Even though our teachers are learning us the knowledge needed to get a job right after getting a collage diploma, we are constantly limited to use a certain tool or to follow a certain path to the solution to a problem. Most of the students are comfortable with it, but I am not, mostly because I don’t feel comfortable with being obliged to use Microsoft’s tools to get the job done (I’m not saying that we’re using Microsoft’s tools &lt;em&gt;exclusively&lt;/em&gt;, but in most of the subjects they are a huge part of our curriculum).&lt;/p&gt;
+
+&lt;p&gt;So what I need to do is to think outside of the box. I needed to find a way to learn specific things to pass my exams, but I also needed to be able to apply my theoretical knowledge in a wider area of situations, using the tools I’m comfortable with and learning the tools outside of my regular curriculum. So what I ended up doing is basically creating a Curriculum 2.0.&lt;/p&gt;
+
+&lt;h2 id=&quot;presenting-you-curriculum-20&quot;&gt;Presenting You: Curriculum 2.0&lt;/h2&gt;
+
+&lt;p&gt;You’ve probably heard about Massive Open Online Courses (MOOCs) somewhere in the past and there’s a good reason for that: MOOCs are an easy way to learn about topics that you’re interested in by attending an online course offered by some of the biggest universities in the world. And there are thousands of them available on platforms like &lt;a href=&quot;https://www.coursera.org/&quot;&gt;Coursera&lt;/a&gt;, &lt;a href=&quot;https://www.edx.org/&quot;&gt;Edx&lt;/a&gt;, &lt;a href=&quot;https://www.udacity.com/&quot;&gt;Udacity&lt;/a&gt; and &lt;a href=&quot;https://www.udemy.com/&quot;&gt;Udemy&lt;/a&gt;. Most of them are offered free of charge to anyone who’s interested in learning. All you need to do is to pay a small fee if you’re interested in getting a certificate as a way of proving that you’ve successfully finished them.&lt;/p&gt;
+
+&lt;p&gt;But why not take it to another level, like Scott taught us? If you’re not satisfied with your course curriculum, why not taking an online course at the same time as your course in collage? What you’ll end up doing is learning the same thing from two different sources. By doing so, you’re not obliged to follow a specific rule to get the job done. You can learn two or more ways of doing the same thing. You can become proficient in more programming languages then you’re going to learn in collage. You can learn about algorithms from a wide variety of resources. What you’ll end up doing is passing the course and getting a certificate from two different universities for learning basically the same thing.&lt;/p&gt;
+
+&lt;p&gt;Of course, this is not an easy task and you’ll run into lots of problems. You’ll have to learn to be proficient in your time management skills. You’ll have to study more and you’ll have to have a high level of productivity a day after day. I ended up taking a year off just to perfect my skills in areas where I thought I need to improve. But after going through all of this hustle, I finally think that I’m ready to incorporate all of that in my curriculum. In the meantime, I managed to improve my English proficiency, to practice my writing skills and to highly increase my level of productivity. I used to spend days without doing anything productive. Now, more than 50% of time I’m using my laptop is spent by doing something productive (and I know that thanks to this awesome freemuium service called &lt;a href=&quot;https://www.rescuetime.com/&quot;&gt;RescueTime&lt;/a&gt;). Sure, it is far from perfect, but I am improving &lt;em&gt;a lot&lt;/em&gt;. Half of a year later, I’m not regretting my decision to take a year off at all as I have only benefited by doing so.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-whats-my-point&quot;&gt;So, What’s My Point?&lt;/h2&gt;
+
+&lt;p&gt;If you want to learn something new, you &lt;em&gt;can&lt;/em&gt; always find the time to do that. If you want to learn a specific skill, there &lt;em&gt;is&lt;/em&gt; a MOOC that will teach you that. You &lt;em&gt;can&lt;/em&gt; earn a bunch of certificates while you’re in a collage. You can even get a &lt;a href=&quot;https://www.coursera.org/specializations&quot;&gt;specialization&lt;/a&gt; on Coursera or a &lt;a href=&quot;https://www.udacity.com/nanodegree&quot;&gt;nanodegree&lt;/a&gt; on Udacity. And the best thing is, you can do all of this for free or by paying a pretty small fee that probably anyone could afford. If you’re passionate about learning, there’s nothing that could stop you.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/upgrade-your-curriculum/&quot;&gt;How and Why You Should Upgrade Your Collage Curriculum&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 18, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[How AI is Already Changing the World]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/ai-already-changing-the-world/" />
-  <id>http://r3bl.github.io/en/ai-already-changing-the-world</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/ai-already-changing-the-world/" />
+  <id>https://r3bl.github.io/en/ai-already-changing-the-world</id>
   <published>2015-02-03T00:38:10+01:00</published>
   <updated>2015-02-03T00:38:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Artificial Intelligence is not only &lt;em&gt;going to&lt;/em&gt; change the world. It already &lt;em&gt;has&lt;/em&gt; changed the world. There’s a lot of difference between those two statements.&lt;/p&gt;
@@ -68,19 +123,19 @@
 
 &lt;p&gt;This is probably the most misleading statement in the field of AI. And it is pretty simple to figure out why. We have tons of movies with scenarios in which we created something so powerful that it considered us just as a threat and destroyed us. Take &lt;a href=&quot;http://www.imdb.com/title/tt2209764/&quot;&gt;Transcendence (2014)&lt;/a&gt; as an example (although it doesn’t blindly follow that pattern). But I don’t think that anyone who knows something about AI agrees with it. You see, for the machine to become intelligent, first we need to program it. And I don’t think that anyone with the capacity of creating the real AI is going to try to dominate the world in any way. Our biggest bet probably relies on some huge company like IBM or Google, and I don’t think that they’re going to make such an awful mistake. Most of the AI scientissts and futurists agree with me on that. After all, the goal of AI is not to kill every potential buyer out there. The goal of creating AI is to create something that will exceed human intelligence and help us to find some answers to the questions we’re struggling with for a very long time.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/ai-already-changing-the-world/&quot;&gt;How AI is Already Changing the World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/ai-already-changing-the-world/&quot;&gt;How AI is Already Changing the World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[New Goal: To Learn Something New Every Single Day]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/learn-something-every-day/" />
-  <id>http://r3bl.github.io/en/learn-something-every-day</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/learn-something-every-day/" />
+  <id>https://r3bl.github.io/en/learn-something-every-day</id>
   <published>2015-02-02T03:38:10+01:00</published>
   <updated>2015-02-02T03:38:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.marksanborn.com/wp-content/uploads/2012/12/learning-priorities-Development.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -117,19 +172,19 @@
 
 &lt;p&gt;I’m going to update this post every time I accomplish a goal I stated here by adding a check mark (✓) next to it. And, of course, every time I learn something interesting worthy of posting, I will put an update my blog.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/learn-something-every-day/&quot;&gt;New Goal: To Learn Something New Every Single Day&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 02, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/learn-something-every-day/&quot;&gt;New Goal: To Learn Something New Every Single Day&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 02, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Razlozi mog ateizma]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/bs/razlozi-iza-mog-ateizma/" />
-  <id>http://r3bl.github.io/bs/razlozi-iza-mog-ateizma</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/bs/razlozi-iza-mog-ateizma/" />
+  <id>https://r3bl.github.io/bs/razlozi-iza-mog-ateizma</id>
   <published>2015-02-01T02:38:10+01:00</published>
   <updated>2015-02-01T02:38:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Počeo sam da sumnjam kada sam krenuo u prvi razred srednje škole. Išao sam u poprilično jedno-religijsku osnovnu školu, i poslije toga sam se preselio u Brčko, poznato kao jedan od rijetkih gradova gdje sve tri nacionalnosti iz BiH živi zajedno. U početku savršeno, kasnije noćna mora. Iako se ljudi prave da nema podjele, srednjoškolci jedne nacionalnosti idu u jedan kafić, srednjoškolci druge u drugi kafić, srednjoškolci treće vjere u treći kafić. I to je postalo sasvim normalno. Da se razumijemo, ne kažem da su svi posjetioci ta tri kafića koje pominjem bili te vjere, ali procenat je poprilično ogroman da bi se zanemario.&lt;/p&gt;
@@ -180,19 +235,19 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;&lt;strong&gt;EDIT:&lt;/strong&gt; 1.2.2015. 21:23 - &lt;a href=&quot;https://i.imgur.com/mpQA0.jpg&quot;&gt;Relevantna slika&lt;/a&gt; (prevelika da je ubacim unutar članka).&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/bs/razlozi-iza-mog-ateizma/&quot;&gt;Razlozi mog ateizma&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/bs/razlozi-iza-mog-ateizma/&quot;&gt;Razlozi mog ateizma&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combination]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/why-switching-to-github-and-jekyll/" />
-  <id>http://r3bl.github.io/en/why-switching-to-github-and-jekyll</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/why-switching-to-github-and-jekyll/" />
+  <id>https://r3bl.github.io/en/why-switching-to-github-and-jekyll</id>
   <published>2015-01-25T03:38:10+01:00</published>
   <updated>2015-01-25T03:38:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Wordpress was a great platform for the beginning of my blogging experience. The simplicity needed for the creation and maintaining of the Wordpress blog is amazing. It literally took me 10 minutes from the creation of my blog to my first post. But, a few days ago, I’ve decided that it is time for me to switch to something more powerful. I’ve decided to switch to Jekyll blogging platform.&lt;/p&gt;
@@ -235,22 +290,24 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;You can expect some great new things like SSL support, my own domain and a fully customized home page in the near future. And, in the spirit of open source software, every single line of code &lt;a href=&quot;https://github.com/r3bl/r3bl.github.io&quot;&gt;is available&lt;/a&gt; for you to fork and use in your project in any way you want.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/why-switching-to-github-and-jekyll/&quot;&gt;Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combination&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/why-switching-to-github-and-jekyll/&quot;&gt;Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combination&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Reasons Why GitHub is My Favorite Technology-Related Company]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/why-github-is-my-favorite-company/" />
-  <id>http://r3bl.github.io/en/why-github-is-my-favorite-company</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/why-github-is-my-favorite-company/" />
+  <id>https://r3bl.github.io/en/why-github-is-my-favorite-company</id>
   <published>2015-01-25T03:38:10+01:00</published>
   <updated>2015-01-25T03:38:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
-  <content type="html">&lt;p&gt;In this post I’m going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don’t know what GitHub is, you should continue reading this article because I’m going to share with you some of the most popular features GitHub has integrated in their service.&lt;/p&gt;
+  <content type="html">&lt;p&gt;The edited version of this article is posted on &lt;a href=&quot;http://opensource.com/&quot;&gt;Opensource.com&lt;/a&gt;: &lt;a href=&quot;http://opensource.com/life/15/2/beginners-guide-github&quot;&gt;A beginner’s guide to GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this post I’m going to share with you a few reasons why I consider GitHub as my favorite technology-related company. If you still don’t know what GitHub is, you should continue reading this article because I’m going to share with you some of the most popular features GitHub has integrated in their service.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2015/01/github_logo.png?w=300&quot; alt=&quot;GitHub logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -324,19 +381,19 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;Honestly, I don’t think there is. If you’re developing a proprietary software, there are plenty of reasons why you should not post the source code of your application on GitHub. But, that should not stop you from working on open source software in your free time. By doing so, it will benefit you (once you start looking for a new job), it will benefit the developers behind a project that you’ve decided to be a part of, and it will benefit every single user of that open source project. GitHub offers you a wide variety of opportunities and you should take advantage of them!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/why-github-is-my-favorite-company/&quot;&gt;Reasons Why GitHub is My Favorite Technology-Related Company&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/why-github-is-my-favorite-company/&quot;&gt;Reasons Why GitHub is My Favorite Technology-Related Company&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Manifesto]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/manifesto/" />
-  <id>http://r3bl.github.io/en/manifesto</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/manifesto/" />
+  <id>https://r3bl.github.io/en/manifesto</id>
   <published>2015-01-24T23:46:19+01:00</published>
   <updated>2015-01-24T23:46:19+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Across my Reddit feed, I came up with this great article titled &lt;a href=&quot;http://www.wiseism.com/write-personal-manifesto/&quot;&gt;Why You Should Write a Personal Manifesto&lt;/a&gt;, published by &lt;a href=&quot;http://wiseism.com/&quot;&gt;Wiseism&lt;/a&gt;. I feel like this is a great way to keep yourself motivated, so I’ve decided to do just that: to write down my own manifesto.&lt;/p&gt;
@@ -367,19 +424,19 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;I’m also thinking about creating a dark version of the wallpaper. If I decide to make it, I will update this post immediately.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/manifesto/&quot;&gt;My Manifesto&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 24, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/manifesto/&quot;&gt;My Manifesto&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 24, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kako mladi u mom okruženju koriste društvene mreže?]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/" />
-  <id>http://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/" />
+  <id>https://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze</id>
   <published>2015-01-18T22:11:11+01:00</published>
   <updated>2015-01-18T22:11:11+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;h2 id=&quot;httpwwwcognitivebrandscomcreativeintelligencewp-contentuploads201408socialnetworksdepositphotos13876565xs-1jpg&quot;&gt;&lt;img src=&quot;http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/h2&gt;
@@ -438,19 +495,19 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;&lt;strong&gt;Napomena&lt;/strong&gt;: Tekst je napisan po uzori na &lt;a href=&quot;https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6&quot;&gt;ovaj tekst&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/&quot;&gt;Kako mladi u mom okruženju koriste društvene mreže?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/bs/kako-mladi-koriste-drustvene-mreze/&quot;&gt;Kako mladi u mom okruženju koriste društvene mreže?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Best (Linux) Programs and Services I've Started Using in 2014.]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/best-linux-programs-and-services-in-2014/" />
-  <id>http://r3bl.github.io/en/best-linux-programs-and-services-in-2014</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/best-linux-programs-and-services-in-2014/" />
+  <id>https://r3bl.github.io/en/best-linux-programs-and-services-in-2014</id>
   <published>2015-01-10T18:19:41+01:00</published>
   <updated>2015-01-10T18:19:41+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;In this post, I’m going to share with you a couple of programs / web services / apps that I’ve started using regularly in 2014. I’ve discovered some of them in 2013, but in 2014 I really started to use them on a regular basis. I hope that you will find something for yourself in my list.&lt;/p&gt;
@@ -507,19 +564,19 @@ ukoliko je moja nacija drugačija od njene
 
 &lt;p&gt;You might also enjoy reading the &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/28/top-quotes-2014/&quot;&gt;Top Motivational Quotes I’ve Discovered in 2014&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/best-linux-programs-and-services-in-2014/&quot;&gt;Best (Linux) Programs and Services I've Started Using in 2014.&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/best-linux-programs-and-services-in-2014/&quot;&gt;Best (Linux) Programs and Services I've Started Using in 2014.&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Advice for living in this world (by Quinn Norton)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/advice-for-living-in-this-world/" />
-  <id>http://r3bl.github.io/en/advice-for-living-in-this-world</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/advice-for-living-in-this-world/" />
+  <id>https://r3bl.github.io/en/advice-for-living-in-this-world</id>
   <published>2015-01-09T19:12:06+01:00</published>
   <updated>2015-01-09T19:12:06+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Wow, this is the first time (although I can’t guarantee you that it will be the last) that I’m going to share with you a story that was &lt;em&gt;not&lt;/em&gt; written by myself. And there’s an excellent reason for that. I don’t think that I’ve read a single story (or an article if you please) that had so much influence on me about today’s technology. It was written by &lt;a href=&quot;http://en.wikipedia.org/wiki/Quinn_Norton&quot;&gt;&lt;strong&gt;Quinn Norton&lt;/strong&gt;&lt;/a&gt; and published in a book called &lt;a href=&quot;http://www.shareconference.net/en/news/share-book&quot;&gt;&lt;strong&gt;Share This Book (2012)&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&quot;http://www.shareconference.net/en&quot;&gt;&lt;strong&gt;Share Foundation&lt;/strong&gt;&lt;/a&gt;. Please, read it thoroughly. I promise you that you &lt;em&gt;will&lt;/em&gt; be amazed by this astonishing piece of writing.&lt;/p&gt;
@@ -555,19 +612,19 @@ how we manage unmanageable nature-- even if we supposedly built it. Without them
 
 Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/advice-for-living-in-this-world/&quot;&gt;Advice for living in this world (by Quinn Norton)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 09, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/advice-for-living-in-this-world/&quot;&gt;Advice for living in this world (by Quinn Norton)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 09, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Blog Stats for the Year 2014. (Happy 2015!)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/blog-stats-2014/" />
-  <id>http://r3bl.github.io/en/blog-stats-2014</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/blog-stats-2014/" />
+  <id>https://r3bl.github.io/en/blog-stats-2014</id>
   <published>2015-01-01T01:13:20+01:00</published>
   <updated>2015-01-01T01:13:20+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;This blog is active since July the 12th (so almost a half of a year).&lt;/p&gt;
@@ -680,19 +737,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Loving the support I’m getting from you guys and those numbers definitely suggest to me that I should keep posting. Thanks to every single one of you guys and a happy 2015!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/blog-stats-2014/&quot;&gt;Blog Stats for the Year 2014. (Happy 2015!)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/blog-stats-2014/&quot;&gt;Blog Stats for the Year 2014. (Happy 2015!)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Top Motivational Quotes I Discovered in 2014]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/top-quotes-2014/" />
-  <id>http://r3bl.github.io/en/top-quotes-2014</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/top-quotes-2014/" />
+  <id>https://r3bl.github.io/en/top-quotes-2014</id>
   <published>2014-12-28T01:30:10+01:00</published>
   <updated>2014-12-28T01:30:10+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;So, everybody is sharing a list of something they came up with in the year behind them. I’m going to step it up a little. I present to you a very special list of mine. I represent to you the list of quotes that kept me motivated and inspired in 2014. This list is _very _special to me and I’ve decided to give it to you guys as a reward for reading my blog.&lt;/p&gt;
@@ -769,19 +826,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;You might also want to check out &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2015/01/10/best-linux-programs-and-services-in-2014/&quot;&gt;Best (Linux) Programs and Services I’ve Started Using in 2014&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/top-quotes-2014/&quot;&gt;Top Motivational Quotes I Discovered in 2014&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/top-quotes-2014/&quot;&gt;Top Motivational Quotes I Discovered in 2014&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Every One of Us Changes the World in One Way or Another]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/" />
-  <id>http://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/" />
+  <id>https://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another</id>
   <published>2014-12-27T15:08:46+01:00</published>
   <updated>2014-12-27T15:08:46+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;blockquote&gt;We are all raindrops. We might seem small and insignificant, but together we have the power of the world.&lt;/blockquote&gt;
@@ -798,19 +855,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;blockquote&gt;A man has two deaths. The first time when he physically dies, and the second time when his name is mentioned for the last time.&lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/&quot;&gt;Every One of Us Changes the World in One Way or Another&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/&quot;&gt;Every One of Us Changes the World in One Way or Another&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Run Your Own Copy of Pirate Bay Now!]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/" />
-  <id>http://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/" />
+  <id>https://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now</id>
   <published>2014-12-19T17:04:56+01:00</published>
   <updated>2014-12-19T17:04:56+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/openbaylogo.jpg&quot; alt=&quot;Open Bay logo&quot; /&gt;&lt;/a&gt;OK, so, as you probably already know, the official Pirate Bay was shut down 10 days ago. There are plenty of articles already covering this subject. I already stated &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/14/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;my opinion on Pirate Bay disappearing for good&lt;/a&gt;, where &lt;a href=&quot;http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/&quot;&gt;I agreed with Peter Sunde&lt;/a&gt; (co-founder and ex-spokesperson of the Pirate Bay).&lt;/p&gt;
@@ -839,19 +896,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;These issues are yet to be resolved. If you do have some suggestions, leave them in the comments bellow or &lt;a href=&quot;https://github.com/isohuntto/openbay/issues/new&quot;&gt;create an issue&lt;/a&gt; on the repository itself. Lets make pirating impossible to stop together!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/&quot;&gt;Run Your Own Copy of Pirate Bay Now!&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/run-your-own-copy-of-pirate-bay-now/&quot;&gt;Run Your Own Copy of Pirate Bay Now!&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/" />
-  <id>http://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/" />
+  <id>https://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja</id>
   <published>2014-12-17T17:38:49+01:00</published>
   <updated>2014-12-17T17:38:49+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;h3 id=&quot;uvod&quot;&gt;Uvod&lt;/h3&gt;
@@ -878,19 +935,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Dozvoljeni su samo tekstovi prema kojima čitaoc nije dužan da se registruje na neki sajt da bi ih pročitao.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/&quot;&gt;Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/bs/dosta-kako-postati-haker-pitanja/&quot;&gt;Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/" />
-  <id>http://r3bl.github.io/cyber%20security/projects/facebook-hack-no4</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/" />
+  <id>https://r3bl.github.io/cyber%20security/projects/facebook-hack-no4</id>
   <published>2014-12-15T04:56:53+01:00</published>
   <updated>2014-12-15T04:56:53+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;So, today I’m going to share with you a trick to DDoS a certain website by using Facebook’s notes feature. The process, although pretty simple, is a bit more complicated than previous posts I wrote in this series.&lt;/p&gt;
@@ -927,19 +984,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/&quot;&gt;Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/cyber%20security/projects/facebook-hack-no4/&quot;&gt;Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Is It Time For The Pirate Bay to Disappear For Good?]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/" />
-  <id>http://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/" />
+  <id>https://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good</id>
   <published>2014-12-14T18:54:27+01:00</published>
   <updated>2014-12-14T18:54:27+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot;&gt;&lt;img src=&quot;https://aleksandartodorovic.files.wordpress.com/2014/12/selection_002.png&quot; alt=&quot;Selection_002&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -964,19 +1021,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;Interesting read by Peter Sunde: &lt;a href=&quot;http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde&quot;&gt;I went to jail for my cause. What did you do?&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;Is It Time For The Pirate Bay to Disappear For Good?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;Is It Time For The Pirate Bay to Disappear For Good?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Material Design in Linux]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/material-design-in-linux/" />
-  <id>http://r3bl.github.io/en/material-design-in-linux</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/material-design-in-linux/" />
+  <id>https://r3bl.github.io/en/material-design-in-linux</id>
   <published>2014-12-14T03:02:24+01:00</published>
   <updated>2014-12-14T03:02:24+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;First of all, I do realize that I’m probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don’t believe me? Well, this video from Google now has well over 2 million views.&lt;/p&gt;
@@ -1001,19 +1058,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;I hope that Sam will continue to work successfully on such a great GTK theme and that we will see more of the material design GTK themes soon!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/material-design-in-linux/&quot;&gt;Material Design in Linux&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/material-design-in-linux/&quot;&gt;Material Design in Linux&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Through the Algorithm (2014) To a Free World]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/algorithm-to-a-free-world/" />
-  <id>http://r3bl.github.io/en/algorithm-to-a-free-world</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/algorithm-to-a-free-world/" />
+  <id>https://r3bl.github.io/en/algorithm-to-a-free-world</id>
   <published>2014-12-07T04:41:07+01:00</published>
   <updated>2014-12-07T04:41:07+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;I like watching movies about hacking. There are only two possible outcomes of me watching this kind of movies: they’re fantastic OR they’re terrible. If the movie is fantastic, I’m going to enjoy it of course. But, if the movie is terrible, I’m going to laugh my ass of how stupidly hacking is displayed in that movie.&lt;/p&gt;
@@ -1048,19 +1105,19 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 
 &lt;p&gt;The movie really got some attention and at the moment of writing this edit it has over 170,000 views.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/algorithm-to-a-free-world/&quot;&gt;Through the Algorithm (2014) To a Free World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/algorithm-to-a-free-world/&quot;&gt;Through the Algorithm (2014) To a Free World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/witcher-2-installation-from-hell/" />
-  <id>http://r3bl.github.io/en/witcher-2-installation-from-hell</id>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/witcher-2-installation-from-hell/" />
+  <id>https://r3bl.github.io/en/witcher-2-installation-from-hell</id>
   <published>2014-12-04T20:56:24+01:00</published>
   <updated>2014-12-04T20:56:24+01:00</updated>
   <author>
     <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
+    <uri>https://r3bl.github.io</uri>
     <email>aleksandar.todorovic@mail.ru</email>
   </author>
   <content type="html">&lt;p&gt;Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I’ve decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on &lt;a href=&quot;http://www.gog.com/&quot;&gt;GOG&lt;/a&gt; and I got the 60% discount deal so the game cost me $7.99 total.&lt;/p&gt;
@@ -1112,40 +1169,7 @@ rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; I love GOG, this text is not an attack on them in any way. This is just a satire text to show you my stupidity.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/witcher-2-installation-from-hell/&quot;&gt;Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu]]></title>
- <link rel="alternate" type="text/html" href="http://r3bl.github.io/en/anonimnost-nije-rjesenje/" />
-  <id>http://r3bl.github.io/en/anonimnost-nije-rjesenje</id>
-  <published>2014-12-04T15:40:25+01:00</published>
-  <updated>2014-12-04T15:40:25+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>http://r3bl.github.io</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;Kao što sam već napisao &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/2014/12/03/no-hate-speech-online/&quot;&gt;u prethodnom postu&lt;/a&gt; u &lt;a href=&quot;https://aleksandartodorovic.wordpress.com/category/no-hate-speech-online/&quot;&gt;No Hate Speech Online&lt;/a&gt; kategoriji, učlanio sam se u radionice čiji je cilj umanjiti govor mržnje na internetu u našoj lokalnoj zajednici. Uspjeli u tome ili ne, glavni cilj radionica jeste da se tema pokrene i da se među nama mladima govor mržnje na internetu shvati kao jedan od problema digitalnog doba. Međutim, &lt;a href=&quot;https://www.youtube.com/watch?v=kp7ww3KvccE&quot;&gt;u videu&lt;/a&gt; kojem sam postavio u prethodnom postu kao jedan od prijedloga se spominje korišćenje pravog identiteta prilikom izražavanja mišljenja na internetu (4:28). Pošto se tome protivim u potpunosti, odlučio sam da preko ovog posta izrazim svoje mišljenje i time potaknem diskusiju na našim sledjećim radionicama.&lt;/p&gt;
-
-&lt;p&gt;Uzeću sebe kao primjer i način na koji ja koristim, kako društvene mreže, tako i ovaj blog. Na nekim od društvenih mreža (Facebook, Google+, ovaj blog i “poslovni” Twitter profil koji koristim za ovaj blog) koristim svoj pravi identitet, dok se na nekim društvenim mrežama ne predstavljam svojim pravim identitetom (Reddit i “lični” Twitter profil).&lt;/p&gt;
-
-&lt;p&gt;Iako podržavam pokret &lt;a href=&quot;http://www.nohatespeechmovement.org/&quot;&gt;protiv govora mržnje na internetu&lt;/a&gt;, još više podržavam slobodu govora na internetu i smatram internet alatom preko kojeg se mogu desiti neke promjene i van virtualnog svijeta. Iako su brojna istraživanja dokazala da je anonimnost na internetu zapravo loša za suzbijanje govora mržnje na internetu*, ne smatram da je rješenje potpuno ukidanje anonimnosti na internetu, iako je to nešto čemu vodeće internet kompanije teže već dugo vremena, počevši od masivne upotrebe Facebook-a pa sve do manje-više bezuspješnog pokušaja uvođenja Google+ računa sa pravim identitetom za ostavljanje komentara na YouTube-u.&lt;/p&gt;
-
-&lt;p&gt;Jedno je sigurno, anonimnost na internetu ima svojih prednosti i mana. Kao jedna od mana svakako jeste ta da će “average Joe” (prosječni korisnik interneta) vrlo vjerovatnije ostavljati manje govora mržnje koristeći svoj pravi identitet nego kada stoji iza anonimnog identiteta, međutim prisiljavanje korisnika servisa da za svoje izražavanje na servisu koriste svoj pravi identitet iza sebe donosi mnogo više mana.&lt;/p&gt;
-
-&lt;p&gt;http://www.youtube.com/watch?v=9I7AGRUPIIE&lt;/p&gt;
-
-&lt;p&gt;Korišćenje svog pravog identiteta u bilo čemu što radimo na internetu umanjuje našu privatnost. Svako od nas ima nešto što želi da sakrije od nekoga. Samim time što iznosimo više problema pod svojim pravim identitetom ne odvlačimo ljude od toga da ljudi o nama šire govore mržnje, već produbljujemo moguće posljedice govora mržnje zato što naše postupke povezujemo direktno sa našim pravim identitetom.&lt;/p&gt;
-
-&lt;p&gt;Iz navedenih razloga smatram da forsiranje korišćenja pravog identiteta nije idealno rješenje. Isto tako ne smatram niti da je potpuna suprotnost toga (potpuna anonimnost na svim internet servisima) idealno rješenje. Smatram da je idealno rješenje dati korisnicima izbor da li žele da koriste svoj pravi identitet ili da ostanu anonimni. Samim time korisnici biraju kako žele da iznesu svoje mišljenje i svojom odlukom odlučuju i o tome koliko lično žele da prime govore mržnje.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Zaključak na osnovu sjećanja, ne mogu trenutno da pronađem neko istraživanje da pokrijem tu izjavu.&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://r3bl.github.io/en/anonimnost-nije-rjesenje/&quot;&gt;Korišćenje pravog identiteta nije pravi način da se spriječi govor mržnje na internetu&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;http://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/witcher-2-installation-from-hell/&quot;&gt;Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
