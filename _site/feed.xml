@@ -4,13 +4,52 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://r3bl.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://r3bl.github.io" />
-<updated>2015-02-19T01:30:31+01:00</updated>
+<updated>2015-02-26T19:21:21+01:00</updated>
 <id>https://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
   <uri>https://r3bl.github.io/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Alan Turing - An Inventor Ahead of its Own Time]]></title>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/alan-turing/" />
+  <id>https://r3bl.github.io/en/alan-turing</id>
+  <published>2015-02-26T03:07:10+01:00</published>
+  <updated>2015-02-26T03:07:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>https://r3bl.github.io</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;A few days ago, while I was watching &lt;a href=&quot;http://en.wikipedia.org/wiki/87th_Academy_Awards&quot;&gt;87th Academy Awards&lt;/a&gt;, I made a list of the movies I really wanted to see. On top of that list was a movie called &lt;a href=&quot;http://www.imdb.com/title/tt2084970/&quot;&gt;The Imitation Game (2014)&lt;/a&gt;. This movie follows the life of &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Turing&quot;&gt;Alan Turing&lt;/a&gt;, the man I deeply admire for a couple of months now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/b/ba/Sackville_Park_Turing_plaque.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just 24 hours ago, I had no idea how much of an influence Alan Turing had, not just to the field of artificial intelligence, but to the history of the world as well, especially in the technology we use today.&lt;/p&gt;
+
+&lt;p&gt;Alan Turing truly was a genius. Probably one of the biggest geniuses in his generation, that is. He had some key contributions in breaking the &lt;a href=&quot;https://en.wikipedia.org/wiki/Enigma_machine&quot;&gt;Enigma machine&lt;/a&gt; during the World War II, which had a huge impact on the result of World War II. He &lt;a href=&quot;http://m.bbc.com/news/technology-18475646&quot;&gt;pioneered&lt;/a&gt; the work in artificial intelligence (even before the term artificial intelligence was established), where he was the first one to discuss the ways of replicating human brain inside of a machine. His papers remain relevant today, 60 years after they were published. &lt;a href=&quot;https://en.wikipedia.org/wiki/Turing_test&quot;&gt;Turing test&lt;/a&gt; (a test which is used to determine is a machine intelligence really indistinguishable from human intelligence) is, of course, named after him as his creator and there’s an annual contest going on each year.&lt;/p&gt;
+
+&lt;p&gt;So, how did the U.K. thank him for his work? By convicting him because of his sexual orientation. He had a choice to accept a hormone treatment or to spend two years in prison. He chose the first option and continued his work.&lt;/p&gt;
+
+&lt;p&gt;He was found dead two years later. Even though it was believed for more than 50 years that he had committed suicide by eating a poisonous apple (allegedly inspired by his favorite fairy tale Snow White and the Seven Dwarfs), there are some indications that his death might be an accident as &lt;a href=&quot;http://m.bbc.com/news/science-environment-18561092&quot;&gt;explained&lt;/a&gt; by Roland Pease.&lt;/p&gt;
+
+&lt;p&gt;Even though the movie has received some excellent reviews and won an Oscar for the Best Adapted Screenplay, not everyone agrees that this movie is historically accurate (as described &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Imitation_Game#Controversy&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;But, this historical inaccuracy managed to convince me to look for more sources and to find more information about his life. Even though there are quite a lot of different views on his life, all of them agree that he had an interesting, out of the ordinary life, and that he managed to do some of the most amazing technological work at the time.&lt;/p&gt;
+
+&lt;p&gt;I really consider him as &lt;a href=&quot;http://m.bbc.com/news/technology-18327261&quot;&gt;the father of computing&lt;/a&gt; and I can’t stop wondering: if he was still alive, would he be completely proud of what we’ve accomplished so far or would he think that we could do much more?&lt;/p&gt;
+
+&lt;p&gt;Anyway, back to the subject. Because of the movie inaccuracy and the fact that there are so many different ways to learn about Alan Turing, I have decided to create a separate repository with a single Markdown document where I will try to put all of the informations about Alan Turing (and his work) that I can find. I really think that he is an important person in history and that more people need to be educated on what he has really accomplished. This is just a small way of helping people to learn.&lt;/p&gt;
+
+&lt;div data-theme=&quot;medium&quot; data-height=&quot;299&quot; data-width=&quot;400&quot; data-github=&quot;aleksandar-todorovic/alan-turing&quot; class=&quot;github-card&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;http://lab.lepture.com/github-cards/widget.js&quot;&gt;&lt;/script&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/alan-turing/&quot;&gt;Alan Turing - An Inventor Ahead of its Own Time&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on February 26, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1106,70 +1145,6 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 &lt;p&gt;The movie really got some attention and at the moment of writing this edit it has over 170,000 views.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/algorithm-to-a-free-world/&quot;&gt;Through the Algorithm (2014) To a Free World&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 07, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)]]></title>
- <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/witcher-2-installation-from-hell/" />
-  <id>https://r3bl.github.io/en/witcher-2-installation-from-hell</id>
-  <published>2014-12-04T20:56:24+01:00</published>
-  <updated>2014-12-04T20:56:24+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>https://r3bl.github.io</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I’ve decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on &lt;a href=&quot;http://www.gog.com/&quot;&gt;GOG&lt;/a&gt; and I got the 60% discount deal so the game cost me $7.99 total.&lt;/p&gt;
-
-&lt;p&gt;The game itself is big, and I mean &lt;em&gt;really _big. I needed to download over 19 gigabytes, but what the heck, I bought it because I wanted to play it, so I went ahead and started the download. On the first try, download failed after 3,5 GB with no apparent reason. My internet connection did not break or anything like that. I felt discouraged but I wanted to give it another go, so I started to download the game, _again&lt;/em&gt;. This time, I downloaded more than 7 GB of data and the download crashed again for no apparent reason.&lt;/p&gt;
-
-&lt;p&gt;There is no official GOG’s Linux download manager for now, but after some searching around I did manage to find the unofficial one called &lt;a href=&quot;https://github.com/Sude-/lgogdownloader/&quot;&gt;lgogdownloader&lt;/a&gt; (thank you GitHub!). So I went ahead and installed it. It’s a fine command line tool and it’s not really hard to figure it out. After spending a half an hour connecting it with my GOG account (don’t blame the developer of this tool, the fault is all mine) the time has come for me to try to download the game for the third time now.&lt;/p&gt;
-
-&lt;p&gt;This time, download was successfully finished and I had the game on my hard drive. Wow, finally, looks like I’m going to be able to play it! So after I extracted the whole 19 gigs of compressed data to a folder I felt very excited. Now all I had to do is to start the game and I’ll be able to play it, right?&lt;/p&gt;
-
-&lt;p&gt;Well, of course not.&lt;/p&gt;
-
-&lt;p&gt;I know what is a launcher file, so I thought that all I needed to do is to give execution privileges to that file and the game should start, right? Well, no, the launcher didn’t start because of some broken dependency. Thanks to the Ubuntu’s huge repository, installing the dependency was not that big of a deal, just a standard &lt;em&gt;apt-get install&lt;/em&gt; command. After that I will finally start the game and that would be it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aaaand finally, the launcher started without any errors in the terminal!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now all I needed to do is to click on Launch Ga… WHAT??? Broken dependency, again? Oh what the hell, &lt;em&gt;sudo apt-get install libsdl2-2.0&lt;/em&gt; should do the trick, right? All done, it’s time to &lt;em&gt;finally&lt;/em&gt; start the game, right?&lt;/p&gt;
-
-&lt;p&gt;WHAT??? The same error &lt;em&gt;again&lt;/em&gt;? But I &lt;em&gt;have&lt;/em&gt; installed &lt;em&gt;libsdl2-__2.0&lt;/em&gt;! Back to Firefox and search for the issue. Oh, so I installed the 64-bit version of the package but I need the 32-bit version to start the game? Sure, no problem, repeating the last command with _:i386 _in the end should do the trick. Start the game again, aaand get a broken dependency error again!&lt;/p&gt;
-
-&lt;p&gt;So looks like I need one more package? OK, this time I won’t repeat the same error, I’ll install the 32-bit version right away. Now I have to admit that after going through such trouble, I do feel kind of frustrated and I just want to play the damn game. My inner hacker is exhausted so he took a nap and woke up 50-year-old grudged man inside of me from the couch. Let’s see if he can finish the installation.&lt;/p&gt;
-
-&lt;p&gt;Of course, GOG laughs at my face and gives me another broken dependency. This time it’s a package called &lt;em&gt;openal&lt;/em&gt;. Sure, no problem, &lt;em&gt;sudo apt-get install openal&lt;/em&gt;. What, not in the repository? Let’s try to Google that. So I did manage to find the renamed package. Looks like it’s called &lt;em&gt;libopenal0a&lt;/em&gt;, so let’s install it. &lt;em&gt;sudo apt-get install libopenal0a&lt;/em&gt;. Wait, no release candidate? Let’s Google some more. And while I’m searching for the solution, let’s look at GOG’s support, might want to contact them if something goes wrong.&lt;/p&gt;
-
-&lt;p&gt;So, the officially supported distros are Ubuntu and Linux Mint. Oh, crap, I’m not using &lt;em&gt;them&lt;/em&gt;, I’m using &lt;a href=&quot;http://elementaryos.org/&quot;&gt;elementary OS&lt;/a&gt;! I don’t think that the support will be willing to help me out, but they do have &lt;em&gt;some&lt;/em&gt; articles posted in their support section and elementary _is _built on top of Ubuntu 14.04, so I might check out those articles while I’m already at the support section.&lt;/p&gt;
-
-&lt;p&gt;Question: &lt;em&gt;How do I start the game I unpacked from a tarball (*.tar.gz)?
-_Solution: _Run ./start.sh&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Oh, wait a second, I don’t have any shell scripts inside my Witcher folder, but I do have the launcher, which is practically the same, right?&lt;/p&gt;
-
-&lt;p&gt;Question: &lt;em&gt;Why do you list required libraries on the game’s product card?
-_Solution: _… We’ll always make sure to include a list of any potentially missing libraries that make up a game’s minimum system requirements.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you GOG! So all I have to do is to find minimum system requirements and I’ll find the list of all packages I need to install and then I’ll be able to run the game! I remember I saw a file called &lt;em&gt;readme_EN.rtf&lt;/em&gt; inside of my Witcher folder. So I opened it up and navigated to system requirements section.&lt;/p&gt;
-
-&lt;p&gt;What??? Linux is not even on this list??? Only requirements for Windows? What the hell? Back to Google-ing. Oh, marvelous! &lt;a href=&quot;http://www.webupd8.org/2014/05/the-witcher-2-assassins-of-kings-game.html&quot;&gt;Webupd8’s article&lt;/a&gt; about the game release for Linux does contain the system requirements section. Now let’s look for that list of packages I need. WAIT WHAT??? THE GAME ONLY SUPPORTS NVIDIA GPUs??? WHY IS THAT INFO NOT SHARED ON GOG’s SITE???&lt;/p&gt;
-
-&lt;p&gt;Oh, it is. Crap.&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;OK, calm down.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;cd ..
-rm -r the_witcher_2&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Note to myself: Next time, buy the damn game on Steam.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; I love GOG, this text is not an attack on them in any way. This is just a satire text to show you my stupidity.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/witcher-2-installation-from-hell/&quot;&gt;Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
