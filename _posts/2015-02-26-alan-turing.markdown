@@ -37,3 +37,5 @@ Anyway, back to the subject. Because of the movie inaccuracy and the fact that t
 
 <div data-theme="medium" data-height="299" data-width="400" data-github="aleksandar-todorovic/alan-turing" class="github-card"></div>
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
+You can find the repository [here](https://github.com/aleksandar-todorovic/alan-turing).
