@@ -20,7 +20,9 @@ elementary OS 0.3 [Freya Beta 2](beta.elementary.io/) is out. However, there are
 
 ## 1. Don't type elementary OS with the capital 'e' or refer to it as eOS
 
-elementary OS really cares about their brand. This is why you should always spell the name elementary with the lowercase letter 'e' (elementary instead of Elementary). Also, don't refer to elementary OS as eOS because you're really going to piss off the developers if you do so.
+elementary OS really cares about their brand. This is why you should always spell the name elementary with the lowercase letter 'e' (elementary instead of Elementary).
+
+Also, don't refer to elementary OS as eOS because developers think that this term is very close to infringing on "iOS". It reminds people on "eMachines" and they don't want to see people making "eApps".
 
 ## 2. Don't store important data in the beta version of elementary OS
 
