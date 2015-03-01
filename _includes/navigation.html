@@ -1,13 +1,13 @@
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
-		<li><a href="https://{{ site.url }}/">Home</a></li>
-		<li><a href="https://r3bl.github.io/about">About Me/Portfolio</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/">Home</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/about">About Me/Portfolio</a></li>
 		<li>
 			<a href="#">My Posts</a>
 			<ul class="dl-submenu">
-				<li><a href="https://{{ site.url }}/posts/">All Posts</a></li>
-				<li><a href="https://{{ site.url }}/tags/">All Tags</a></li>
+				<li><a href="{{ site.url | replace:'http://','https://' }}/posts/">All Posts</a></li>
+				<li><a href="{{ site.url | replace:'http://','https://' }}/tags/">All Tags</a></li>
 			</ul>
 		</li>
 		<li><a href="#">Find Me On...</a>
@@ -19,8 +19,8 @@
 			</ul>
 		</li>
 
-		<li><a href="https://r3bl.github.io/stuff-i-like">Stuff I Like</a></li>
-		<li><a href="https://r3bl.github.io/en/manifesto/">My Manifesto</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/stuff-i-like">Stuff I Like</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/en/manifesto/">My Manifesto</a></li>
 		<li><a href="https://github.com/r3bl/r3bl.github.io"><i class="fa fa-fw fa-code-fork"></i> Fork This Website</a></li>
 
 	</ul><!-- /.dl-menu -->
