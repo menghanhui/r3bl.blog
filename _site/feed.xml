@@ -4,13 +4,52 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://r3bl.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://r3bl.github.io" />
-<updated>2015-02-28T22:52:42+01:00</updated>
+<updated>2015-03-04T16:50:37+01:00</updated>
 <id>https://r3bl.github.io/</id>
 <author>
   <name>Aleksandar Todorović</name>
   <uri>https://r3bl.github.io/</uri>
   <email>aleksandar.todorovic@mail.ru</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Kako ste, blogeri? Regionalno istraživanje blogosfere #Blogometar15]]></title>
+ <link rel="alternate" type="text/html" href="https://r3bl.github.io/bs/blogometar15/" />
+  <id>https://r3bl.github.io/bs/blogometar15</id>
+  <published>2015-03-05T16:46:10+01:00</published>
+  <updated>2015-03-05T16:46:10+01:00</updated>
+  <author>
+    <name>Aleksandar Todorović</name>
+    <uri>https://r3bl.github.io</uri>
+    <email>aleksandar.todorovic@mail.ru</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://proceniweb.com/img/blogometar15/baner.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Svaki treći web sajt na svijetu je blog. Tri od četiri internet korisnika redovno čitaju blogove. Svakog dana objavi se blizu 3.000.000 blog postova. Pet od šest internet “influensera” su blogeri, a na njih najveći uticaj vrše opet drugi blogeri.&lt;/p&gt;
+
+&lt;p&gt;Od 2012. do danas podaci o broju blogera variraju. Uzveši u obzir sve dostupne podatke - na svijetu postoji između 350 miliona i pola milijarde blogova.&lt;/p&gt;
+
+&lt;p&gt;Do momenta kad završite čitanje ovog teksta biće objavljeno preko 20.000 novih blog postova!&lt;/p&gt;
+
+&lt;p&gt;Blogosfera bivše Jugoslavije se do 2008. godine eksponencijalno razvijala. U to vrijeme je brojala do čak 1.000.000 blogova. Ali o blogovima u regionu danas znamo manje nego ikada. Blogeri, ne znamo kako ste, a to je važno!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ne znamo šta blogere muči&lt;/strong&gt;, zbog čega ne pišu češće, &lt;strong&gt;da li se osjećaju sigurno&lt;/strong&gt; da objave šta god žele, da li dobijaju podršku prijatelja i od koga trpe pritiske (ukoliko ih trpe); ne znamo koliko ima blogova, na kojim su platformama, &lt;strong&gt;da li su blogeri i blogerke upoznati sa svojim pravima&lt;/strong&gt;, koliko često su ta njihova prava ugrožena… o Blogerima i blogerkama pouzdano znamo manje nego o bilo kom drugom društvenom mediju. A dok nešto ne izmjerimo, ne možemo ga ni razvijati. Dok ne saznamo kako smo, teško je blogosferu unaprijediti do nivoa najznačajnijeg medija društvenog interneta što bi naša blogosfera sigurno mogla da bude!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Blogeri evo šta možete da uradite u samo 15 minuta za desetine hiljada blogera:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Popunite istraživanje klikom na &lt;a href=&quot;https://www.surveymonkey.com/s/Blogometar15&quot;&gt;LINK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jednostavno napišite blog post kopirajući tekst o Istraživanju (cijeli tekst koji možete kopirati i objaviti na svom blogu, baner, kao i ilustracije možete preuzeti &lt;a href=&quot;http://proceniweb.com/2015/blogometar15#materijal&quot;&gt;OVDJE&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Podijelite link do #Blogometar15 na društvenim mrežama klikom na ovaj &lt;a href=&quot;http://proceniweb.com/2015/blogometar15#podeli&quot;&gt;LINK&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Detaljne rezultate u različitim formatima podijelićemo sa svima vama, uz zadržavanje anonimnosti svakog ispitanika. Za sva pitanja pišite nam na &lt;a href=&quot;blogometar@proceniweb.com&quot;&gt;blogometar@proceniweb.com&lt;/a&gt; Hvala na solidarnosti!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/bs/blogometar15/&quot;&gt;Kako ste, blogeri? Regionalno istraživanje blogosfere #Blogometar15&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on March 05, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -30,7 +69,9 @@
 
 &lt;h2 id=&quot;dont-type-elementary-os-with-the-capital-e-or-refer-to-it-as-eos&quot;&gt;1. Don’t type elementary OS with the capital ‘e’ or refer to it as eOS&lt;/h2&gt;
 
-&lt;p&gt;elementary OS really cares about their brand. This is why you should always spell the name elementary with the lowercase letter ‘e’ (elementary instead of Elementary). Also, don’t refer to elementary OS as eOS because you’re really going to piss off the developers if you do so.&lt;/p&gt;
+&lt;p&gt;elementary OS really cares about their brand. This is why you should always spell the name elementary with the lowercase letter ‘e’ (elementary instead of Elementary).&lt;/p&gt;
+
+&lt;p&gt;Also, don’t refer to elementary OS as eOS because developers think that this term is very close to infringing on “iOS”. It reminds people on “eMachines” and they don’t want to see people making “eApps”.&lt;/p&gt;
 
 &lt;h2 id=&quot;dont-store-important-data-in-the-beta-version-of-elementary-os&quot;&gt;2. Don’t store important data in the beta version of elementary OS&lt;/h2&gt;
 
@@ -1119,43 +1160,6 @@ Rationalism had its run, but it’s just not rational anymore.&lt;/blockquote&gt
 &lt;p&gt;Interesting read by Peter Sunde: &lt;a href=&quot;http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde&quot;&gt;I went to jail for my cause. What did you do?&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/is-it-time-for-the-pirate-bay-to-disappear-for-good/&quot;&gt;Is It Time For The Pirate Bay to Disappear For Good?&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Material Design in Linux]]></title>
- <link rel="alternate" type="text/html" href="https://r3bl.github.io/en/material-design-in-linux/" />
-  <id>https://r3bl.github.io/en/material-design-in-linux</id>
-  <published>2014-12-14T03:02:24+01:00</published>
-  <updated>2014-12-14T03:02:24+01:00</updated>
-  <author>
-    <name>Aleksandar Todorović</name>
-    <uri>https://r3bl.github.io</uri>
-    <email>aleksandar.todorovic@mail.ru</email>
-  </author>
-  <content type="html">&lt;p&gt;First of all, I do realize that I’m probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don’t believe me? Well, this video from Google now has well over 2 million views.&lt;/p&gt;
-
-&lt;p&gt;http://www.youtube.com/watch?v=Q8TXgCzxEnw&lt;/p&gt;
-
-&lt;p&gt;So, what exactly is material design? Well, it’s a &lt;a href=&quot;https://en.wikipedia.org/wiki/Design_language&quot;&gt;design language&lt;/a&gt; developed by Google. The whole point of this design language is that every graphical user interface should be as simple and colorful as possible. The point of that is, of course, to provide users with an interface which is pretty appealing to the eye.&lt;/p&gt;
-
-&lt;p&gt;Google already implemented material design in the newest version of Android called Lollipop. You can easily see the whole point of material design by looking at this excellent &lt;a href=&quot;https://www.youtube.com/watch?v=cLYE3fgWI_4&quot;&gt;Android 5.0 Lollipop Review&lt;/a&gt; done by &lt;a href=&quot;http://www.theverge.com/&quot;&gt;The Verge&lt;/a&gt; guys. The plan for Google is to implement this design language to every single one of their services.&lt;/p&gt;
-
-&lt;p&gt;Linux community embraced the whole material design idea pretty quickly. So, we already have this thing called &lt;a href=&quot;http://quantum-os.github.io/&quot;&gt;Quantum OS&lt;/a&gt; (previously known as Quartz OS). The point of this project is to create an operating system (which will probably be based on Arch Linux) that will follow Google’s own &lt;a href=&quot;http://www.google.com/design/spec/material-design/introduction.html&quot;&gt;material design guidelines&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I remember reading somewhere that it’s not fair to the KDE community to say that they’ve implemented the material design because some of the KDE 5 mockups were out far before Google released the whole material design idea to the public. Anyway, KDE Plasma 5 does seem to fit the concept, as you can see by looking at one of the huge number of YouTube reviews if you search for &lt;a href=&quot;https://www.youtube.com/results?search_query=kde+plasma+5&quot;&gt;KDE Plasma 5&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;And now I came to the whole point of writing this post. I found out about a material design solution that I can implement right now using my current setup. As you may know already, I’m a huge &lt;a href=&quot;http://elementaryos.org/&quot;&gt;elementary OS&lt;/a&gt; fan. elementary uses Pantheon as a DE, which is based on GNOME and uses GTK.&lt;/p&gt;
-
-&lt;p&gt;So, today, &lt;a href=&quot;http://snwh.org/&quot;&gt;Sam Hewitt&lt;/a&gt; published the first GTK theme (at least that I know about) that was created with the goal of implementing the rules of material design. The theme is called &lt;a href=&quot;http://snwh.org/paper/&quot;&gt;Paper&lt;/a&gt; and it’s in alpha stage at the moment. It looks wonderful and I’m pretty happy with how well the theme integrated with my elementary OS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://snwh.org/paper/screenshot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to use it, all you need to do is to extract the folder called Paper in the tarball into your ‘/usr/share/themes’ directory and that’s it. If you experience some problems with the theme, &lt;a href=&quot;https://github.com/snwh/paper-gtk-theme/issues&quot;&gt;this&lt;/a&gt; is the proper place to report bugs.&lt;/p&gt;
-
-&lt;p&gt;I hope that Sam will continue to work successfully on such a great GTK theme and that we will see more of the material design GTK themes soon!&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://r3bl.github.io/en/material-design-in-linux/&quot;&gt;Material Design in Linux&lt;/a&gt; was originally published by Aleksandar Todorović at &lt;a href=&quot;https://r3bl.github.io&quot;&gt;Aleksandar Todorović&lt;/a&gt; on December 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
