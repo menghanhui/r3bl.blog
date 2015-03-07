@@ -4,7 +4,7 @@ comments: true
 date: 2015-03-07 10:10:10+01:00
 layout: post
 slug: OpenWaySi
-title: 'OpenWay.si is Looking for Sponsors and Speakers'
+title: 'OpenWay.si is Looking for Speakers and Sponsors'
 categories: en
 tags:
 - education
