@@ -31,6 +31,8 @@ If you would like to sponsor Open Way, please contact them on the same email add
 
 Application deadline: 24th of March, 2015.
 
+**UPDATE:** You can download their sponsorship brochure [here](http://openway.si/OpenWay-Sponsors.pdf) (_warning:_ the link leads to a _.pdf_ file).
+
 ## More Information
 
 For more information, visit [their website](http://openway.si/) or check out how their last conference went [here](http://2014.openway.si/).
