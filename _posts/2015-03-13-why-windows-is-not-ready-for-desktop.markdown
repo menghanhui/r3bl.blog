@@ -1,7 +1,7 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2015-03-08 14:37:10+01:00
+date: 2015-03-14 01:33:10+01:00
 layout: post
 slug: why-windows-is-not-ready-for-desktop
 title: 'Reasons Why Windows is Not Ready For Desktop'
@@ -9,9 +9,12 @@ categories: en
 tags:
 - Windows
 - humor
+- Linux
+- open source
+- elementary OS
 image:
   feature: abstract-1
-description:
+description: 'We often hear about posts that says why Linux is not ready for desktop. You can read the latest article that really pissed me off here'
 ---
 
 We often hear about posts that says why Linux is not ready for desktop. You can read the latest article that really pissed me off [here](http://fudzilla.com/news/37255-why-linux-still-not-ready-for-desktop). Contacting the author of the article didn't do any good and they have suggested me to write a post as a response to their article. Well, I have decided to do so, but in a way they probably did not have in mind.
