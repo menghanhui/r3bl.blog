@@ -1,7 +1,7 @@
 ---
-author: Aleksandar Todoroviæ
+author: Aleksandar TodoroviÄ‡
 comments: true
-date: 2015-03-14 01:33:10+01:00
+date: 2015-03-27 09:25:10+01:00
 layout: post
 slug: quitting-djing
 title: "I'm quitting DJ-ing for good"
