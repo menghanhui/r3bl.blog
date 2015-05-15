@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://r3bl.github.io/en/evs-netherlands-experience/</loc>
+    <lastmod>2015-05-14T23:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://r3bl.github.io/en/quitting-djing/</loc>
+    <lastmod>2015-03-27T09:25:10+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://r3bl.github.io/en/why-windows-is-not-ready-for-desktop/</loc>
-    <lastmod>2015-03-08T14:37:10+01:00</lastmod>
+    <lastmod>2015-03-14T01:33:10+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -352,49 +362,49 @@
   </url>
   <url>
     <loc>https://r3bl.github.io/404.html</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/tags/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://r3bl.github.io/posts/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://r3bl.github.io/about/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <loc>https://r3bl.github.io/posts/</loc>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/theme-setup/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/stuff-i-like/</loc>
-    <lastmod>2015-03-14T01:31:13+01:00</lastmod>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://r3bl.github.io/about/</loc>
+    <lastmod>2015-05-16T00:50:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/googlec0553c9bba31fae8.html</loc>
-    <lastmod>2015-03-01T02:40:20+01:00</lastmod>
+    <lastmod>2015-05-14T21:59:36+02:00</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
