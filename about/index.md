@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: About Me
 image:
   feature: abstract-1.jpg
 comments: false
