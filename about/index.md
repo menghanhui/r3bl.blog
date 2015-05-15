@@ -8,7 +8,7 @@ modified: 2015-02-19
 ---
 
 You can find the short version of my portfolio by downloading my resume (available in [English](https://drive.google.com/file/d/0By-yP9sfB84VY0cxeGV4THNNbTQ/view?usp=sharing)
-and [Bosnian](https://drive.google.com/file/d/0By-yP9sfB84VWENhQmtJX0x4cTg/view?usp=sharing)). You can also download a pack filled with .pdf versions of my certificates [here](https://drive.google.com/file/d/0By-yP9sfB84VaFdUeU5kUXdTams/view?usp=sharing).
+and [Bosnian](https://drive.google.com/file/d/0By-yP9sfB84VWENhQmtJX0x4cTg/view?usp=sharing) language). You can also download a pack filled with .pdf versions of my certificates [here](https://drive.google.com/file/d/0By-yP9sfB84VaFdUeU5kUXdTams/view?usp=sharing).
 
 ## Summary
 
@@ -58,25 +58,20 @@ I'm a first year student from Bosnia &amp; Herzegovina studying IT engineering a
 
 ## Writing experience
 
-* I'm running a blog for over 7 months now. I have a moderate success in blogging, averaging 150 visitors per day.
-* I wrote an article for [Opensource.com](http://opensource.com/) called [A beginner's guide to GitHub](http://opensource.com/life/15/2/beginners-guide-github). This post managed to get over 10.000 views in just two days and it is in a good path to become the most popular article in February 2015.
+* I'm running a blog for over 10 months now. I have a moderate success in blogging, averaging 150 visitors per day.
+* I wrote an article for [Opensource.com](http://opensource.com/) called [A beginner's guide to GitHub](http://opensource.com/life/15/2/beginners-guide-github). This post managed to get over 10.000 views in just two days, became the [top article of the week](http://opensource.com/life/15/2/top-5-articles-week-february-20) and it was selected as the [top article posted in February 2015](http://opensource.com/community-report-march-2015).
 * I wrote a couple of articles for LiBRE! Magazine -- a regional free software magazine written in Serbian language. You can find my articles in numbers [16](https://libre.lugons.org/index.php/broj_16/), [17](https://libre.lugons.org/index.php/broj_17/), [18](https://libre.lugons.org/index.php/broj_18/), [26](https://libre.lugons.org/index.php/broj-26/), [27](https://libre.lugons.org/index.php/broj-27/) and [28](https://libre.lugons.org/index.php/broj-28/).
 
 ## Volunteering experience
 
 * **Terrain work during the floods in Bosnia & Herzegovina** (2014) - I helped those whose lives were in danger during catastrophic floods that hit my country in May 2014.
 * **No Hate Online - No Hate Offline workshops** (2014) - I have been a part of workshops that were organized in the support of [No Hate Speech Movement](http://nohatespeechmovement.org/) organized by the [PRONI Center for Youth Development](http://nohatespeechmovement.org/) where we discussed the ways of fighting against the hate speech in the online era.
-* **EVS Looking to Future: Springbos** (2015) - I'm expected to be a part of the [EVS](https://en.wikipedia.org/wiki/European_Voluntary_Service) project that takes place in Rijswijk, Netherlands in April 2015, where we will work in the Don Bosco center with 4-16 year old kids and help with the preparation of Springbos festival.
+* **EVS Looking to Future: Springbos** (2015) - I've spent a month volunteering in the Netherlands as a part of the  [European Voluntery Service S](https://en.wikipedia.org/wiki/European_Voluntary_Service) project that took place in Rijswijk and Amsterdam from April 10th 2015 to May 9th 2015, where I helped [Don Bosco Youth Center](http://donboscorijswijk.nl/) to create a fresh and interesting program for the children. We did all sorts of activities, so I have written a short [blog post](https://r3bl.github.io/en/evs-netherlands-experience/) summarizing the project. It truely was a life changing experience.
 
 ## Contact
 
-You can contact me anytime on [aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru).
+You can contact me anytime on [aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru). I'm more than happy to answer to all of your emails.
 
-If you are a privacy aware person and you want our communication to be private, here is my public PGP key:
+You can find me on [Twitter](https://twitter.com/r3bl_) and [Google+](https://plus.google.com/117549842149032938678/). I also have an account on [GitHub](https://plus.google.com/117549842149032938678/) and [LinkedIn](https://plus.google.com/117549842149032938678/), so you can check me out there as well.
 
-    -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG v1
-
-    mQENBFSQ4R8BCADEZirNm74nBFMHsCU/URoO6qXv03qnSmTZ+ZkxX/0eYTXc+TR2rY/+S+kffNkk4Fe/fjaVh4L26NmvaJhfKo1OTtPXZeUivSYPoVGuTyuEYVElyS4C40MdGGYeEKs5TIP+R5B6W/SOp4q1uxSTMWXdPq8B0NZNyxWGVdlfn9NtzZr4wKD7EQNDIwUI2XS4u36+bJ1w1+JmyF650cjXS+/gRFiCjxnUasyX1aGvMN3BDwXSvWXS79ogs7tJarhSoGKPf3KpXceeW1NqeftwRA9iJcaTTiVnEPVd6ng0a+9WL9pC0f5aKal4/br0U+wDQAAOUrk7Z5wL1z1ocR+7wgq1ABEBAAG0NEFsZWtzYW5kYXIgVG9kb3JvdmnEhyA8YWxla3NhbmRhci50b2Rvcm92aWNAbWFpbC5ydT6JAT4EEwECACgFAlSQ4R8CGwMFCQHhM4AGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAAAoJEDM5jMT2EiZEUlQH/0IeS6bjMisOWir1PeZb1b5zK7VWJFbx0QqVk1y94WRl6ZiC9fVDzoK7zAFdBpICDzO8fWJBYvGFnQoyoST3UDlW3NLTRZt6jOiwUjFKwZ8JjsJcjSMRLO7ty9MZ9jajfAIlwp9HPCqUe4zYDElLlIf4Vg1US6P5yOFnhvyyTYZofo0RWMUkdnY+POo4GKseq9sEL4vWEWaYPsW4unnMY1+Ra21997Bi6xt99k7UPCYpmMOQVezG6EkglXyYNrj9lWLko07monfG70G9qu0171QtT0oprMSfW54+PpK+eQlcW9Xf8SM0hvkK3mwCY2Brj+8xQjAH3LR+UAjkqDzf/cu5AQ0EVJDhHwEIALwrmnegWS1XufHcfPjimMVuDrXitp6XYHy1YAdVvdkeQtTkU9Gw+8CHFAWIZ27jZkxCcj+LwXT5ciAh86uR8dW0yRydZLwjtueUUZZxa6MtZh4OQWh7bQcfTUgrNbtGXuqlbkKgeBk83TpPmOn3GkDRH8f/uSzXIVmJ49BxvUDOEAOvFrmmtmUjvSk1UaTOKkmtQN4wUHXll6eGi0hNEvRz6kWSC0EaJTLWqgtQNxU6EQtQJTFSSU1YjlXIjxT3/8pE+H5rNqXhyVQBhKBeDTEXfYBTtIjBmnm76FWnf03SwYGslEyqR8AgGPialvEi8Vf9/oldi43Oh5mU53LJxVEAEQEAAYkBJQQYAQIADwUCVJDhHwIbDAUJAeEzgAAKCRAzOYzE9hImROTLB/97Q0XFjUHDn+Oh7iGokXZV9xj+KMdlOM5Z/gcTlr12PWKvqHwGI7zmPuDq605hjb9IhZy/zdDjij8p+T62imbu8DYatW07bwI8oA70fsvO7xrB3hAsiWuuC2qYhbTCShRotRBoYEzKTQbP4V1Ow7uJ5/WF6dPNJLcs2q6s/9i4ghtAAqHfuTSXQvkjDS1etrwYIyDYagyb7feFCZQWD6+33otCUc0RfscIG07K/cAUnftIZI6MMCkyE2K89dXLzVfU3kqeil+/aU7gj8Wxz8A8Xp/819sP1T+WD+BFiKMlc0/VAHpfVSe0qeXqgKElEUBhxCZUBELqxaiAZkKsHBUm=P11D
-
-    ----- END PUBLIC KEY BLOCK-----
+Finally, I'm a huge fan of reading books, so I have an account on [Goodreads](https://www.goodreads.com/user/show/37688006-aleksandar-todorovi) that allows me to track my reading progress and to post my book reviews there.
