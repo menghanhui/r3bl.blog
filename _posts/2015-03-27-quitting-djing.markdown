@@ -10,7 +10,7 @@ tags:
 - personal
 - music
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 description: "I've been trying to create a career as a DJ for six years now (I can't believe it's been that long!). Now, it is time for me to quit."
 ---
 

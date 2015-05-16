@@ -12,7 +12,7 @@ tags:
 - cs pioneers
 - artificial intelligence
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 A few days ago, while I was watching [87th Academy Awards](http://en.wikipedia.org/wiki/87th_Academy_Awards), I made a list of the movies I really wanted to see. On top of that list was a movie called [The Imitation Game (2014)](http://www.imdb.com/title/tt2084970/). This movie follows the life of [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), the man I deeply admire for a couple of months now.

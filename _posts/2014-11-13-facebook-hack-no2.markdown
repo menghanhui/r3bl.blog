@@ -12,7 +12,7 @@ tags:
 - hacking
 - Facebook
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 As I've already said [in my previous post](https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no1/), In this blog post series I’m going to post about some useful Facebook “hacks” that you can do without ever leaving Facebook at all. I will _not_ be using any external software, website or something similar while posting about this topic.

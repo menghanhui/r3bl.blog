@@ -10,7 +10,7 @@ tags:
 - personal
 - blogging
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 This blog is active since July the 12th (so almost a half of a year).

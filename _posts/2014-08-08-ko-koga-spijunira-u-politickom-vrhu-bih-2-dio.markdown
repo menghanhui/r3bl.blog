@@ -12,7 +12,7 @@ tags:
 - surveillance
 - security
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Došlo je vrijeme za drugi dio članka o tome ko koga špijunira u političkom vrhu BiH. Prvi možete pročitati [ovdje](http://aleksandartodorovic.wordpress.com/2014/08/07/ko-koga-spijunira-u-politickom-vrhu-bih/). Da skratim članak, nepoznat haker preuzeo 40ak gigabajta podataka od firme Gamma koja služi za kreiranje softvera za online špijuniranje koji se naziva FinFisher. Taj softver firma Gamma prodaje isključivo vladama, a među državama kojima je prodala softver se našla i Bosna i Hercegovina.

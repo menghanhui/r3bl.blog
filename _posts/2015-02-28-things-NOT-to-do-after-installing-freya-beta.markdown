@@ -11,8 +11,8 @@ tags:
 - open source
 - elementary OS
 image:
-  feature: abstract-1
-description: elementary OS 0.3 Freya Beta 2 is out. However, there are things you should not do in the current version of elementary OS. You do not want to make the developers angry, do you?
+  feature: abstract-1-3
+description: "elementary OS 0.3 Freya Beta 2 is out. However, there are things you should not do in the current version of elementary OS. You do not want to make the developers angry, do you?"
 ---
 
 ![image](http://i.imgur.com/XAFR4ym.png)

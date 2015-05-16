@@ -12,7 +12,7 @@ tags:
 - productivity
 - human hacking
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Across my Reddit feed, I came up with this great article titled [Why You Should Write a Personal Manifesto](http://www.wiseism.com/write-personal-manifesto/), published by [Wiseism](http://wiseism.com/). I feel like this is a great way to keep yourself motivated, so I've decided to do just that: to write down my own manifesto.

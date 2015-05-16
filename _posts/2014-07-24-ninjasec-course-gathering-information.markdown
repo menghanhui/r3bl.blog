@@ -11,7 +11,7 @@ tags:
 - hacking
 - cybersecurity
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 I know that this post is going to be pretty basic, but it was not very detailed in my head so I wanted to write about it to remember it easier.

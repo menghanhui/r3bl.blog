@@ -13,7 +13,7 @@ tags:
 - open source
 - projects
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 So, apart from writing my first semi-professional paper (which I wrote about – although in Bosnian - [here](https://aleksandartodorovic.wordpress.com/2014/10/28/da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment/)) and organizing a contest on my blog where you could win a couple of Office 365 licenses for free, I started to fall in love into programming again. It's been a couple of months since I programmed _anything_.

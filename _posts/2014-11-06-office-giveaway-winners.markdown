@@ -12,7 +12,7 @@ tags:
 - microsoft
 - linux
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 A few days back I published [this article ](https://aleksandartodorovic.wordpress.com/2014/10/30/get-free-office365-license/)where I created a small giveaway, two Office 365 licenses for two of the best short stories I get.

@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Sites and Projects I like"
-description: "This is the list of sites and projects that I particularly like."
 comments: false
 share: false
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---  
 
 I decided to ditch the classic blogroll, so in this page, I will present you the list of softwares, services, organizations and blogs that I particularly like and use or visit on a regular basis. This page is regularly updated, so keep an eye on it from time to time. I have to warn you that this is a pretty big list, so I've decided to organize it in four different categories.

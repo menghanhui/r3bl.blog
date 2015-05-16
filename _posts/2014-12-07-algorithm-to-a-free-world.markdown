@@ -13,7 +13,7 @@ tags:
 - cybersecurity
 - personal
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 I like watching movies about hacking. There are only two possible outcomes of me watching this kind of movies: they're fantastic OR they're terrible. If the movie is fantastic, I'm going to enjoy it of course. But, if the movie is terrible, I'm going to laugh my ass of how stupidly hacking is displayed in that movie.

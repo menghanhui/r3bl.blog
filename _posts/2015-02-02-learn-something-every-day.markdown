@@ -12,7 +12,7 @@ tags:
 - programming
 - reading
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 ![image](http://www.marksanborn.com/wp-content/uploads/2012/12/learning-priorities-Development.jpg)

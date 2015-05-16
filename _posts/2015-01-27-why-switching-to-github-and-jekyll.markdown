@@ -12,7 +12,7 @@ tags:
 - blogging
 - open source
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Wordpress was a great platform for the beginning of my blogging experience. The simplicity needed for the creation and maintaining of the Wordpress blog is amazing. It literally took me 10 minutes from the creation of my blog to my first post. But, a few days ago, I've decided that it is time for me to switch to something more powerful. I've decided to switch to Jekyll blogging platform.

@@ -12,7 +12,7 @@ tags:
 - confession
 - cybersecurity
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 So, when I was 12 years old (at least I think I was) I didn't have a functioning computer. My father contacted one of my neighbor and he had a spare laptop he didn't use for a long time. He gave it to my family and I finally had something to amuse me.

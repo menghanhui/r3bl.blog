@@ -5,15 +5,13 @@ date: 2014-12-15 03:56:53+00:00
 layout: post
 slug: facebook-hack-no4
 title: 'Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook'
-categories:
-- Cyber Security
-- Projects
+categories: en
 tags:
 - projects
 - Facebook
 - hacking
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 So, today I'm going to share with you a trick to DDoS a certain website by using Facebook's notes feature. The process, although pretty simple, is a bit more complicated than previous posts I wrote in this series.

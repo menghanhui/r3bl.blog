@@ -10,7 +10,7 @@ categories:
 tags:
 - projects
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Today I found out about a great note-taking web-app called [Laverna](https://github.com/Laverna/laverna). It's an open source program that you can just download on your PC and run through your browser*. It has a built-in AES encryption so you can store confidential data in it. All your data will be encrypted using you password. It also supports saving your database in the cloud (via Dropbox or via SecureStorage with more cloud services to be implemented soon).

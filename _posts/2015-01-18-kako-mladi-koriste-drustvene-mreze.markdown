@@ -11,7 +11,7 @@ tags:
 - mladi
 - no hate speech online
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 ## ![](http://www.cognitivebrands.com/CreativeIntelligence/wp-content/uploads/2014/08/SocialNetworksDepositphotos_13876565_xs-1.jpg)

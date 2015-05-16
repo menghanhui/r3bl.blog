@@ -10,7 +10,7 @@ tags:
 - personal
 - religion
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Počeo sam da sumnjam kada sam krenuo u prvi razred srednje škole. Išao sam u poprilično jedno-religijsku osnovnu školu, i poslije toga sam se preselio u Brčko, poznato kao jedan od rijetkih gradova gdje sve tri nacionalnosti iz BiH živi zajedno. U početku savršeno, kasnije noćna mora. Iako se ljudi prave da nema podjele, srednjoškolci jedne nacionalnosti idu u jedan kafić, srednjoškolci druge u drugi kafić, srednjoškolci treće vjere u treći kafić. I to je postalo sasvim normalno. Da se razumijemo, ne kažem da su svi posjetioci ta tri kafića koje pominjem bili te vjere, ali procenat je poprilično ogroman da bi se zanemario.

@@ -13,7 +13,7 @@ tags:
 - linux
 - human hacking
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 ### Uvod

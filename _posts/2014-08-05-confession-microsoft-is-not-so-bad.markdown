@@ -11,7 +11,7 @@ tags:
 - linux
 - personal
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 There's something I need to confess. Even though I'm a hardcore Linux and free software advocate, I have to say that Microsoft, as a company, is not so bad. So, why am I saying this?

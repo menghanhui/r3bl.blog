@@ -12,7 +12,7 @@ tags:
 - motivation
 - productivity
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 description:
 ---
 

@@ -11,7 +11,7 @@ tags:
 - open source
 - projects
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 First of all, I do realize that I'm probably a few months late to talk about this topic. This topic is far from something new and something groundbreaking. Don't believe me? Well, this video from Google now has well over 2 million views.

@@ -14,7 +14,7 @@ tags:
 - open source
 - elementary OS
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Dakle, kao i svaka osoba na ovoj planeti, prije nešto više od godinu dana sam počeo biti bombardovan sa člancima o vijestima koje nam donosi _zviždač_ (eng. whistleblower) Edward Snowden. Saznao sam koliko je NSA duboko zavukla nos u naše guzice. Otprilike u isto vrijeme sam završio srednju školu te samim tim imao ogromnu količinu slobodnog vremena. To vrijeme sam iskoristio da bih se fokusirao na mrežnu sigurnost. Studirajući inženjersku informatiku znao sam da ću prije ili kasnije morati da se odlučim za neki dio računarstva koji me najviše zanima, a oduvijek me fascinirala sigurnost u moderno doba.

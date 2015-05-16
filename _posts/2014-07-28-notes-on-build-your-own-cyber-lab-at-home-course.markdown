@@ -11,7 +11,7 @@ tags:
 - personal
 - cybersecurity
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Recently I finished a free course offered [Cyber Security School Online](http://www.cybersecurityschoolonline.com/) on [Udemy](http://udemy.com/) called [Build Your Own Cyber Lab from Home](https://www.udemy.com/build-your-own-cyber-lab-at-home/#/).

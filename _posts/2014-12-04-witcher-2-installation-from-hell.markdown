@@ -14,7 +14,7 @@ tags:
 - linux
 - gaming
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I've decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on [GOG](http://www.gog.com/) and I got the 60% discount deal so the game cost me $7.99 total.

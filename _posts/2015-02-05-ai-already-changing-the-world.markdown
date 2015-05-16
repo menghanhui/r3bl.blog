@@ -11,7 +11,7 @@ tags:
 - artificial intelligence
 - politics
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Artificial Intelligence is not only _going to_ change the world. It already _has_ changed the world. There's a lot of difference between those two statements.

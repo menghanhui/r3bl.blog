@@ -5,14 +5,13 @@ date: 2015-01-25 02:38:10+00:00
 layout: post
 slug: why-github-is-my-favorite-company
 title: 'Reasons Why GitHub is My Favorite Technology-Related Company'
-wordpress_id: 307
 categories: en
 tags:
 - personal
 - GitHub
 - open source
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 The edited version of this article is posted on [Opensource.com](http://opensource.com/): [A beginner's guide to GitHub](http://opensource.com/life/15/2/beginners-guide-github).

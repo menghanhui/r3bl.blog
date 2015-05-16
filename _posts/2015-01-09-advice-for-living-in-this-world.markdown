@@ -10,7 +10,7 @@ tags:
 - essay
 - personal
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Wow, this is the first time (although I can't guarantee you that it will be the last) that I'm going to share with you a story that was _not_ written by myself. And there's an excellent reason for that. I don't think that I've read a single story (or an article if you please) that had so much influence on me about today's technology. It was written by [**Quinn Norton**](http://en.wikipedia.org/wiki/Quinn_Norton) and published in a book called [**Share This Book (2012)**](http://www.shareconference.net/en/news/share-book) by [**Share Foundation**](http://www.shareconference.net/en). Please, read it thoroughly. I promise you that you _will_ be amazed by this astonishing piece of writing.

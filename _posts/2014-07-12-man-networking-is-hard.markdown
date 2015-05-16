@@ -10,7 +10,7 @@ tags:
 - confession
 - education
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 So, I started my college education last October. First semester I wasn't very good. I passed tree of five subjects I was supposed to pass and I got pretty much amazing grades in the subjects I did pass. But now, during the second semester, I started learning for my Cisco CCNA certificate. That certificate was the reason I decided to go on this collage (although, to be honest, my choice was very limited considering my financial situation at the time).

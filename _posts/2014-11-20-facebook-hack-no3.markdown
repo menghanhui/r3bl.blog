@@ -12,7 +12,7 @@ tags:
 - hacking
 - projects
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 I found out about one more basic Facebook hack. Let's say that you have a friend who locked his profile picture so that nobody could open it, but you're interested to see _how_ that picture looks in full size. Can you do that? Well, thanks to Facebook's constant consern about user privacy, of course you can.

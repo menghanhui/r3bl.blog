@@ -12,7 +12,7 @@ tags:
 - college
 - productivity
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Sure, you might be satisfied with the courses your college is offering. But what if you're not? What if you want to improve it? What if you want to learn some skill that your college is not offering as a part of their program?

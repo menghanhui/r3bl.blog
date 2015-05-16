@@ -11,7 +11,7 @@ tags:
 - education
 - reading
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 Time to take a few days break from learning because I got a hold of a next book in A Song of Ice and Fire series I love so much: A Clash of Kings. I'm a huge Game of Thrones fan and I like books even more!

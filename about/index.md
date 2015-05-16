@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
-image:
-  feature: abstract-1.jpg
+title: "About Me"
 comments: false
-modified: 2015-02-19
+share: false
+image:
+  feature: abstract-1-3
 ---
 
 You can find the short version of my portfolio by downloading my resume (available in [English](https://drive.google.com/file/d/0By-yP9sfB84VY0cxeGV4THNNbTQ/view?usp=sharing)

@@ -13,7 +13,7 @@ tags:
 - Linux
 - Mozilla
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 This is something that's bothering me in the last 20 minutes I guess. Does really everyone think of it just as an alternative to Chrome? To be honest, Chrome is winning the browser market, Apple and Microsoft are trying to stop that, but only with one goal: replacing Chrome with their own solutions. Is there anyone who thinks that a small non-profit organization like Mozilla can do to mess that up?

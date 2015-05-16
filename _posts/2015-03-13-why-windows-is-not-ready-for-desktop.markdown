@@ -13,7 +13,7 @@ tags:
 - open source
 - elementary OS
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 description: 'We often hear about posts that says why Linux is not ready for desktop. You can read the latest article that really pissed me off here'
 ---
 

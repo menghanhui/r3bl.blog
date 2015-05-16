@@ -11,7 +11,7 @@ tags:
 - no hate speech online
 - projects
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 [![nohate](https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png)](https://aleksandartodorovic.files.wordpress.com/2014/12/nohate.png)

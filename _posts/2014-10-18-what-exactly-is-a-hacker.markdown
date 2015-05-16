@@ -14,7 +14,7 @@ tags:
 - open source
 - reading
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 > Not to be confused, hacker is a person who wants to share his knowledge about computers with others. Hacker is every person who thinks in an unconventional way. An idea that a hacker is someone who does something malicious is an idea created in Hollywood.

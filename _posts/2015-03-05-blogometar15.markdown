@@ -10,7 +10,7 @@ tags:
 - blogging
 - personal
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 description: 'Svaki treći web sajt na svijetu je blog. Tri od četiri internet korisnika redovno čitaju blogove. Svakog dana objavi se blizu 3.000.000 blog postova. Pet od šest internet “influensera” su blogeri, a na njih najveći uticaj vrše opet drugi blogeri.'
 ---
 

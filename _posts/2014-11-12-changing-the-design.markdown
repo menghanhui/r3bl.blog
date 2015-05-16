@@ -13,7 +13,7 @@ tags:
 - open source
 - elementary OS
 image:
-  feature: abstract-1
+  feature: abstract-1-3
 ---
 
 I feel pretty cyberpunk-ish lately so I've decided to change the whole look of three most important things to me: my blog, my Twitter account and my desktop.
