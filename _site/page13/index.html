@@ -124,6 +124,94 @@
 <article class="hentry">
   <header>
     <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2014-08-03T15:18:43+02:00"><a href="https://r3bl.github.io/en/sensitive-data-grabber-project/">August 03, 2014</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+        Reading time ~2 minutes
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="https://r3bl.github.io/en/sensitive-data-grabber-project/" rel="bookmark" title="Sensitive Data Grabber Project" itemprop="url">Sensitive Data Grabber Project</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p>So, what I want to present to you today is a project I’m currently working on. What I’m doing is I’m creating a program that will collect all of the sensitive data from the victim’s computer and saves them on a thumb drive. The program is currently being written as a form application using Microsoft’s Visual Basic and .NET framework 4.5. After I finish the beta version, I’m planning on re-writing the program so it will be a console application and it will work with some older .NET framework (I’m not yet sure which .NET framework will I support for now).</p>
+
+<p>Now, what I want to do is to tell you what this program actually does for now and what I’m planning on implementing.</p>
+
+<p>First of all, the program will collect some basic data about victim’s computer. That data includes information like OS version, number of processors, RAM available, username in use, domain name, machine name and similar.</p>
+
+<p>After that, the program will check if you have installed applications that are currently supported. Here is the list:</p>
+
+<ol>
+  <li>
+    <p>Evernote</p>
+  </li>
+  <li>
+    <p>Google Chrome</p>
+  </li>
+  <li>
+    <p>Microsoft OneNote</p>
+  </li>
+  <li>
+    <p>Mozilla Firefox</p>
+  </li>
+  <li>
+    <p>Mozilla Thunderbird</p>
+  </li>
+  <li>
+    <p>Pidgin</p>
+  </li>
+  <li>
+    <p>Steam</p>
+  </li>
+  <li>
+    <p>World of Tanks</p>
+  </li>
+</ol>
+
+<p>The next stop: copying some data! Here’s the list of applications and a current list of sensitive data it will copy:</p>
+
+<ol>
+  <li>
+    <p>Evernote – file containing victim’s current username, email associated with that username and a copy of victim’s current database (implementing it right now).</p>
+  </li>
+  <li>
+    <p>Google Chrome – files containing bookmarks, cookies, history, login data and web data.</p>
+  </li>
+  <li>
+    <p>Microsoft OneNote – the copy of all of the victim’s notebooks.</p>
+  </li>
+  <li>
+    <p>Mozilla Firefox – files containing cookies, addons, form history and downloads history.</p>
+  </li>
+  <li>
+    <p>Mozilla Thunderbird – files containing addons, address book and cookies (planning on supporting of copying all of the emails if a victim uses POP3 instead of IMAP).</p>
+  </li>
+  <li>
+    <p>Pidgin – file containing all of the victim’s usernames and passwords in clear text and a directory where victim’s logs are saved.</p>
+  </li>
+  <li>
+    <p>Steam – configuration file containing a list of all users ever connected on that PC and some decryption keys (not sure what those are for, but I will find it out).</p>
+  </li>
+  <li>
+    <p>World of Tanks – file containing all of your preferences and a folder containing your latest battle results.</p>
+  </li>
+</ol>
+
+<p>So, the program will automatically locate your removable drive and store all of those files in it.</p>
+
+<p>The point of doing that program is to prove that a lot of pretty sensitive data is easily accessible to someone who has a physical access to your Windows machine. Combine those two and the victim gets pwned big time. The program is currently in pre-alpha stage and I don’t recommend anyone using it for now, but if anyone wants to look at the code for now, you can do that <a href="https://github.com/aleksandar-todorovic/SensitiveDataGrabber">here</a>. Once it’s finished, it will be open source (licensed under GPL) and everyone will be able to add programs to the compatibility list.</p>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+<article class="hentry">
+  <header>
+    <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="2014-07-28T15:18:17+02:00"><a href="https://r3bl.github.io/en/notes-on-build-your-own-cyber-lab-at-home-course/">July 28, 2014</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
       
       <span class="entry-reading-time">
@@ -227,36 +315,6 @@
     <p>First of all, sorry about the design of my previous post. I was trying Blogilo as a program for posting entries and the result was horrible! What I did is write down a post in LO Writer (need spelling while I write), copied it to Blogilo and clicked submit. The font was terrible, and I had to edit a post from a web interface because somewhere between my Blogilo and my blog some spaces just disappered!</p>
 
 <p>Anyway, now I’m writing in QTM and I hope the post will be formated better before I write my next post in it.</p>
-
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-
-<article class="hentry">
-  <header>
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="2014-07-27T12:48:26+02:00"><a href="https://r3bl.github.io/en/flashback-my-first-steps-in-hacking/">July 27, 2014</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
-      
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        
-        Reading time ~2 minutes
-      </span><!-- /.entry-reading-time -->
-      
-    </div><!-- /.entry-meta -->
-    
-      <h1 class="entry-title"><a href="https://r3bl.github.io/en/flashback-my-first-steps-in-hacking/" rel="bookmark" title="Flashback: My First Steps in Hacking" itemprop="url">Flashback: My First Steps in Hacking</a></h1>
-    
-  </header>
-  <div class="entry-content">
-    <p>I was always a curious guy. I was always wondering how do some things work, but I just didn’t know how to find out about it. I, at the time, followed Discovery Channel, Viasat Explorer and other scientific shows because I wanted to know more. I would write down everything I thought it was fun to learn in my little notebook as a reference if I needed to learn more about that. I didn’t prepare for doing something like that. That’s why my notes were messy and Icouldn’t do anything about it. And of course, at the time, I did not have a computer or internet or smartphone or anything like that.</p>
-
-<p>So,years later, I finally got internet connection! I was 16 years old back then. Yup, I lived 16 years without the internet and I can’t be happier about it. I had a nice childhood. Anyway, when I finally got an access to the internet, I did spend two years doing nothing and exploring the power of internet. I used Facebook a lot, used Skype, YouTube, and basically got an account in every social site ever. I was senior in high-school when I learned a thing or two about computers. I already mastered Pascal and Delphi, I knew some networking basics and I knew a lot about building my own desktop computer. But in my senior year, I was learning object-oriented programming. And while I was learning Visual Basic (6.0 was theversion my school decided to teach), I needed to do my final exam using Visual Basic, some basic printing app that will connect to MySQL database my friend was doing and print stuff from it on a specifically designed pieces of paper.</p>
-
-<p>I didn’t want to do it Visual Basic 6.0. That version was sooo old! And I needed some support looking things up on the internet! So I decided I should download Visual Studio 2012. And I did. And I learned programming in Visual Basic that’s four or five versions more advanced than the version they taught us in school. I felt so proud!</p>
-
-<p>In the end, I didn’t manage to finish the whole final exam. The app was full of bugs and I didn’t like it. While I was presenting my final work to a couple my teachers I managed to socially engineer them (at the time, I had no idea what social engineering is exactly, but stillmanaged to pull it off) and I got the highest grade <em>without everactually running my program</em>! Damn that felt so good.</p>
-
-<p>After that, my high-school was finished and I had some spare months until my collage begins. I started being curious. I wanted to know what that <em>s _represents in _https</em>. So I started learning, and learning. I did DDoS a couple of websites, did some automated SQL injection using Havij accessed some admin panels using passwords I extracted using Havij and that was pretty much the whole scope of my hacking back then.</p>
 
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->

@@ -37,7 +37,7 @@ We changed each other's perspective and we got to know different cultures in a w
 
 ## What did I get from this experience?
 
-The Netherlands is without a doubt the most liberal country in Europe. LGBT community is well accepted in this country, marihuana is legal and prostitution is considered as nothing more than a regular job over there.
+The Netherlands is without a doubt the most liberal country in Europe. LGBT community is well accepted in this country, marihuana is legal[1] and prostitution is considered as nothing more than a regular job over there.
 
 People don't care where are you from, what religion you believe (or not believe) in, which color you are or whether you are a heterosexual or not. It is a country that fits my ideals perfectly and it was a real pleasure to live there for a month.
 
@@ -58,3 +58,5 @@ In the end, I wanted to say thank you to all of the volunteers that joined me fr
 Thank you for this wonderful opportunity. You've made this month an unforgettable one for me. It was a real pleasure working with you guys and I do hope that this will not be the last time we meet each other.
 
 ![image](https://scontent-vie.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10954454_882743248450878_7612530152981054527_n.jpg?oh=9d9853446a6e20cea2b37ee2ca594d9e&oe=55D34A03)
+
+[1] Correction: After I did some research, I found out that marihuana is _not_ legal in the Netherlands. It is just tolerated, which means that you are allowed to buy and posses a small amount of it without the consequences. As it turns out, Dutch politicians are trying to make the distribution of marihuana products as tough as possible.
