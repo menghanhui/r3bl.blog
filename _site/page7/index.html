@@ -100,7 +100,7 @@
 
 <div class="entry-header">
     <div class="image-credit">
-        Follow me on:&nbsp
+        Find me on:&nbsp
         <a href="https://github.com/aleksandar-todorovic" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
         <a href="https://twitter.com/r3bl_" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
         <a href="https://www.facebook.com/aleksandar.todorovic.r3bl" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
@@ -122,7 +122,116 @@
 </div><!-- /.entry-header -->
 
 <div id="main" role="main">
-  
+  <article class="hentry">
+  <div class="entry-content">
+    <p>I'm an Open Source Advocate with a huge passion for Artificial Intelligence and Cyber Security.
+       I'm a Community Moderator at <a href="http://opensource.com" target="_blank">Opensource.com</a>.
+       I love contributing to open source projects, mostly <a href="http://opensource.com/business/14/12/8-ways-contribute-open-source-without-writing-code" target="_blank">without writing code</a>.
+       I've contributed to a couple of worldy-known open source projects such as <a href="https://reddit.com" target="_blank">Reddit</a>, <a href="https://elementary.io" target="_blank">elementary OS</a>, and the <a href="https://www.torproject.org/" target="_blank">Tor Project</a>.
+       I'm writing content in both English and Bosnian language.
+       So far (aside from this blog of course) I've written content for <a href="http://opensource.com/" target="_blank">Opensource.com</a>, <a href="http://kompjuteras.com/" target="_blank">Kompjuteraš</a> and <a href="https://libre.lugons.org/" target="_blank">LiBRE! magazine</a>.
+    </p>
+    <p><a href="/about">Learn more about me </a> or visit the <a href="/posts">post archive</a>.</p>
+    <p>You can find me on: &nbsp
+      <a href="https://github.com/aleksandar-todorovic" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
+      <a href="https://twitter.com/r3bl_" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
+      <a href="https://www.facebook.com/aleksandar.todorovic.r3bl" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/aleksandartodorovic" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
+      <a href="https://plus.google.com/117549842149032938678/" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
+    </p>
+    
+    
+
+
+
+
+        
+    
+
+<figure class="third">
+    
+    <a href="/images/gallery-1.jpg"><img src="/images/gallery-1.jpg" alt=""></a>
+    
+    <a href="/images/gallery-2.jpg"><img src="/images/gallery-2.jpg" alt=""></a>
+    
+    <a href="/images/gallery-3.jpg"><img src="/images/gallery-3.jpg" alt=""></a>
+    
+    <figcaption></figcaption>
+</figure>
+
+  </div>
+</article>
+
+
+<article class="hentry">
+  <header>
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2014-12-04T20:56:24+01:00"><a href="https://r3bl.github.io/en/witcher-2-installation-from-hell/">December 04, 2014</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+        Reading time ~4 minutes
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="https://r3bl.github.io/en/witcher-2-installation-from-hell/" rel="bookmark" title="Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)" itemprop="url">Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation From Hell)</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p>Today I learned that gaming on Linux is still not very noob friendly. For a long while now I was looking for a first game to buy in my life. I’ve decided for Wither 2: Assassins of Kings. The game costs somewhere near $20 on <a href="http://www.gog.com/">GOG</a> and I got the 60% discount deal so the game cost me $7.99 total.</p>
+
+<p>The game itself is big, and I mean <em>really _big. I needed to download over 19 gigabytes, but what the heck, I bought it because I wanted to play it, so I went ahead and started the download. On the first try, download failed after 3,5 GB with no apparent reason. My internet connection did not break or anything like that. I felt discouraged but I wanted to give it another go, so I started to download the game, _again</em>. This time, I downloaded more than 7 GB of data and the download crashed again for no apparent reason.</p>
+
+<p>There is no official GOG’s Linux download manager for now, but after some searching around I did manage to find the unofficial one called <a href="https://github.com/Sude-/lgogdownloader/">lgogdownloader</a> (thank you GitHub!). So I went ahead and installed it. It’s a fine command line tool and it’s not really hard to figure it out. After spending a half an hour connecting it with my GOG account (don’t blame the developer of this tool, the fault is all mine) the time has come for me to try to download the game for the third time now.</p>
+
+<p>This time, download was successfully finished and I had the game on my hard drive. Wow, finally, looks like I’m going to be able to play it! So after I extracted the whole 19 gigs of compressed data to a folder I felt very excited. Now all I had to do is to start the game and I’ll be able to play it, right?</p>
+
+<p>Well, of course not.</p>
+
+<p>I know what is a launcher file, so I thought that all I needed to do is to give execution privileges to that file and the game should start, right? Well, no, the launcher didn’t start because of some broken dependency. Thanks to the Ubuntu’s huge repository, installing the dependency was not that big of a deal, just a standard <em>apt-get install</em> command. After that I will finally start the game and that would be it.</p>
+
+<p><strong>Aaaand finally, the launcher started without any errors in the terminal!</strong></p>
+
+<p>Now all I needed to do is to click on Launch Ga… WHAT??? Broken dependency, again? Oh what the hell, <em>sudo apt-get install libsdl2-2.0</em> should do the trick, right? All done, it’s time to <em>finally</em> start the game, right?</p>
+
+<p>WHAT??? The same error <em>again</em>? But I <em>have</em> installed <em>libsdl2-__2.0</em>! Back to Firefox and search for the issue. Oh, so I installed the 64-bit version of the package but I need the 32-bit version to start the game? Sure, no problem, repeating the last command with _:i386 _in the end should do the trick. Start the game again, aaand get a broken dependency error again!</p>
+
+<p>So looks like I need one more package? OK, this time I won’t repeat the same error, I’ll install the 32-bit version right away. Now I have to admit that after going through such trouble, I do feel kind of frustrated and I just want to play the damn game. My inner hacker is exhausted so he took a nap and woke up 50-year-old grudged man inside of me from the couch. Let’s see if he can finish the installation.</p>
+
+<p>Of course, GOG laughs at my face and gives me another broken dependency. This time it’s a package called <em>openal</em>. Sure, no problem, <em>sudo apt-get install openal</em>. What, not in the repository? Let’s try to Google that. So I did manage to find the renamed package. Looks like it’s called <em>libopenal0a</em>, so let’s install it. <em>sudo apt-get install libopenal0a</em>. Wait, no release candidate? Let’s Google some more. And while I’m searching for the solution, let’s look at GOG’s support, might want to contact them if something goes wrong.</p>
+
+<p>So, the officially supported distros are Ubuntu and Linux Mint. Oh, crap, I’m not using <em>them</em>, I’m using <a href="http://elementaryos.org/">elementary OS</a>! I don’t think that the support will be willing to help me out, but they do have <em>some</em> articles posted in their support section and elementary _is _built on top of Ubuntu 14.04, so I might check out those articles while I’m already at the support section.</p>
+
+<p>Question: <em>How do I start the game I unpacked from a tarball (*.tar.gz)?
+_Solution: _Run ./start.sh</em></p>
+
+<p>Oh, wait a second, I don’t have any shell scripts inside my Witcher folder, but I do have the launcher, which is practically the same, right?</p>
+
+<p>Question: <em>Why do you list required libraries on the game’s product card?
+_Solution: _… We’ll always make sure to include a list of any potentially missing libraries that make up a game’s minimum system requirements.</em></p>
+
+<p>Thank you GOG! So all I have to do is to find minimum system requirements and I’ll find the list of all packages I need to install and then I’ll be able to run the game! I remember I saw a file called <em>readme_EN.rtf</em> inside of my Witcher folder. So I opened it up and navigated to system requirements section.</p>
+
+<p>What??? Linux is not even on this list??? Only requirements for Windows? What the hell? Back to Google-ing. Oh, marvelous! <a href="http://www.webupd8.org/2014/05/the-witcher-2-assassins-of-kings-game.html">Webupd8’s article</a> about the game release for Linux does contain the system requirements section. Now let’s look for that list of packages I need. WAIT WHAT??? THE GAME ONLY SUPPORTS NVIDIA GPUs??? WHY IS THAT INFO NOT SHARED ON GOG’s SITE???</p>
+
+<p>Oh, it is. Crap.</p>
+
+<p>…</p>
+
+<p>OK, calm down.</p>
+
+<p><em>cd ..
+rm -r the_witcher_2</em></p>
+
+<p>Note to myself: Next time, buy the damn game on Steam.</p>
+
+<p><strong>DISCLAIMER:</strong> I love GOG, this text is not an attack on them in any way. This is just a satire text to show you my stupidity.</p>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
 <article class="hentry">
   <header>
     <div class="entry-meta">
@@ -246,73 +355,31 @@
       
     </div><!-- /.entry-meta -->
     
-      <h1 class="entry-title"><a href="https://r3bl.github.io/en/facebook-hack-no3/" rel="bookmark" title="Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size" itemprop="url">Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size</a></h1>
+      <h1 class="entry-title"><a href="https://r3bl.github.io/en/facebook-hack-no3/" rel="bookmark" title="Basic Facebook Hacks – Profile picture locked? No problem!" itemprop="url">Basic Facebook Hacks – Profile picture locked? No problem!</a></h1>
     
   </header>
   <div class="entry-content">
-    <p>I found out about one more basic Facebook hack. Let’s say that you have a friend who locked his profile picture so that nobody could open it, but you’re interested to see <em>how</em> that picture looks in full size. Can you do that? Well, thanks to Facebook’s constant consern about user privacy, of course you can.</p>
+    <p>I found out about one more basic Facebook hack. Let’s say that you have a friend who locked his profile picture so that nobody could open it, but you want to see his profile picture in full size. Can you do that? Well, thanks to Facebook’s constant concern about the privacy of its users… of course you can!</p>
 
 <p>So, what you need to do? You just need to use this URL:</p>
 
-<p>https://graph.facebook.com/USERNAME/picture?width=800</p>
+<pre><code>https://graph.facebook.com/USERNAME/picture?width=800
+</code></pre>
 
-<p>Of course, you need to replace the string USERNAME with the actual username of the user. You can get that by just opening up that profile and checking the URL in your browser.</p>
+<p>Of course, you need to replace the string <code>USERNAME</code> with the actual username of the user. You can get that by just opening up that profile and checking the URL in your browser.</p>
 
 <p>Of course, this works even if you don’t have that person in your friends.</p>
 
-<p>For the third time, thank you Facebook!</p>
+<p>For the third time, thank you Facebook for carrying about us!</p>
 
 <p>Check out the rest of the Facebook “hacks” here:</p>
 
 <ul>
-  <li>
-    <p><a href="https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no1/">Some Basic Facebook “Hacks” - Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook</a></p>
-  </li>
-  <li>
-    <p><a href="https://aleksandartodorovic.wordpress.com/2014/11/13/facebook-hack-no2/">Some Basic Facebook “Hacks” - Hack no. 2: Find out who’s calling you on your phone by using Facebook</a></p>
-  </li>
-  <li>
-    <p><a href="https://aleksandartodorovic.wordpress.com/2014/12/15/facebook-hack-no4/">Some Basic Facebook “Hacks” – Hack no. 4: DDoS a Website By Using Facebook</a></p>
-  </li>
+  <li><a href="https://r3bl.github.io/en/facebook-hack-no1/">Hack no.1: Check who’s your biggest “stalker” without leaving Facebook</a></li>
+  <li><a href="https://r3bl.github.io/en/facebook-hack-no2">Hack no.2: Find out who’s calling you on your phone by using Facebook</a></li>
+  <li><a href="https://r3bl.github.io/en/facebook-hack-no4/">Hack no.4: DDoS a website By Using Facebook</a></li>
+  <li><a href="https://r3bl.github.io/en/facebook-hack-no5">Hack no.5: Find out the location of your friends at the time they were texting you</a></li>
 </ul>
-
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-
-<article class="hentry">
-  <header>
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="2014-11-14T18:04:56+01:00"><a href="https://r3bl.github.io/en/im-joining-mozillians/">November 14, 2014</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
-      
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        
-        Reading time ~1 minute
-      </span><!-- /.entry-reading-time -->
-      
-    </div><!-- /.entry-meta -->
-    
-      <h1 class="entry-title"><a href="https://r3bl.github.io/en/im-joining-mozillians/" rel="bookmark" title="I'm Joining Mozillians!" itemprop="url">I'm Joining Mozillians!</a></h1>
-    
-  </header>
-  <div class="entry-content">
-    <p>So, this is my second (or maybe even third?) time trying to join the Mozilla community. The previous attempts did not go as I thought they will, so I’m ready to start again. In my previous attempt I tried to contact my local Mozilla community, but they seem to be pretty inactive these days so that attempt didn’t go too well. Anyway, it’s time to try again.</p>
-
-<p><strong>Why do I want to try again exactly?</strong></p>
-
-<p>Well, it’s been a couple of years since I started using Mozilla’s service in every opportunity I get. I’m using Firefox and Thunderbird all of the time, I started chatting on IRC regularly (you can find me on <a href="http://www.freenode.org/">Freenode</a> almost all of the time), I do have some kind of coding skills and thanks to <a href="http://elementaryos.org/">elementary OS</a>, I started to feel pretty confident in testing out beta software. Other than that, I do have a lot of translation experience, translating projects like <a href="https://www.reddit.com/user/r3bl/">reddit</a>, <a href="http://torproject.org/">The Tor Project</a>, <a href="http://elementaryos.org/">elementary OS</a> (and all of the software it contains by default) and the list goes on and on. I also happened to have a lot of free time lately, so the only question is why shouldn’t I help a project that’s doing so much to help us who use free software regularly?</p>
-
-<p><strong>So, what I will be doing then?</strong></p>
-
-<p>I’m going to test out Mozilla’s services as much as I can. I’m going to help my local team to translate all of the products to Bosnian language, and, if I start to feel confident enough, I’m going to start writing some code for Mozilla in my spare time.</p>
-
-<p><strong>Come and join us!</strong></p>
-
-<p>Come and join us at <a href="https://mozillians.org/en-US/">mozillians.org</a>! You can find my freshly created profile there by visiting <a href="https://mozillians.org/en-US/u/aleksandar.todorovic/">this link</a>.</p>
-
-<p>For the start, it’s time for me to stop writing this blog post and check out my mail, join the Mozilla’s IRC and so on and so on. I hope that this attempt is going to be much much better than my previous one and that I’m going to start contributing to Mozilla on a regular basis.</p>
-
-<p><a href="https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png"><img src="https://aleksandartodorovic.files.wordpress.com/2014/11/mozilla.png" alt="" /></a></p>
 
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
