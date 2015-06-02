@@ -14,8 +14,7 @@ image:
   feature: abstract-1-3
 ---
 
-<blockquote>We are all raindrops. We might seem small and insignificant, but together we have the power of the world.</blockquote>
-
+> We are all raindrops. We might seem small and insignificant, but together we have the power of the world.
 
 This is a quote by an unknown author from a book called _[What The Hell is Saint Louis Thinking? (2014)](http://stlcurator.com/henry-goldkamp-what-the-hell-stl/)_. It's an excellent book and I suggest you to read it. Oh, and did I mention that it's free?
 
@@ -23,9 +22,9 @@ I really think that this quote really covers it all. We all shape the world some
 
 I keep hearing that "_I want to change the world_" cliché and frankly, I'm sick of it. It's not about changing the world, changing the world is something that you do _while you're thinking about changing the world_. It's about changing the world _as much as you can_. It's about broadening your change to a much higher spectrum than the average person.
 
-Every action that we take our ancestors took helped to the design the world we live in today. And we need to be quite careful because actions we do _now_ will design the future for our future generations. And every action counts, be it a coffee with someone, writing this, programming something, going to a conference, spending the night drinking, or anything in between.
+Every action that our ancestors took helped to the design the world we live in today. And we need to be quite careful because actions we do _now_ will design the future for our future generations. And every action counts, be it a coffee with someone, writing this post, programming something, going to a conference, spending the night drinking, or anything in between.
 
 I'm going to end this with one more quote. I can't remember where I read it and searching for it on the Internet did not gave me any usable result.
 
 
-<blockquote>A man has two deaths. The first time when he physically dies, and the second time when his name is mentioned for the last time.</blockquote>
+> A man has two deaths. The first time when he physically dies, and the second time when his name is mentioned for the last time.
