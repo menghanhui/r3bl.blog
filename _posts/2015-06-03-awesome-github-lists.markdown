@@ -1,7 +1,7 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2015-06-02 04:30:00+01:00
+date: 2015-06-03 02:00:00+01:00
 layout: post
 slug: awesome-github-lists
 title: "How awesome GitHub lists are making GitHub even more awesome!"
