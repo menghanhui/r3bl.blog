@@ -10,6 +10,7 @@ tags:
 - education
 - open source
 - projects
+- GitHub
 image:
   feature: abstract-1-3
 description:
