@@ -2,14 +2,7 @@
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
 		<li><a href="{{ site.url | replace:'http://','https://' }}/">Home</a></li>
-		<li><a href="{{ site.url | replace:'http://','https://' }}/about">About Me/Portfolio</a></li>
-		<li>
-			<a href="#">My Posts</a>
-			<ul class="dl-submenu">
-				<li><a href="{{ site.url | replace:'http://','https://' }}/posts/">All Posts</a></li>
-				<li><a href="{{ site.url | replace:'http://','https://' }}/tags/">All Tags</a></li>
-			</ul>
-		</li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/about">About Me</a></li>
 		<li><a href="#">Find Me On...</a>
 			<ul class="dl-submenu">
 				<li><a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a></li>
@@ -19,9 +12,11 @@
 				<li><a href="https://plus.google.com/117549842149032938678/posts"><i class="fa fa-fw fa-google-plus"></i> Google+</a></li>
 			</ul>
 		</li>
-
-		<li><a href="{{ site.url | replace:'http://','https://' }}/stuff-i-like">Stuff I Like</a></li>
-		<li><a href="{{ site.url | replace:'http://','https://' }}/en/manifesto/">My Manifesto</a></li>
+		<li><a href="http://aleksandar-todorovic.github.io">Portfolio</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/posts/">Post Archive</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://'}}/my-articles">Articles on Other Websites</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/stuff-i-like">Things I Like</a></li>
+		<li><a href="{{ site.url | replace:'http://','https://' }}/en/manifesto/">Manifesto</a></li>
 		<li><a href="https://github.com/r3bl/r3bl.github.io"><i class="fa fa-fw fa-code-fork"></i> Fork This Website</a></li>
 
 	</ul><!-- /.dl-menu -->

@@ -1,21 +1,20 @@
 title:            Aleksandar Todorović
-description:      Student, hacker and a free culture advocate
+description:      Student. Hacker. Open Source Advocate. Opensource.com Community Moderator
 disqus_shortname: r3bl
 reading_time:     true
 words_per_minute: 200
 
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
 url: https://r3bl.github.io
 
 # Owner/author information
 owner:
   name:           Aleksandar Todorović
   avatar:         avatar2.png
-  bio:            "Student, hacker and a free culture advocate. I love to share my stories with the world."
+  bio:            "Student. Hacker. Open Source Advocate. Opensource.com Community Moderator. I love to share my stories with the world."
   email:          aleksandar.todorovic@mail.ru
-  # Social networking links used in footer. Update and remove as you like.
-  github:           aleksandar-todorovic/
+
+# Social networking links used in footer. Update and remove as you like.
+  github:           aleksandar-todorovic
   twitter:          r3bl_
   linkedin:         aleksandartodorovic
 
