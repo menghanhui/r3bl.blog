@@ -111,7 +111,7 @@ I really do hope that more developers will switch to making applications for ele
 
 ## Some other links
 
-* If you want to find a list of third-party applications developed specifically for elementary OS, go [here](http://hdw.eweb4.com/out/976720.html) or [here](http://madeforelementary.tumblr.com/).
+* If you want to find a list of third-party applications developed specifically for elementary OS, go [here](https://quassy.github.io/elementary-apps/) or [here](http://madeforelementary.tumblr.com/).
 * If you're wondering where you can find my wallpaper, it's [here](http://hdw.eweb4.com/out/976720.html).
 
 If you have any questions about my setup, feel free to leave a comment. I'll be more than happy to help you out.
