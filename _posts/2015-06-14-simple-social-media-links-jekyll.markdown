@@ -96,7 +96,7 @@ Now what these codes will do is they're going to check your `_config.yml` file y
 {% raw %}
 {% if site.linkedin_username %}
   <li>
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}"
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
       <i class="fa fa-linkedin"></i> LinkedIn
     </a>
   </li>
