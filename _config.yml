@@ -14,9 +14,11 @@ owner:
   email:          aleksandar.todorovic@mail.ru
 
 # Social networking links used in footer. Update and remove as you like.
-  github:           aleksandar-todorovic
-  twitter:          r3bl_
-  linkedin:         aleksandartodorovic
+github:           aleksandar-todorovic
+twitter:          r3bl_
+linkedin:         aleksandartodorovic
+facebook:         aleksandar.todorovic.r3bl
+google_plus:      AleksandarTodorovićr3bl
 
 # Background image to be tiled on all pages
 background:

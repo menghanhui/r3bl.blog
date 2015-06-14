@@ -9,13 +9,7 @@
 <meta name="description" content="Student, hacker and a free culture advocate.">
 <meta name="keywords" content="open source, free culture, hacking, artificial intelligence, cyber security">
 
-<!-- Twitter Cards -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://r3bl.github.io/images/abstract-1-3">
 
-<meta name="twitter:title" content="Personal Blog">
-<meta name="twitter:description" content="Student, hacker and a free culture advocate.">
-<meta name="twitter:creator" content="@r3bl_">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -75,8 +69,8 @@
 		<li><a href="https://r3bl.github.io/about">About Me</a></li>
 		<li><a href="#">Find Me On...</a>
 			<ul class="dl-submenu">
-				<li><a href="https://github.com/aleksandar-todorovic"><i class="fa fa-fw fa-github"></i> GitHub</a></li>
-				<li><a href="https://twitter.com/r3bl_"><i class="fa fa-fw fa-twitter"></i> Twitter</a></li>
+				<li><a href="https://github.com/"><i class="fa fa-fw fa-github"></i> GitHub</a></li>
+				<li><a href="https://twitter.com/"><i class="fa fa-fw fa-twitter"></i> Twitter</a></li>
 				<li><a href="https://www.facebook.com/aleksandar.todorovic.r3bl"><i class="fa fa-fw fa-facebook"></i> Facebook</a></li>
 				<li><a href="https://www.linkedin.com/in/aleksandartodorovic"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a></li>
 				<li><a href="https://plus.google.com/117549842149032938678/posts"><i class="fa fa-fw fa-google-plus"></i> Google+</a></li>
@@ -84,9 +78,8 @@
 		</li>
 		<li><a href="http://aleksandar-todorovic.github.io">Portfolio</a></li>
 		<li><a href="https://r3bl.github.io/posts/">Post Archive</a></li>
-		<li><a href="https://r3bl.github.io/my-articles">Articles on Other Websites</a></li>
+		<li><a href="https://r3bl.github.io/my-articles/my-articles.html">Articles on Other Websites</a></li>
 		<li><a href="https://r3bl.github.io/stuff-i-like">Things I Like</a></li>
-		<li><a href="https://r3bl.github.io/en/manifesto/">Manifesto</a></li>
 		<li><a href="https://github.com/r3bl/r3bl.github.io"><i class="fa fa-fw fa-code-fork"></i> Fork This Website</a></li>
 
 	</ul><!-- /.dl-menu -->
@@ -98,9 +91,9 @@
         Find me on:&nbsp
         <a href="https://github.com/aleksandar-todorovic" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
         <a href="https://twitter.com/r3bl_" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
-        <a href="https://www.facebook.com/aleksandar.todorovic.r3bl" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
         <a href="https://www.linkedin.com/in/aleksandartodorovic" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
-        <a href="https://plus.google.com/117549842149032938678/" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
+        <a href="https://plus.google.com/+AleksandarTodorovićr3bl" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
+        <a href="https://www.facebook.com/aleksandar.todorovic.r3bl" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
         <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
     </div>
     <div class="entry-image">
@@ -158,6 +151,149 @@
   </div>
 </article>
 
+
+<article class="hentry">
+  <header>
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2015-06-11T21:10:00+02:00"><a href="https://r3bl.github.io/en/simple-social-media-links-jekyll/">June 11, 2015</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+        Reading time ~4 minutes
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="https://r3bl.github.io/en/simple-social-media-links-jekyll/" rel="bookmark" title="Simple way to integrate social media links into Jekyll website" itemprop="url">Simple way to integrate social media links into Jekyll website</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p>I saw this error happening over and over in a lot of places. People do not integrate their social links using Jekyll. Instead, they hard code them into HTML code. Well, there’s a better way and it’s pretty simple.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>Of course, the first prerequisite is to <a href="http://jekyllrb.com/docs/installation/">install Jekyll</a>. For those of you who don’t know, Jekyll is as simple static site generator as it can get. It allows you to create a website without worrying about the things such as databases.</p>
+
+<p>The second prerequsite is to install <a href="http://fontawesome.io/">Font Awesome</a>. Font Awesome is the most popular icon font out there and it contains hundreds of icons. The icon pack is fully open source, so you can use it in any project you want (for further information about the licenses used, <a href="http://fontawesome.io/license/">click here</a>).</p>
+
+<p>To include them in your project, open the <code>_includes</code> directory in the root folder of your project. Then, using your favorite text editor, edit the file <code>head.html</code>.</p>
+
+<p>Include this line at the bottom of the file:</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot;</span><span class="nt">&gt;</span></code></pre></div>
+
+<p>That’s it, you’re done with setting things up.</p>
+
+<h2 id="creating-variables-for-the-icons">Creating variables for the icons</h2>
+
+<p>Edit your <code>_config.yml</code> file in the root directory of your file. There, you’ll already see two variables, called <code>twitter_username</code> and <code>github_username</code>. Now, add more variables:</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">twitter_username:     r3bl_
+github_username:      aleksandar-todorovic
+linkedin_username:    aleksandartodorovic
+google_plus_username: AleksandarTodorovićr3bl
+facebook_username:    aleksandar.todorovic.r3bl
+dribbble_username:</code></pre></div>
+
+<p>Of course, you’ll need to replace my usernames with your usernames. If you don’t use some social medias I listed, just leave the username blank and don’t worry about it.</p>
+
+<h2 id="adding-icons">Adding icons</h2>
+
+<p>Find an appropriate place where you want to show your icons. If you want to show them in your footer, edit the <code>footer.html</code> file from your <code>_includes</code> directory. If you want to add them somewhere in the main body of your website, edit <code>index.html</code> file from the root directory.</p>
+
+<p>After you found the place, you’re ready for your next step.</p>
+
+<p>Create an unordered list using the <code>&lt;ul&gt;&lt;/ul&gt;</code> tag. Then, copy the codes below.</p>
+
+<p>Now what these codes will do is they’re going to check your <code>_config.yml</code> file you edited earlier. If they find an appropriate username, they will show the icon of that social network linking to your profile.</p>
+
+<h3 id="twitter-code">Twitter code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.twitter_username %}
+  <span class="nt">&lt;li&gt;</span>
+    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://twitter.com/{{ site.twitter_username }}&quot;</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">&quot;fa fa-twitter&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> Twitter
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h3 id="github-code">GitHub code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.github_username %}
+  <span class="nt">&lt;li&gt;</span>
+    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://github.com/{{ site.github_username }}&quot;</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">&quot;fa fa-github&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> GitHub
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h3 id="linkedin-code">LinkedIn code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.linkedin_username %}
+  <span class="nt">&lt;li&gt;</span>
+    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://linkedin.com/in/{{ site.linkedin_username }}&quot;</span>
+      <span class="err">&lt;</span><span class="na">i</span> <span class="na">class=</span><span class="s">&quot;fa fa-linkedin&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> LinkedIn
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h3 id="google-code">Google+ code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.google_plus_username %}
+  <span class="nt">&lt;li&gt;</span>
+    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://plus.google.com/{{ site.google_plus_username }}&quot;</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">&quot;fa fa-google-plus&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> Google+
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h3 id="facebook-code">Facebook code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.facebook_username %}
+  <span class="nt">&lt;li&gt;</span>
+    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://www.facebook.com/{{ site.facebook_username }}&quot;</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">&quot;fa fa-facebook&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> Facebook
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h3 id="dribbble-code">Dribbble code</h3>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html">{% if site.dribbble_username %}
+  <span class="nt">&lt;li&gt;</span>
+  <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;https://dribbble.com/{{ site.dribbble_username }}&quot;</span> <span class="na">class=</span><span class="s">&quot;icon&quot;</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">&quot;fa fa-dribbble&quot;</span><span class="nt">&gt;&lt;/i&gt;</span> Dribbble
+    <span class="nt">&lt;/a&gt;</span>
+  <span class="nt">&lt;/li&gt;</span>
+{% endif %}</code></pre></div>
+
+<h2 id="final-result">Final result</h2>
+
+<p><img src="http://i.imgur.com/2yVPGnq.png" alt="screenshot" /></p>
+
+<p>Of course, this is the screenshot on the default Jekyll installation. If you’re using a Jekyll theme, your result will look differently.</p>
+
+<p>Note that I’m not using Dribbble. I left the variable <code>dribbble_username</code> blank in the <code>_config.yml</code> file, so the icon is not shown.</p>
+
+<h2 id="what-if-youre-not-using-some-social-media-listed-here">What if you’re not using some social media listed here?</h2>
+
+<p>You have two options. One is to not copy the code and the second one is to leave the variable in your <code>_config.yml</code> file blank. The result is the same: the icon will not be shown, as seen in the Dribbble example above.</p>
+
+<h2 id="what-if-youre-using-some-social-media-not-listed-here">What if you’re using some social media not listed here?</h2>
+
+<p><a href="http://fontawesome.io/icons/">Click here</a> to see all of the icons available in the Font Awesome pack. If your icon is not there, the best thing you can do is to search for the issue <a href="https://github.com/FortAwesome/Font-Awesome/issues">in the repository</a>. If you find it, add a comment supporting the idea. If you don’t find it, create a new issue.</p>
+
+<h2 id="further-customization-of-the-icons">Further customization of the icons</h2>
+
+<p>Refer to the <a href="http://fontawesome.io/examples/">examples</a> of using Font Awesome pack. You can make them bigger, animate them, rotate them and a whole lot more.</p>
+
+<h2 id="need-help">Need help?</h2>
+
+<p>Just leave the comment below. I’ll be more than happy to help you out.</p>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
 
 <article class="hentry">
   <header>
@@ -442,44 +578,6 @@ a list of <a href="https://github.com/RichardLitt/awesome-conferences">conferenc
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 
-<article class="hentry">
-  <header>
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="2015-06-02T05:30:00+02:00"><a href="https://r3bl.github.io/en/open-source-advocacy/">June 02, 2015</a></time></span><span class="author vcard"><span class="fn"><a href="https://r3bl.github.io/about/" title="About Aleksandar Todorović">Aleksandar Todorović</a></span></span>
-      
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        
-        Reading time ~1 minute
-      </span><!-- /.entry-reading-time -->
-      
-    </div><!-- /.entry-meta -->
-    
-      <h1 class="entry-title"><a href="https://r3bl.github.io/en/open-source-advocacy/" rel="bookmark" title="On Open Source Advocacy" itemprop="url">On Open Source Advocacy</a></h1>
-    
-  </header>
-  <div class="entry-content">
-    <p>What does it mean to be an open source advocate? Can I really make a difference? How do I do that? There are so many questions about the Open Source Advocacy and, surprisingly, so little answers available.</p>
-
-<h2 id="why-do-i-call-myself-an-open-source-advocate">Why do I call myself an Open Source Advocate?</h2>
-
-<p>I’ve been calling myself an Open Source Advocate for a while now. Not because I consider myself as an influential person, but because I can’t find a more suitable title that covers what I do in my free time.</p>
-
-<p>I’m not really an open source programmer. Although I know the syntax of five or six programming languages, I do not consider myself as an expert in neither of them (for now). That’s why my coding contributions are pretty limited so far.</p>
-
-<p>I’m not a designer neither. I just don’t see myself as one. I like to use well-designed programs and web services, but I’m not familiar nor interested in the process of making a well designed program / web service.</p>
-
-<p>Now what I’m good at is actually testing the software, reporting bugs, trying out new features and tools, translating projects to my native language, communicating with the people representing various open source projects and, most of all, actually talking about the open source software on my blog.</p>
-
-<p>And that’s where I found myself. That’s the beauty of open source. There’s something to do for everyone.</p>
-
-<p>If you want to contribute to an open source project, you can. No matter what’s your area of expertise. All you need is your willingness to do something. To make a change… After all, <a href="https://r3bl.github.io/en/every-one-of-us-changes-the-world-in-one-way-or-another/">we’re all shaping the world</a> with every single step we take.</p>
-
-<p>Further reading: <a href="http://opensource.com/business/14/12/8-ways-contribute-open-source-without-writing-code">Open source isn’t just about the code–other ways to contribute</a></p>
-
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-
 
 <div class="pagination">
   
@@ -579,6 +677,12 @@ a list of <a href="https://github.com/RichardLitt/awesome-conferences">conferenc
       <li>
         
           <a href="https://r3bl.github.io/page16">16</a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="https://r3bl.github.io/page17">17</a>
         
       </li>
     
