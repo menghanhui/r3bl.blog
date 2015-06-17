@@ -1,9 +1,9 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2015-06-14 20:10:00+01:00
+date: 2015-06-17 22:56:00+01:00
 layout: post
-slug: simple-social-media-links-jekyll
+slug: flashback-my-first-hack-that-went-viral
 title: "Flasback: My First Programming Project That Went Viral"
 categories: en
 tags:
