@@ -2,7 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://r3bl.github.io/en/simple-social-media-links-jekyll/</loc>
-    <lastmod>2015-06-11T21:10:00+02:00</lastmod>
+    <lastmod>2015-06-14T21:10:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://r3bl.github.io/en/flashback-first-shoutout-to-my-project/</loc>
+    <lastmod>2015-06-14T21:10:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -407,49 +412,49 @@
   </url>
   <url>
     <loc>https://r3bl.github.io/404.html</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/tags/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/posts/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/about/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/stuff-i-like/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/about-bs/</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://r3bl.github.io/my-articles/my-articles.html</loc>
-    <lastmod>2015-06-14T17:47:40+02:00</lastmod>
+    <lastmod>2015-06-17T22:54:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

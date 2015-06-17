@@ -1,7 +1,7 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2015-06-11 20:10:00+01:00
+date: 2015-06-14 20:10:00+01:00
 layout: post
 slug: simple-social-media-links-jekyll
 title: "Simple way to integrate social media links into Jekyll website"

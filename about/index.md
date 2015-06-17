@@ -7,7 +7,7 @@ image:
   feature: abstract-1-3
 ---
 
-You can find the short version of my portfolio by downloading my resume (available in [English](https://drive.google.com/file/d/0By-yP9sfB84VY0cxeGV4THNNbTQ/view?usp=sharing)
+This is the text-only version. If you want to see my portfolio in a more well-designed way, check out [my personal website](https://aleksandar-todorovic.github.io). Alternatively, you can also download the short version of my portfolio by downloading my resume (available in [English](https://aleksandar-todorovic.github.io/assets/portfolio-en.pdf)
 and [Bosnian](https://drive.google.com/file/d/0By-yP9sfB84VWENhQmtJX0x4cTg/view?usp=sharing) language). You can also download a pack filled with .pdf versions of my certificates [here](https://drive.google.com/file/d/0By-yP9sfB84VaFdUeU5kUXdTams/view?usp=sharing).
 
 ## Summary
