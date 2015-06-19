@@ -2,16 +2,20 @@
 
 This is the code behind my personal blog hosted on GitHub Pages using Jekyll as a blogging platform.
 
-* [My Blog](https://r3bl.github.io/)
-* [My website](https://aleksandar-todorovic.github.io/en/portfolio)
-* [My Portfolio](https://aleksandar-todorovic.github.io)
-* [My Notes](https://github.com/aleksandar-todorovic/notes/)
-
-This blog was previously hosted [here](https://aleksandartodorovic.wordpress.com/). If you're wondering how and why have I decided to do the transition, you can read about that [here](https://r3bl.github.io/en/why-switching-to-github-and-jekyll/). If you're wondering why I love GitHub so much, I suggest you to read [this article](http://opensource.com/life/15/2/beginners-guide-github) on Opensource.com.
+This blog was previously hosted [on Wordpress.com domain](https://aleksandartodorovic.wordpress.com/). If you're wondering how and why have I decided to do the transition, you can read  [this blog post](https://r3bl.github.io/en/why-switching-to-github-and-jekyll/). If you're wondering why I love GitHub so much, I suggest you to read [this article](http://opensource.com/life/15/2/beginners-guide-github) published on Opensource.com.
 
 If you find some issues while browsing the site, please refer to [TODO.md](https://github.com/r3bl/r3bl.github.io/blob/master/TODO.md) and check to see if I'm already planning on fixing the issue. If the issue is not mentioned on the list, feel free to report it [here](https://github.com/r3bl/r3bl.github.io/issues).
 
-For any other kind of feedback, feel free to contact me anytime on [aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru).
+For any kind of feedback, feel free to contact me on [aleksandar.todorovic@mail.ru](aleksandar.todorovic@mail.ru).
+
+## Me on the web
+
+* [My blog](https://r3bl.github.io/)
+* [My website](https://aleksandar-todorovic.github.io/en/portfolio)
+* [My portfolio](https://aleksandar-todorovic.github.io)
+* [My notes](https://github.com/aleksandar-todorovic/notes/)
+* [My articles published on other websites](https://r3bl.github.io/my-articles/my-articles.html)
+* [My Twitter profile](https://twitter.com/r3bl_)
 
 ## Credits
 
