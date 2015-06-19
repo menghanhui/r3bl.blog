@@ -1,33 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">{{ site.title }}</title>
-<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
-<link rel="alternate" type="text/html" href="{{ site.url }}" />
-<updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>{{ site.url }}/</id>
-<author>
-  <name>{{ site.owner.name }}</name>
-  <uri>{{ site.url }}/</uri>
-  {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
-</author>
-{% for post in site.posts limit:20 %}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Aleksandar Todorović</title>
+		<description>Student. Hacker. Open Source Advocate. Opensource.com Community Moderator</description>
+		<link>https://r3bl.github.io</link>
+		<atom:link href="https://r3bl.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Flasback: My First Programming Project That Went Viral</title>
+				
+				
+					<description>&lt;p&gt;A month ago, the owner of &lt;a href=&quot;http://djtechtools.com/&quot;&gt;DJ TechTools&lt;/a&gt; (called Ean Golden) released a video where he told the history of DJ TechTools. Now, I decided to share my story about DJ TechTools with you.&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
- <link rel="alternate" type="text/html" href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" />
-  <id>{{ site.url }}{{ post.id }}</id>
-  {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
-  <published>{{ post.date | date_to_xmlschema }}</published>
-  {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
-  <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
-  <author>
-    <name>{{ site.owner.name }}</name>
-    <uri>{{ site.url }}</uri>
-    <email>{{ site.owner.email }}</email>
-  </author>
-  <content type="html">{{ post.content | xml_escape }}
-  &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt; was originally published by {{ site.owner.name }} at &lt;a href=&quot;{{ site.url }}&quot;&gt;{{ site.title }}&lt;/a&gt; on {{ post.date | date: "%B %d, %Y" }}.&lt;/p&gt;</content>
-</entry>
-{% endfor %}
-</feed>
+</description>
+				
+				<pubDate>Wed, 17 Jun 2015 23:56:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/flashback-first-shoutout-to-my-project/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/flashback-first-shoutout-to-my-project/</guid>
+			</item>
+		
+			<item>
+				<title>Simple way to integrate social media links into Jekyll website</title>
+				
+				
+					<description>&lt;p&gt;I saw this error happening over and over in a lot of places. People do not integrate their social links using Jekyll. Instead, they hard code them into HTML code. Well, there&amp;#8217;s a better way and it&amp;#8217;s pretty simple.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 14 Jun 2015 21:10:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/simple-social-media-links-jekyll/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/simple-social-media-links-jekyll/</guid>
+			</item>
+		
+			<item>
+				<title>My elementary OS Workflow</title>
+				
+				
+					<description>&lt;p&gt;In this post, I&amp;#8217;m going to share with you my workflow and my experience with apps developed specifically for elementary OS. Unfortunately, I&amp;#8217;m not very impressed with the state of apps designed specifically for elementary OS right now, but I do think that the situation will improve by the end of the year.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 11 Jun 2015 21:10:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/elementary-os-workflow/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/elementary-os-workflow/</guid>
+			</item>
+		
+			<item>
+				<title>Announcing Partnership with Opensource.com</title>
+				
+				
+					<description>&lt;p&gt;As of June 1st, I became a Community Moderator for the &lt;a href=&quot;http://www.redhat.com/&quot;&gt;Red Hat&lt;/a&gt; supported brand called &lt;a href=&quot;http://opensource.com&quot;&gt;Opensource.com&lt;/a&gt;. As such, I made a one year long commitment to provide content for the site on a regular basis.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 03 Jun 2015 16:35:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/partnership-with-opensource-dot-com/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/partnership-with-opensource-dot-com/</guid>
+			</item>
+		
+			<item>
+				<title>How NOT to Behave When You Get Pulled Over by a Police Officer in a Foreign Country</title>
+				
+				
+					<description>&lt;p&gt;I know that we live in a shitty part of the world. But getting pulled over by a police officer and suggesting that he requested a bribe from you simply because you misunderstood him is a new level of being a huge douchebag.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 03 Jun 2015 16:35:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/dont-disrespect-foreign-police/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/dont-disrespect-foreign-police/</guid>
+			</item>
+		
+			<item>
+				<title>How awesome GitHub lists are making GitHub even more awesome!</title>
+				
+				
+					<description>&lt;p&gt;GitHub is growing out of the place where you just share your code to something bigger for a while now. Of course, GitHub is still an awesome place to share your code, but there&amp;#8217;s more to it. Way more.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 03 Jun 2015 03:00:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/awesome-github-lists/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/awesome-github-lists/</guid>
+			</item>
+		
+			<item>
+				<title>On Open Source Advocacy</title>
+				
+				
+					<description>&lt;p&gt;What does it mean to be an open source advocate? Can I really make a difference? How do I do that? There are so many questions about the Open Source Advocacy and, surprisingly, so little answers available.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 02 Jun 2015 05:30:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/open-source-advocacy/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/open-source-advocacy/</guid>
+			</item>
+		
+			<item>
+				<title>Basic Facebook Hacks – Where were my friends while they were texting me?</title>
+				
+				
+					<description>&lt;p&gt;Have you ever seen movies or read books about Harry Potter? If you did, then you might be familiar with the term Marauder&amp;#8217;s Map. If you&amp;#8217;re not a Harry Potter fan or the term doesn&amp;#8217;t ring a bell, here&amp;#8217;s a one minute video that will explain the basic concept to you:&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 27 May 2015 19:20:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/facebook-hack-no5/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/facebook-hack-no5/</guid>
+			</item>
+		
+			<item>
+				<title>Debunking the Myths of Terrorism</title>
+				
+				
+					<description>&lt;p&gt;You&amp;#8217;re probably wondering what the hell is a post about terrorism doing on a primarily IT oriented blog? Well, I got interested in the term cyber terrorism. I want learn more about this term: is cyber terrorism possible, how to fight against it, etc.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 16 May 2015 03:30:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/terrorism-myths/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/terrorism-myths/</guid>
+			</item>
+		
+			<item>
+				<title>Back to Basics - Books, Vinyls and Notebooks</title>
+				
+				
+					<description>&lt;p&gt;If you have read any of my previous posts, you probably know that I&amp;#8217;m a huge workaholic. I like to &lt;a href=&quot;https://r3bl.github.io/en/learn-something-every-day/&quot;&gt;learn something new every single day&lt;/a&gt;, I like to explore different things and I&amp;#8217;m a huge fan of reading books and listening to music.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 16 May 2015 03:30:00 +0200</pubDate>
+				<link>https://r3bl.github.io/en/books-vinyls-and-notebooks/</link>
+				<guid isPermaLink="true">https://r3bl.github.io/en/books-vinyls-and-notebooks/</guid>
+			</item>
+		
+	</channel>
+</rss>
