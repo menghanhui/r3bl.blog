@@ -36,8 +36,8 @@ This has been the easiest decision ever. I'm using [DuckDuckGo](https://duckduck
 
 Their platform for instant answers is completely open source. Everyone can submit new ideas or work in making them a reality. As an example, I suggested that when a user types `Valar morgulis` in their service, the instant answer should say `Valar dohaeris` which is a tribute to the Westeros world in Game of Thrones / A Song of Ice and Fire. This instant answer is now successfully implemented.
 
-<!-- <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It&#39;s the little things that make a great product. Glad to see my idea becoming a part of <a href="https://twitter.com/duckduckgo">@duckduckgo</a>. :) <a href="http://t.co/kvYL9BMSEF">pic.twitter.com/kvYL9BMSEF</a></p>&mdash; Aleksandar Todorović (@r3bl_) <a href="https://twitter.com/r3bl_/status/581561198379945984">March 27, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It&#39;s the little things that make a great product. Glad to see my idea becoming a part of <a href="https://twitter.com/duckduckgo">@duckduckgo</a>. :) <a href="http://t.co/kvYL9BMSEF">pic.twitter.com/kvYL9BMSEF</a></p>&mdash; Aleksandar Todorović (@r3bl_) <a href="https://twitter.com/r3bl_/status/581561198379945984">March 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Also, it features excellent [!bangs](https://duckduckgo.com/bang) that allow you to search through thousands of sites directly from DuckDuckGo. This means that I no longer have to go to Wikipedia and search from there. I could just type `duckduckgo !wiki` and be redirected to Wikipedia's article about DuckDuckGo right away. Seriously, I love DuckDuckGo and I would consider it as a downgrade to switch back to Google's search.
 
