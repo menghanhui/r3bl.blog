@@ -3,8 +3,8 @@ author: Aleksandar Todorović
 comments: true
 date: 2015-06-26 22:40:00+01:00
 layout: post
-slug: workflow-google-services
-title: "My Workflow: Alternatives to Google's Services"
+slug: sta-radi-u-nizozemskoj-ali-ne-bi-radilo-kod-nas
+title: "Šta radi u Nizomeskoj što bi teško bilo moguće na našim prostorima"
 categories: bs
 tags:
 - personal
