@@ -1,7 +1,7 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2015-06-26 04:40:00+01:00
+date: 2015-06-26 22:40:00+01:00
 layout: post
 slug: workflow-google-services
 title: "My Workflow: Alternatives to Google's Services"
