@@ -7,6 +7,7 @@ slug: elementary-os-workflow
 title: "My elementary OS Workflow"
 categories: en
 tags:
+- workflow
 - open source
 - elementary OS
 image:
