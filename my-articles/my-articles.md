@@ -11,6 +11,7 @@ Here, you'll find the articles I wrote for other blogs, news sources and magazin
 
 ## Articles in English Language
 
+* [Linux as a lifestyle], published on [Opensource.com](https://opensource.com/) (June 30th, 2015)
 * [Open source licensing important for future of Internet of Things](https://opensource.com/business/15/6/interview-cat-robson-red-hat) (Interview with Cat Robson of Red Hat) published on [Opensource.com](https://opensource.com/) (June 17th, 2015)
 * [An introduction to GitHub for your open source project](http://opensource.com/life/15/2/beginners-guide-github) published on [Openource.com](http://opensource.com/) (February 16th, 2015)
 
@@ -33,6 +34,7 @@ Here, you'll find the articles I wrote for other blogs, news sources and magazin
 
 ## Articles Linking to My Work
 
+* [Top 25 articles of 2015 (so far)](http://opensource.com/life/15/6/top-25-articles-2015-so-far), published on [Opensource.com](http://opensource.com/) (June 30th, 2015)
 * [Composing a Rockin' Resume](https://www.careerdean.com/blog/composing-a-rockin-resume/) published on [CareerDean's Blog](https://www.careerdean.com/blog/composing-a-rockin-resume/) (June 11th, 2015)
 * [Highlights and editor's picks: June 2015 report](http://opensource.com/community/15/5/community-report-june-2015) published on [Opensource.com](http://opensource.com/) (June 10th, 2015)
 * [Odlični domaći IT blogovi koje pratim i preporučujem](http://kompjuteras.com/odlicni-domaci-blogovi-koje-pratim-preporucujem/) published on [Kompjuteraš](http://kompjuteras.com/) (April 6th, 2015)
