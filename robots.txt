@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_sass/
+Disallow: Gemfile
+Disallow: Gemfile.lock
+Disallow: _config.yml
+Sitemap: http://blog.r3bl.me/sitemap.xml
