@@ -4,13 +4,13 @@ disqus_shortname: r3bl
 reading_time:     true
 words_per_minute: 200
 
-url: https://r3bl.github.io
+url: http://blog.r3bl.me
 
 # Owner/author information
 owner:
   name:           Aleksandar Todorović
   avatar:         avatar2.png
-  bio:            "Student. Hacker. Open Source Advocate. Opensource.com Community Moderator. I love to share my stories with the world."
+  bio:            "Student. Hacker. Open Source Advocate. Opensource.com Community Moderator. elementary OS user. #ICT2015 student representative."
   email:          aleksandar.todorovic@mail.ru
 
 # Social networking links used in footer. Update and remove as you like.
