@@ -3,4 +3,5 @@ Disallow: /_sass/
 Disallow: Gemfile
 Disallow: Gemfile.lock
 Disallow: _config.yml
+Disallow: /page
 Sitemap: http://blog.r3bl.me/sitemap.xml
