@@ -154,5 +154,3 @@ Now if you have a custom domain and you want to use a subdomain for that website
 * You can hack your way into supporting HTTPS by adding `{{ site.url | replace:'http://','https://' }}/SOMETHING">` to every link that points to another place on your website. Your site will still be accessible over HTTP, but every time somebody clicks some new URL, it will take him to the HTTPS version of the page.
 * You can mess around with the look of your posts or pages by editing `_layouts/post.html` or `_layouts/page.html`.
 * You can customize pretty much everything by editing the files in `_includes` and `_layouts` subdirectories. You don't have to pay attention to other directories. Here's the link to an original Jekyll theme called [HPSTR](https://mmistakes.github.io/hpstr-jekyll-theme/) that I used while I was creating my blog. Obviously, I made quite a number of changes.
-
-**Update the freaking metadata**
