@@ -17,7 +17,7 @@ description: "Riješih da probam da razotkrijem osobu koja se predstavlja imenom
 
 Zrinka K. (Kasapić) je osoba koja redovno piše na portalu Dnevno.hr. Škrabala je nešto malo i na Jutarnjem i nekim drugim mjestima. Njen cilj je otprilike otprilike kroz Hrvatsku širiti [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) što je više moguće. Niko ne zna ko se krije iza tog imena niti da li koristi pravo ime kada piše. Ako se pitate zašto je toliko bitno da se sazna ko je ona, predstavljam vam (malo zastarila) sabrana djela osobe koja se potpisuje kao Zrinka K(asapić):
 
-[![Sabrana djela Zrinke K.](http://i.imgur.com/Gm0ucSW.jpg?1)](http://i.imgur.com/Gm0ucSW.jpg?1)
+[![Sabrana djela Zrinke K.](https://i.imgur.com/Gm0ucSW.jpg?1)](https://i.imgur.com/Gm0ucSW.jpg?1)
 
 Valjda sada kontate zašto je privukla na sebe toliko pažnje. Da više ne odugovlačim, riješih da probam da razotkrijem osobu koja se krije iza tog imena. Mogu slobodno da kažem da sam i više nego uspio u ovome. Dakle, u ovom članku, predstavljam vam pravu Zrinku Kasapić i objašnjavam kako sam otkrio ko je ona.
 
@@ -113,7 +113,7 @@ Normalni ljudi bi ovdje odustali i rekli da su uspjeli locirati Zrinku. Međutim
 
 * **Ime:** Zrinka Kasapić (ja sam apsolutno iznenađen što to na kraju nije ispao nečiji alias nego pravo ime)
 * **Email adresa:** [zrinka.kasapic@dnevno.hr](mailto:zrinka.kasapic@dnevno.hr) (hvala [Milanu Kesiću](http://kesicmilan.blogspot.ba/2014/08/aktualna-problematika-2.html), ko god on bio)
-* **Facebook profil:** [Nova Zrinka](https://www.facebook.com/profile.php?id=100004708695737)
+* **Facebook profil:** [Nova Zrinka](https://www.facebook.com/profile.php?id=100004708695737) (**IZBRISAN NAKON OBJAVE ČLANKA**)
 * **Godište:** 1990. (pretpostavljajući da nije padala nijedan razred)
 * **Studirala:** Novinarstvo na VERN-u (diplomirala 2012.)
 * **Facebook profil gorepomenutog:** [Hip Otaku](https://www.facebook.com/hip.otaku) (profil bio sakriven iz pretrage, međutim Zrinka nema problema sa otkrivanjem njene liste prijatelja javno)
@@ -159,3 +159,24 @@ Ukoliko želiš da se stvarno sakriješ, preporučujem sljedeće:
 * Zaključaj svoj Facebook profil (tvoji "lajkovi", poneka slika, lista prijatelja i slično su vidljivi svima koji otvore tvoj profil).
 * Ugasi svoje stare profile (na Twitter-u i Twitpic-u prije svega) i zatraži od datih kompanija da uklone tvoje podatke sa svojih servera (na tvoju žalost, na mom blogu će i dalje biti dostupne).
 * Izbriši komentare koji govore ponešto o tebi sa svoje Facebook stranice.
+
+## Update (27.11.2015.)
+
+Nešto sam razmišljao da li da napišem i drugi dio ovog članka ili da update-ujem ovaj i na kraju se odlučih za ovaj drugi pristup.
+
+Ovim povodom htio bih da se zahvalim Zrinki što je ostavila komentar ispod ovog teksta. Nažalost, komentar je nedugo nakon objave i izbrisala, ali na njenu žalost, dobio sam ga preko mail-a i otkrio još par stvari o njoj:
+
+* Privatna email adresa: [zrinkak34@gmail.com](mailto:zrinkak34@gmail.com)
+* IP adresa sa koje je ostavljen komentar: 88.207.23.64
+
+Još nekoliko fotografija (koje mi je dostavio izvor koji je želio da ostane anoniman):
+
+![01](https://i.imgur.com/HZHa26L.jpg)
+
+![02](https://i.imgur.com/48Hz46a.jpg)
+
+![03](https://i.imgur.com/fKNOaGu.jpg)
+
+![04](https://i.imgur.com/OMlm5B6.jpg)
+
+![05](https://i.imgur.com/4wvpzi8.jpg)
