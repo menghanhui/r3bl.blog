@@ -7,7 +7,7 @@ image:
   feature: abstract-1-3
 ---  
 
-I decided to ditch the classic blogroll, so in this page, I will present you the list of _everything_ I like. This page is regularly updated, so keep an eye on it from time to time. I have to warn you that this is a pretty big list, so I decided to organize it into different categories.
+I've decided to ditch the classic blogroll, so in this page, I will present you the list of _everything_ I like. This page is regularly updated, so keep an eye on it from time to time. I have to warn you that this is a pretty big list, so I decided to organize it into different categories.
 
 * [Software Pack](#software-pack)
 * [Web Services Pack](#web-services-pack)
@@ -31,23 +31,20 @@ I decided to ditch the classic blogroll, so in this page, I will present you the
 * **[Atom](https://atom.io/)** - Atom is my favorite text editor. I use it for pretty much everything. It practically replaced my text editor, my IDE and my Office suite (in most of the cases).
 * **[LibreOffice](https://www.libreoffice.org/)** - LibreOffice is there when Atom can't get the job done. It's my favorite office pack and I really like using it. Plus, the design of LibreOffice is awesome once you switch your style to [sifr](http://www.webupd8.org/2014/01/libreoffice-42-released-with-new.html).
 * **[Todo.txt](http://todotxt.com/)** - I got tired of all of those complicated to use to-do services and apps. That's why I switched to Todo.txt to keep myself organized. I'm using [QTodoTxt](https://github.com/mNantern/QTodoTxt) as a client on my elementary OS. There's also an awesome Atom package called [language-todotxt](https://atom.io/packages/language-todotxt) that I use regularly.
-* **[Popcorn Time](http://popcorntime.io/)** - Everyone needs some relaxation, and that is when Popcorn Time steps in. A clean intuitive interface allows me to watch movies and TV shows any time I want to. Don't judge me, it's not my fault that there are no Netflix-like platforms available in my country.
-* **[qBittorrent](http://www.qbittorrent.org/)** - Why the hell μTorrent has so many users when qBittorrent does the same job even better? Plus it has no ads and it's bundled with a few extra features such as sequential download. Unfortunately, Popcorn Time doesn't do a good job with actually seeding torrents, so I'm using qBittorrent to seed the things that I like.
-* **[Pidgin](http://pidgin.im/)** - Pidgin is the reason why I'm no longer opening Facebook. Twitter is my go-to social network and I use Pidgin to chat with my Facebook friends without opening Facebook at all.
+* **[Popcorn Time](http://popcorntime.io/)** - Everyone needs some relaxation, and that is when Popcorn Time steps in. A clean intuitive interface allows me to watch movies and TV shows any time I want to. Don't judge me, it's not my fault that there are no Netflix-like platforms available in my country. **EDIT**: Now that Popcorn Time is gone, I'm using [Stremio](http://strem.io/), which is a nice alternative.
+* **[qBittorrent](http://www.qbittorrent.org/)** - Why the hell does μTorrent have so many users when qBittorrent does the same job even better? Plus it has no ads and it's bundled with a few extra features such as sequential download. Unfortunately, Popcorn Time doesn't do a good job with actually seeding torrents, so I'm using qBittorrent to seed the things that I like.
 * **[Terminator](http://gnometerminator.blogspot.com/p/introduction.html)** - When I'm doing something that requires from me to type commands inside of the terminal, Terminator is there to get the job done.
-* **[TrueCrypt](https://truecrypt.ch/)** - Although officially not supported anymore, I'm still using it on a regular basis. I just can't find any Windows and Linux compatible software to get the job done better than TrueCrypt. There's currently no TrueCrypt fork that I completely trust.
+* **[TrueCrypt](https://truecrypt.ch/)** - Although officially not supported anymore, I'm still using it on a regular basis. I just can't find any Windows and Linux compatible software to get the job done better than TrueCrypt. There's currently no TrueCrypt fork that I completely trust (although I'm kind of starting to convince myself to switch to [VeraCrypt](http://veracrypt.codeplex.com/) completely).
 * **[Spotify for Linux](https://www.spotify.com/us/download/previews/)** - Although I don't live in a country that Spotify supports, their geolocation blocking can be easily circumvented by firing up some VPN and changing your IP to a country supported by Spotify. Then, login to your Spotify account and you'll enter the "Vacation Mode" that will allow you to use Spotify for 14 days no matter where you are. Just repeat the procedure every 14 days and you're good to go.
 
 ## Web Services Pack
 
-* **[GitHub](https://github.com/)** - I love every single feature GitHub offers, which is why [GitHub is my favorite company](http://r3bl.github.io/en/why-github-is-my-favorite-company/).
+* **[GitHub](https://github.com/)** - I love every single feature GitHub offers, which is why [GitHub is my favorite company](https://blog.r3bl.me/en/why-github-is-my-favorite-company/).
 * **[Twitter](https://twitter.com/)** - I use Twitter regularly. It replaced Facebook as my "default" social network.
 * **[DuckDuckGo](https://duckduckgo.com/)** - I tried DuckDuckGo once and now I can't get enough of it. I'm using it all of the time as my primary search engine, and I can't live without DuckDuckGo's [!bangs](https://duckduckgo.com/bang.html) any more.
-* **[Reddit](https://www.reddit.com/)** - Reddit is a place where I get my inspiration. There are some amazing subreddits out there for anyone. All you have to do is to find them.
-* **[MEGA](https://mega.co.nz/)** - Even though I have over 2 TB of space available in the concurrent services (one terrabyte on Mail.Ru Cloud and another one on OneDrive), the cloud service that I use regularly is MEGA, primarily because their Linux client works perfectly.
-* **[HackerNews](https://news.ycombinator.com/news)** - HackerNews is an excellent resource to keep up to date with the latest technology. I check it all of the time.
+* **[MEGA](https://mega.co.nz/)** - Even though I have over 2 TB of space available in the concurrent services (one terabyte on [Mail.Ru Cloud](https://cloud.mail.ru/) and another one on [OneDrive](https://onedrive.live.com/)), the cloud service that I use the most is MEGA, primarily because their Linux client works perfectly.
+* **[Hacker News](https://news.ycombinator.com/news)** - Hacker News is an excellent resource to keep up to date with the latest technology. I check it all of the time.
 * **[Kindle](https://read.amazon.com/)** - I have over 200 books in my Kindle library and I enjoy reading them using online version of the Kindle Reader. Funny thing is I never actually payed for any of the books in my Kindle library ([hint](https://www.reddit.com/r/freeebooks)).
-* **[CareerDean](http://careerdean.com/)** - I love visiting this site from time to time. It's a place where people who are employed in some of the biggest technology companies around answer questions.
 * **[alternativeTo](http://alternativeto.net/)** - If you ever get tired of using a certain software and you're looking for alternatives, AlternativeTo is a place to go.
 * **[Coursera](https://www.coursera.org/)** - I strongly believe that education should be free and everyone who has the desire to learn should be able to finish courses offered by some of the best collages in the world. If you need to learn something new, Coursera is the place to go.
 * **[edX](https://www.edx.org)** - edX is another service that allows you to participate in hundreds of courses for free. I love their cooperation with the open source community. They allow the creators of the course to publish their course under the [Creative Commons](https://creativecommons.org/) license and they have a great [Introduction to Linux](Never learned Linux? Want a refresh? Take this course free or get a verified certificate for $99 — Save 60% now!) course offered by the [Linux Foundation](http://www.linuxfoundation.org/).
@@ -110,7 +107,7 @@ Since there's a lot of albums I wanted to include in this list, I divided the li
 
 #### English Albums
 
-I don't listen to a lot of full English albums, but I just _had_ to select a couple of them that I particularly enjoy listening to.
+I didn't listen to a lot of English albums, but I just _had_ to select a couple of them that I particularly enjoy listening to.
 
 * **[Dillon Francis - Money Sucks, Friends Rule](https://www.youtube.com/watch?v=VrVFjPl2Whg&list=PLCa6rr7iYzFUp-R2CRnWNSevhn4KdxBz4)** - Dillon Francis really managed to turn the electronic scene upside down. I love this album. Favorite songs: [Get Low feat. DJ Snake](https://www.youtube.com/watch?v=12CeaxLiMgE) and [I Can't Take It](https://www.youtube.com/watch?v=nYKchw7cfdA).
 * **[The xx - Coexist](https://www.youtube.com/watch?v=_nW5AF0m9Zw&list=PLadHJ3xCi0cnjzPXsA5H7JnnMDZumqZ2E)** - Nice chilling album that makes you question your whole life while you're listening to it. Favorite songs: [Angels](https://www.youtube.com/watch?v=_nW5AF0m9Zw&list=PLadHJ3xCi0cnjzPXsA5H7JnnMDZumqZ2E) and [Unfold](https://www.youtube.com/watch?v=UlAQJH_91dE&list=PLadHJ3xCi0cnjzPXsA5H7JnnMDZumqZ2E&index=9).
@@ -129,27 +126,26 @@ I don't listen to a lot of full English albums, but I just _had_ to select a cou
 
 ## My Favorite Books
 
-I'm a huge fan of reading books. I love spending my free time reading books. For this reason, I created an account on [Goodreads](https://www.goodreads.com/) that allows me to keep track of the books I had already read, the books I'm currently reading, and books that I'm planning on reading in the future (you can check me on Goodreads [here](https://www.goodreads.com/user/show/37688006-aleksandar-todorovi)).
+I'm trying to move away from Goodreads because... well, why the heck would I want to use yet another web service for something that I could literally do [in a text file](https://github.com/aleksandar-todorovic/notes/blob/master/00_books.md)? So, in that text file you can see every book I have read (or at least, every book I remember reading), every book I'm currently reading and every book I'm planning on reading.
 
-Here's a couple of my favorite books:
+Below, I'll just list some of my favorites:
 
 * **[The Armageddon Rag by George R.R. Martin](https://www.goodreads.com/book/show/67948.The_Armageddon_Rag)** - In this novel, George R.R. Martin managed to create the perfect blend between the hippie culture and mythology. I highly recommend this book to every fan of fiction.
 * **[The God Delusion by Richard Dawkins](https://www.goodreads.com/book/show/573607.The_God_Delusion)** - I completely gave up on the religion a couple of years ago when I realized that I was actually afraid to acknowledge that the theory of religion has so many flaws that it can't be true. This book convinced me that I was right all along and because of this book I'm no longer ashamed to call myself an atheist. Actually, I'm proud of it.
 * **[Animal Farm by George Orwell](https://www.goodreads.com/book/show/7613.Animal_Farm)** - I read this excellent satire a couple of times. It's the perfect satire of the socialist/communist philosophy of Stalin in the Soviet Union. Unfortunately, I still haven't read 1984 by George Orwell, but it's on the top of my reading list.
 * **[Napet šou (eng. Tense Show) by Marko Šelić](https://www.goodreads.com/book/show/23295356-napet-ou)** - I had already mentioned Marko Šelić in the music section of this page. This book is a perfect addition to his excellent music album called Napet šou.
 * **[A Song of Ice and Fire Series by George R.R. Martin](https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire)** - I love _everything_ about this book series. George managed to create an amazing world full of exciting things like magic and dragons. I love the fact that in his world, it's not all about the war like in the rest of the fantasy books (yes, I'm talking about Tolkien). Every character has an interesting story and interesting personality and you never know who's good and who's bad.
-* **[Harry Potter Series by J.K. Rowling](https://en.wikipedia.org/wiki/Harry_Potter)** - Harry Potter's books were my favorite while I was growing up. I loved getting lost in the Harry's world. The last book in this series was also the first book I read in English language.
+* **[Harry Potter Series by J.K. Rowling](https://en.wikipedia.org/wiki/Harry_Potter)** - Harry Potter's books were my favorite while I was growing up. I loved getting lost in the Harry's world. The last book in this series was also the first book I have read in English.
 
 ## Some Other Things That I Like
 
 Some other things that couldn't fit into any of the categories above.
 
-* My favorite NBA team: [LA Clippers](http://www.nba.com/clippers/) (been a fan of them ever since I played NBA 1997 on my ancient computer through the SEGA emulator)
+* My favorite NBA team: [LA Clippers](http://www.nba.com/clippers/) (been a fan of them ever since I played NBA 1997 on my ancient computer through the SEGA emulator). I also like Golden State Warriors and Brooklyn Nets.
 * My favorite football team: [FC Bayern München](http://www.fcbayern.de/en/) (although I don't like their play since Pep Guardiola became their manager)
 * The most beautiful city I visited: Leiden, the Netherlands
 * My favorite Twitter accounts: InfoSec Taylor Swift ([@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)) and Sad Server ([@sadserver](https://twitter.com/sadserver))
 * My favorite Twitter hashtag: [#OvoJeBiH](https://twitter.com/search?q=%23OvoJeBiH&src=tyah) (people from all across my country are sharing their pictures of beautiful places you can visit in Bosnia & Herzegovina)
 * My favorite GitHub repository: [awesome](https://github.com/sindresorhus/awesome) (a list of awesome lists hosted on GitHub)
-* My favorite subreddit: [/r/unixporn](https://www.reddit.com/r/unixporn/) (here you'll find pictures of what your Linux-based operating system could look like if you make a little effort to customize it)
-* My favorite magazine: [LiBRE!](https://libre.lugons.org/) (free software magazine written in Serbian language)
+* My favorite subreddit: [/r/unixporn](https://www.reddit.com/r/unixporn/) (here you'll find pictures of what your Linux-based operating system could look like if you make a bit of effort to customize it)
 * My favorite Spotify playlist: [ESM - Electronic Study Music](http://open.spotify.com/user/spotify/playlist/65y98W0UItf73DJKVgylTP) (the perfect music to listen to in the background while you're studying)
