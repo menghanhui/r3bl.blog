@@ -1,0 +1,121 @@
+---
+author: Aleksandar Todorović
+comments: true
+date: 2015-12-22 01:05:00+01:00
+layout: post
+slug: 2015-timeline
+title: "Summarizing 2015 in one timeline of events"
+categories: en
+tags:
+- personal
+- goals
+- summary
+image:
+  feature: abstract-1-3
+---
+
+The idea of this post is to summarize the 2015, list all of things that I have accomplished, all of the places I went, all of the amazing things I have experienced in one timeline.
+
+But before I do that, first I have to say that 2015. was a fucking fantastic year for me. I had done so many things that I have never thought of doing. I experienced things that I have never even thought I'll be able of experience in my life. I accomplished so many fucking fantastic things both personally and professionally. 2016, you're going to have a tough time trying to top this one!
+
+## January
+
+Back in January, I have decided to move my blog from WordPress.com to a .github.io domain. This required me to learn Jekyll, to actually accomplish something using HTML5/CSS3, to increase my activity on GitHub, to learn to use Google Analytics and all sorts of other fun things. I have to say that this was a freaking fantastic move and I am so happy I took it. Other than that, January was a bit dull month to me.
+
+## February
+
+This was a groundbreaking month to me. In February, I have published [A beginner's guide to GitHub](https://opensource.com/life/15/2/beginners-guide-github) (my very first article on [Opensource.com](https://opensource.com/)) and the response I got absolutely blew my mind! The article was named as the best article of the week, best article posted on Opensource.com in that month, and today, I found out it was the 11th most popular article posted on Opensource.com _in this year_! Thanks to that article, I went from nobody to having people from Red Hat contacting me and congratulating me on the amount of traffic the article was getting. It felt fucking amazing!
+
+Also, during one night out, a friend of mine came to me and suggested me that I should apply for a European Voluntary Service, which I had done a day or two later.
+
+## March
+
+I honestly don't remember much about this month. The only revolutionary thing I can remember about it is that I have officially been selected as a Bosnian representative in the European Voluntary Service project and I was about to go to the Netherlands for a month! That meant that I got my very first opportunity to go a bit further from my home. I have to say that I felt a bit scared at the time.
+
+## April
+
+10th of April has been a fucking amazing day for me. It was the day when I flew in an airplane for the very first time. It was the day when I met so many freaking amazing people.
+
+I have spent the rest of April in a city called Rijswijk, volunteering with a bunch of amazing people, having fun with such an amazing children and doing all sorts of crazy things.
+
+And then came 27th. I swear to god that 27th of April was the best day in my fucking life. It was a national holiday in the Netherlands called Kingsday (Koningsdag). I did my very best to feel as Dutch as I could. I woke up around 5 AM and I started selling things that people no longer needed in the middle of the street in Amsterdam (like everyone do on that day). Around noon, I have decided to basically say "fuck that" and tried raising the money in another way. So, I grabbed a piece of cardboard, wrote on it "1 DANCE = 1€" and started dancing in the middle of the street to two CDs that we had (not even good CDs) that were playing from shitty speakers we had on repeat non stop. And it felt absolutely amazing. I swear to god that this was the day when I had felt most relaxed in my life. Around 5 PM, after my shift was finished, I was freaking exhausted. So, I did what every normal person would do: grabbed something to eat really quick and went straight to a festival.
+
+Being a part of this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lePNUXmvmIU" frameborder="0" allowfullscreen></iframe>
+
+...was the best decision I made in my life.
+
+I came to Amsterdam's Olympic Stadium 10 minutes before Kygo started his set. When he actually started his set with my absolutely favorite song at the moment...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWYp1xRPH5g" frameborder="0" allowfullscreen></iframe>
+
+I swear to god it felt like I'm dreaming. I had goosebumps for like 10 minutes straight. It was a feeling that I really cannot describe. After a fantastic hour long set of his relaxing house mix, I moved to the second stage to listen to Yellow motherfucking Claw. Listening to Yellow Claw is amazing all by itself. _But_, listening to Yellow Claw _in their home country_ just took the things to a whole new level. Sooo many moshpits, so many trap arms... I absolutely lost my shit. I swear to god, after their set, I could barely stand on my feet. I was _absolutely_ blown away by the atmosphere. Right after their set Knife Party started playing at the main stage. I don't know if it was because I was soo fucking exhausted, but they have really let me down with their set. In the middle of their set I thought about leaving the festival and going home. Now, if I actually went home, it would probably be the biggest mistake I had made in my life because right after them, Jack Ü were closing the festival.
+
+Being present at the very first performance of Jack Ü in Europe felt out of this world. That was the very first time when I heard this song:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6JECDSFWosY" frameborder="0" allowfullscreen></iframe>
+
+Now at the time, I had thought that this was some wacky ass mashup that Skrillex and Diplo did live, I had no idea it was Skrillex's remix of a song that I had already _adored_. At the end, Jack Ü actually performed for 90 minutes instead of 60. I barely made it to the end without falling apart into peaces.
+
+After the festival was over, I got lost on the way home. I didn't have any money with me, no phone, I didn't even know the freaking address where I was supposed go after that. The only thing I knew is the tram line that passes right next to that place, but the problem is that it was a national holiday and that tram line was not working at the day.
+
+So, basically, I have spent two and a half hours completely lost in the middle of Amsterdam. And I could not give a flying fuck. I felt so amazing just wondering around the streets, getting lost over and over again. After two and a half hours, around 1 AM, I finally made it home. After spending 20 hours on my feet, of which I was dancing for like 13 hours, I went straight to bed and fell asleep as soon as I got to bed. That was absolutely the best day of my life.
+
+## May
+
+I have spent nine more days in the Netherlands. The last night was tough. Having met so many great people from all over the world and having to leave them and get back to a shitty country such as Bosnia & Herzegovina was rough. We had a farewell party on 8th of May. The problem is, I had to leave the place at 6.30 AM to get to a plane to Belgrade. Around 11 PM, I felt so fucking depressed. I really did not want to leave that place. So, I did what every normal person would do: I drank lots and lots of Sangria and smoked some weed. An hour later, I felt fucking amazing again. I swear to god, I was completely high when I flew back to Belgrade. _And_ the whole day I have spent in Serbia when I flew back.
+
+After such an amazing experience in the Netherlands, I started feeling a bit depressed. I needed something to do. Something new. Something challenging. So, I applied to become Opensource.com's new Community Moderator.
+
+## June
+
+On June 1st, I have officially became a part of Opensource.com team. It felt amazing being able to be a part of such an amazing team when you're nothing more than a student from the other side of the world. I received lots of swag from them in the mail and I did my best to contribute to the site in every single way possible.
+
+Other than that, I had mostly spent June sharing the awesome experience I had in the Netherlands with others. I swear to god some people started hating me because I kept telling them how much I had fun over there.
+
+## July
+
+In July, I was elected as one out of 40 students to join #ICT2015 conference in Lisbon, Portugal. The honor of being invited as the only student from your country, of being invited as the only student out of the European Union _and_ being the youngest student invited (most of the others were doing their Masters or Doctorate) felt out of this world. I felt like I am finally doing something right!
+
+## August
+
+In August, after lots of struggle, I bought my own `r3bl.me` domain. I have moved my website and my blog over at that domain and it required me to learn quite a lot of things about web hosting that I have never had a chance of learning before. I finally had my own domain! It was something I had dreamed of ever since I have started blogging a year before that.
+
+In August (IIRC) I had also been invited to join All Things Open, a conference held in Raleigh, North Carolina. Now that's when things started to get a bit stressful. I was supposed to go to two conferences organized at about the same time, I had to get a new passport to be able to get a U.S. Visa and I had to somehow organize both of the trips.
+
+## September
+
+September was a really stressful month for me. Logistics about me visiting two conferences in two different parts of the world in one week continued and stress kept increasing. I also got invited to a very first Internet Governance Forum organized in my country and I got an invitation to join a third conference in Belgrade, which was not physically possible to do (cloning machines, where are you?).
+
+Also, I got in touch with Smari McCarthy, the guy I used to know as a person from a documentary called [We Steal Secrets: The Story of Wikileaks](http://www.imdb.com/title/tt1824254/?ref_=fn_al_tt_1). I had a Skype interview with him and later on he offered me a job at a wacky ass organization called [OCCRP](https://www.occrp.org/en) (short for Organized Crime and Corruption Reporting Project). We made an agreement that I'm going to move to Sarajevo as soon as I finish my trip(s) (around the end of October). So, at the time, I had another thing to worry about because I have never actually visited Sarajevo before, and now I need to move there in less than a month. Plus, I had a bunch of final exams to finish in September and all I could think about is how crazy October is going to be.
+
+## October
+
+So, October came in. On 1st of October, I was in Sarajevo (the capital of Bosnia & Herzegovina) for the first time in my life. I was a part of the very first Internet Governance Forum in my country. That's where I met Smari in person for the very first time. He was one of the panelists there. That's also where I met Valentina Pellizzer, AKA the person who mentioned me in her paper at the end of 2014. I was completely unaware that I got mentioned in a paper somewhere until then. I had a great time there. I was supposed to fly to the U.S. in like 10 days, but I still haven't had my Visa interview at the time. Stress kept increasing after the IGF.
+
+A couple of days before my trip, my Visa got canceled. I really don't feel like writing about it because the reason why my Visa got canceled is the bullshittiest reason ever and I don't really feel like ranting at the moment. I feel like talking about awesome experiences!
+
+So, surely, I felt a bit depressed for a couple of days, but October 26th was getting close. You know what they say, life goes on and all that shit.
+
+In the middle of October, I got invited to be one of the guest speakers in a nationally broadcasted TV show. That invite came out of nowhere and I was absolutely stunned by it. I was there with Valentina (the person who mentioned me in her paper and organized that whole IGF conference), a guy from the Ministry of Inner Affairs of Bosnia & Herzegovina and a professor at the University of Sarajevo. Wow. I mean, who would've thought that one pretty unknown blogger could be invited to be a guest speaker together with people who have actually done something in their life? With people who actually have _careers_? I still haven't even started my internship for fucks sake. And yet, there I was, speaking together with them like I'm one of them. And you know what? It felt amazing.
+
+The 26th of October came by and I have officially started my internship at OCCRP. Until the end of October I haven't really done much because it took me a while to get to know my colleagues and get to know the architecture we're using at work and what so not.
+
+## November
+
+I have spent the whole November in Sarajevo. Sarajevo is a nice city. I really feel welcome here. It feels like home far away from home. At work, I got to do some wacky ass shit that I would _love_ to write about, but am not sure should I or should I not mention something, so I'm going to leave that for a separate post.
+
+## December
+
+Literally a day after I got my first pay check, I went on another trip. This time I have spent a (bit longer) weekend in Novi Sad, the 2nd biggest city in Belgrade. We had a meet-up of former EVS volunteers from South Eastern Europe. There were about 30 of us and... trust me, it's not a good idea to put 30 former EVS volunteers in one place. We got wasted every night, went partying every night, and, to be completely honest, I haven't really paid much attention to the actual schedule of the meet-up. I was there to have a good time and I fucking had a good time. Now I would love to tell you that Novi Sad is a beautiful city and all that other sorts of shit, but the thing is, the only thing I remember about Novi Sad are flashing lights of various clubs there.
+
+...oh, and Index sandwich! That was _the_ best sandwich I had in my life. I really cannot explain how good it was. If you ever stumble into Novi Sad, you absolutely _have_ to try that sandwich out!
+
+So, here I am, at the end of the summary. It's 1 AM and I should be up in like 7 hours to work for the last day and go to a vacation back home right after I leave my job. I should really get some sleep.
+
+## Short summary
+
+Yeah, 2015 has definitely been the best year of my life. 2016 is going to have a tough time trying to beat this one, but I'm pretty sure it's going to be at least half as amazing as 2015 was.
+
+**2016, BRING IT ON! I'm fucking ready for you!**
