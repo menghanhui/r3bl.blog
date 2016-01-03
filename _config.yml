@@ -10,7 +10,7 @@ url: https://blog.r3bl.me
 owner:
   name:           Aleksandar Todorović
   avatar:         avatar2.png
-  bio:            "Student. Hacker. Open Source Advocate. Opensource.com Community Moderator. elementary OS user.
+  bio:            "Student. Hacker. Open Source Advocate. Opensource.com Community Moderator. elementary OS user."
   email:          aleksandar.todorovic@mail.ru
 
 # Social networking links used in footer. Update and remove as you like.
@@ -24,7 +24,6 @@ google_plus:      AleksandarTodorovićr3bl
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
 google_verify: HN3OhhGuSzg22f65gyXnyo2HoR3Qaa0wwGE8z__aP9g
 bing_verify: 48E4664E51E766F96D2C457671427047
 
