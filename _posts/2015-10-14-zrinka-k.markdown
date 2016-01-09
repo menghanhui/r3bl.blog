@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2015-10-14 14:15:00+01:00
-layout: post
+layout: post-bs
 slug: zrinka-k
 title: "Razotkrivanje Zrinke K(asapić)"
 categories: bs

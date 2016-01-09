@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-08-18 01:25:38+00:00
-layout: post
+layout: post-bs
 slug: ubuntu-utopija-budiubuntu
 title: 'Ubuntu utopija #budiUbuntu'
 categories: bs

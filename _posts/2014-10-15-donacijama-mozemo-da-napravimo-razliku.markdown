@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-15 18:21:51+00:00
-layout: post
+layout: post-bs
 slug: donacijama-mozemo-da-napravimo-razliku
 title: Donacijama možemo da napravimo razliku
 categories: bs

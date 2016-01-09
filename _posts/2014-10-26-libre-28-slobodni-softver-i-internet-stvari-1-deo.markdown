@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-26 02:30:59+00:00
-layout: post
+layout: post-bs
 slug: libre-28-slobodni-softver-i-internet-stvari-1-deo
 title: LiBRE! 28 - Slobodni softver i internet stvari (1. deo)
 categories: bs

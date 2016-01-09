@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2015-02-01 01:38:10+00:00
-layout: post
+layout: post-bs
 slug: razlozi-mog-ateizma
 title: 'Razlozi mog ateizma'
 categories: bs

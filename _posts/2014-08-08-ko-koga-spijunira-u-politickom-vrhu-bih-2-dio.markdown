@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-08-08 20:57:55+00:00
-layout: post
+layout: post-bs
 slug: ko-koga-spijunira-u-politickom-vrhu-bih-2-dio
 title: Ko koga špijunira u političkom vrhu BiH? (2. dio)
 categories: bs

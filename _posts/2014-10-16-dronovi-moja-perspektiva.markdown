@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-16 10:47:39+00:00
-layout: post
+layout: post-bs
 slug: dronovi-moja-perspektiva
 title: Dronovi - moja perspektiva
 categories: bs

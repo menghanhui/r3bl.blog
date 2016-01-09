@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-15 17:55:07+00:00
-layout: post
+layout: post-bs
 slug: koje-softverske-firme-vas-kontrolisu
 title: Koje softverske firme vas kontrolišu?
 categories: bs

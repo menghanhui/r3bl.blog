@@ -8,53 +8,49 @@
 
 <script type="text/javascript">
 // place your images in this array
-var relevant_en = ["creative_commons.png", "digitally_imported.png", "duckduckgo.png", "eff.png", "elementary_os.png", "firefox.png", "investigative_dashboard.png", "libreoffice.png", "opensource.png", "piwik.png", "tor_project.png"];
+var relevant_bhs = ["kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png"]
 
-function getRandomImageEn(imgAr, path) {
+function getRandomImageBHS(imgAr, path) {
     var num = Math.floor( Math.random() * imgAr.length );
     var img = imgAr[ num ];
     var url;
     switch (img)
     {
-        case "creative_commons.png":
-            url = "https://donate.creativecommons.org/";
+        case "kompjuteras.png":
+            url = "https://kompjuteras.com/";
             break;
-        case "digitally_imported.png":
-            url = "http://www.di.fm/";
+        case "krik.png":
+            url = "https://www.krik.rs/";
             break;
-        case "duckduckgo.png":
-            url = "https://duckduckgo.com/about";
+        case "kriterion.png":
+            url = "http://kriterion.ba/";
             break;
-        case "eff.png":
-            url = "https://www.eff.org/";
+        case "libre.png":
+            url = "https://libre.lugons.org/";
             break;
-        case "elementary_os.png":
-            url = "https://elementary.io/";
+        case "linux-za-sve.png":
+            url = "http://www.linuxzasve.com/";
             break;
-        case "firefox.png":
-            url = "https://www.mozilla.org/en-US/firefox/new/";
+        case "molimao.png":
+            url = "http://molimaoizm.com/";
             break;
-        case "investigative_dashboard.png":
-            url = "https://investigativedashboard.org/";
+        case "mreza-mira.png":
+            url = "http://www.mreza-mira.net/";
             break;
-        case "libreoffice.png":
-            url = "http://www.libreoffice.org/";
+        case "muk-mag.png":
+            url = "http://mukmag.com/";
             break;
-        case "opensource.png":
-            url = "https://opensource.com/";
+        case "one-world-platform.png":
+            url = "http://oneworldplatform.net/";
             break;
-        case "piwik.png":
-            url = "http://piwik.org/";
-            break;
-        case "tor_project.org":
-            url = "https://www.torproject.org/";
+        case "tutorijalend.png":
+            url = "http://tutorijalend.com/";
             break;
     }
     var imgStr = '<a href="' + url + '"><img src="' + path + img + '"</a>';
     document.write(imgStr); document.close();
 }
 
-</script>
 </head>
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
@@ -103,8 +99,8 @@ function getRandomImageEn(imgAr, path) {
         {% if page.modified %}<span>Updated on <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
         {% if page.share != false %}{% include social-share.html %}{% endif %}
-        <script type="text/javascript">getRandomImageEn(relevant_en, '../../images/relevant/')</script>
-        <div style="float: right;"><a href="../../relevant-content">Why am I seeing this?</a></div>
+        <script type="text/javascript">getRandomImageBHS(relevant_bhs, '../../images/relevant-bhs/')</script>
+        <div style="float: right;"><a href="../../relevantan-sadrzaj">Koji je ovo đavo?</a></div>
       </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}

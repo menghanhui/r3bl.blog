@@ -2,7 +2,7 @@
 author: mrr3bl
 comments: true
 date: 2015-01-18 21:11:11+00:00
-layout: post
+layout: post-bs
 slug: kako-mladi-koriste-drustvene-mreze
 title: Kako mladi u mom okruženju koriste društvene mreže?
 categories: bs

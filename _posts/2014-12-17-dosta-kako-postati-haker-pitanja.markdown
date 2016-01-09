@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-12-17 16:38:49+00:00
-layout: post
+layout: post-bs
 slug: dosta-kako-postati-haker-pitanja
 title: Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja
 categories: bs

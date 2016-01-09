@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2015-06-26 22:40:00+01:00
-layout: post
+layout: post-bs
 slug: sta-radi-u-nizozemskoj-ali-ne-bi-radilo-kod-nas
 title: "Šta radi u Nizomeskoj što bi teško bilo moguće na našim prostorima"
 categories: bs

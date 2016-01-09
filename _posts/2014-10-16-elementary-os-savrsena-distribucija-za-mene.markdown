@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-16 20:16:17+00:00
-layout: post
+layout: post-bs
 slug: elementary-os-savrsena-distribucija-za-mene
 title: elementary OS - Savršena distribucija za mene
 categories: bs

@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-10-28 14:36:42+00:00
-layout: post
+layout: post-bs
 slug: da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment
 title: Da li su dobri muzički producenti ujedno i dobri psiholozi? [eksperiment]
 categories: bs

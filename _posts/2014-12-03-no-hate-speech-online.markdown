@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2014-12-03 00:11:49+00:00
-layout: post
+layout: post-bs
 slug: no-hate-speech-online
 title: Pokret protiv govora mržnje na internetu
 categories: bs
