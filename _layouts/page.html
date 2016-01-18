@@ -7,40 +7,13 @@
 {% include head.html %}
 </head>
 
-<body id="page" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="page">
 
 {% include browser-upgrade.html %}
-{% include navigation.html %}
-
-<div class="entry-header">
-    <div class="image-credit">
-        Find me on:&nbsp
-        <a href="https://github.com/{{ site.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
-        <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
-        <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
-        <a href="https://plus.google.com/+{{ site.google_plus }}" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
-        <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
-        <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
-    </div>
-    <div class="entry-image">
-        <img src="{{ site.url }}/images/{{ page.image.feature }}.jpg" alt="{{ page.title }}">
-    </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
+{% include header.html %}
 
 <div id="main" role="main">
   <article class="hentry">
-    <header class="header-title">
-      <div class="header-title-wrap">
-        <h1 class="entry-title">{{ page.title }}</h1>
-        {% if site.reading_time %}
-        <p class="entry-reading-time">
-          <i class="fa fa-clock-o"></i>
-          {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
-          Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-        </p><!-- /.entry-reading-time -->
-        {% endif %}
-      </div><!-- /.header-title-wrap -->
-    </header>
     <div class="entry-content">
       {{ content }}
       <footer class="entry-meta">
@@ -53,13 +26,13 @@
   </article>
 </div><!-- /#main -->
 
+{% include scripts.html %}
+
 <div class="footer-wrapper">
   <footer role="contentinfo">
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
-
-{% include scripts.html %}
 
 </body>
 </html>

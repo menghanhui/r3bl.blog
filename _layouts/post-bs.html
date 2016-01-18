@@ -5,116 +5,39 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
-
-<script type="text/javascript">
-// place your images in this array
-var relevant_bhs = ["kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png"]
-
-function getRandomImageBHS(imgAr, path) {
-    var num = Math.floor( Math.random() * imgAr.length );
-    var img = imgAr[ num ];
-    var url;
-    switch (img)
-    {
-        case "kompjuteras.png":
-            url = "https://kompjuteras.com/";
-            break;
-        case "krik.png":
-            url = "https://www.krik.rs/";
-            break;
-        case "kriterion.png":
-            url = "http://kriterion.ba/";
-            break;
-        case "libre.png":
-            url = "https://libre.lugons.org/";
-            break;
-        case "linux-za-sve.png":
-            url = "http://www.linuxzasve.com/";
-            break;
-        case "molimao.png":
-            url = "http://molimaoizm.com/";
-            break;
-        case "mreza-mira.png":
-            url = "http://www.mreza-mira.net/";
-            break;
-        case "muk-mag.png":
-            url = "http://mukmag.com/";
-            break;
-        case "one-world-platform.png":
-            url = "http://oneworldplatform.net/";
-            break;
-        case "tutorijalend.png":
-            url = "http://tutorijalend.com/";
-            break;
-    }
-    var imgStr = '<a href="' + url + '"><img src="' + path + img + '"</a>';
-    document.write(imgStr); document.close();
-}
-</script>
 </head>
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
 
 {% include browser-upgrade.html %}
-{% include navigation.html %}
-
-<div class="entry-header">
-    <div class="image-credit">
-        Find me on:&nbsp
-        <a href="https://github.com/{{ site.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
-        <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
-        <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
-        <a href="https://plus.google.com/+{{ site.google_plus }}" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
-        <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
-        <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
-    </div>
-    <div class="entry-image">
-        <img src="{{ site.url }}/images/{{ page.image.feature }}.jpg" alt="{{ page.title }}">
-    </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
+{% include header.html %}
 
 <div id="main" role="main">
   <article class="hentry">
-    <header class="header-title">
-      <div class="header-title-wrap">
-        {% if page.link %}
-          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
-        {% else %}
-          <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-        {% endif %}
-        <h2><span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></h2>
-        {% if site.reading_time %}
-        <p class="entry-reading-time">
-          <i class="fa fa-clock-o"></i>
-          {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
-          Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-        </p><!-- /.entry-reading-time -->
-        {% endif %}
-      </div><!-- /.header-title-wrap -->
-    </header>
     <div class="entry-content">
+      <h1 class="post-title entry-title">{{ page.title }}</h1>
       {{ content }}
       <footer class="entry-meta">
-        <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}" class="tag"><span class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
+        <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags#{{ tag }}" title="Pages tagged {{ tag }}" class="tag"><span class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
         {% if page.modified %}<span>Updated on <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
-        <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
+        {% endif %}
+        <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>
         {% if page.share != false %}{% include social-share.html %}{% endif %}
-        <script type="text/javascript">getRandomImageBHS(relevant_bhs, '../../images/relevant-bhs/')</script>
-        <div style="float: right;"><a href="../../relevantan-sadrzaj">Koji je ovo đavo?</a></div>
       </footer>
     </div><!-- /.entry-content -->
+    {% include relevant-bhs.html %}
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-    {% if site.related_posts.size %}{% include read-more.html %}{% endif %}
+    {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
   </article>
 </div><!-- /#main -->
+
+{% include scripts.html %}
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
-
-{% include scripts.html %}
 
 </body>
 </html>

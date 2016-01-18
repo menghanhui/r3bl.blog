@@ -27,10 +27,10 @@ Even though I am affiliated with some of these projects, I am not getting paid f
 
 [![investigative_dashboard](../images/relevant/investigative_dashboard.png)](https://investigativedashboard.org/)
 
-[![libreoffice](../images/relevant/libreoffice.png)](http://www.libreoffice.org/)
+[![libreoffice](../images/relevant/libreoffice.png)](https://www.libreoffice.org/)
 
 [![opensource.com](../images/relevant/opensource.png)](https://opensource.com/)
 
-[![piwik](../images/relevant/piwik.png)](http://piwik.org/)
+[![piwik](../images/relevant/piwik.png)](https://piwik.org/)
 
 [![tor_project](../images/relevant/tor_project.png)](https://www.torproject.org/)

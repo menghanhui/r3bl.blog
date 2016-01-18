@@ -1,43 +1,19 @@
 ---
 layout: post-index
-title: Personal Blog
-description: "Student, hacker and an open source advocate."
-tags: [open source, hacking, artificial intelligence, cyber security]
+title: "Aleksandar Todorović (r3bl)"
+description: "Hacker. Open Source Advocate. OCCRP Tech Associate. Opensource.com Community Moderator."
+tags: [hacking, infosec, AI, open source, open culture]
 comments: false
-image:
-    feature: abstract-1-3
 ---
-
-<article class="hentry">
-  <div class="entry-content">
-    <p align=center>I'm an <a href="/en/open-source-advocacy">Open Source Advocate</a> with a huge passion for Artificial Intelligence and Cyber Security.
-       I'm a Community Moderator at <a href="http://opensource.com" target="_blank">Opensource.com</a>.
-       I love contributing to open source projects, mostly <a href="http://opensource.com/business/14/12/8-ways-contribute-open-source-without-writing-code" target="_blank">without writing code</a>.
-       I've contributed to a couple of worldy-known open source projects such as <a href="https://reddit.com" target="_blank">Reddit</a>, <a href="https://elementary.io" target="_blank">elementary OS</a>, and the <a href="https://www.torproject.org/" target="_blank">Tor Project</a>.
-       I'm writing content in both English and Bosnian language.
-       So far (aside from this blog of course) I've written content for <a href="http://opensource.com/" target="_blank">Opensource.com</a>, <a href="http://kompjuteras.com/" target="_blank">Kompjuteraš</a> and <a href="https://libre.lugons.org/" target="_blank">LiBRE! magazine</a>.
-    </p>
-    <p align=center><a href="/about">Learn more about me </a> or visit the <a href="/posts">post archive</a>.</p>
-    {% capture images %}
-	     /images/gallery-1.jpg
-       /images/gallery-2.jpg
-       /images/gallery-3.jpg
-    {% endcapture %}
-    {% include gallery images=images caption="my images" cols=3 %}
-    <p align=center>You can find me on: &nbsp
-      <a href="https://github.com/aleksandar-todorovic" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
-      <a href="https://twitter.com/r3bl_" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
-      <a href="https://www.facebook.com/aleksandar.todorovic.r3bl" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
-      <a href="https://www.linkedin.com/in/aleksandartodorovic" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
-      <a href="https://plus.google.com/117549842149032938678/" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
-    </p>
-
-  </div>
-</article>
 
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
+    {% if post.image.feature %}
+      <div class="entry-image-index">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"></a>
+      </div><!-- /.entry-image -->
+    {% endif %}
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
       {% if site.reading_time %}
@@ -55,7 +31,11 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.excerpt }}
+    {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+    {% else %}
+      {{ post.content | strip_html | truncatewords: 50 }}
+    {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

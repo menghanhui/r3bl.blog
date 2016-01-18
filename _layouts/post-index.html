@@ -7,45 +7,22 @@
 {% include head.html %}
 </head>
 
-<body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post-index">
 
 {% include browser-upgrade.html %}
-{% include navigation.html %}
-
-<div class="entry-header">
-    <div class="image-credit">
-        Find me on:&nbsp
-        <a href="https://github.com/{{ site.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>&nbsp
-        <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>&nbsp
-        <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>&nbsp
-        <a href="https://plus.google.com/+{{ site.google_plus }}" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>&nbsp
-        <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>&nbsp
-        <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
-    </div>
-    <div class="entry-image">
-        <img src="{{ site.url }}/images/{{ page.image.feature }}.jpg" alt="{{ page.title }}">
-    </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
-
-  <div class="header-title">
-    <div class="header-title-wrap">
-      <h1>{{ site.title }}</h1>
-      <h2>{{ page.title }}</h2>
-    </div><!-- /.header-title-wrap -->
-  </div><!-- /.header-title -->
-</div><!-- /.entry-header -->
+{% include header.html %}
 
 <div id="main" role="main">
   {{ content }}
 </div><!-- /#main -->
+
+{% include scripts.html %}
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
-
-{% include scripts.html %}
 
 </body>
 </html>

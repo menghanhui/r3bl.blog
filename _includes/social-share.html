@@ -1,45 +1,8 @@
 <div class="social-share">
-
-
-  <ul class="socialcount socialcount-small inline-list">
-
-      <!-- Facebook background code -->
-      <div id="fb-root"></div>
-      <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-
-      <!-- Twitter background code -->
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-      <!-- Flattr -->
-      <li class="flattr">
-          <a href="https://flattr.com/submit/auto?user_id=r3bl&url=http%3A%2F%2Fr3bl.github.io" target="_blank">
-              <img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0">
-          </a>
-      </li>
-
-      <!-- Facebook -->
-      <li class="facebook">
-             <div class="fb-share-button" data-href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" data-layout="button_count"></div>
-      </li>
-
-      <!-- Twitter -->
-      <li class="twitter">
-          <a href="https://twitter.com/share" class="twitter-share-button" data-via="r3bl_">Tweet</a>
-      </li>
-
-      <!-- Google+ -->
-      <li class="googleplus">
-            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+"></a>
-            <script src="https://apis.google.com/js/platform.js" async defer></script>
-            <div class="g-plusone" data-annotation="inline" data-width="100"></div>
-        </li>
-
- </ul>
-
+    <ul class="socialcount inline-list">
+        <li>Share on:</li>
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><i class="fa fa-facebook"></i>&nbsp Facebook</a></li>
+        <li><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><i class="fa fa-twitter-square"></i>&nbsp Twitter</a></li>
+        <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+"><i class="fa fa-google-plus"></i>&nbsp Google+</a></li>
+    </ul>
 </div><!-- /.social-share -->

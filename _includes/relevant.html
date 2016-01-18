@@ -1,0 +1,51 @@
+
+<script type="text/javascript">
+var relevant_en = ["creative_commons.png", "digitally_imported.png", "duckduckgo.png", "eff.png", "elementary_os.png", "firefox.png", "investigative_dashboard.png", "libreoffice.png", "opensource.png", "piwik.png", "tor_project.png"];
+
+  function getRandomImageEn(imgAr, path) {
+      var num = Math.floor( Math.random() * imgAr.length );
+      var img = imgAr[ num ];
+      var url;
+      switch (img)
+      {
+          case "creative_commons.png":
+              url = "https://donate.creativecommons.org/";
+              break;
+          case "digitally_imported.png":
+              url = "http://www.di.fm/";
+              break;
+          case "duckduckgo.png":
+              url = "https://duckduckgo.com/about";
+              break;
+          case "eff.png":
+              url = "https://www.eff.org/";
+              break;
+          case "elementary_os.png":
+              url = "https://elementary.io/";
+              break;
+          case "firefox.png":
+              url = "https://www.mozilla.org/en-US/firefox/new/";
+              break;
+          case "investigative_dashboard.png":
+              url = "https://investigativedashboard.org/";
+              break;
+          case "libreoffice.png":
+              url = "https://www.libreoffice.org/";
+              break;
+          case "opensource.png":
+              url = "https://opensource.com/";
+              break;
+          case "piwik.png":
+              url = "https://piwik.org/";
+              break;
+          case "tor_project.org":
+              url = "https://www.torproject.org/";
+              break;
+      }
+      var imgStr = '<a href="' + url + '"><img src="' + path + img + '"</a>';
+      document.write(imgStr); document.close();
+  }
+
+</script>
+
+<script type="text/javascript">getRandomImageEn(relevant_en, '../../images/relevant/')</script>

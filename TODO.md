@@ -1,11 +1,14 @@
-# To-do
+# To do
 
-## Functionality
-
-* [ ] Add an archive by the language of the post inside of the navigation.
-* [ ] Sharing options need some re-design and I need to integrate more sharing options under every post.
-* [ ] To create a privacy policy, where I will clearly state that I am using Google Analytics (and the ways to circumvent that) and that I won't be serving ads on my blog what so ever.
-
-## Design
-
-The design kind of looks a bit clunky right now. I'm considering switching to another theme, using collections and things like that.
+- [x] Move the `CNAME` file
+- [x] Get rid of that floating share thingy
+- [x] Move the favicons (and place them in a separate folder)
+- [x] Move relevant content (replace about the author with it)
+- [x] Figure out how I broke the menu bar
+- [x] Make sure there are no unnecessary `http://` links
+- [x] Add better sharing options
+- [x] Customize `README.md`
+- [x] Add Piwik
+- [ ] Improve the logo
+- [x] Make the background image look good on all devices
+- [x] Fix the menu tool on smaller devices
