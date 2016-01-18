@@ -39,7 +39,7 @@ Instead of serving my visitors with ads, I'm serving them with a randomly-genera
 
 ## How it looks
 
-![relevant website example](../images/ad-example.png)
+![relevant website example]({{ site.url }}/images/ad-example.png)
 
 ## How it works
 
