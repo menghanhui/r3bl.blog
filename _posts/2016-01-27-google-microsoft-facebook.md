@@ -182,7 +182,7 @@ Sakupljanje podataka o meni mi lično predstavlja ogroman problem. Filtriranje s
 * [Koje softverske firme vas kontrolišu?](https://blog.r3bl.me/bs/koje-softverske-firme-vas-kontrolisu/) — objava na mom blogu iz oktobra 2014. godine.
 * [The Filter Bubble](http://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235/) — knjiga koju potpisuje Eli Parser; iz ove knjige sam preveo svaki citat koji je pronašao svoje mjesto u ovome članku.
 * [Content](http://craphound.com/content/download/) — (besplatna) knjiga koju je napisao [Cory Doctorow](http://craphound.com/), vjerovatno najistaknutiji pisac koji svojim pisanjem inspiriše open source programere i aktiviste koji se bore za slobodu Interneta, plus izdaje sve svoje knjige pod Creative Commons licencom. Takođe, možete pročitati i [citate koje sam sebi izdvojio iz ove knjige](https://github.com/aleksandar-todorovic/notes/blob/master/quotes/05_content.md) u mojim bilješkama.
-* [Internet je nastao uzalud](https://kompjuteras.com/internet-je-nastao-uzalud/) - članak koji je napisao Darko Dražović (osoba iza bloga Kompjuteraš sa kojim mi je veliko zadovoljstvo sarađivati).
+* [Internet je nastao uzalud](https://kompjuteras.com/internet-je-nastao-uzalud/) - članak koji je napisao  Nikola Simić za blog Kompjuteraš sa kojim mi je veliko zadovoljstvo sarađivati.
 
 ## P.S.
 
