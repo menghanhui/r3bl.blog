@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2016-1-27 14:00:00+01:00
-layout: post
+layout: post-bs
 slug: facebook-google-microsoft
 title: 'Zašto se ne osjećam ugodno kada koristim proizvode kompanija kao što su Google, Microsoft i Facebook'
 categories: bs
