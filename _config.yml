@@ -11,6 +11,8 @@ float_share:      false
 ## Fixed top menu content
 
 menu:
+  - title: 'Home'
+    url: '/'
   - title: 'About'
     url: '/about'
   - title: 'English'

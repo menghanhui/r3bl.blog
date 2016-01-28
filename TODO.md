@@ -9,6 +9,8 @@
 - [x] Add better sharing options
 - [x] Customize `README.md`
 - [x] Add Piwik
-- [ ] Improve the logo
 - [x] Make the background image look good on all devices
 - [x] Fix the menu tool on smaller devices
+- [ ] Improve the logo
+- [ ] Fix the share buttons one by one
+- [ ] Add an option to return home from the mobile navigation
