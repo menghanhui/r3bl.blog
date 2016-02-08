@@ -7,6 +7,7 @@ reading_time:     true
 words_per_minute: 200
 logo:             images/logo2.png
 float_share:      false
+url:              https://blog.r3bl.me
 
 ## Fixed top menu content
 
