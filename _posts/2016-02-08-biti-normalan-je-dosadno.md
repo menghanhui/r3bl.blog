@@ -35,7 +35,7 @@ Sajt [Wordcount.org](http://www.wordcount.org/main.php) nam je ovo približio ta
 
 Da bih to sebi dokazao (jer naravno, nije baš u redu vjerovati random videima sa YouTube-a), preuzeo sam [listu najpopularnijih riječi](http://www.winwaed.com/blog/2012/04/16/calculating-word-and-n-gram-statistics-from-a-wikipedia-corpora/) korišćenih na engleskoj Wikipediji i knjigama dostupnim na Project Gutenberg sajtu. Pošto sam znao da je riječ `the` prva na listi, prvo sam provjerio koliko se ona često pojavljuje (odgovor je 181.076.598 puta). Pošto sam znao da riječ `education` zauzima 337. mjesto, podijelio sam koliko je puta korišćena riječ `the` sa indeksom riječi `education` (u ovom slučaju, 337). Rezultat koji sam dobio bio je 537.319. Dakle, kada pretražim riječ `education`, ona bi se trebala pojavljivati približno toliko puta.
 
-![01](../images/dokaz-zipfovog-zakona.png)
+![01](../../images/dokaz-zipfovog-zakona.png)
 
 Bio sam u pravu...
 
