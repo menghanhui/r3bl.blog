@@ -4,7 +4,7 @@
   </div><!-- /.read-more-header -->
   <div class="read-more-content">
       <script type="text/javascript">
-      var relevant_bhs = ["kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png"]
+      var relevant_bhs = ["kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png", "share_foundation.png"]
 
       function getRandomImageBHS(imgAr, path) {
           var num = Math.floor( Math.random() * imgAr.length );
@@ -41,6 +41,9 @@
                   break;
               case "tutorijalend.png":
                   url = "http://tutorijalend.com/";
+                  break;
+              case "share_foundation.png":
+                  url = "www.shareconference.net/";
                   break;
           }
           var imgStr = '<a href="' + url + '"><img src="' + path + img + '"</a>';
