@@ -42,7 +42,7 @@ owner:
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Sarajevo
 future:      true
-highlighter: rogue
+highlighter: rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
