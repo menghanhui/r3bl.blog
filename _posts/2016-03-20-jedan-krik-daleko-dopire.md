@@ -63,3 +63,4 @@ Mojih [pet](https://twitter.com/r3bl_/status/701710298198183936) [najpopularniji
 
 * Broj pregleda nije jednak broju unikatnih osoba do kojih su tweet-ovi stigli.
 * Ova statistika ne obrađuje i [#PodržiKRIK](https://twitter.com/search?q=%23Podr%C5%BEiKRIK) _hashtag_ (razlika između `z` i `ž`), koji je takođe bio jako aktivan danas.
+* U statistiku nije uključeno zadnjih 45 minuta u danu jer mi je trebalo malo vremena i da ovo sve složim i napišem.
