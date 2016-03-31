@@ -16,7 +16,7 @@ image:
 
 Pošto sam jedan od zvaničnih blogera na ovogodišnjim [Danima Internet domena Srbije](http://dids.rs) koji se održavaju za manje od 10 dana u Beogradu (ako se još niste prijavili, [požurite](http://dids.rs/sr/naslovna-2/)), odlučio sam da rastavim teme koje se spominju u prvom panelu i dam svoje kratko mišljenje o svakoj od njih. Panel po programu traje nekih sat i 45 minuta, tako da ne vjerujem da će biti dovoljno vremena da se ova moja mišljenja promijene, ali, za slučaj da dođe do toga, prvo ću biti impresioniran, a onda ću i vas obavijestiti o tome u mojoj sumarizaciji konferencije.
 
-![dids logo](https://blog.r3bl.me/images/dids/01.png)
+![dids logo]({{site.url}}/images/dids/01.png)
 
 > Apple odbio da oslabi algoritam šifrovanja kako bi pomogao FBI-u
 
@@ -40,7 +40,7 @@ Da li iko normalan nakon Edward-a Snowden-a stvarno misli da bi se takav sporazu
 
 > Vikiliks obelodanio spisak vlada koje su kupile softver za hakovanje uređaja građana
 
-Bravo WikiLeaks! O ovoj temi i o tome kako su čak tri vladine agencije u Bosni i Hercegovini bili zainteresovani za ovaj softver sam [već pisao](https://blog.r3bl.me/bs/spijunaza-u-regiji-1/), tako da se neću puno zadržavati ovdje.
+Bravo WikiLeaks! O ovoj temi i o tome kako su čak tri vladine agencije u Bosni i Hercegovini bili zainteresovani za ovaj softver sam [već pisao]({{site.url}}/bs/spijunaza-u-regiji-1/), tako da se neću puno zadržavati ovdje.
 
 > Hoće li uspeti tranzicija u okviru ICANN – ko će koordinirati ključnim internet resursima?
 

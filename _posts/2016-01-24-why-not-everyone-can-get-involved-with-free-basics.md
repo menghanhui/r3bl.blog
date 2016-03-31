@@ -20,17 +20,17 @@ I have submitted my personal website (`r3bl.me`) through [this link](https://par
 
 ## First step: entering your personal info and info about the website
 
-[![screenshot #1](https://blog.r3bl.me/images/free-basics/1.png)](https://blog.r3bl.me/images/free-basics/1.png)
+[![screenshot #1]({{site.url}}/images/free-basics/1.png)]({{site.url}}/images/free-basics/1.png)
 
-[![screenshot #2](https://blog.r3bl.me/images/free-basics/2.png)](https://blog.r3bl.me/images/free-basics/2.png)
+[![screenshot #2]({{site.url}}/images/free-basics/2.png)]({{site.url}}/images/free-basics/2.png)
 
-[![screenshot #3](https://blog.r3bl.me/images/free-basics/3.png)](https://blog.r3bl.me/images/free-basics/3.png)
+[![screenshot #3]({{site.url}}/images/free-basics/3.png)]({{site.url}}/images/free-basics/3.png)
 
 *Note*: we'll get to the terms of services later on.
 
 ## Website optimization
 
-[![screenshot #4](https://blog.r3bl.me/images/free-basics/4.png)](https://blog.r3bl.me/images/free-basics/4.png)
+[![screenshot #4]({{site.url}}/images/free-basics/4.png)]({{site.url}}/images/free-basics/4.png)
 
 Okay, this just sounded completely silly. I realize that videos, large images and `.svg`s do take up a reasonable amount of bandwidth, but disabling JavaScript just seemed silly. I had no intention of removing such content from my website nor did I have any intention of re-implementing things and keeping a special fork of the website just so that it follows these guidelines.
 
@@ -38,13 +38,13 @@ After I have read this, I was pretty sure that my website is going to get reject
 
 ## HTTPS support
 
-[![screenshot #5](https://blog.r3bl.me/images/free-basics/5.png)](https://blog.r3bl.me/images/free-basics/5.png)
+[![screenshot #5]({{site.url}}/images/free-basics/5.png)]({{site.url}}/images/free-basics/5.png)
 
 Okay, this caching practically breaks my HTTPS support and puts Facebook in control. This means that the users are not going to see my certificate. They're going to see Facebook's certificate and Facebook will then use my certificate to fetch the data from my website. I get completely cut out and Facebook takes over my content, pretending that it is me and that the users are viewing my website. By using Facebook's servers as the proxy, I have absolutely no control over what the users will see. Facebook could manipulate my website in any single way and neither I nor the users of Free Basics are going to know that (since my certificate is no longer being used, users can't in any single way be sure that they're visiting the authentic version of the website).
 
 ## Terms of Service
 
-[![screenshot #6](https://blog.r3bl.me/images/free-basics/7.png)](https://blog.r3bl.me/images/free-basics/7.png)
+[![screenshot #6]({{site.url}}/images/free-basics/7.png)]({{site.url}}/images/free-basics/7.png)
 
 Surprisingly, they're not as complicated as I thought that they will be. It took me about a minute or two to read them and I was not able to find a single point where I would make a strong objection.
 
@@ -52,7 +52,7 @@ Surprisingly, they're not as complicated as I thought that they will be. It took
 
 I instantly got an email that you can see in the screenshot below:
 
-[![screenshot #6](https://blog.r3bl.me/images/free-basics/8.png)](https://blog.r3bl.me/images/free-basics/8.png)
+[![screenshot #6]({{site.url}}/images/free-basics/8.png)]({{site.url}}/images/free-basics/8.png)
 
 Now, all I had to do was wait! Because my website relied on JavaScript, I expected a quick response. That never happened.
 

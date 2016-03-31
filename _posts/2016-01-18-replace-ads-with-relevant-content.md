@@ -80,7 +80,7 @@ On top of that, I can be sure that no adblocking software is going to block them
 
 Of course, I'm not making any money out of showing these images, but let us be honest: how many content creators can say that they are living out of showing ads on their own website?
 
-Aside from showing my users a relevant project, I'm also putting a small `Why am I seeing this?` message below it. Once users click on it, they get redirected to [this page](https://blog.r3bl.me/relevant-content/), which displays the following message:
+Aside from showing my users a relevant project, I'm also putting a small `Why am I seeing this?` message below it. Once users click on it, they get redirected to [this page]({{site.url}}/relevant-content/), which displays the following message:
 
 ![ad explanation](../images/ad-explanation.png)
 

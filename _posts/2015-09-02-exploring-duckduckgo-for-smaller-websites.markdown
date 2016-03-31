@@ -42,7 +42,7 @@ So, Yandex's search engine _was_ the key to the puzzle.
 
 So, if you're running a small website and you want it to be indexed on DDG, forget about Google, Bing and Yahoo. Get your site indexed on Yandex instead.
 
-Unfortunately, three results that I currently get are far from enough. So, about an hour ago, I have submitted a request to Yandex to index my [blog.r3bl.me](https://blog.r3bl.me) subdomain as well. Once that process is done, my website is going to be accessible through both DuckDuckGo and Yandex.
+Unfortunately, three results that I currently get are far from enough. So, about an hour ago, I have submitted a request to Yandex to index my [blog.r3bl.me]({{site.url}}) subdomain as well. Once that process is done, my website is going to be accessible through both DuckDuckGo and Yandex.
 
 **tl;dr**:
 

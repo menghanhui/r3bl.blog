@@ -11,9 +11,9 @@ image:
   feature: abstract-1-3
 ---
 
-Vi koji ste iz Sarajeva, čestitam, definitivno ste u manjini na ovom blogu. Vi koji niste iz Sarajeva, a pratite ovaj blog, možda ste primjetili da sam 18. januara napravio [jednu izmjenu](https://blog.r3bl.me/en/replace-ads-with-relevant-content/) na blogu, tako da se sada na dnu svake moje objave nalazi link prema jednom projektu koji ja podržavam. Medu njima se nalazi i [Kriterion Sarajevo](http://kriterion.ba/).
+Vi koji ste iz Sarajeva, čestitam, definitivno ste u manjini na ovom blogu. Vi koji niste iz Sarajeva, a pratite ovaj blog, možda ste primjetili da sam 18. januara napravio [jednu izmjenu]({{site.url}}/en/replace-ads-with-relevant-content/) na blogu, tako da se sada na dnu svake moje objave nalazi link prema jednom projektu koji ja podržavam. Medu njima se nalazi i [Kriterion Sarajevo](http://kriterion.ba/).
 
-[![Kriterion Sarajevo](https://blog.r3bl.me/images/relevant-bhs/kriterion.png)](http://kriterion.ba)
+[![Kriterion Sarajevo]({{site.url}}/images/relevant-bhs/kriterion.png)](http://kriterion.ba)
 
 ## Šta je Kriterion?
 

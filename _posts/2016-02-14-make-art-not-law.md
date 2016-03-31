@@ -13,43 +13,43 @@ tags:
 - Free culture
 ---
 
-![Transmission_10fps2](https://blog.r3bl.me/images/manw/Transmission_10fps2.gif)
+![Transmission_10fps2]({{site.url}}/images/manw/Transmission_10fps2.gif)
 
 Ti si informacijski portal. Informacije ulaze kroz tvoja čula, kao što su tvoje uši i oči, i izlaze kroz tvoje oblike komunikacije, kao što su tvoj glas, tvoji crteži, tvoji pisani radovi, i tvoji pokreti.
 
-![02_Paley_pkncu](https://blog.r3bl.me/images/manw/02_Paley_pkncu.jpg)
+![02_Paley_pkncu]({{site.url}}/images/manw/02_Paley_pkncu.jpg)
 
 Da bi kultura ostala u životu, mi moramo da budemo otvoreni, ili propustljivi. Mi smo materijal kroz koji informacija putuje, i propustljivost u ovom smislu znači "stepen u kojem materijal podliježe protoku materije ili energije".
 
-![03_Paley_pkncu](https://blog.r3bl.me/images/manw/03_Paley_pkncu.jpg)
+![03_Paley_pkncu]({{site.url}}/images/manw/03_Paley_pkncu.jpg)
 
 Kroz ovaj protok informacija naša kultura ostaje živa i mi ostajemo konektovani jedni sa drugima. Ideje ulaze i ideje izlaze iz svakoga od nas. Ideje se malo mijenjaju kao putuju kroz nas. Ovo je poznato kao evolucija, progres ili inovacija.
 
-![04_Paley_pkncu](https://blog.r3bl.me/images/manw/04_Paley_pkncu.jpg)
+![04_Paley_pkncu]({{site.url}}/images/manw/04_Paley_pkncu.jpg)
 
 Ali zahvaljujući Zakonu o autorskim pravima (eng. _Copyright_ zakon), živimo u svijetu gdje neke informacije ulaze, ali ne mogu na legalan način da izađu iz nas i da nastave svoje putovanje. Često čujem ljude koji se bave kreativnim oblicima izražavanja kako pitaju: "Da li mi je dozvoljeno da koristim ovo? Ne želim da se uvučem u nevolju."
 
-![05_Paley_pkncu](https://blog.r3bl.me/images/manw/05_Paley_pkncu.jpg)
+![05_Paley_pkncu]({{site.url}}/images/manw/05_Paley_pkncu.jpg)
 
 U našem režimu u kojem preovladava Zakon o autorskim pravima, "nevolja" može da dovede do krivičnih prijava, ogromne novčane kazne ili čak i zatvorske kazne. "Nevolja" znači nasilje. "Nevolja" je zatvorila mnogo kreativnih preduzeća. Zato, prijetnja "nevoljom" diktira naše izbore oko toga kako se izražavamo.
 
-![06_Paley_pkncu](https://blog.r3bl.me/images/manw/06_Paley_pkncu.jpg)
+![06_Paley_pkncu]({{site.url}}/images/manw/06_Paley_pkncu.jpg)
 
 Zakon o autorskim pravima aktivira naše interne senzore. Interna cenzura je neprijatelj naše kreativnosti. Ona zaustavlja naše ekspresije prije nego što one i počnu. Pitanje "da li imam pravo da koristim ovo?" nam govori kako je osoba koja je postavila to pitanje predala svoju internu vlast advokatima, osobama koje donose zakon i korporacijama.
 
-![07_Paley_pkncu](https://blog.r3bl.me/images/manw/07_Paley_pkncu.jpg)
+![07_Paley_pkncu]({{site.url}}/images/manw/07_Paley_pkncu.jpg)
 
 Ovaj fenomen je poznat kao Kultura dozvola (eng. [_Permission Culture_](https://en.wikipedia.org/wiki/Permission_culture)). Kada cenzurišemo naše ekspresije, mi se pomalo zatvaramo i informacije teku pomalo sporije. Ovo je poznato kao Obeshrabrujući efekat (eng. [_chilling effect_](https://en.wikipedia.org/wiki/Chilling_effect)).
 
-![08_Paley_pkncu](https://blog.r3bl.me/images/manw/08_Paley_pkncu.jpg)
+![08_Paley_pkncu]({{site.url}}/images/manw/08_Paley_pkncu.jpg)
 
 Zapitao sam se: da li sam ja ikada pristao na to da dozvolim "Kulturi dozvola" da uđe u moj mozak? Zašto pristajem na cenzuru? Koliko pravo izbora imam da odlučim koje informacije ulaze i izlaze iz mene?
 
-![09_Paley_pkncu](https://blog.r3bl.me/images/manw/09_Paley_pkncu.jpg)
+![09_Paley_pkncu]({{site.url}}/images/manw/09_Paley_pkncu.jpg)
 
 Odgovor na ovo pitanje je: imam pravo izbora kada odlučujem kakvim informacijama se izlažem i kakve informacije dijelim dalje, ali nemam potpunu kontrolu. Na primjer, mogu da biram koji _mainstream_ medij želim da pratim i mogu da biram koje informacije želim da proslijedim dalje.
 
-![10_Paley_pkncu](https://blog.r3bl.me/images/manw/10_Paley_pkncu.jpg)
+![10_Paley_pkncu]({{site.url}}/images/manw/10_Paley_pkncu.jpg)
 
 Ali biti u ovom svijetu, i biti otvoren, znači razne oblike stvari koje je mogu da uradim koje su van moje kontrole. Ja ne mogu da biram informacije koje ulaze u mene tako što gledam njihov _copyright_ status. U stvari, slike i muzički materijali koji su zaštićeni Zakonom o autorskim pravima su informacije kojima sam  najviše bombardovan. Na primjer,
 
@@ -62,39 +62,39 @@ Ali biti u ovom svijetu, i biti otvoren, znači razne oblike stvari koje je mogu
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oke4ZUhPDtw" frameborder="0" allowfullscreen></iframe>
 
-![12_Paley_pkncu](https://blog.r3bl.me/images/manw/12_Paley_pkncu.jpg)
+![12_Paley_pkncu]({{site.url}}/images/manw/12_Paley_pkncu.jpg)
 
 Ja mrzim božićnu muziku. Ali, zato što živim ovdje gdje živim i zato što moram da napustim svoju kuću nekad tokom decembra i januara, nisam u mogućnosti da je _ne_ čujem. Ona prolazi kroz koje uši i ulazi u moj mozak, gdje se pušta iznova i iznova.
 
-![12_Paley_pkncu](https://blog.r3bl.me/images/manw/13.2_Paley_pkncu.013.jpg)
+![12_Paley_pkncu]({{site.url}}/images/manw/13.2_Paley_pkncu.013.jpg)
 
 Ovdje su samo neke od kompanija sa kojima mogu "upasti u nevolju" zato što sam podijelio tekst te pjesme u javnosti. Ja se nisam konsultovao sa njima prije nego što mi je njihovo takozvano "intelektualno vlasništvo" bilo ugurano u moju glavu dok sam bio dijete, tako da ih nisam pitao ni da iskoristim tekst njihove pjesme u ovom članku.
 
-![14_Paley_pkncu](https://blog.r3bl.me/images/manw/14_Paley_pkncu.jpg)
+![14_Paley_pkncu]({{site.url}}/images/manw/14_Paley_pkncu.jpg)
 
 Zakonom o autorskim pravima se automatski štiti svaki objavljeni rad i ne postoji način da se odreknete toga. Ali imate pravo da uz svoj autorski materijal dodate licencu koja omogućava neke stvari konzumentima sadržaja koje Zakon o autorskim pravima automatski oduzima. [Creative Commons](http://creativecommons.org/), najzastupljeniji brend ovakvih licenci, dozvoljava svojim korisnicima da se odreknu nekih restrikcija koje postavlja Zakon o zaštiti autorskih prava.
 
-![15_Paley_pkncu](https://blog.r3bl.me/images/manw/15_Paley_pkncu.jpg)
+![15_Paley_pkncu]({{site.url}}/images/manw/15_Paley_pkncu.jpg)
 
 Problem sa licencama jeste taj što su bazirani na Zakonu o autorskim pravima. Iste prijetnje nasilnim akcijama koje važe pri korišćenju Zakona o autorskim pravima važe i ovdje. Ove licence zapravo pojačavaju mehanizam Zakona o zaštiti autorskim pravima. Svi i dalje trebaju da se raspitaju da li im je dozvoljeno da koriste sadržaje u svoju svrhu, samo što je ovaj put odgovor na to pitanje "da" u većem broju slučaja.
 
-![16_Paley_pkncu](https://blog.r3bl.me/images/manw/16_Paley_pkncu.jpg)
+![16_Paley_pkncu]({{site.url}}/images/manw/16_Paley_pkncu.jpg)
 
 Kao i sam Zakon o autorskim pravima, licence su često previše komplikovane da ih razumije većina ljudi, tako da licence imaju nesretan efekat kojim ohrabruje ljude da obrate još _više_ pažnje Zakonu o autorskim pravima, što daje još više autoriteta unutrašnjoj cenzuri u svima nama. A ko je dozvolio cenzuri da uđe u našu glavu na prvom mjestu?
 
-![17_Paley_pkncu](https://blog.r3bl.me/images/manw/17_Paley_pkncu.jpg)
+![17_Paley_pkncu]({{site.url}}/images/manw/17_Paley_pkncu.jpg)
 
 Iako ja koristim [slobodne licence](http://freedomdefined.org/Licenses) i cijenio bih značajnu reformu Zakona, licence i zakoni nisu rješenje. Rješenje je da sve više i više ljudi jednostavno kompletno ignoriše Zakon o autorskim pravima. Ja želim da budem jedan od tih ljudi.
 
-![08_Paley_pkncu](https://blog.r3bl.me/images/manw/08_Paley_pkncu.jpg)
+![08_Paley_pkncu]({{site.url}}/images/manw/08_Paley_pkncu.jpg)
 
 Prije nekoliko godina sam proglasio nezavisnost u svojoj glavi. Sloboda govora počinje u našim domovima. Cenzura i "nevolja" i dalje postoje van moje glave, ali tu će i ostati — _van_ moje glave. Neću pomagati lošim zakonima i medijskim korporacijama tako što ću otvoriti njihovu produžnicu u svojoj glavi.
 
-![02_Paley_pkncu](https://blog.r3bl.me/images/manw/02_Paley_pkncu.jpg)
+![02_Paley_pkncu]({{site.url}}/images/manw/02_Paley_pkncu.jpg)
 
 Ja više ne odlučujem o tome koji materijal ću koristiti na osnovu toga da li je obuhvaćen Zakonom o zaštiti autorskih prava. Ideje nisu dobre ili loše zato što ljudi nalijepe licence preko njih. Ja se posvećujem samim idejama, ne više zakonima koji ih okružuju. I pokušavam da se izrazim na sličan način.
 
-![Transmission_10fps2](https://blog.r3bl.me/images/manw/Transmission_10fps2.gif)
+![Transmission_10fps2]({{site.url}}/images/manw/Transmission_10fps2.gif)
 
 Kao i milioni drugih koje uopšte nije briga za ovaj zakon, nadam se da ćete mi se pridružiti. Pravimo umjetnine, ne zakone.
 
@@ -116,7 +116,7 @@ Pošto živim u državi u kakvoj živim, poslovni registri su podijeljeni na pos
 
 Otvaram bazu podataka Republike Srpske ([bizreg.esrpska.com](http://bizreg.esrpska.com)), klikćem ko budala na link koji kaže "Uslovi korištenja", ali ništa se ne događa. Dobro, pritisnem <kbd>Ctrl</kbd> + <kbd>U</kbd> da otvorim kod tog sajta, pritisnem <kbd>Ctrl</kbd> + <kbd>F</kbd> da pretražim kod, kucam `Uslovi korištenja`, i dočeka me... ovo.
 
-![uslovi korištenja](https://blog.r3bl.me/images/manw/uslovi_koristenja.png)
+![uslovi korištenja]({{site.url}}/images/manw/uslovi_koristenja.png)
 
 Pa bravo...
 
