@@ -1,5 +1,7 @@
 # [Aleksandar Todorović](https://r3bl.me) ([Personal Blog](https://blog.r3bl.me))
 
+<a class="display: block; margin-left: auto; margin-right: auto;" href="https://raw.githubusercontent.com/r3bl/r3bl.github.io/master/images/something.png"><img src="https://raw.githubusercontent.com/r3bl/r3bl.github.io/master/images/something.png"></a>
+
 This is the code behind my personal blog hosted on GitHub Pages using Jekyll as a blogging platform.
 
 ## Table of Content
@@ -9,7 +11,11 @@ This is the code behind my personal blog hosted on GitHub Pages using Jekyll as 
 - [Me on the web](#me-on-the-web)
 - [Credits](#credits)
     - [Useful links](#useful-links)
-- [License](#license)
+- [Licenses](#licenses)
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/r3bl/r3bl.github.io/master/images/screenshot.png)
 
 ## Some further info
 
