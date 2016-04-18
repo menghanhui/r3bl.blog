@@ -13,15 +13,15 @@ url:              https://blog.r3bl.me
 
 menu:
   - title: 'Home'
-    url: '/'
-  - title: 'About'
-    url: '/about'
-  - title: 'English'
-    url: '/en'
-  - title: 'Bosnian'
-    url: '/bs'
-  - title: 'Website &nbsp <i class="fa fa-external-link"></i>'
     url: 'https://blog.r3bl.me'
+  - title: 'About'
+    url: 'https://blog.r3bl.me/about'
+  - title: 'English'
+    url: 'https://blog.r3bl.me/en'
+  - title: 'Bosnian'
+    url: 'https://blog.r3bl.me/bs'
+  - title: 'Website <i class="fa fa-external-link"></i>'
+    url: 'https://r3bl.me/'
 
 ## Info about the owner
 
