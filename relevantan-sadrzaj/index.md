@@ -13,6 +13,16 @@ Iako sarađujem sa nekim od ovih sajtove, vlasnici nijednog od njih me ne plaća
 
 ## Lista sajtova čije se "reklame" vrte na blogu
 
+Lista je po alfabetskom redoslijedu.
+
+[![balkan-io](../images/relevant-bhs/balkan-io.png)](https://forum.balkan.io)
+
+[![itgirls](../images/relevant-bhs/itgirls.png)](http://itgirls.ba/)
+
+[![facebook-page](../images/relevant-bhs/facebook-page.png)](https://www.facebook.com/aleksandar.todorovic.r3bl/)
+
+[![kompjuteras](../images/relevant-bhs/kompjuteras.png)](http://kompjuteras.com/)
+
 [![krik](../images/relevant-bhs/krik.png)](https://www.krik.rs/)
 
 [![kriterion](../images/relevant-bhs/kriterion.png)](http://kriterion.ba/)
@@ -31,6 +41,4 @@ Iako sarađujem sa nekim od ovih sajtove, vlasnici nijednog od njih me ne plaća
 
 [![tutorijalend](../images/relevant-bhs/tutorijalend.png)](http://tutorijalend.com/)
 
-[![itgirls](../images/relevant-bhs/itgirls.png)](http://itgirls.ba/)
-
-[![facebook-page](../images/relevant-bhs/facebook-page.png)](https://www.facebook.com/aleksandar.todorovic.r3bl/)
+[![share-foundation](../images/relevant-bhs/share-foundation.png)](http://www.shareconference.net/sh)

@@ -4,7 +4,7 @@
   </div><!-- /.read-more-header -->
   <div class="read-more-content">
       <script type="text/javascript">
-      var relevant_bhs = ["kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png", "share_foundation.png"]
+      var relevant_bhs = ["balkan-io.png", "itgirls.png", "facebook-page.png", "kompjuteras.png", "krik.png", "kriterion.png", "libre.png", "linux-za-sve.png", "molimao.png", "mreza-mira.png", "muk-mag.png", "one-world-platform.png", "tutorijalend.png", "share-foundation.png"]
 
       function getRandomImageBHS(imgAr, path) {
           var num = Math.floor( Math.random() * imgAr.length );
@@ -12,11 +12,17 @@
           var url;
           switch (img)
           {
+              case "balkan-io.png";
+                  url = "https://forum.balkan.io/";
+                  break;
               case "itgirls.png":
                   url = "http://itgirls.ba/";
                   break;
               case "facebook-page.png":
                   url = "https://www.facebook.com/aleksandar.todorovic.r3bl/";
+                  break;
+              case "kompjuteras.png":
+                  url = "http://kompjuteras.com/";
                   break;
               case "krik.png":
                   url = "https://www.krik.rs/";
@@ -45,8 +51,8 @@
               case "tutorijalend.png":
                   url = "http://tutorijalend.com/";
                   break;
-              case "share_foundation.png":
-                  url = "www.shareconference.net/";
+              case "share-foundation.png":
+                  url = "http://www.shareconference.net/sh";
                   break;
           }
           var imgStr = '<a href="' + url + '"><img src="' + path + img + '"</a>';
