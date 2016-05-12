@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -62,6 +62,8 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
+
+<link rel="author" href="https://plus.google.com/+AleksandarTodorovićr3bl"/>
 
 <!-- Piwik -->
 <script type="text/javascript">

@@ -16,12 +16,25 @@ menu:
     url: 'https://blog.r3bl.me'
   - title: 'About'
     url: 'https://blog.r3bl.me/about'
-  - title: 'English'
+  - title: 'Archive'
     url: 'https://blog.r3bl.me/en'
-  - title: 'Bosnian'
-    url: 'https://blog.r3bl.me/bs'
   - title: 'Website <i class="fa fa-external-link"></i>'
     url: 'https://r3bl.me/'
+  - title: 'Bosanski'
+    url: 'https://blog.r3bl.me/bs'
+
+
+menu-bs:
+  - title: 'Početna'
+    url: 'https://blog.r3bl.me'
+  - title: 'O meni'
+    url: 'https://blog.r3bl.me/about'
+  - title: 'Arhiva'
+    url: 'https://blog.r3bl.me/bs'
+  - title: 'Sajt'
+    url: 'https://bs.r3bl.me/'
+  - title: 'English'
+    url: 'https://blog.r3bl.me/en'
 
 ## Info about the owner
 
@@ -61,7 +74,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil

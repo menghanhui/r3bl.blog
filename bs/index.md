@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Članci koje sam napisao na bosanskom/srpskom/hrvatskom jeziku"
+title: "Članci na bosanskom/srpskom/hrvatskom jeziku"
 comments: false
 share: false
 image:
