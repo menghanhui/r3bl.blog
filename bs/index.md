@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-bs
 title: "Članci na bosanskom/srpskom/hrvatskom jeziku"
 comments: false
 share: false

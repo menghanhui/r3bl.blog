@@ -23,7 +23,6 @@ menu:
   - title: 'Bosanski'
     url: 'https://blog.r3bl.me/bs'
 
-
 menu-bs:
   - title: 'Početna'
     url: 'https://blog.r3bl.me'
@@ -31,7 +30,7 @@ menu-bs:
     url: 'https://blog.r3bl.me/about'
   - title: 'Arhiva'
     url: 'https://blog.r3bl.me/bs'
-  - title: 'Sajt'
+  - title: 'Sajt <i class="fa fa-external-link"></i>'
     url: 'https://bs.r3bl.me/'
   - title: 'English'
     url: 'https://blog.r3bl.me/en'

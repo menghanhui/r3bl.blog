@@ -60,12 +60,12 @@
 
 <nav id="menu" style="display: none">
   <ul>
-    {% for menu in site.menu %}
+    {% for menu in site.menu-bs %}
         <li><a href="{{menu.url}}"><h3>{{ menu.title }}</h3></a></li>
     {% endfor %}
   </ul>
 </nav>
 
 {% if site.owner.twitter %}
-  <a href="https://twitter.com/{{site.owner.twitter}}" class="btn btn-info button-twitter" data-show-count="false" data-size="large"><i class="fa fa-twitter"></i> <span>&nbsp Follow @{{site.owner.twitter}}</span></a>
+  <a href="https://www.facebook.com/aleksandar.todorovic.r3bl/" class="btn btn-info button-twitter" data-show-count="false" data-size="large"><i class="fa fa-facebook"></i> <span>&nbspPrati me na Facebook-u</span></a>
 {% endif %}
