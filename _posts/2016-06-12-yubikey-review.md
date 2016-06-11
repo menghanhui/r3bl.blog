@@ -3,8 +3,8 @@ author: Aleksandar Todorović
 comments: true
 date: 2016-06-12 00:50:00+01:00
 layout: post
-slug: mozilla-dissatisfaction-part-2
-title: YubiKey NEO: Ubuntu 16.04 usefulness (+ review)
+slug: yubikey-usefulness
+title: "YubiKey NEO: Ubuntu 16.04 usefulness (+ review)"
 categories: en
 tags:
 - YubiKey
