@@ -26,16 +26,7 @@
 
       </footer>
     </div><!-- /.entry-content -->
-    <div class="read-more">
-      <div class="read-more-header">
-        <a href="{{ site.owner.site }}" class="read-more-btn">Random project that I support</a>
-      </div><!-- /.read-more-header -->
-      <div class="read-more-content">
-          {% include relevant.html %}
-          <div style="float: right;"><a href="../../relevant-content">Why am I seeing this?</a></div>
-      </div>
-    </div>
-
+    {% include relevant.html %}
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
   </article>
