@@ -25,12 +25,22 @@ Even though I am affiliated with some of these projects, I am not getting paid f
 
 [![firefox](../images/relevant/firefox.png)](https://www.mozilla.org/en-US/firefox/new/)
 
+[![gitlab](../images/relevant/gitlab.png)](https://about.gitlab.com/)
+
+[![gnome](../images/relevant/gnome.png)](https://www.gnome.org/)
+
 [![investigative_dashboard](../images/relevant/investigative_dashboard.png)](https://investigativedashboard.org/)
 
+[![jekyll](../images/relevant/jekyll.png)](http://jekyllrb.com/)
+
 [![libreoffice](../images/relevant/libreoffice.png)](https://www.libreoffice.org/)
+
+[![nmap](../images/relevant/nmap.png)](https://nmap.org/)
 
 [![opensource.com](../images/relevant/opensource.png)](https://opensource.com/)
 
 [![piwik](../images/relevant/piwik.png)](https://piwik.org/)
 
 [![tor_project](../images/relevant/tor_project.png)](https://www.torproject.org/)
+
+[![wireshark](../images/relevant/wireshark.png)](https://wireshark.org/)
