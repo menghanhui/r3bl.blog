@@ -1,7 +1,7 @@
 ---
 author: Aleksandar Todorović
 comments: true
-date: 2016-06-18 00:50:00+01:00
+date: 2016-08-18 00:50:00+01:00
 layout: post
 slug: kompjuterska-pismenost-u-bih
 title: "Kompjuterska pismenost u BiH (statistika iz rezultata popisa)"
