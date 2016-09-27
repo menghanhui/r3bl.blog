@@ -2,7 +2,7 @@
 author: Aleksandar Todorović
 comments: true
 date: 2016-09-27 22:50:00+01:00
-layout: post
+layout: post-bs
 slug: popularnost-domacih-hostinga-i-domena
 title: "Popularnost domaćih hostinga i domena"
 categories: bs
