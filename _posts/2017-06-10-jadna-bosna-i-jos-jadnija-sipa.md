@@ -266,6 +266,8 @@ _Sa poštovanjem,_
 
 _Građanin koji se po ko zna koji put pita gdje živi._
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_0F6v1_iy4" frameborder="0" allowfullscreen></iframe>
+
 ## Poruka za one koje žele da ovaj tekst proslijede dalje
 
 Ukoliko se neki medij na našim prostorima usudi da objavi nešto o ovome, ovdje svakako može početi.
