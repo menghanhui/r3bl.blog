@@ -16,7 +16,7 @@ image:
 
 Have you ever seen movies or read books about Harry Potter? If you did, then you might be familiar with the term Marauder's Map. If you're not a Harry Potter fan or the term doesn't ring a bell, here's a one minute video that will explain the basic concept to you:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/WVBha-QUUCE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/WVBha-QUUCE" frameborder="0" allowfullscreen></iframe>
 
 So basically, in Harry Potter's world, Marauder's map is a map that allows you to see the exact location of every single person inside of Hogwarts at any given point of time. Handy, isn't it? Well, thanks to the technology and Facebook's amazing features, this map has now become a reality.
 

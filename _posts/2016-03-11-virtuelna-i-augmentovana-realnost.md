@@ -56,7 +56,7 @@ Na nekih 10ak minuta sam isprobao Google Glass. Nije da nisam imao priliku da ga
 
 Što se tiče Microsoft-ovog HoloLens-a, nemamo baš mnogo resursa da o njemu saznamo više nego što znamo kada pogledamo Microsoft-ov promo video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aThCr0PsyuA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aThCr0PsyuA" frameborder="0" allowfullscreen></iframe>
 
 U teoriji se čini mnogo zanimljivijim nego Google Glass. U praksi, ne vidim ovaj projekat ni u beta verziji barem još nekoliko mjeseci, a jednom kada bude u beta verziji biće polu-proizvod baš kao što je bio i Google Glass (kažem "bio" jer danas više nije dostupan ni u beta verziji). U produkciji, ne vidim niti jedan od ova dva proizvoda barem još tri godine.
 
@@ -113,4 +113,4 @@ Međutim, jednom kada dođemo do ove krajnje tačke, očekuju nas daleko veći p
 * Šta će se desiti sa našim fizičkim tijelima? Ako ih u potpunosti odbacimo, da li se možemo smatrati i dalje ljudima? Ili, pošto smo napustili naša tijela i naše fizičke limitacije, postajemo nova vrsta života (koja se, u nedostatku naše kreativnosti, najčešće naziva Human 2.0, ili ti ga druga verzija čovjeka)?
 * Šta ako svijet doživi [Transcendence](http://www.imdb.com/title/tt2209764/) scenario?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VCTen3-B8GU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VCTen3-B8GU" frameborder="0" allowfullscreen></iframe>

@@ -46,6 +46,6 @@ I'm going to end the post by sharing the last couple of sentences from the post 
 
 **EDIT:** The whole movie is now released completely free and you can watch it from YouTube right here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6qpudAhYhpc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6qpudAhYhpc" frameborder="0" allowfullscreen></iframe>
 
 The movie really got some attention and at the moment of writing this edit it has over 170,000 views.

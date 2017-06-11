@@ -17,7 +17,7 @@ description: "A month ago, the owner of DJ TechTools (called Ean Golden) release
 
 A month ago, the owner of [DJ TechTools](http://djtechtools.com/) (called Ean Golden) released a video where he told the history of DJ TechTools. Now, I decided to share my story about DJ TechTools with you.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BDM6gut1K8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BDM6gut1K8E" frameborder="0" allowfullscreen></iframe>
 
 
 ## Background

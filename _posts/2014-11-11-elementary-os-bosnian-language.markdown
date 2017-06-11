@@ -30,7 +30,7 @@ I feel very optimistic right now. As the narrator says in the end of this great 
 
 > I don't know why, but.. I feel very excited about the future. Anything is possible now.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mp-IZEFqrG0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mp-IZEFqrG0" frameborder="0" allowfullscreen></iframe>
 
 **Update:**
 

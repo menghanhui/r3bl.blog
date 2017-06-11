@@ -60,7 +60,7 @@ Ali biti u ovom svijetu, i biti otvoren, znači razne oblike stvari koje je mogu
 > “Have a holly jolly Christmas, And when you walk down the street
 > “Say hello to friends you know and everyone you meet!”
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/oke4ZUhPDtw" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/oke4ZUhPDtw" frameborder="0" allowfullscreen></iframe>
 
 ![12_Paley_pkncu]({{site.url}}/images/manw/12_Paley_pkncu.jpg)
 

@@ -54,6 +54,6 @@ O tome zašto Anonimusi ne mogu "objaviti rat" nikome sam već pisao [na Kompjut
 
 Pravo da budemo zaboravljeni je ogromna glupost koji je EU, nažalost, usvojila. Da citiram John Oliver-a, koji je prije godinu dana objavio odličan video na ovu temu (dostupan ispod), ako od predloženog zakona najviše profitiraju oni koji su napravili neke kriminalne radnje, možda bi bilo dobro da ponovo razmislite o tome.
 
-<iframe class="img-responsive" src="https://www.youtube.com/embed/r-ERajkMXw0" frameborder="0" allowfullscreen></iframe>
+<iframe class="img-responsive" src="https://www.youtube-nocookie.com/embed/r-ERajkMXw0" frameborder="0" allowfullscreen></iframe>
 
 Što se tiče prava da budemo isključeni sa Interneta, iskreno, nikada nisam čuo za njega, tako da se radujem tome da budem upoznat sa njime u BG-u. :)

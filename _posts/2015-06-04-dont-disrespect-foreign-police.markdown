@@ -18,7 +18,7 @@ I know that we live in a shitty part of the world. But getting pulled over by a 
 
 ## The Story
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPhYl81--fY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IPhYl81--fY" frameborder="0" allowfullscreen></iframe>
 
 [Watchdog](http://watchdog.org/) reporter called [Yaël Ossowski](http://watchdog.org/author/yael/) came to our region to cover the story of [Libreland](https://liberland.org/en/main/), a small (7 square kilometers) self-proclaimed country sitting between Serbia and Croatia. I don't know if he published the story or not, but there was an event after it that got huge attention not just in Serbia, but in our entire region.
 

@@ -44,7 +44,7 @@ Of course, after reading these six books, it will be tough to find printed versi
 
 If somebody asks me to make a list of my favorite songs, I can guarantee you that none of the songs from Ray Charles or Tom Jones will make it to the list. Well, except this remix:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7H0g1euywnk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/7H0g1euywnk" frameborder="0" allowfullscreen></iframe>
 
 But that doesn't stop me for being exceptionally proud of myself for being the new owner of their vinyls. Although I don't have a vinyl player (or know anyone who has a functioning one), there's this special bond that I feel right now to those timeless classics such as _Hit The Road Jack_, _It's Not Unusuall_ etc. I feel more connected to the history of music. Don't ask me why because I'm not able to explain it. Maybe I should ask my new friend that I met during my volunteering that has a degree in psychology, huh?
 

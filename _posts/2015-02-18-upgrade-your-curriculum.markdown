@@ -25,7 +25,7 @@ The MIT Challenge is a project by [Scott H. Young](http://www.scotthyoung.com/) 
 
 Of course, you might argue that he didn't finish MIT program _per se_, and you will be right. He did not get an actual diploma from MIT, he never even visited MIT, he graded himself and he did not enjoy any other privileges offered by the MIT as a part of their program. But what he did do is he managed to learn pretty much everything offered by the MIT in under a year for a price that's _a lot_ less expensive than actually going to MIT.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/piSLobJfZ3c" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/piSLobJfZ3c" frameborder="0" allowfullscreen></iframe>
 
 When he started the challenge, he believed that the diploma is overrated in todays world (something I completely agree with). It gave him a unique perspective on learning and education, as he said to me in an email response. As far as he knows, nobody was able to replicate his project so far. He proved to himself that he's capable of doing a lot more than he used to think. He was not interested in an MIT diploma. What he _was_ interested in was the Computer Science, and he (in his own words) managed to learn a great deal of Computer Science and he perfected his programming skills. Of course, if he wanted to specialize in something, he'd probably need more specific training in that field.
 

@@ -48,4 +48,4 @@ In the end, I want to share with you a post called [14 Things DJing Changes Abou
 
 Fuck, I might as well finish this post with my currently favorite track.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYc5tTvBlFE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYc5tTvBlFE" frameborder="0" allowfullscreen></iframe>

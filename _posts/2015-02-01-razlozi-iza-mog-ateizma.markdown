@@ -19,7 +19,7 @@ Odbijajući da se ograničim na to sa kojim ću se ljudima družiti na osnovu nj
 
 Presudan trenutak je za mene bio jedan sasvim običan dan kada sam gledao jedan od nastupa preminulog komičara George Carlin-a. Onda je došao ovaj dio, koji je bukvalno bio okidač u mom slučaju. Preko noći, prestao sam da ispitujem svoju religiju i odlučio da je odbacim. Proces "prelaska" je trajao čitavu moju srednju školu, a kada sam završio srednju školu, i taj proces je bio završen.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/8r-e2NDSTuE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/8r-e2NDSTuE" frameborder="0" allowfullscreen></iframe>
 
 Danas, skoro tri godine kasnije, trpim posljedice. Na popisu stanovništva u BiH, ispitivač je odbio da upiše Bosanac ateista kao moju nacionalnost i religiju. Nastala je svađa, i na kraju sam pod pritiskom od strane roditelja i popisivača ipak potpisao papir na kojem piše da sam Srbin pravoslavac, nešto čemu sam se strogo protivio u tom trenutku, i još uvijek se protivim.
 

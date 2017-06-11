@@ -24,7 +24,7 @@ Back Story:
 
 I've started DJ-ing at age 14, with nothing more than a computer keyboard. I had a cracked version of [Traktor Pro 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/). I created my own mappings (the process of creating keyboard shortcuts in a DJ-ing software) and my mapping got [featured](http://www.djtechtools.com/2012/03/06/djing-with-a-computer-keyboard/) on [DJTechTools](http://djtechtools.com/), which is probably the biggest blog dedicated to DJ-ing beginners. Two years later, I got my first DJ-ing controller called [Akai APC20](http://www.akaipro.com/product/apc20). Even though this controller is designed to work with [Ableton Live](https://www.ableton.com/en/live/) I woke up the hacker inside of me and managed to create my own mapping that works with Traktor Pro 2. Soon after that, I was playing with LEDs like a pro (warning: the video is in _very_ low quality, filmed with Sony Ericsson K800i).
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/jnyXCLJ3ZrM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/jnyXCLJ3ZrM" frameborder="0" allowfullscreen></iframe>
 
 I have published music under two aliases: [Eric Zone](https://www.mixcloud.com/EricZone/) and [R3BL](https://www.mixcloud.com/R3BL/).
 
@@ -42,4 +42,4 @@ Today, I'm raked as [number 21 DJ](https://topdeejays.com/eric-zone/) in Bosnia 
 
 My next show is scheduled to be on March 20th in [Europe club & lounge](https://www.facebook.com/europeclubbrcko) (which is the best club we've ever had).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cLEMg3a_Z0Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cLEMg3a_Z0Q" frameborder="0" allowfullscreen></iframe>
