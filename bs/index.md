@@ -10,6 +10,8 @@ image:
 ## Na drugim sajtovima
 
 <ul>
+    <li><a href="http://www.linuxzasve.com/12-srpanj-dan-borbe-za-net-neutralnost">12. srpanj – dan borbe za net neutralnost</a>, objavljeno na <a href="http://linuxzasve.com/">Linux za sve</a> (11.07.2017.)</li>
+    <li><a href="http://www.netokracija.com/12-srpnja-internet-neutralnost-138684">12. srpnja: Dan borbe za poštivanje principa neutralnosti interneta – i u našoj regiji!</a>, objavljeno na <a href="http://www.netokracija.com/">Netokraciji</a> (11.07.2017.)</li>
     <li><a href="http://www.netokracija.com/osnivac-bitcoina-satoshi-nakamoto-117842">Tko je osnivač Bitcoina Satoshi Nakamoto? Još uvijek ne znamo.</a>, objavljeno na <a href="http://www.netokracija.com/">Netokraciji</a> (05.05.2016.)</li>
     <li><a href="http://kompjuteras.com/kratka-setnja-kroz-i3-menadzer-prozora/">Kratka šetnja kroz i3 menadžer prozora</a>, objavljeno na <a href="https://kompjuteras.com/">Kompjuterašu</a> (29.04.2016.)</li>
     <li><a href="https://kompjuteras.com/umjetna-inteligencija/">Umjetna inteligencija (1. dio): Šta je i kad će?</a>, objavljeno na <a href="https://kompjuteras.com/">Kompjuterašu</a> (06.01.2016.)</li>
