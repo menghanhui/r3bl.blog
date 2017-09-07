@@ -29,30 +29,20 @@
           <li class="header-item {{class}}"><a href="{{menu.url}}"><h3>{{ menu.title }}</h3></a>
             <ul class="header-submenu">
               {% for sub in menu.submenu %}
-                <li class="sub-item"><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
+                <a href="{{site.url}}{{sub.url}}"><li class="sub-item">{{sub.title}}</li></a>
               {% endfor %}
             </ul>
           </li>
         {% else %}
-          <li class="header-item {{class}}"><a href="{{menu.url}}"><h3>{{ menu.title }}</h3></a></li>
+          <a href="{{menu.url}}"><li class="header-item {{class}}"><h3>{{ menu.title }}</h3></li></a>
         {% endif %}
       {% endfor %}
     </ul>
   </div>
   <div class="header-title">
     <div class="header-title-wrap">
-      <h1>{{ page.title }}</h1>
-      {% if page.date %}
-        <h2><span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></h2>
-      {% endif %}
+      <h1><span>{{ page.title }}</span></h1>
 
-      {% if site.reading_time and page.layout == 'post' %}
-        <p class="entry-reading-time">
-          <i class="fa fa-clock-o"></i>
-          {% assign readtime = content | number_of_words | divided_by:site.words_per_minute %}
-          Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-        </p><!-- /.entry-reading-time -->
-      {% endif %}
     </div><!-- /.header-title-wrap -->
   </div><!-- /.header-title -->
 </div><!-- /.entry-header -->
@@ -67,5 +57,5 @@
 </nav>
 
 {% if site.owner.twitter %}
-  <a href="https://www.facebook.com/aleksandar.todorovic.r3bl/" class="btn btn-info button-twitter" data-show-count="false" data-size="large"><i class="fa fa-facebook"></i> <span>&nbspPrati me na Facebook-u</span></a>
+  <a href="https://www.facebook.com/aleksandar.todorovic.r3bl/" class="btn button-twitter button-facebook" data-show-count="false" data-size="large"><i class="fa fa-facebook"></i> <span>&nbspPrati me na Facebook-u</span></a>
 {% endif %}

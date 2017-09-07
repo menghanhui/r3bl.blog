@@ -23,16 +23,16 @@ $header-color				 : rgba(#444,0.8);
 $sub-item-color			 : rgba(#000, 0.1);
 $header-margin			 : #F45145;
 $menu-top				 		 : white;
-$menu-overflow			 : #2E2E2E;
-$body-color      		 : #e8e8e8;
-$text-color      		 : rgba(#222,0.8);
-$comp-color 	 		   : complement(#222);
-$border-color    		 : lighten(#222,60);
+$menu-overflow			 : white;
+$body-color      		 : #000000;
+$text-color      		 : rgba(#000,0.8);
+$comp-color 	 		   : complement(#000);
+$border-color    		 : lighten(#000,60);
 $white           		 : #fff;
 $black           		 : #000;
-$link-color 		     : rgba(#222,0.8);
+$link-color 		     : rgba(#000,0.8);
 
-$primary			       : #222;
+$primary			       : #000;
 $success			       : #5cb85c;
 $warning			       : #dd8338;
 $danger				       : #C64537;
@@ -42,6 +42,6 @@ $info				         : #308cbc;
 // Screen Size
 // --------------------------------------------------
 
-$small               : "only screen and (min-width: 30em)";
+$small               : "only screen and (max-width: 48em)";
 $medium              : "only screen and (min-width: 48em)";
 $large               : "only screen and (min-width: 62.5em)";

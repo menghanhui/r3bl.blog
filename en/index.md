@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Content I wrote in English"
-comments: false
+comments: true
 share: false
 image:
   feature: abstract-1-3

@@ -1,13 +1,13 @@
 ## Basic things
 
 title:            Aleksandar Todorović (r3bl)
-description:      Want to spend hours reading articles written by an aspiring writer/blogger/cotent creator? Heck yeah, you're in the right place! I write about open source software / hacking / cybersecurity / artificial intelligence.
+description:      Hacker. Blogger. infosec enthusiast. Free culture and open source advocate.
 disqus_shortname: r3bl
 reading_time:     true
 words_per_minute: 200
 logo:             images/something.png
 float_share:      false
-url:              https://blog.r3bl.me
+url:              http://localhost:4000
 
 ## Fixed top menu content
 
@@ -42,7 +42,7 @@ owner:
   site:           https://r3bl.me
   avatar:         images/avatar.jpg
   bio:            "Hacker. Open Source advocate. OCCRP Tech Associate. Opensource.com Community Moderator."
-  email:          aleksandar.todorovic@mail.ru
+  email:          aleksandar@r3bl.me
 
 ## Social networking thingys
 
@@ -66,7 +66,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 10
+paginate: 15
 
 kramdown:
   auto_ids: true

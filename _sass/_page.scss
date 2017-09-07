@@ -2,7 +2,6 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background-color: $body-color;
 	overflow-x: hidden;
 }
 
@@ -28,7 +27,7 @@ body {
 }
 
 .entry-date {
-	color: $white;
+  text-transform: uppercase;
 }
 ///sections
 
@@ -92,9 +91,14 @@ body {
 // --------------------------------------------------
 .entry-meta {
 	@include font-rem(12);
-	color: lighten($base-color,60);
+	color: rgba(51,51,51,0.8);
 	a {
-		color: lighten($base-color,60);
+		color: rgba(51,51,51,0.8);
+		border-bottom: 1px dotted rgba(51,51,51,0.8);
+	}
+	a:hover {
+		color: rgba(51,51,51,0.8);
+		border-bottom: 1px solid rgba(51,51,51,0.8);
 	}
 	.vcard {
 		&:before {
@@ -120,9 +124,25 @@ body {
 		}
 	}
 	.entry-reading-time {
-		float: right;
+		@media #{$small} {
+			padding-left: 30px;
+		}
+		@media #{$medium} {
+			float: right;
+		}
 	}
 }
+
+.entry-hr {
+	@media #{$small} {
+		white-space: pre;
+		border: 0px;
+	}
+	@media #{$medium} {
+		display: block;
+	}
+}
+
 header .entry-meta {
 	text-transform: uppercase;
 	display: none; // hide header meta on small screens
@@ -136,10 +156,9 @@ header .entry-meta {
 #post,
 #page {
 	.entry-content {
-		margin: 40px 2px 20px 2px;
+		margin: 0px 2px 20px 2px;
 		padding: 10px 15px;
 		background-color: $white;
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
 		@include rounded(3px);
 		@media #{$medium} {
 			margin-left: 10px;
@@ -148,8 +167,8 @@ header .entry-meta {
 		}
 		@media #{$large} {
 			max-width: 850px;
-			margin: 50px auto 30px auto;
-			padding: 50px 75px;
+			margin: 0px auto 30px auto;
+			padding: 20px 75px;
 			> p:first-child {
 				@include font-size(20);
 			}
@@ -159,7 +178,6 @@ header .entry-meta {
 		margin: 40px 2px 20px 2px;
 		padding: 10px 15px;
 		background-color: $white;
-		box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
 		@include rounded(3px);
 		@media #{$medium} {
 			margin-left: 10px;
@@ -210,29 +228,26 @@ header .entry-meta {
 // Read More Module
 .read-more {
 	position: relative;
-	margin: 40px 2px 20px 2px;
-	padding: 40px 15px 25px;
+	margin: 0px 2px 20px 2px;
+	padding: 20px 15px 25px;
 	background-color: $white;
-	box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
 	@include rounded(3px);
 	@media #{$medium} {
 		margin: 50px 10px 20px 10px;
-		padding: 50px 40px 25px;
+		padding: 20px 40px 25px;
 	}
 	@media #{$large} {
 		max-width: 800px;
-		padding: 50px 80px;
-		margin: 60px auto;
+		padding: 20px 80px;
+		margin: 0px auto;
 	}
 	text-align: center;
 	@include clearfix;
 }
 .read-more-header {
-	position: absolute;
 	top: -20px;
 	left: 0;
 	right: 0;
-	height: 35px;
 	a {
 		@extend .btn;
 	}
@@ -249,15 +264,23 @@ header .entry-meta {
 	}
 	h3 {
 		margin: 0;
-		@include font-rem(28);
+		@include font-rem(24);
 		a {
 			color: $text-color;
 		}
-		@media #{$medium} {
-			@include font-rem(36);
-		}
 	}
 }
+
+.read-more-footer {
+	position: absolute;
+	left: 0;
+	right: 0;
+	height: 35px;
+	a {
+		@extend .btn;
+	}
+}
+
 .author-img {
 	width: 150px;
 	height: 150px;
@@ -353,7 +376,6 @@ ul.social-buttons li a:active {
 	}
 	article {
 		background-color: $white;
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		@include rounded(3px);
 		margin-bottom: 20px;
 		padding: 25px 15px;
@@ -462,7 +484,9 @@ ul.social-buttons li a:active {
 	height: 100%;
 	min-height: 300px;
 	overflow: hidden;
-	background-image: url("/images/tests/download2-1.jpeg");
+	@media #{$medium} {
+			background-image: url("/assets/siarhei-horbach-267470-min.jpg");
+	}
 	background-size: 100% 300px;
 	background-repeat: no-repeat;
 }
@@ -490,17 +514,21 @@ ul.social-buttons li a:active {
 		font-weight: 700;
 		margin-bottom: 20px;
 		@include font-rem(32);
-		color: $white;
-		text-shadow: 1px 1px 4px rgba($base-color, 0.6);
-		display: none;
 		a {
 			color: $white;
 		}
-		@media #{$medium} {
-			display: block;
+		span {
+			background-color: rgba(255,255,255,0.55);
+		}
+		color: $black;
+		display: block;
+		width: 92%;
+		padding-left: 6%;
+		@media #{$small} {
+			@include font-rem(24)
 		}
 		@media #{$medium} {
-			@include font-rem(26);
+			@include font-rem(28);
 		}
 		@media #{$large} {
 			@include font-rem(36);
@@ -523,6 +551,7 @@ ul.social-buttons li a:active {
   width: 100%;
   height: 70px;
 	z-index: 20;
+	margin-top: 10px;
 	ul {
 		margin: 0 auto;
 		list-style-type: none;
@@ -534,16 +563,16 @@ ul.social-buttons li a:active {
 	}
 }
 .header-menu-top{
-	background-color: $menu-top;
+	background-color: rgba(255,255,255, 0.55)
 }
 
 .header-menu-overflow{
 	background-color: $menu-overflow;
 	z-index: 100;
-	box-shadow: 0px 6px 5px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.1);
 }
 .header-menu-overflow ul li a{
-	color: $white;
+	color: $black;
 }
 
 .header-menu-top .sub-item{
@@ -574,6 +603,9 @@ ul.social-buttons li a:active {
 .header-item{
 	display: none;
 	@media #{$large} {
+		a {
+			color: rgba(0,0,0, 0.55);
+		}
 		display: block;
 	}
 }
@@ -592,7 +624,10 @@ ul.social-buttons li a:active {
 
 .header-item.active,
 .header-item:hover{
-  border-top-color: $header-margin;
+  border-top-color: $black;
+	a {
+		color: rgba(0,0,0,1);
+	}
 }
 
 .header-item .header-submenu{
@@ -629,10 +664,35 @@ ul.social-buttons li a:active {
 	border-bottom-color: $header-margin;
 }
 
-.button-twitter {
+.button-twitter.button-facebook {
+	background-color: #3b5998;
 	color: $white;
+	border-color: #3b5998;
+	&:visited {
+		color: $white;
+	}
+	&:hover {
+		background-color: $white;
+		color: #3b5998;
+	}
+}
+
+.button-twitter.button-twitter-twitter {
+	background-color: #1DA1F2;
+	color: $white;
+	border-color: #1DA1F2;
+	&:visited {
+		color: $white;
+	}
+	&:hover {
+		background-color: $white;
+		color: #3b5998;
+	}
+}
+
+.button-twitter {
 	position: fixed;
-	margin-top: 15px;
+	margin-top: 25px;
 	margin-right: 10px;
 	top: 0;
 	right: 0;

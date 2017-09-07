@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Why am I seeing this?"
-comments: false
+comments: true
 share: false
 image:
   feature: abstract-1-3

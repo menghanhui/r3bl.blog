@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Koji je ovo đavo?"
-comments: false
+comments: true
 share: false
 image:
   feature: abstract-1-3

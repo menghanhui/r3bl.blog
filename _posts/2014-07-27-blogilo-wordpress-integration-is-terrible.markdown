@@ -5,10 +5,7 @@ date: 2014-07-27 11:14:52+00:00
 layout: post
 slug: blogilo-wordpress-integration-is-terrible
 title: Blogilo + Wordpress integration is terrible!
-categories:
-- About me
-tags:
-- confession
+categories: en
 image:
   feature: abstract-1-3
 ---
