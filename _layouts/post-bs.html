@@ -14,7 +14,7 @@
 
 <div id="main" role="main">
   <article class="hentry">
-    <div class="entry-content">
+    <div class="entry-content" itemscope itemtype="http://schema.org/Article">
       {% if page.date %}
       <div class="entry-meta" style="margin: 10px 0px 0px 0px; text-align: left;">
         <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span><span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>
@@ -28,7 +28,9 @@
       </div><!-- /.entry-meta -->
       {% endif %}
       <hr class="entry-hr"/>
-      {{ content }}
+      <div itemprop="articleBody">
+        {{ content }}
+      </div>
       <footer class="entry-meta">
         {% if page.modified %}<span>Updated on <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         {% endif %}
