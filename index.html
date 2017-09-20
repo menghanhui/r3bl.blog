@@ -3,16 +3,75 @@ layout: post-index
 title: "Aleksandar Todorović (r3bl)"
 description: "Hacker. Blogger. infosec enthusiast. Free culture and open source advocate. Ford-Mozilla Open Web fellow. Previously OCCRP tech associate."
 tags: [hacking, infosec, AI, open source, open culture]
-comments: true
 ---
 
+<div class="summary">
+  <p>
+    Ford-Mozilla <a href="https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2017">Open Web Fellow</a>. Passionate about information security.
+  </p>
+  <p>
+    Used to be techie at "<a href="https://www.youtube.com/watch?v=xA1sEjxPDWQ">The People's NSA</a>" (<a href="https://www.occrp.org/en">Organized Crime and Corruption Reporting Project</a>).<br/>
+  </p>
+  <p>
+    Contributed to a couple of worldy-known open source projects such as <a href="https://elementary.io/">elementary OS</a>, and <a href="https://www.torproject.org/">Tor Project</a>.
+  </p>
+  <p>
+    I write things in my free time.
+  </p>
+</div>
+<div>
+  <p>
+    <div class="nav-primary">
+      <a href="#" class="btn btn-nav">Projects</a>
+    </div>
+    <div class="nav-primary">
+      <a href="#" class="btn btn-nav">Portfolio</a>
+    </div>
+  </p>
+  <p>
+    <div class="nav-secondary">
+      <a href="#" class="btn btn-nav">Notes</a>
+    </div>
+    <div class="nav-secondary">
+      <a href="#" class="btn btn-nav">Resume</a>
+    </div>
+</div>
+<div>
+  <h2>Noteworthy Mentions</h2>
+  <ul>
+      <li><a href="https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7">Mozilla Announces 15 New Fellows for Science, Advocacy, and Media</a>, published on <a href="https://medium.com/read-write-participate">Read, Write, Participate</a> (September 13th, 2017)</li>
+      <li><a href="https://opensource.com/community/16/2/winners-2016-community-awards">Announcing the 2016 Opensource.com Community Awards winners</a>, published on <a href="http://opensource.com">Opensource.com</a> (February 2nd, 2016)</li>
+      <li><a href="https://opensource.com/life/15/12/top-20-open-source-stories-2015">Best of Opensource.com: Top 20 articles of the year</a>, published on <a href="http://opensource.com">Opensource.com</a> (December 21st, 2015)</li>
+      <li><a href="http://djtechtools.com/2012/03/06/djing-with-a-computer-keyboard/">DJing With A Computer Keyboard</a>, published on <a href="http://djtechtools.com/">DJTechTools</a> (March 6th, 2012)</li>
+  </ul>
+  <h2>Noteworthy Articles</h2>
+  <ul>
+      <li><a href="https://opensource.com/life/16/1/6-beginner-open-source">6 starting points for open source beginners</a>, published on <a href="http://opensource.com">Opensource.com</a> (January 28th, 2016)</li>
+      <li><a href="https://opensource.com/life/16/1/scale14x-interview-parker-abercrombie-nasa">Open source software powers NASA's Mars VR project</a> (Interview with Parker Abercrombie from NASA), published on <a href="http://opensource.com">Opensource.com</a> (January 19th, 2016)</li>
+      <li><a href="https://opensource.com/life/15/9/ato-interview-garth-braithwaite">Open source is ugly: Improving UI and UX</a> (Interview with Garth Braithwaite from Adobe), published on <a href="http://opensource.com">Opensource.com</a> (September 22nd, 2015)</li>
+      <li><a href="https://opensource.com/business/15/8/interview-daniel-roesler-utilityapi">Why every website should switch to HTTPS</a> (Interview with Daniel Roesler), published on <a href="http://opensource.com">Opensource.com</a> (August 21st, 2015)</li>
+      <li><a href="http://opensource.com/life/15/7/interview-ben-balter-github">Open source licensing at GitHub</a> (Interview with Ben Balter from GitHub), published on <a href="http://opensource.com">Opensource.com</a> (July 10th, 2015)</li>
+      <li><a href="http://opensource.com/life/15/2/beginners-guide-github">A beginner's guide to GitHub</a>, published on <a href="http://opensource.com">Opensource.com</a> (February 16th, 2015)</li>
+  </ul>
+  <h2>Other Types of Media</h2>
+  <ul>
+      <li>[Guest at a TV show] <a href="https://www.youtube.com/watch?v=PwRpxWjKUPM">Kontekst: Internet i sigurnost</a> (May 4th, 2016)</li>
+      <li>[Paper mentioning my work] <a href="http://www.giswatch.org/node/5243">BOSNA I HERCEGOVINA: Kontinuitet nadzora</a> (<a href="http://www.giswatch.org/sites/default/files/bosnia-bo.pdf">PDF</a>) - Authors: Valentina Pellizzer; Aida Mahmutovic (2014)</li>
+  </ul>
+  <ul class="actions fit">
+      <li><a href="https://r3bl.me/en/articles/" class="button special fit">Full List of Articles and Mentions</a></li>
+  </ul>
+
+</div>
+
+<!--
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"></a>
-      </div><!-- /.entry-image -->
+      </div>
     {% endif %}
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span><span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>
@@ -21,9 +80,9 @@ comments: true
         <i class="fa fa-clock-o"></i>
         {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
         Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-      </span><!-- /.entry-reading-time -->
+      </span>
       {% endif %}
-    </div><!-- /.entry-meta -->
+    </div>
     {% if post.link %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
@@ -36,8 +95,8 @@ comments: true
     {% else %}
       {{ post.content | strip_html | truncatewords: 50 }}
     {% endif %}
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
+  </div>
+</article>
 {% endfor %}
 
 <div class="pagination">
@@ -73,4 +132,5 @@ comments: true
   {% else %}
     Next
   {% endif %}
-</div><!-- /.pagination -->
+</div>
+-->

@@ -709,3 +709,50 @@ ul.social-buttons li a:active {
 		}
 	}
 }
+
+
+.summary {
+	text-align: center;
+	p {
+		font-size: 18px !important;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+}
+
+.nav-primary {
+	width: 40%;
+	display: inline-block;
+	.btn-nav {
+		width: 100%;
+		background-color: $black;
+	  color: $white;
+	  border-color: $black;
+	  &:visited {
+	    color: $white;
+	  }
+	  &:hover {
+	    background-color: $white;
+	    color: $black;
+	  }
+	}
+
+}
+
+.nav-secondary {
+	width: 45%;
+	display: inline-block;
+	.btn-nav {
+		width: 100%;
+		background-color: $white;
+	  color: $black;
+	  border-color: $black;
+	  &:visited {
+	    color: $black;
+	  }
+	  &:hover {
+	    background-color: $black;
+	    color: $white;
+	  }
+	}
+}
