@@ -13,15 +13,15 @@ url:              http://localhost:4000
 
 menu:
   - title: 'Home'
-    url: 'https://blog.r3bl.me'
-  - title: 'About'
-    url: 'https://blog.r3bl.me/about'
-  - title: 'Archive'
-    url: 'https://blog.r3bl.me/en'
-  - title: 'Website <i class="fa fa-external-link"></i>'
-    url: 'https://r3bl.me/'
-  - title: 'Bosanski'
-    url: 'https://blog.r3bl.me/bs'
+    url: 'https://r3bl.me'
+  - title: 'Blog'
+    url: 'https://blog.r3bl.me/'
+  - title: 'Projects'
+    url: 'https://r3bl.me/en/projects'
+  - title: 'Portfolio'
+    url: 'https://r3bl.me/en/portfolio'
+  - title: 'Contact'
+    url: 'https://blog.r3bl.me/en/contact'
 
 menu-bs:
   - title: 'Početna'
