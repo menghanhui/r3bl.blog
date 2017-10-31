@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-19 16:04:56+00:00
 layout: post
 slug: run-your-own-copy-of-pirate-bay-now

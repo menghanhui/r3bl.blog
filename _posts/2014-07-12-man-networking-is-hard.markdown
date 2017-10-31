@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-12 13:06:57+00:00
 layout: post
 slug: networking-is-hard

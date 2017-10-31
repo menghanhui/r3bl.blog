@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-07 14:50:46+00:00
 layout: post
 slug: back-to-kubuntu

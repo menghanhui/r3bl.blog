@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-02-02 23:38:10+00:00
 layout: post
 slug: ai-already-changing-the-world

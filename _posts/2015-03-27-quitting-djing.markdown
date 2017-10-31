@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-03-27 09:25:10+01:00
 layout: post
 slug: quitting-djing

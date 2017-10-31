@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-04 19:56:24+00:00
 layout: post
 slug: witcher-2-installation-from-hell

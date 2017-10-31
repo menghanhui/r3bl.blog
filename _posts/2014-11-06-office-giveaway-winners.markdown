@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-11-06 11:03:42+00:00
 layout: post
 slug: office-giveaway-winners

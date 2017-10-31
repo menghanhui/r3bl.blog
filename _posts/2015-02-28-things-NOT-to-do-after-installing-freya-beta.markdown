@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-02-28 21:59:10+01:00
 layout: post
 slug: things-NOT-to-do-after-installing-freya-beta

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-06 23:07:46+00:00
 layout: post
 slug: papers-we-love

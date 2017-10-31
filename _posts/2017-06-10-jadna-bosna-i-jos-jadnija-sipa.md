@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2017-06-10 17:00:00+01:00
 layout: post-bs
 slug: jadna-bosna-i-jos-jadnija-sipa

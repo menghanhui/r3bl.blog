@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-06-03 15:35:00+01:00
 layout: post
 slug: dont-disrespect-foreign-police

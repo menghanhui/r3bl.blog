@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-08-05 15:50:00+01:00
 layout: post
 slug: worst-support-experience-ever

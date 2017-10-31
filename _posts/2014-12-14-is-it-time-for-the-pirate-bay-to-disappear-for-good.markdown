@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-14 17:54:27+00:00
 layout: post
 slug: is-it-time-for-the-pirate-bay-to-disappear-for-good

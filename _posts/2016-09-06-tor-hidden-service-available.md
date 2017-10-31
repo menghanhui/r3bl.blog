@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-09-05 16:23:24+02:00
 layout: post
 slug: tor-hidden-service-available

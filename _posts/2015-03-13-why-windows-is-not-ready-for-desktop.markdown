@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-03-14 01:33:10+01:00
 layout: post
 slug: why-windows-is-not-ready-for-desktop

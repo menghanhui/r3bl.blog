@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-07-20 12:18:00+01:00
 layout: post
 slug: one-year-of-blogging-experience

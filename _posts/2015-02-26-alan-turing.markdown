@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-02-26 03:07:10+01:00
 layout: post
 slug: alan-turing

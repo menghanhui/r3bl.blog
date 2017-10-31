@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-02-18 22:11:10+01:00
 layout: post
 slug: upgrade-your-curriculum

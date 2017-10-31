@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-02-01 01:38:10+00:00
 layout: post-bs
 slug: razlozi-mog-ateizma

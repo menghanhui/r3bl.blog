@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-07-13 18:59:00+01:00
 layout: post-bs
 slug: spijunaza-u-regiji-1

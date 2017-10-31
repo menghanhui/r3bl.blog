@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-27 11:47:21+00:00
 layout: post
 slug: how-hacking-changed-my-life

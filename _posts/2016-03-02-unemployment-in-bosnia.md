@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-03-02 00:00:00+01:00
 layout: post
 title: "tl;dr: Why is the unemployment rate so high in Bosnia and Herzegovina?"

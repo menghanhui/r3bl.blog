@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-09-02 17:00:00+01:00
 layout: post
 slug: exploring-duckduckgo-for-smaller-websites

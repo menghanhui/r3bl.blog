@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-14 02:02:24+00:00
 layout: post
 slug: material-design-in-linux

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-15 17:51:45+00:00
 layout: post-bs
 slug: da-li-zivimo-u-cyberpunk-svetu

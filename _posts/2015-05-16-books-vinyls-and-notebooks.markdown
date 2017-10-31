@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-05-16 02:30:00+01:00
 layout: post
 slug: books-vinyls-and-notebooks

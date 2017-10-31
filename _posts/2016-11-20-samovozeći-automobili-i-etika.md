@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-11-20 02:30:00+01:00
 layout: post-bs
 slug: etika-i-samovozeći-automobili

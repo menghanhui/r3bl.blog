@@ -1,6 +1,6 @@
 ---
 author: mrr3bl
-comments: true
+comments: false
 date: 2014-07-28 13:18:17+00:00
 layout: post
 slug: notes-on-build-your-own-cyber-lab-at-home-course

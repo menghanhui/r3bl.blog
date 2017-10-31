@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-06-12 00:50:00+01:00
 layout: post
 slug: yubikey-usefulness

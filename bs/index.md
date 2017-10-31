@@ -1,7 +1,7 @@
 ---
 layout: page-bs
 title: "Članci na bosanskom/srpskom/hrvatskom jeziku"
-comments: true
+comments: false
 share: false
 image:
   feature: abstract-1-3

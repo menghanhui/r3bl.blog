@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-12 12:31:36+00:00
 layout: post
 slug: my-first-cybersecurity-discovery

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Book Recommendations"
-comments: true
+comments: false
 share: false
 image:
   feature: abstract-1-3

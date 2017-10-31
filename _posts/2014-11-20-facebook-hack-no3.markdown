@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-11-20 12:38:08+00:00
 layout: post
 slug: facebook-hack-no3

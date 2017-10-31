@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-01-24 22:46:19+00:00
 layout: post
 slug: manifesto

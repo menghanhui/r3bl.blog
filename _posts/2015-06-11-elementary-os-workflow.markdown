@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-06-11 20:10:00+01:00
 layout: post
 slug: elementary-os-workflow

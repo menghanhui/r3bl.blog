@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-1-24 17:27:00+01:00
 layout: post
 slug: why-not-everyone-can-get-involved-with-free-basics

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-2-8 23:15:00+01:00
 layout: post-bs
 slug: biti-normalan-je-dosadno

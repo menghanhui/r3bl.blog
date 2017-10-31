@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-18 00:44:10+00:00
 layout: post-bs
 slug: moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu

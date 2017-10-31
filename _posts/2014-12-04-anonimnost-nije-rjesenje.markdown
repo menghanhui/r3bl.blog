@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-04 14:40:25+00:00
 layout: post-bs
 slug: anonimnost-nije-rjesenje

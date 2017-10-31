@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-04-20 20:22:00+02:00
 layout: post-bs
 slug: svijet-mediokriteta

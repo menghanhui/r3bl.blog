@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-08-22 15:17:00+01:00
 layout: post
 slug: jekyll-blogging-like-a-pro

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-08 13:32:27+00:00
 layout: post
 slug: mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome

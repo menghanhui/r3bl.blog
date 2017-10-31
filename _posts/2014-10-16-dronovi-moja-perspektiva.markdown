@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-16 10:47:39+00:00
 layout: post-bs
 slug: dronovi-moja-perspektiva

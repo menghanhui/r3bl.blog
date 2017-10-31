@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-07 03:41:07+00:00
 layout: post
 slug: algorithm-to-a-free-world

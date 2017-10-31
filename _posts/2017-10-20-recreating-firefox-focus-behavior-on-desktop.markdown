@@ -4,7 +4,7 @@ date: 2017-10-20 04:00:00 +02:00
 categories:
 - en
 author: Aleksandar Todorović
-comments: true
+comments: false
 layout: post
 ---
 

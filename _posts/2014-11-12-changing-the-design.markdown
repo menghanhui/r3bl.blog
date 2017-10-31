@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-11-12 22:18:36+00:00
 layout: post
 slug: changing-the-design

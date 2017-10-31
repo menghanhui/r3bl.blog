@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-07 22:27:08+00:00
 layout: post-bs
 slug: ko-koga-spijunira-u-politickom-vrhu-bih

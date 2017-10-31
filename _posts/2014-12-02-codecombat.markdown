@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-02 00:38:30+00:00
 layout: post
 slug: codecombat

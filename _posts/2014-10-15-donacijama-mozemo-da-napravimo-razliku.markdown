@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-15 18:21:51+00:00
 layout: post-bs
 slug: donacijama-mozemo-da-napravimo-razliku

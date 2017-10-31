@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2017-08-18 12:00:00+02:00
 layout: post-bs
 slug: daily-stormer-ukratko

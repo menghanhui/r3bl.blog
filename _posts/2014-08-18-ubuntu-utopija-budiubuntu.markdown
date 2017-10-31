@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-18 01:25:38+00:00
 layout: post-bs
 slug: ubuntu-utopija-budiubuntu

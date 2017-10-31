@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-06-14 20:10:00+01:00
 layout: post
 slug: simple-social-media-links-jekyll

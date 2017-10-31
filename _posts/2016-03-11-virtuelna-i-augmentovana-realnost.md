@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-03-11 11:05:00+01:00
 layout: post-bs
 slug: virtuelna-i-augmentovana-realnost

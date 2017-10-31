@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-01-09 18:12:06+00:00
 layout: post
 slug: advice-for-living-in-this-world

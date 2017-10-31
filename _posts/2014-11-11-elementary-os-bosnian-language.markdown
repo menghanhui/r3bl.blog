@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-11-11 14:07:18+00:00
 layout: post
 slug: elementary-os-bosnian-language

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-03 13:18:43+00:00
 layout: post
 slug: sensitive-data-grabber-project

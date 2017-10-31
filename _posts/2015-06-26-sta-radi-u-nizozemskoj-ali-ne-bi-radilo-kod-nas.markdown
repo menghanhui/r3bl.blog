@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-06-26 22:40:00+01:00
 layout: post-bs
 slug: sta-radi-u-nizozemskoj-ali-ne-bi-radilo-kod-nas

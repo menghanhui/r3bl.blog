@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-30 17:40:30+00:00
 layout: post
 slug: get-free-office365-license

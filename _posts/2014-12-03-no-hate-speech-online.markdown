@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-03 00:11:49+00:00
 layout: post-bs
 slug: no-hate-speech-online

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-08-18 00:50:00+01:00
 layout: post
 slug: kompjuterska-pismenost-u-bih

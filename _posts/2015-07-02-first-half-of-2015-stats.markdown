@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-07-02 12:08:00+01:00
 layout: post
 slug: first-half-of-2015-blog-stats

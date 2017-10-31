@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-03-07 10:10:10+01:00
 layout: post
 slug: OpenWaySi

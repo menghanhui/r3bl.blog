@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-07-10 20:20:00+01:00
 layout: post
 slug: joining-ict2015-announcement

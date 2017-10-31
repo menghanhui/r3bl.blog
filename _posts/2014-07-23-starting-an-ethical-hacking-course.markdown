@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-23 20:50:58+00:00
 layout: post
 slug: starting-an-ethical-hacking-course

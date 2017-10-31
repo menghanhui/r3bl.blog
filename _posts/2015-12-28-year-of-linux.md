@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-12-28 21:50:00+01:00
 layout: post
 slug: year-of-linux

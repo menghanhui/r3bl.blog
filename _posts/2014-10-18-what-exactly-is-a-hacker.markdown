@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-18 10:28:54+00:00
 layout: post
 slug: what-exactly-is-a-hacker

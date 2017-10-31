@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-12-22 01:05:00+01:00
 layout: post
 slug: 2015-timeline

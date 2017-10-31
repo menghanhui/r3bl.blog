@@ -1,6 +1,6 @@
 ---
 author: mrr3bl
-comments: true
+comments: false
 date: 2014-07-24 12:53:38+00:00
 layout: post
 slug: ninjasec-course-gathering-information

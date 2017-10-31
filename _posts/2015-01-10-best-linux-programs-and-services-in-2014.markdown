@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-01-10 17:19:41+00:00
 layout: post
 slug: best-linux-programs-and-services-in-2014

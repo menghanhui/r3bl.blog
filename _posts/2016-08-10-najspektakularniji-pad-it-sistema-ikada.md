@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-08-10 20:00:00+01:00
 layout: post
 slug: najspektakularniji-pad-it-sistema-ikada

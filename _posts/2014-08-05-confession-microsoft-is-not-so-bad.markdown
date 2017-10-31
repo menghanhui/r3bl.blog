@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-05 12:02:03+00:00
 layout: post
 slug: confession-microsoft-is-not-so-bad

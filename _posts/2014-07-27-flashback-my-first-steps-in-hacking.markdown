@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-27 10:48:26+00:00
 layout: post
 slug: flashback-my-first-steps-in-hacking

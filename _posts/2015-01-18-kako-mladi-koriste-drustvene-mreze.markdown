@@ -1,6 +1,6 @@
 ---
 author: mrr3bl
-comments: true
+comments: false
 date: 2015-01-18 21:11:11+00:00
 layout: post-bs
 slug: kako-mladi-koriste-drustvene-mreze

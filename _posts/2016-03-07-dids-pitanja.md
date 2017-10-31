@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-03-07 15:25:00+01:00
 layout: post
 slug: dids-1

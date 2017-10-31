@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-07-27 12:13:30+00:00
 layout: post
 slug: the-internet-of-insecure-things

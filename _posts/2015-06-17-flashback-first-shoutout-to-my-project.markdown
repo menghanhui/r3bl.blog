@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2015-06-17 22:56:00+01:00
 layout: post
 slug: flashback-my-first-hack-that-went-viral

@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-04-11 19:00:00+02:00
 layout: post-bs
 slug: n1-sci-tech-kritika

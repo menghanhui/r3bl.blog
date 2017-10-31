@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-11-14 17:04:56+00:00
 layout: post
 slug: im-joining-mozillians

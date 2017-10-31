@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-08-09 14:22:10+00:00
 layout: post
 slug: cloud-wars-from-a-consumer-perspective

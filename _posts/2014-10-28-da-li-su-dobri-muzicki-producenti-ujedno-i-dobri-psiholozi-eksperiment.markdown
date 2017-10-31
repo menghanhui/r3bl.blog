@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-28 14:36:42+00:00
 layout: post-bs
 slug: da-li-su-dobri-muzicki-producenti-ujedno-i-dobri-psiholozi-eksperiment

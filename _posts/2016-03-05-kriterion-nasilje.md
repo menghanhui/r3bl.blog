@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-03-05 17:37:00+01:00
 layout: post
 title: "Podrška Kriterionu: Recimo ne nasilju nad drugačijima"

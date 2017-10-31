@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-12-27 14:08:46+00:00
 layout: post
 slug: every-one-of-us-changes-the-world-in-one-way-or-another

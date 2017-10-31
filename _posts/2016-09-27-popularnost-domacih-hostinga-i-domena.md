@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2016-09-27 22:50:00+01:00
 layout: post-bs
 slug: popularnost-domacih-hostinga-i-domena

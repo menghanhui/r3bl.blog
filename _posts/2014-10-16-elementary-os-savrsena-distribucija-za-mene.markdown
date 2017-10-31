@@ -1,6 +1,6 @@
 ---
 author: Aleksandar Todorović
-comments: true
+comments: false
 date: 2014-10-16 20:16:17+00:00
 layout: post-bs
 slug: elementary-os-savrsena-distribucija-za-mene
