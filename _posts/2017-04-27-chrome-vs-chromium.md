@@ -4,7 +4,7 @@ comments: false
 date: 2017-04-27 11:30:00+01:00
 layout: post
 slug: chrome-vs-chromium
-title: "Chrome is basically crippling Chromium's features during a simultaneous installation"
+title: "Chrome is basically crippling Chromium's features"
 categories: en
 tags:
 - personal

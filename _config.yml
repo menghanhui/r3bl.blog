@@ -7,7 +7,7 @@ reading_time:     true
 words_per_minute: 200
 logo:             images/something.png
 float_share:      false
-url:              http://localhost:4000
+url:              https://blog.r3bl.me
 
 ## Fixed top menu content
 
@@ -21,19 +21,19 @@ menu:
   - title: 'Portfolio'
     url: 'https://r3bl.me/en/portfolio'
   - title: 'Contact'
-    url: 'https://blog.r3bl.me/en/contact'
+    url: 'https://r3bl.me/en/contact'
 
 menu-bs:
   - title: 'Početna'
-    url: 'https://blog.r3bl.me'
-  - title: 'O meni'
-    url: 'https://blog.r3bl.me/about'
-  - title: 'Arhiva'
-    url: 'https://blog.r3bl.me/bs'
-  - title: 'Sajt <i class="fa fa-external-link"></i>'
-    url: 'https://bs.r3bl.me/'
-  - title: 'English'
-    url: 'https://blog.r3bl.me/en'
+    url: 'https://r3bl.me'
+  - title: 'Blog'
+    url: 'https://blog.r3bl.me/'
+  - title: 'Projekti'
+    url: 'https://r3bl.me/en/projects'
+  - title: 'Portfolio'
+    url: 'https://r3bl.me/en/portfolio'
+  - title: 'Kontakt'
+    url: 'https://r3bl.me/en/contact'
 
 ## Info about the owner
 

@@ -4,7 +4,7 @@ comments: false
 date: 2017-08-21 12:00:00+02:00
 layout: post-bs
 slug: android-sigurnost
-title: "Android i sigurnost: 5 razloga zašto smatram da je Android (napokon) siguran"
+title: "Android i sigurnost: 6 razloga zašto smatram da je Android (napokon) siguran"
 categories: bs
 tags:
 - blogging
