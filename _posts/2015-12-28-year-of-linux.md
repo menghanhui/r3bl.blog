@@ -7,10 +7,9 @@ slug: year-of-linux
 title: "A year of Linux has already happened. You missed it."
 categories: en
 tags:
-- Linux
 - rant
-- summary
-- open source
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

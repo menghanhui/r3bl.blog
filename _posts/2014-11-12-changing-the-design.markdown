@@ -8,10 +8,6 @@ title: Changing the design of my blog, desktop and twitter account
 categories: en
 tags:
 - personal
-- cyberpunk
-- linux
-- open source
-- elementary OS
 image:
   feature: abstract-1-3
 ---

@@ -7,10 +7,7 @@ slug: get-free-office365-license
 title: Get Office 365 License For Free! [A Little Contest]
 categories: en
 tags:
-- projects
-- microsoft
 - personal
-- linux
 image:
   feature: abstract-1-3
 ---

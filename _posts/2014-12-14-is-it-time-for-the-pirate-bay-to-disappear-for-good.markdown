@@ -7,12 +7,8 @@ slug: is-it-time-for-the-pirate-bay-to-disappear-for-good
 title: Is It Time For The Pirate Bay to Disappear For Good?
 categories: en
 tags:
-- The Pirate Bay
-- free culture
-- personal
-- confession
-- hacking
-- open source
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

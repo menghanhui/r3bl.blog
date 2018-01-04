@@ -7,9 +7,8 @@ slug: jekyll-blogging-like-a-pro
 title: "How to create a website/blog using Jekyll and GitHub pages (tutorial)"
 categories: en
 tags:
+- technology
 - tutorial
-- GitHub
-- Jekyll
 image:
   feature: abstract-1-3
 ---

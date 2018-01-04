@@ -7,9 +7,7 @@ slug: material-design-in-linux
 title: Material Design in Linux
 categories: en
 tags:
-- linux
-- open source
-- projects
+- technology
 image:
   feature: abstract-1-3
 ---

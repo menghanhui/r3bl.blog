@@ -7,9 +7,7 @@ slug: yubikey-usefulness
 title: "YubiKey NEO: Ubuntu 16.04 usefulness (+ review)"
 categories: en
 tags:
-- YubiKey
-- Firefox
-- rant
+- technology
 image:
   feature: abstract-1-3
 ---

@@ -8,9 +8,7 @@ title: 'How and Why You Should Upgrade Your College Curriculum'
 categories: en
 tags:
 - personal
-- education
-- college
-- productivity
+- technology
 image:
   feature: abstract-1-3
 ---

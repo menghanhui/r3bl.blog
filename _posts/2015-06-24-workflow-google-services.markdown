@@ -7,9 +7,7 @@ slug: workflow-google-services
 title: "My Workflow: Alternatives to Google's Services"
 categories: en
 tags:
-- workflow
-- Google
-- open source
+- personal
 image:
   feature: abstract-1-3
 description: "As you probably already know, I'm a Linux guy who cares deeply about his privacy. As that kind of a guy, I don't feel comfortable sharing my private information with companies. Of course, this is impossible to do today, so I like to shatter my personal information to different services instead of using just one company - Google. Here's how I do it."

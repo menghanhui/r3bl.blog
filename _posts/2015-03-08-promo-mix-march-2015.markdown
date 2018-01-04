@@ -8,7 +8,6 @@ title: 'R3BL - Promo Mix (March 2015)'
 categories: en
 tags:
 - music
-- DJ
 image:
   feature: abstract-1-3
 description: "I've decided to start publishing my musical accomplishments on my blog too. My goal is to, eventually, unite all of my profiles and to present to readers my true self."

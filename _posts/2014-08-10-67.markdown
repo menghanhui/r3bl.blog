@@ -7,11 +7,8 @@ slug: 'whymicrosoft-worst-marketing-site-ever'
 title: WhyMicrosoft.com - The Worst Marketing Site Ever?
 categories: en
 tags:
-- linux
-- microsoft
 - personal
-- confession
-- open source
+- rant
 image:
   feature: abstract-1-3
 ---

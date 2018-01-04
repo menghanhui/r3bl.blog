@@ -7,9 +7,8 @@ slug: facebook-hack-no4
 title: 'Basic Facebook Hacks - Lets DDoS a website!'
 categories: en
 tags:
-- projects
-- Facebook
-- hacking
+- technology
+- facebook
 image:
   feature: abstract-1-3
 ---

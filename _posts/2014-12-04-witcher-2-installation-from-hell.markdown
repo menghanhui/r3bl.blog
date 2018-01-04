@@ -8,11 +8,8 @@ title: 'Gaming on Linux Is Still Not Very Noob-Friendly (Witcher 2: Installation
   Hell)'
 categories: en
 tags:
-- humoristic
-- personal
-- floss problems
-- linux
-- gaming
+- technology
+- rant
 image:
   feature: abstract-1-3
 ---

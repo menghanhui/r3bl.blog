@@ -7,8 +7,8 @@ slug: advice-for-living-in-this-world
 title: Advice for living in this world (by Quinn Norton)
 categories: en
 tags:
-- essay
 - personal
+- technology
 image:
   feature: abstract-1-3
 ---

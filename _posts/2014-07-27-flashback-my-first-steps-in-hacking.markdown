@@ -7,10 +7,9 @@ slug: flashback-my-first-steps-in-hacking
 title: 'Flashback: My First Steps in Hacking'
 categories: en
 tags:
-- confession
-- hacking
-- education
-- flashback
+- technology
+- infosec
+- personal
 image:
   feature: abstract-1-3
 ---

@@ -7,12 +7,9 @@ slug: moj-put-od-fedore-preko-archa-do-ubuntu-derivata-budiubuntu
 title: 'Moj put od Fedore preko Archa do Ubuntu derivata #budiUbuntu'
 categories: bs
 tags:
-- projects
-- '#budiUbuntu'
-- linux
 - personal
-- open source
-- elementary OS
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

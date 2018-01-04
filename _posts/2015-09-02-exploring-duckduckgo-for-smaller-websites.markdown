@@ -7,9 +7,8 @@ slug: exploring-duckduckgo-for-smaller-websites
 title: "How to get indexed on DuckDuckGo if you're running a smaller website"
 categories: en
 tags:
-- DuckDuckGo
-- SEO
-- Tutorial
+- technology
+- tutorial
 image:
   feature: abstract-1-3
 ---

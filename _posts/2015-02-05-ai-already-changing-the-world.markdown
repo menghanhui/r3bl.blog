@@ -8,8 +8,7 @@ title: 'How AI is Already Changing the World'
 categories: en
 tags:
 - personal
-- artificial intelligence
-- politics
+- technology
 image:
   feature: abstract-1-3
 ---

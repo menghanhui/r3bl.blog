@@ -7,12 +7,8 @@ slug: libre-28-slobodni-softver-i-internet-stvari-1-deo
 title: LiBRE! 28 - Slobodni softver i internet stvari (1. deo)
 categories: bs
 tags:
-- education
-- hacking
-- surveillance
-- linux
-- open source
-- reading
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

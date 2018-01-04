@@ -7,8 +7,8 @@ slug: tor-hidden-service-available
 title: 'Update: Blog now accessible through a Tor hidden service'
 categories: en
 tags:
-- personal
-- blogging
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

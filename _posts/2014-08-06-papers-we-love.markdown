@@ -7,9 +7,7 @@ slug: papers-we-love
 title: Papers We Love
 categories: en
 tags:
-- projects
-- education
-- reading
+- technology
 image:
   feature: abstract-1-3
 ---

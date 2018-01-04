@@ -7,8 +7,8 @@ slug: networking-is-hard
 title: Man, Networking is Hard!
 categories: en
 tags:
-- confession
-- education
+- personal
+- rant
 image:
   feature: abstract-1-3
 ---

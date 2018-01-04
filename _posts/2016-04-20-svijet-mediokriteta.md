@@ -7,10 +7,7 @@ slug: svijet-mediokriteta
 title: "U svijetu mediokriteta, glasati je beskorisno"
 categories: bs
 tags:
-- blogging
-- personal
-- mediocracy
-- idiocracy
+- politics
 image:
   feature: abstract-1-3
 ---

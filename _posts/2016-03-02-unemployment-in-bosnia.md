@@ -6,8 +6,7 @@ layout: post
 title: "tl;dr: Why is the unemployment rate so high in Bosnia and Herzegovina?"
 categories: en
 tags:
-- Bosnia & Herzegovina
-- economy
+- politics
 image:
   feature: abstract-1-3
 ---

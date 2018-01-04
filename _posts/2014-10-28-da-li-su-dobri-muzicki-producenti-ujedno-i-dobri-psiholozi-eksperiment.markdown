@@ -9,9 +9,6 @@ categories: bs
 tags:
 - personal
 - music
-- confession
-- human hacking
-- education
 image:
   feature: abstract-1-3
 ---

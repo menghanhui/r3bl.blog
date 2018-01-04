@@ -7,9 +7,8 @@ slug: jedan-krik-daleko-dopire
 title: "Kako jedan krik daleko dopire: statistika #PodrziKRIK hashtag-a 20. marta"
 categories: bs
 tags:
-- blogging
-- personal
-- statistics
+- advocacy
+- technology
 image:
   feature: abstract-1-3
 ---

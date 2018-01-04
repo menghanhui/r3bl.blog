@@ -7,11 +7,9 @@ slug: elementary-os-savrsena-distribucija-za-mene
 title: elementary OS - Savršena distribucija za mene
 categories: bs
 tags:
-- '#budiUbuntu'
-- elementary OS
 - personal
-- open source
-- linux
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

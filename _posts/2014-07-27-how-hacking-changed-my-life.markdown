@@ -8,9 +8,8 @@ title: How Hacking Changed My Life
 categories: en
 tags:
 - personal
-- hacking
-- linux
-- education
+- technology
+- infosec
 image:
   feature: abstract-1-3
 ---

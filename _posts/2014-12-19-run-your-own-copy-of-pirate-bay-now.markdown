@@ -7,11 +7,7 @@ slug: run-your-own-copy-of-pirate-bay-now
 title: Run Your Own Copy of Pirate Bay Now!
 categories: en
 tags:
-- open source
-- free culture
-- projects
-- hacking
-- The Pirate Bay
+- technology
 image:
   feature: abstract-1-3
 ---

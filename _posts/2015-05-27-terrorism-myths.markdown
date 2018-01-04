@@ -7,8 +7,7 @@ slug: terrorism-myths
 title: "Debunking the Myths of Terrorism"
 categories: en
 tags:
-- terrorism
-- education
+- personal
 image:
   feature: abstract-1-3
 description:

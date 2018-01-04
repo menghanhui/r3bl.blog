@@ -8,9 +8,8 @@ title: Ko koga špijunira u političkom vrhu BiH?
 categories: bs
 tags:
 - politics
-- surveillance
-- hacking
-- security
+- technology
+- infosec
 image:
   feature: abstract-1-3
 ---

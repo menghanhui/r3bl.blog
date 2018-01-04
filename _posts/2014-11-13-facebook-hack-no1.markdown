@@ -7,9 +7,8 @@ slug: facebook-hack-no1
 title: 'Basic Facebook Hacks - Who is your biggest "stalker"?'
 categories: en
 tags:
-- projects
-- hacking
-- Facebook
+- technology
+- facebook
 image:
   feature: abstract-1-3
 ---

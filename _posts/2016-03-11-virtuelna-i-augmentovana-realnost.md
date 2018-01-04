@@ -7,8 +7,7 @@ slug: virtuelna-i-augmentovana-realnost
 title: "Virtuelna (i augmentovana) realnost"
 categories: bs
 tags:
-- blogging
-- personal
+- technology
 image:
   feature: abstract-1-3
 ---

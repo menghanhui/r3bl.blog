@@ -6,6 +6,9 @@ categories:
 author: Aleksandar Todorović
 comments: false
 layout: post
+tags:
+- brand
+- design
 ---
 
 I want to create. I want to innovate. I also want to have my voice heard. What I'm thinking of is ditching the idea of boring old personal websites altogether. What I'm thinking of is creating some sort of an Internet brand. I want to take all the good things from professionally used websites (think: companies and organizations) and apply it to my own website. Here's the idea behind it.

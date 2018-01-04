@@ -7,8 +7,7 @@ slug: n1-sci-tech-kritika
 title: "Zabavne činjenice o N1 Sci-Tech sekciji koje niste znali (kritika)"
 categories: bs
 tags:
-- blogging
-- personal
+- technology
 image:
   feature: abstract-1-3
 ---

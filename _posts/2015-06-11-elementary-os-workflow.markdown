@@ -7,9 +7,9 @@ slug: elementary-os-workflow
 title: "My elementary OS Workflow"
 categories: en
 tags:
-- workflow
-- open source
-- elementary OS
+- personal
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 description:

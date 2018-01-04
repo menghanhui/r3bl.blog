@@ -7,9 +7,9 @@ slug: kompjuterska-pismenost-u-bih
 title: "Kompjuterska pismenost u BiH (statistika iz rezultata popisa)"
 categories: bs
 tags:
-- personal
-- politics
+- research
 - rant
+- technology
 image:
   feature: abstract-1-3
 ---

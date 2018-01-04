@@ -7,10 +7,7 @@ slug: sensitive-data-grabber-project
 title: Sensitive Data Grabber Project
 categories: en
 tags:
-- projects
-- about me
-- education
-- microsoft
+- technology
 image:
   feature: abstract-1-3
 ---

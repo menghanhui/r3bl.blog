@@ -7,12 +7,9 @@ slug: ubuntu-utopija-budiubuntu
 title: 'Ubuntu utopija #budiUbuntu'
 categories: bs
 tags:
-- projects
-- '#budiUbuntu'
-- linux
 - personal
-- open source
-- elementary OS
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

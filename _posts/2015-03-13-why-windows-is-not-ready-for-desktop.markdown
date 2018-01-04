@@ -7,11 +7,9 @@ slug: why-windows-is-not-ready-for-desktop
 title: 'Reasons Why Windows is Not Ready For Desktop'
 categories: en
 tags:
-- Windows
-- humor
-- Linux
-- open source
-- elementary OS
+- technology
+- advocacy
+- rant
 image:
   feature: abstract-1-3
 description: 'We often hear about posts that says why Linux is not ready for desktop. You can read the latest article that really pissed me off here'

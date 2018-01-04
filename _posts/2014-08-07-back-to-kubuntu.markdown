@@ -7,12 +7,8 @@ slug: back-to-kubuntu
 title: Back to Kubuntu
 categories: en
 tags:
-- linux
-- '#budiUbuntu'
-- elementary OS
-- linux
+- technology
 - personal
-- open source
 image:
   feature: abstract-1-3
 ---

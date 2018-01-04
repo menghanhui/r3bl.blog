@@ -8,7 +8,6 @@ title: Broadening My Perspective
 categories: en
 tags:
 - personal
-- confession
 image:
   feature: abstract-1-3
 ---

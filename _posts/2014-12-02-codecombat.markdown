@@ -7,9 +7,7 @@ slug: codecombat
 title: CodeCombat – The Most Fun Way To Learn New Programming Language
 categories: en
 tags:
-- education
-- projects
-- open source
+- technology
 image:
   feature: abstract-1-3
 ---

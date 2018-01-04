@@ -7,8 +7,7 @@ slug: open-source-advocacy
 title: "On Open Source Advocacy"
 categories: en
 tags:
-- education
-- open source
+- advocacy
 - personal
 image:
   feature: abstract-1-3

@@ -7,10 +7,8 @@ slug: cloud-wars-from-a-consumer-perspective
 title: Cloud Wars from a Consumer Perspective
 categories: en
 tags:
-- linux
-- open source
+- technology
 - personal
-- confession
 image:
   feature: abstract-1-3
 ---

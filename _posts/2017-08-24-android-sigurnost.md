@@ -7,8 +7,8 @@ slug: android-sigurnost
 title: "Android i sigurnost: 6 razloga zašto smatram da je Android (napokon) siguran"
 categories: bs
 tags:
-- blogging
-- personal
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

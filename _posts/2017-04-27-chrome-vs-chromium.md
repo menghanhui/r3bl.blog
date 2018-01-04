@@ -7,10 +7,8 @@ slug: chrome-vs-chromium
 title: "Chrome is basically crippling Chromium's features"
 categories: en
 tags:
-- personal
-- browsers
-- Chrome
-- Chromium
+- technology
+- rant
 image:
   feature: abstract-1-3
 ---

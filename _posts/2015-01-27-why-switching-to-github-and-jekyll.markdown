@@ -8,9 +8,7 @@ title: 'Why Have I Decided To Switch My Blog To a GitHub Pages and Jekyll Combin
 categories: en
 tags:
 - personal
-- GitHub
-- blogging
-- open source
+- technology
 image:
   feature: abstract-1-3
 ---

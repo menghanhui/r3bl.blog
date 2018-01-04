@@ -7,8 +7,7 @@ slug: one-year-of-blogging-experience
 title: "Summarizing my one year long blogging experience"
 categories: en
 tags:
-- announcement
-- flashback
+- personal
 image:
   feature: abstract-1-3
 ---

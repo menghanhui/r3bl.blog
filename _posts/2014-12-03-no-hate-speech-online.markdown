@@ -8,8 +8,7 @@ title: Pokret protiv govora mržnje na internetu
 categories: bs
 tags:
 - personal
-- no hate speech online
-- projects
+- politics
 image:
   feature: abstract-1-3
 ---

@@ -8,9 +8,6 @@ title: 'Biti normalan je dosadno. Zašto se ponosim svojom nenormalnošću?'
 categories: bs
 tags:
 - personal
-- blogging
-- normality
-- average
 ---
 
 ![tim doesn't give a shit](http://weknowmemes.com/wp-content/uploads/2013/06/except-for-tim-comic.jpg)

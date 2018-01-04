@@ -7,7 +7,7 @@ slug: the-internet-of-insecure-things
 title: The Internet of Insecure Things
 categories: en
 tags:
-- education
+- technology
 image:
   feature: abstract-1-3
 ---

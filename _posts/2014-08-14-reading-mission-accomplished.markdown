@@ -8,8 +8,6 @@ title: Reading Mission Accomplished!
 categories: en
 tags:
 - personal
-- education
-- reading
 image:
   feature: abstract-1-3
 ---

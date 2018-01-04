@@ -9,8 +9,7 @@ title: 'Korišćenje pravog identiteta nije pravi način da se spriječi govor m
 categories: en
 tags:
 - personal
-- no hate speech online
-- projects
+- politics
 image:
   feature: abstract-1-3
 ---

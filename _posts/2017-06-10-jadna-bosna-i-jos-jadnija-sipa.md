@@ -7,8 +7,9 @@ slug: jadna-bosna-i-jos-jadnija-sipa
 title: "Jadna Bosna i još jadnija SIPA: Gdje je zapelo na području unapređenja cyber sigurnosti"
 categories: bs
 tags:
-- personal
-- cybersecurity
+- infosec
+- advocacy
+- politics
 image:
   feature: abstract-1-3
 ---

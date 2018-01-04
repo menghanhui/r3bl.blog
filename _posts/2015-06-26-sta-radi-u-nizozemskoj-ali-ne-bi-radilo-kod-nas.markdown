@@ -9,7 +9,6 @@ categories: bs
 tags:
 - personal
 - politics
-- travel
 image:
   feature: abstract-1-3
 description:

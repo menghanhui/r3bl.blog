@@ -7,16 +7,9 @@ slug: facebook-google-microsoft
 title: 'Zašto se ne osjećam ugodno kada koristim proizvode kompanija kao što su Google, Microsoft i Facebook'
 categories: bs
 tags:
-- Facebook
-- Google
-- Microsoft
-- Linux
-- net neutrality
-- Free Basics
-- rant
-- open source
-- Linux
-- Free culture
+- technology
+- advocacy
+- infosec
 ---
 
 Internet je (bio) predivno mjesto na kojem sam otkrivao razne web stranice, učio, otkrivao, provodio sate zaluđen time da je moguće da informacija sa mog računara ode na server na nekom drugom kontinentu i taj isti server mi vrati neku povratnu informaciju u roku od manje od sekunde. Nailazio sam na svakakve stvari: većinom dobre, ali ponekad i loše. Istraživao sam i uživao sam u tome. Danas, Internet je jedno sasvim drugačije mjesto, skoro u potpunosti fokusirano na proizvode nekoliko kompanija.

@@ -7,7 +7,9 @@ slug: sigurno-protestovanje
 title: "Kako sigurno protestovati: vodič za pomalo paranoične"
 categories: bs
 tags:
-- personal
+- tutorial
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

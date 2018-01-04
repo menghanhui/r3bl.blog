@@ -7,10 +7,9 @@ slug: ko-koga-spijunira-u-politickom-vrhu-bih-2-dio
 title: Ko koga špijunira u političkom vrhu BiH? (2. dio)
 categories: bs
 tags:
+- technology
+- infosec
 - politics
-- hacking
-- surveillance
-- security
 image:
   feature: abstract-1-3
 ---

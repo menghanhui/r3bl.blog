@@ -7,7 +7,8 @@ slug: etika-i-samovozeći-automobili
 title: "Od etike do samovozećeg automobila i nazad"
 categories: bs
 tags:
-- personal
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

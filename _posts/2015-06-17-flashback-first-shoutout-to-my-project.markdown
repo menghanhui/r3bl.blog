@@ -7,9 +7,8 @@ slug: flashback-my-first-hack-that-went-viral
 title: "Flasback: My First Programming Project That Went Viral"
 categories: en
 tags:
-- flashback
+- technology
 - personal
-- music
 image:
   feature: abstract-1-3
 description: "A month ago, the owner of DJ TechTools (called Ean Golden) released a video where he told the history of DJ TechTools. Now, I decided to share my story about DJ TechTools with you."

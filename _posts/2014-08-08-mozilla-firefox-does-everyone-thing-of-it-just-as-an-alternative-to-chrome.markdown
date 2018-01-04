@@ -7,11 +7,7 @@ slug: mozilla-firefox-does-everyone-thing-of-it-just-as-an-alternative-to-chrome
 title: Mozilla Firefox – Does Everyone Thing of it Just as an Alternative to Chrome?
 categories: en
 tags:
-- personal
-- confession
-- open source
-- Linux
-- Mozilla
+- technology
 image:
   feature: abstract-1-3
 ---

@@ -7,9 +7,8 @@ slug: simple-social-media-links-jekyll
 title: "Simple way to integrate social media links into Jekyll website"
 categories: en
 tags:
-- Jekyll
-- blogging
-- tutorials
+- technology
+- tutorial
 image:
   feature: abstract-1-3
 description:

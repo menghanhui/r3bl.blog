@@ -8,10 +8,7 @@ title: Ljudi vam dosađuju pitanjima tipa kako postati haker? Evo rješenja
 categories: bs
 tags:
 - personal
-- projects
-- free culture
-- linux
-- human hacking
+- technology
 image:
   feature: abstract-1-3
 ---

@@ -7,10 +7,7 @@ slug: alan-turing
 title: 'Alan Turing - An Inventor Ahead of its Own Time'
 categories: en
 tags:
-- education
-- history
-- cs pioneers
-- artificial intelligence
+- personal
 image:
   feature: abstract-1-3
 ---

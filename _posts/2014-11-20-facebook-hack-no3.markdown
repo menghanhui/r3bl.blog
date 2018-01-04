@@ -7,9 +7,9 @@ slug: facebook-hack-no3
 title: 'Basic Facebook Hacks – Profile picture locked? No problem!'
 categories: en
 tags:
-- Facebook
-- hacking
-- projects
+- infosec
+- technology
+- facebook
 image:
   feature: abstract-1-3
 ---

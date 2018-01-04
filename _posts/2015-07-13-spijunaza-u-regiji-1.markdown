@@ -8,6 +8,8 @@ title: "Ko koga špijunira u BiH (a i šire)? Slučaj Hacking Team"
 categories: bs
 tags:
 - politics
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

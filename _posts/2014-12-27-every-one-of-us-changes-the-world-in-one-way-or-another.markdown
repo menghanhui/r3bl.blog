@@ -8,8 +8,6 @@ title: Every One of Us Changes the World in One Way or Another
 categories: en
 tags:
 - personal
-- productivity
-- motivation
 image:
   feature: abstract-1-3
 ---

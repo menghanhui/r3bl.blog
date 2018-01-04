@@ -7,9 +7,9 @@ slug: things-NOT-to-do-after-installing-freya-beta
 title: '5 Things You Should NOT Do After Installing elementary OS Freya Beta'
 categories: en
 tags:
-- education
-- open source
-- elementary OS
+- personal
+- rant
+- technology
 image:
   feature: abstract-1-3
 description: "elementary OS 0.3 Freya Beta 2 is out. However, there are things you should not do in the current version of elementary OS. You do not want to make the developers angry, do you?"

@@ -7,9 +7,8 @@ slug: starting-an-ethical-hacking-course
 title: Starting an Ethical Hacking Course
 categories: en
 tags:
-- education
-- cybersecurity
-- hacking
+- technology
+- personal
 image:
   feature: abstract-1-3
 ---

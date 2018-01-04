@@ -7,9 +7,8 @@ slug: best-linux-programs-and-services-in-2014
 title: Best (Linux) Programs and Services I've Started Using in 2014.
 categories: en
 tags:
-- linux
-- open source
-- productivity
+- technology
+- personal
 image:
   feature: abstract-1-3
 ---

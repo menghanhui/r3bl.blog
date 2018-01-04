@@ -8,9 +8,6 @@ title: My Manifesto
 categories: en
 tags:
 - personal
-- motivation
-- productivity
-- human hacking
 image:
   feature: abstract-1-3
 ---

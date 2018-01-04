@@ -8,9 +8,6 @@ title: 'New Goal: To Learn Something New Every Single Day'
 categories: en
 tags:
 - personal
-- education
-- programming
-- reading
 image:
   feature: abstract-1-3
 ---

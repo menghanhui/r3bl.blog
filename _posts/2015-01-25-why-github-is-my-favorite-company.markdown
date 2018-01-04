@@ -8,9 +8,8 @@ title: 'Reasons Why GitHub is My Favorite Technology-Related Company'
 categories: en
 tags:
 - personal
-- GitHub
-- open source
-- Opensource.com
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

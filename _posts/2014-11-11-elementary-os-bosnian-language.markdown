@@ -8,10 +8,7 @@ title: "I'm Translating elementary OS!"
 categories: en
 tags:
 - personal
-- elementary OS
-- linux
-- open source
-- projects
+- technology
 image:
   feature: abstract-1-3
 ---

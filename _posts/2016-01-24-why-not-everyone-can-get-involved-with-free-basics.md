@@ -7,9 +7,8 @@ slug: why-not-everyone-can-get-involved-with-free-basics
 title: 'Why "everyone can submit his website to Free Basics" is an exaggeration'
 categories: en
 tags:
-- Facebook
-- net neutrality
-- Free Basics
+- advocacy
+- technology
 ---
 
 With every critic of Facebook's Free Basics program, it doesn't usually take long until Facebook responds with "Everyone can submit their website to our Free Basics program". While this is technically true, and indeed, everyone _can_ submit their website to Facebook, but that does not mean that the submission will be received nor that you will receive any feedback what so ever.

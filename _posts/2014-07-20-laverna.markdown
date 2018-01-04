@@ -8,7 +8,7 @@ title: Laverna
 categories:
 - About me
 tags:
-- projects
+- personal
 image:
   feature: abstract-1-3
 ---

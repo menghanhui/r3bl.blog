@@ -7,9 +7,7 @@ slug: dids-1
 title: "#DIDS: Moje mišljenje o temama kojih se dotiče prvi panel"
 categories: bs
 tags:
-- DIDS
-- blogging
-- conference
+- technology
 image:
   feature: abstract-1-3
 ---

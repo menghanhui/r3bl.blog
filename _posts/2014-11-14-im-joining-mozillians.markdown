@@ -7,9 +7,8 @@ slug: im-joining-mozillians
 title: I'm Joining Mozillians!
 categories: en
 tags:
-- development
-- Mozilla
-- personal
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

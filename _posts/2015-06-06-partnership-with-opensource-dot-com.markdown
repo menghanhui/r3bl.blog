@@ -8,9 +8,6 @@ title: "Announcing Partnership with Opensource.com"
 categories: en
 tags:
 - personal
-- projects
-- open source
-- Opensource.com
 image:
   feature: abstract-1-3
 description: As of June 1st, I became a Community Moderator for the Red Hat supported brand called Opensource.com. As such, I made a one year long commitment to provide content for the site on a regular basis.

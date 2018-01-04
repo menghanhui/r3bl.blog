@@ -7,10 +7,8 @@ slug: my-first-cybersecurity-discovery
 title: 'Flashback: My First Cybersecurity “Discovery”'
 categories: en
 tags:
-- flashback
-- education
-- confession
-- cybersecurity
+- personal
+- infosec
 image:
   feature: abstract-1-3
 ---

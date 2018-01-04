@@ -7,10 +7,8 @@ slug: donacijama-mozemo-da-napravimo-razliku
 title: Donacijama možemo da napravimo razliku
 categories: bs
 tags:
-- donacije
-- libre
-- linux
-- open source
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

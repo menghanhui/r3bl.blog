@@ -7,12 +7,8 @@ slug: what-exactly-is-a-hacker
 title: What exactly is a hacker?
 categories: en
 tags:
-- human hacking
-- personal
-- confession
-- hacking
-- open source
-- reading
+- technology
+- infosec
 image:
   feature: abstract-1-3
 ---

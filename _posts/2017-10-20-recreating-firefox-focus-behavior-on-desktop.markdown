@@ -6,6 +6,10 @@ categories:
 author: Aleksandar Todorović
 comments: false
 layout: post
+tags:
+- advocacy
+- tutorial
+- technology
 ---
 
 Before I've started experimenting with re-creating Firefox Focus on the desktop, I thought that a browser like Firefox Focus for the desktop could be a huge win. Now, I realize that replicating its key features in a well-known browser is a relatively simple thing to do.

@@ -7,11 +7,9 @@ slug: algorithm-to-a-free-world
 title: Through the Algorithm (2014) To a Free World
 categories: en
 tags:
-- hacking
-- free culture
-- human hacking
-- cybersecurity
-- personal
+- technology
+- advocacy
+- infosec
 image:
   feature: abstract-1-3
 ---

@@ -7,9 +7,9 @@ slug: mozilla-dissatisfaction-part-2
 title: "Why my dissatisfaction with Mozilla is increasing — Part 2"
 categories: en
 tags:
-- Mozilla
-- Firefox
 - rant
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

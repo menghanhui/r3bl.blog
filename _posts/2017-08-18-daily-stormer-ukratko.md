@@ -7,8 +7,8 @@ slug: daily-stormer-ukratko
 title: "The Daily Stormer: Šta je, šta mu se desilo, i moguće posljedice svega ovoga"
 categories: bs
 tags:
-- blogging
-- personal
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

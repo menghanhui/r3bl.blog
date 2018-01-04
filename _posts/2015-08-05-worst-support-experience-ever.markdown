@@ -7,7 +7,7 @@ slug: worst-support-experience-ever
 title: "Alexander and the terrible, shitty, no good GitHub support experience"
 categories: en
 tags:
-- GitHub
+- technology
 - rant
 image:
   feature: abstract-1-3

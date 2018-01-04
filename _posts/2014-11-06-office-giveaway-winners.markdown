@@ -7,10 +7,7 @@ slug: office-giveaway-winners
 title: '[Office 365 Giveaway] Winners announced!'
 categories: en
 tags:
-- projects
 - personal
-- microsoft
-- linux
 image:
   feature: abstract-1-3
 ---

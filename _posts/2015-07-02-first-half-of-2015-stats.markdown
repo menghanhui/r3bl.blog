@@ -8,7 +8,6 @@ title: "Blog stats for the first half of 2015"
 categories: en
 tags:
 - personal
-- blogging
 image:
   feature: abstract-1-3
 description: "Back in January, while I was still using my Wordpress.com domain, I posted my blog stats for the year 2014. In that post, I also stated my goals for 2015 and I set them pretty high. Now, I want to share the update so we can see how close I am of actually accomplishing them."

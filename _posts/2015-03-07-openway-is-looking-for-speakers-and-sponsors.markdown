@@ -7,9 +7,7 @@ slug: OpenWaySi
 title: 'OpenWay.si is Looking for Speakers and Sponsors'
 categories: en
 tags:
-- education
 - personal
-- cloud
 image:
   feature: abstract-1-3
 description: "OpenWay.si is a conference organized in Novo mesto (Slovenia), promoting open source mentality in different areas. They're currently looking for sponsors and speakers, and if you're interested in helping them, you can apply too."

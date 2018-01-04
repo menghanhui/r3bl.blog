@@ -7,9 +7,8 @@ slug: zrinka-k
 title: "Razotkrivanje Zrinke K(asapić)"
 categories: bs
 tags:
-- Dnevno.hr
-- Zrinka K
-- web scraping
+- personal
+- rant
 image:
   feature: abstract-1-3
 description: "Riješih da probam da razotkrijem osobu koja se predstavlja imenom Zrinka K na portalu Dnevno.hr. Dakle, u ovom članku, predstavljam vam pravu Zrinku Kasapić i objašnjavam kako sam otkrio ko je ona."

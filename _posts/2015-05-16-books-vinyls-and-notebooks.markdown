@@ -8,9 +8,6 @@ title: "Back to Basics - Books, Vinyls and Notebooks"
 categories: en
 tags:
 - personal
-- education
-- motivation
-- productivity
 image:
   feature: abstract-1-3
 description:

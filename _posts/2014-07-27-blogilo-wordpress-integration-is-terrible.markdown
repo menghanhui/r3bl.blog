@@ -6,6 +6,7 @@ layout: post
 slug: blogilo-wordpress-integration-is-terrible
 title: Blogilo + Wordpress integration is terrible!
 categories: en
+tags: rant
 image:
   feature: abstract-1-3
 ---

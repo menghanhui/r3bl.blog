@@ -7,9 +7,8 @@ slug: notes-on-build-your-own-cyber-lab-at-home-course
 title: Notes on Build Your Own Cyber Lab at Home Course
 categories: en
 tags:
-- education
-- personal
-- cybersecurity
+- technology
+- infosec
 image:
   feature: abstract-1-3
 ---

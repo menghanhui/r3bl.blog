@@ -7,8 +7,7 @@ slug: mozilla-dissatisfaction
 title: "Why my dissatisfaction with Mozilla is increasing"
 categories: en
 tags:
-- Mozilla
-- Firefox
+- technology
 - rant
 image:
   feature: abstract-1-3

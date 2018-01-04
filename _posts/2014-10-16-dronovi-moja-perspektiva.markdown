@@ -7,11 +7,8 @@ slug: dronovi-moja-perspektiva
 title: Dronovi - moja perspektiva
 categories: bs
 tags:
-- confession
 - personal
-- confession
-- hacking
-- surveillance
+- technology
 image:
   feature: abstract-1-3
 ---

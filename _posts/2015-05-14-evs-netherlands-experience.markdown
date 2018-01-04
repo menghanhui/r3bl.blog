@@ -8,10 +8,6 @@ title: "EVS Experience - How One Month of Volunteering Changed My Life"
 categories: en
 tags:
 - personal
-- education
-- motivation
-- projects
-- travel
 image:
   feature: abstract-1-3
 description: "One month is a short amount of time. But, if you play your cards right, one month can change your perspective on life. And this is exactly what happened to me in the last month."

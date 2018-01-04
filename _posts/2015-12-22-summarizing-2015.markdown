@@ -8,8 +8,6 @@ title: "Summarizing 2015 in one timeline of events"
 categories: en
 tags:
 - personal
-- goals
-- summary
 image:
   feature: abstract-1-3
 ---

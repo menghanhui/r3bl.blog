@@ -8,9 +8,8 @@ title: 'Make Art, Not Law (i problem sa kojim sam se susreo sa copyright zakonom
 categories: bs
 tags:
 - rant
-- net neutrality
-- personal
-- Free culture
+- technology
+- politics
 ---
 
 ![Transmission_10fps2]({{site.url}}/images/manw/Transmission_10fps2.gif)

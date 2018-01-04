@@ -7,10 +7,8 @@ slug: whatsapp-idioti
 title: "Ne, idioti, WhatsApp vas ne čini sigurnim"
 categories: bs
 tags:
-- blogging
-- personal
-- security
-- encryption
+- technology
+- infosec
 image:
   feature: abstract-1-3
 ---

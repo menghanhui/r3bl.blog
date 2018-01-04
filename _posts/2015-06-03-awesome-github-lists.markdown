@@ -7,10 +7,8 @@ slug: awesome-github-lists
 title: "How awesome GitHub lists are making GitHub even more awesome!"
 categories: en
 tags:
-- education
-- open source
-- projects
-- GitHub
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 description:

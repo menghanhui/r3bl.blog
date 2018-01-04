@@ -7,9 +7,8 @@ slug: confession-microsoft-is-not-so-bad
 title: 'Confession: Microsoft Is Not So Bad'
 categories: en
 tags:
-- confession
-- linux
 - personal
+- technology
 image:
   feature: abstract-1-3
 ---

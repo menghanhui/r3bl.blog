@@ -8,7 +8,7 @@ title: 'Razlozi mog ateizma'
 categories: bs
 tags:
 - personal
-- religion
+- politics
 image:
   feature: abstract-1-3
 ---

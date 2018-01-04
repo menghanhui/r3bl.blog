@@ -6,7 +6,7 @@ layout: post
 title: "Podrška Kriterionu: Recimo ne nasilju nad drugačijima"
 categories: bs
 tags:
-- Bosnia & Herzegovina
+- politics
 image:
   feature: abstract-1-3
 ---

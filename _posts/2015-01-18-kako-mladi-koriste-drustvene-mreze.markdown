@@ -8,8 +8,7 @@ title: Kako mladi u mom okruženju koriste društvene mreže?
 categories: bs
 tags:
 - personal
-- mladi
-- no hate speech online
+- technology
 image:
   feature: abstract-1-3
 ---

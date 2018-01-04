@@ -7,9 +7,8 @@ slug: facebook-hack-no2
 title: "Basic Facebook Hacks – Who's calling me?"
 categories: en
 tags:
-- projects
-- hacking
-- Facebook
+- technology
+- facebook
 image:
   feature: abstract-1-3
 ---

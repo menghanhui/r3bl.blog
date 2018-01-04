@@ -8,8 +8,6 @@ title: "Announcement: I'm one of the 40 students who will join #ICT2015"
 categories: en
 tags:
 - personal
-- announcement
-- conference
 image:
   feature: abstract-1-3
 description: "I've been selected as one of the 40 students from the entire Europe who was invited to join #ICT2015 in Lisbon (Portugal) later this year."

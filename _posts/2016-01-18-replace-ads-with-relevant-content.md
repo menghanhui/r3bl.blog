@@ -7,8 +7,8 @@ slug: replacing-ads-with-relevant-content
 title: "Why have I decided to link to the projects I support instead of serving ads"
 categories: en
 tags:
-- personal
-- blogging
+- technology
+- advocacy
 ---
 
 Let us be honest for a second: unless you're running a huge website (as in, tens of thousands of visits per day), you're not going to make a reasonable amount of money by serving ads on your websites. Even if you are getting tens of thousands of visits per day, your profit depends on how many of your visitors are not using some sort of adblocking software. The Internet is one of the rare platforms where users have a choice of hiding the ads if they don't want to see them, and the users are choosing not to see them in the alarming rate. So, if you can't make a meaningful amount of money out of them, why not ditch them all and start promoting the projects you support instead?

@@ -7,9 +7,8 @@ slug: facebook-hack-no5
 title: 'Basic Facebook Hacks – Where were my friends while they were texting me?'
 categories: en
 tags:
-- Facebook
-- hacking
-- projects
+- technology
+- facebook
 image:
   feature: abstract-1-3
 ---

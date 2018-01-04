@@ -7,12 +7,8 @@ slug: da-li-zivimo-u-cyberpunk-svetu
 title: Da li živimo u cyberpunk svetu?
 categories: bs
 tags:
-- open source
-- surveillance
-- linux
-- cybersecurity
-- personal
-- cyberpunk
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

@@ -8,6 +8,10 @@ title: "Najspektakularniji pad IT sistema ikada: Australijski cenzus"
 categories: bs
 image:
   feature: abstract-1-3
+tags:
+- rant
+- technology
+- advocacy
 ---
 
 Devetog avgusta, Australija je pokušala da uradi cenzus. Međutim, odlučili su da budu prva država u svijetu koja će pokušati da uradi popis stanovništva online. Ono što je uslijedilo je najspektakularniji krah IT sistema koji je svijet ikada vidio.

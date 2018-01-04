@@ -8,8 +8,6 @@ title: Time to take some break
 categories: en
 tags:
 - personal
-- education
-- reading
 image:
   feature: abstract-1-3
 ---

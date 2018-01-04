@@ -7,12 +7,8 @@ slug: koje-softverske-firme-vas-kontrolisu
 title: Koje softverske firme vas kontrolišu?
 categories: bs
 tags:
-- confession
-- human hacking
-- linux
-- open source
-- surveillance
-- microsoft
+- technology
+- advocacy
 image:
   feature: abstract-1-3
 ---

@@ -7,10 +7,7 @@ slug: free-speech-vs-hate-speech
 title: "Borba između slobode govora i borbe protiv govora mržnje"
 categories: bs
 tags:
-- blogging
-- personal
-- No Hate
-- Free Speech
+- advocacy
 image:
   feature: abstract-1-3
 ---
