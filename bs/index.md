@@ -7,6 +7,21 @@ image:
   feature: abstract-1-3
 ---
 
+## Na mom blogu
+
+<ul>
+    {% for post in site.categories.bs %}
+      {% assign year = post.date | date: "%Y" | times:1 %}
+      {% assign month = post.date | date: "%m" | times:1 %}
+      {% assign day = post.date | date: "%d" | times:1 %}
+      {% if year > 2015 %}
+        <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})</li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+Za članke objavljene prije početka 2016. godine, [kliknite ovdje]({{ site.baseurl }}/bs/stariji-clanci/).
+
 ## Na drugim sajtovima
 
 <ul>
@@ -26,12 +41,4 @@ image:
     <li><a href="http://www.linuxzasve.com/dva-pogleda-jedna-distribucija-elementary-os-freya">Dva pogleda, jedna distribucija: elementary OS Freya</a>, objavljeno na <a href="http://linuxzasve.com/">Linux za sve</a> (04.07.2015.)</li>
     <li><a href="http://kompjuteras.com/informaticko-obrazovanje-ne-smije-da-zavisi-na-proizvodima-jedne-kompanije/">Informatičko obrazovanje ne smije da zavisi na proizvodima jedne kompanije</a>, objavljeno na <a href="http://kompjuteras.com/">Kompjuterašu</a> (10.06.2015.)</li>
     <li><a href="http://kompjuteras.com/stvari-koje-trebas-da-znas-ukoliko-planiras-da-studiras-informatiku/">Stvari koje trebaš da znaš ukoliko planiraš da studiraš informatiku</a>, objavljeno na <a href="http://kompjuteras.com/">Kompjuterašu</a> (27.05.2015.)</li>
-</ul>
-
-## Na mom blogu
-
-<ul>
-    {% for post in site.categories.bs %}
-        <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d.%m.%Y." }})</li>
-    {% endfor %}
 </ul>

@@ -7,6 +7,29 @@ image:
   feature: abstract-1-3
 ---
 
+## On my own blog
+
+<ul>
+    {% for post in site.categories.en %}
+      {% assign year = post.date | date: "%Y" | times:1 %}
+      {% assign month = post.date | date: "%m" | times:1 %}
+      {% assign day = post.date | date: "%d" | times:1 %}
+      {% if year >= 2016 %}
+        <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})</li>
+      {% endif %}
+      {% if year == 2015 and month > 8 %}
+        <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})</li>
+      {% endif %}
+      {% if year == 2015 and month == 8 %}
+        {% if day > 10 %}
+          <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})</li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+</ul>
+
+For the list of even older blog posts, from a time when my writing skills were pretty unimpressive, [click here]({{ site.baseurl }}/en/older-stuff/).
+
 ## On other websites
 
 <ul>
@@ -20,12 +43,4 @@ image:
     <li><a href="http://opensource.com/life/15/6/my-linux-story-Aleksandar-Todorovic">Linux as a lifestyle</a>, published on <a href="http://opensource.com">Opensource.com</a> (June 30, 2015)</li>
     <li><a href="http://opensource.com/business/15/6/interview-cat-robson-red-hat">Open source licensing important for future of Internet of Things</a> (Interview with Cat Robson from Red Hat), published on <a href="http://opensource.com">Opensource.com</a> (June 17, 2015)</li>
     <li><a href="http://opensource.com/life/15/2/beginners-guide-github">A beginner's guide to GitHub</a>, published on <a href="http://opensource.com">Opensource.com</a> (February 16, 2015)</li>
-</ul>
-
-## On my own blog
-
-<ul>
-    {% for post in site.categories.en %}
-        <li><a href="{{ site.url }}{{post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})</li>
-    {% endfor %}
 </ul>
