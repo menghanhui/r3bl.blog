@@ -147,3 +147,16 @@ figure.center img{
   border: 1px solid $comp-color;
   @include rounded(4px);
 }
+
+.censored {
+	background-color: #000;
+	color: #000;
+	opacity: 1;
+}
+
+
+small {
+  a {
+    border-bottom: 1px dotted lighten($link-color, 50);
+  }
+}
