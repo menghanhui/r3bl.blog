@@ -123,7 +123,7 @@ I have unintentionally broken the same decision on my GitHub profile in the same
 
 In order to avoid that, you saw this in each occurrence where I could not avoid mentioning the name of the city: <span class="censored" id="censored">Sarajevo</span>.
 
-Since this decision defies all logic, and since I have already broken this decision unintentionally a lot of times, I have decided to add a button on the bottom of this article. By clicking on it, this article will no longer be censored, which will make me break the city's decision exactly 36 times.
+Since this decision defies all logic, and since I have already broken this decision unintentionally a lot of times, I have decided to add a button on the bottom of this article. By clicking on it, this article will no longer be censored, which will make me break the city's decision exactly 38 times.
 
 Completely aware of the possible legal consequences of me mentioning the word <span class="censored" id="censored">Sarajevo</span>, I encourage you to click that button. After doing so, this article will stop being censured.
 
