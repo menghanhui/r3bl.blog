@@ -39,7 +39,7 @@ You see, the European Union gave France the liberty to enforce the copyright law
 
 Alexandre Gustave Eiffel, who also designed this landmark:
 
-![Statue of Liberty in New York during the night]({{ site.baseurl }}/images/sarajevo/unsplash-statue-of-liberty.jpg)
+![Statue of Liberty in New York during the night]({{ site.baseurl }}/images/sarajevo/commons-statue-of-liberty.jpg)
 
 ...died while listening to [Beethoven's 5th Symphony](https://www.youtube.com/watch?v=fOk8Tm815lE) in his mansion in Paris on December 27th, 1923. By using some very elementary calculus, we come to a conclusion that the derivative works (such as photos) of the buildings he designed should be allowed, since the designs of his buildings now belong to the public domain.
 
@@ -129,4 +129,6 @@ Completely aware of the possible legal consequences of me mentioning the word <s
 
 <button id="uncensor-me">Click here to make me break the law</button>
 
-**Shoutout to the photographers:** <small>The photos in this article were taken by the following Unsplash users: [@naletu](https://unsplash.com/@naletu) ([City of <span class="censored" id="censored">Sarajevo</span>](https://unsplash.com/photos/FYr3roIu51g)), [@chriskaridis](https://unsplash.com/@chriskaridis) ([Eiffel Tower](https://unsplash.com/photos/nnzkZNYWHaU)), and [@kazuend](https://unsplash.com/@kazuend) ([Statue of Liberty](https://unsplash.com/photos/S9lCKQ9XS8c))</small>
+**Shoutout to the photographers:** <small>The photos in this article were taken by the following users: [@naletu](https://unsplash.com/@naletu) ([City of <span class="censored" id="censored">Sarajevo</span>](https://unsplash.com/photos/FYr3roIu51g)), [@chriskaridis](https://unsplash.com/@chriskaridis) ([Eiffel Tower](https://unsplash.com/photos/nnzkZNYWHaU)), and [User:0x010C](https://commons.wikimedia.org/wiki/User:0x010C) ([Statue of Liberty](https://commons.wikimedia.org/wiki/File:2016-11_Statue_of_Liberty_04.jpg)).</small>
+
+**Update on January 22nd, 15:30:** Prior to this edit, I have accidentally included a photo of a replica of the Statue of Liberty instead of using the photo of the original.

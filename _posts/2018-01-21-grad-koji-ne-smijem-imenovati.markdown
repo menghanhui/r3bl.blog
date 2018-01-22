@@ -40,7 +40,7 @@ Vidite, Europska Unija je dala Francuskoj slobodu da primjeni Zakon o autorskim 
 
 Ali čekajte, Alexandre Gustave Eiffel, koji je, pored tornja imenovanom po njemu, dizajnirao i ovu građevinu:
 
-![Kip slobode u New York-u tokom noći]({{ site.baseurl }}/images/sarajevo/unsplash-statue-of-liberty.jpg)
+![Kip slobode u New York-u tokom noći]({{ site.baseurl }}/images/sarajevo/commons-statue-of-liberty.jpg)
 
 ...je umro slušajući [Betovenovu 5. simfoniju](https://www.youtube.com/watch?v=fOk8Tm815lE) u svojoj vili u Parizu 27. decembra 1923. godine. Jednostavnom matematikom, otkrivamo da bi već 27. decembra 1993. godine slike ove dvije svjetski poznate građevine trebale biti u potpunosti u javnoj domeni (eng. _public domain_).
 
@@ -128,4 +128,6 @@ Svjestan mogućih pravnih posljedica na koje utiče moje prikazivanje riječi <s
 
 <button id="uncensor-me">Klikni ovdje da prekršim gradsku odluku</button>
 
-**Zahvale fotografima:** <small>Fotografije u ovom članku su objavljene od od strane sljedećih korisnika Unsplash-a: [@naletu](https://unsplash.com/@naletu) ([Grad <span class="censored" id="censored">Sarajevo</span>](https://unsplash.com/photos/FYr3roIu51g)), [@chriskaridis](https://unsplash.com/@chriskaridis) ([Ajfelov toranj](https://unsplash.com/photos/nnzkZNYWHaU)), i [@kazuend](https://unsplash.com/@kazuend) ([Kip slobode](https://unsplash.com/photos/S9lCKQ9XS8c))</small>
+**Zahvale fotografima:** <small>Fotografije u ovom članku su objavljene od od strane sljedećih fotografa: [@naletu](https://unsplash.com/@naletu) ([Grad <span class="censored" id="censored">Sarajevo</span>](https://unsplash.com/photos/FYr3roIu51g)), [@chriskaridis](https://unsplash.com/@chriskaridis) ([Ajfelov toranj](https://unsplash.com/photos/nnzkZNYWHaU)), i [0x010C](https://commons.wikimedia.org/wiki/User:0x010C) ([Kip slobode](https://commons.wikimedia.org/wiki/File:2016-11_Statue_of_Liberty_04.jpg))</small>
+
+**Update, 22. januara 15:30:**  Tražeći sliku Kipa slobode tokom noći, slučajno sam u ovaj članak uvrstio sliku kopije Kipa slobode umjesto slike originalnog kipa. Ta greška je sada ispravljena.
