@@ -19,7 +19,7 @@ There's a certain city in the Balkan peninsula whose name I cannot type here. So
 
 I was already aware that I can't show you [the mascot](https://en.wikipedia.org/wiki/Vu%C4%8Dko_(mascot)) of those Winter Olympics games, since doing so would be a copyright violation. What I wasn't aware of is that I can't even tell you the name of the city I'm writing this in because I haven't asked the city's government for the permission to do so.
 
-![View of the city which I cannot name]({{ site.baseurl }}/images/sarajevo/unsplash-city.jpg)
+<img alt="View of the city which I cannot name" src="{{ site.baseurl }}/images/sarajevo/unsplash-city.jpg" itemprop="image">
 
 On this photo, you can see one of my dearest cities in the Balkan peninsula. I'm free to use the images of it however I like, but I can't name the city itself. The reason for that can be found in the [Decision about the usage of the emblem, name and the flag of the City of <span class="censored" id="censored">Sarajevo</span>](http://sarajevo.ba/grb-i-zastava/),whose article 21 says the following:
 
@@ -131,4 +131,4 @@ Completely aware of the possible legal consequences of me mentioning the word <s
 
 **Shoutout to the photographers:** <small>The photos in this article were taken by the following users: [@naletu](https://unsplash.com/@naletu) ([City of <span class="censored" id="censored">Sarajevo</span>](https://unsplash.com/photos/FYr3roIu51g)), [@chriskaridis](https://unsplash.com/@chriskaridis) ([Eiffel Tower](https://unsplash.com/photos/nnzkZNYWHaU)), and [User:0x010C](https://commons.wikimedia.org/wiki/User:0x010C) ([Statue of Liberty](https://commons.wikimedia.org/wiki/File:2016-11_Statue_of_Liberty_04.jpg)).</small>
 
-**Update on January 22nd, 15:30:** Prior to this edit, I have accidentally included a photo of a replica of the Statue of Liberty instead of using the photo of the original.
+**Update on <span itemprop="dateModified">2018-01-22</span>:** Prior to this edit, I have accidentally included a photo of a replica of the Statue of Liberty instead of using the photo of the original.
