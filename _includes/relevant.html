@@ -4,7 +4,7 @@
   </div><!-- /.read-more-header -->
   <div class="read-more-content">
     <script type="text/javascript">
-      var relevant_en = ["creative-commons.png", "data-selfie.png", "duckduckgo.png", "eff.png", "firefox.png", "gitlab.png", "gnome.png", "internet-health-report.png", "investigative_dashboard.png", "lets-encrypt.png", "libreoffice.png", "mozilla.png", "nmap.png", "signal.png", "t4vps.png", "tinfoil.png", "tor_project.png"];
+      var relevant_en = ["creative-commons.png", "data-selfie.png", "duckduckgo.png", "eff.png", "firefox.png", "gitlab.png", "gnome.png", "internet-health-report.png", "investigative-dashboard.png", "lets-encrypt.png", "libreoffice.png", "mozilla.png", "nmap.png", "pocket.png", "signal.png", "t4vps.png", "tinfoil.png", "tor-project.png"];
       function getRandomImageEn(imgAr, path) {
         var num = Math.floor( Math.random() * imgAr.length );
         var img = imgAr[ num ];
@@ -35,7 +35,7 @@
             case "internet-health-report.png":
                 url = "https://internethealthreport.org/";
                 break;
-            case "investigative_dashboard.png":
+            case "investigative-dashboard.png":
                 url = "https://investigativedashboard.org/";
                 break;
             case "lets-encrypt.png":
@@ -50,6 +50,9 @@
             case "nmap.png":
                 url = "https://nmap.org/";
                 break;
+            case "pocket.png":
+                url = "https://getpocket.com/";
+                break;
             case "signal.png":
                 url = "https://signal.org";
                 break;
@@ -63,11 +66,11 @@
                 url = "https://www.torproject.org/";
                 break;
           }
-          var imgStr = '<a href="' + url + '"><img src="{{ site.url }}/images/relevant/' + img + '"</a>';
+          var imgStr = '<a href="' + url + '"><img src="{{ site.url }}/images/relevant/tinified/' + img + '"</a>';
           document.write(imgStr); document.close();
       }
     </script>
-    <script type="text/javascript">getRandomImageEn(relevant_en, '{{ site.url }}/images/relevant/')</script>
+    <script type="text/javascript">getRandomImageEn(relevant_en, '{{ site.url }}/images/relevant/tinified/')</script>
     <div style="float: right; font-size: 1rem;"><a href="{{ site.url }}/en/relevant-content">Why am I seeing this?</a></div>
   </div>
 </div>

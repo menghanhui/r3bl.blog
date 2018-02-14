@@ -40,6 +40,8 @@ Even though I am affiliated with some of these projects, I am not getting paid f
 
 [![nmap]({{ site.url }}/images/relevant/nmap.png)](https://nmap.org/)
 
+[![pocket]({{ site.url }}/images/relevant/pocket.png)](https://getpocket.com/)
+
 [![signal]({{ site.url }}/images/relevant/signal.png)](https://signal.org/)
 
 [![t4vps]({{ site.url }}/images/relevant/t4vps.png)](https://billing.time4vps.eu/?affid=992)
