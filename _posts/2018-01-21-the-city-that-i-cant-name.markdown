@@ -10,6 +10,9 @@ tags:
 - technology
 - advocacy
 - copyright
+- trademark
+- politics
+- local-impact
 image:
   feature: abstract-1-3
 censor: true

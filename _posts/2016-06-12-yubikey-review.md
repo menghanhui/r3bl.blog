@@ -8,6 +8,11 @@ title: "YubiKey NEO: Ubuntu 16.04 usefulness (+ review)"
 categories: en
 tags:
 - technology
+- security
+- ux
+- tutorial
+- review
+- rant
 image:
   feature: abstract-1-3
 ---

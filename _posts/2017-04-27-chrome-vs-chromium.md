@@ -9,6 +9,8 @@ categories: en
 tags:
 - technology
 - rant
+- browsers
+- open-source
 image:
   feature: abstract-1-3
 ---
