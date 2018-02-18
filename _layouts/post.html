@@ -15,10 +15,18 @@
 <div id="main" role="main">
   <article class="hentrz">
     <div class="entry-content" itemscope itemtype="http://schema.org/Article">
+      <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization" style="display: none;">
+        <span itemprop="name">r3bl.me</span>
+        <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <img itemprop="url" src="https://blog.r3bl.me/images/something.png" alt="LOGO">
+           <meta itemprop="width" content="225">
+           <meta itemprop="height" content="225">
+        </span>
+      </span>
       <span itemprop="headline" style="display: none;">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
       {% if page.date %}
       <div class="entry-meta" style="margin: 10px 0px 0px 0px; text-align: left;">
-                <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time></span><span class="author vcard"><span class="fn" itemprop="author">{{ site.owner.name }}</span></span>
+                <span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time></span><span class="author v-card"><span class="fn" itemprop="author">{{ site.owner.name }}</span></span>
         {% if site.reading_time %}
         <span class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
