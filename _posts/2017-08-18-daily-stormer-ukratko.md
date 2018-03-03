@@ -15,7 +15,7 @@ image:
 
 The Daily Stormer je sajt koji promoviše neo-nacizam. Nakon nedavnog sranja u Charlestonville-u, kompanije su odlučile da mu onemoguće uslugu. Šta to znači za budućnost Interneta?
 
-![baner The Daily Stormer-a](http://i.imgur.com/EHAqAOJ.png)
+![baner The Daily Stormer-a](https://i.imgur.com/EHAqAOJ.png)
 
 ## Šta je ovaj sajt i zašto je kontroverzan
 
@@ -23,7 +23,7 @@ Ovaj sajt je učestvovao u organizaciji Ujedinimo desnicu mitinga (eng. [_Unite 
 
 The Daily Stormer je godinama promovisao krajnju desnicu, međutim vijest o smrtno stradaloj osobi<sup>2</sup> je bila ta kap koja je prelila čašu:
 
-![Naslov vijesti o smrti kontramitingašice](http://i.imgur.com/wB61iL0.png)
+![Naslov vijesti o smrti kontramitingašice](https://i.imgur.com/wB61iL0.png)
 
 Do tog trenutka, The Daily Stormer je godinama koristio `dailystormer.com` domenu i hosting od strane GoDaddy-a. Onda se desilo sljedeće:
 
