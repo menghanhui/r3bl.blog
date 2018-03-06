@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Koji je ovo đavo?"
+permalink: /bs/relevantan-sadrzaj/
+redirect_from: /relevantan-sadrzaj/
 comments: false
 share: false
 image:

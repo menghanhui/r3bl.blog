@@ -2,6 +2,7 @@
 layout: post
 title: "Relevant Content: Why am I seeing this?"
 permalink: /en/relevant-content/
+redirect_from: /relevant-content/
 comments: false
 share: false
 image:
