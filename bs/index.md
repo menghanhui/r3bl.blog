@@ -20,7 +20,7 @@ image:
     {% endfor %}
 </ul>
 
-Za članke objavljene prije početka 2016. godine, [kliknite ovdje]({{ site.baseurl }}/bs/stariji-clanci/).
+Za članke objavljene prije početka 2016. godine, [kliknite ovdje]({{ site.url }}/bs/stariji-clanci/).
 
 ## Na drugim sajtovima
 

@@ -19,10 +19,10 @@ Postoji jedan grad na Balkanu čije ime ne smijem ispisati ovdje. Mnogi od vas g
 
 I, dok sam već bio upoznat sa time da vam ne smijem pokazati [maskotu](https://en.wikipedia.org/wiki/Vu%C4%8Dko_(mascot)) tih Olimpijskih igara, nisam bio svjestan činjenice da ne smijem ni da pomenem samo ime grada, zato što nisam tražio dozvolu od uprave tog grada da koristim njegovo ime.
 
-<hr><p style="text-align:center;"><small>This article is also <a href="{{ site.baseurl }}/en/the-city-whose-name-i-cannot-mention/">available in English</a>.</small></p>
+<hr><p style="text-align:center;"><small>This article is also <a href="{{ site.url }}/en/the-city-whose-name-i-cannot-mention/">available in English</a>.</small></p>
 <hr>
 
-![Pogled na grad koji ne smijem imenovati]({{ site.baseurl }}/images/sarajevo/unsplash-city.jpg)
+![Pogled na grad koji ne smijem imenovati]({{ site.url }}/images/sarajevo/unsplash-city.jpg)
 
 Na slici iznad se nalazi meni jedan od najljepšiš gradova na Balkanu. Sliku grada sam sasvim slobodan da koristim na koji god način to poželim. Međutim, samo ime grada ne smijem da spomenem. Razlog za to leži u [Odluci o upotrebi grba, imena i isticanja zastave Grada <span class="censored" id="censored">Sarajevo</span>](http://sarajevo.ba/grb-i-zastava/?lang=bs), čiji član 21 kaže sljedeće:
 
@@ -32,7 +32,7 @@ Dakle, grad <span class="censored" id="censored">Sarajevo</span> je sebi dao za 
 
 Pariz, kao grad koji smijem da imenujem, posjeduje ovaj toranj:
 
-![Ajfelov toranj tokom dana]({{ site.baseurl }}/images/sarajevo/unsplash-eiffel-tower.jpg)
+![Ajfelov toranj tokom dana]({{ site.url }}/images/sarajevo/unsplash-eiffel-tower.jpg)
 
 I, dok vam ovu sliku smijem pokazati, sliku te iste građevine uslikanu noću ne smijem.
 
@@ -40,7 +40,7 @@ Vidite, Europska Unija je dala Francuskoj slobodu da primjeni Zakon o autorskim 
 
 Ali čekajte, Alexandre Gustave Eiffel, koji je, pored tornja imenovanom po njemu, dizajnirao i ovu građevinu:
 
-![Kip slobode u New York-u tokom noći]({{ site.baseurl }}/images/sarajevo/commons-statue-of-liberty.jpg)
+![Kip slobode u New York-u tokom noći]({{ site.url }}/images/sarajevo/commons-statue-of-liberty.jpg)
 
 ...je umro slušajući [Betovenovu 5. simfoniju](https://www.youtube.com/watch?v=fOk8Tm815lE) u svojoj vili u Parizu 27. decembra 1923. godine. Jednostavnom matematikom, otkrivamo da bi već 27. decembra 1993. godine slike ove dvije svjetski poznate građevine trebale biti u potpunosti u javnoj domeni (eng. _public domain_).
 
@@ -101,11 +101,11 @@ Zahvaljujući tome što je pojam "fizička osoba" dodan samo ovih dva puta u tek
 
 Uprkos tome što se ovo kosi sa zdravim razumom, neko se obratio vlasniku gorepomenute Facebook stranice i napisao [ovo](https://www.facebook.com/SarajevoForever/photos/a.878165692346972.1073741892.142203579276524/878165585680316/):
 
-<img src="{{ site.baseurl }}/images/sarajevo/facebook-poruka-cenzurisana.png" alt="Screenshot Facebook poruke" id="facebook-poruka-cenzurisana" />
+<img src="{{ site.url }}/images/sarajevo/facebook-poruka-cenzurisana.png" alt="Screenshot Facebook poruke" id="facebook-poruka-cenzurisana" />
 
 Kontaktirao sam osobu koja stoji iza ove Facebook stranice 20. januara, dva dana nakon što je [objavio](https://www.facebook.com/SarajevoForever/photos/a.878165692346972.1073741892.142203579276524/878165585680316/) screenshot poruke iznad, sa željom da mu pomognem, međutim ta osoba je tvrdila da je problem već riješen. Na moje pitanje "kako je problem riješen", nisam dobio detaljan odgovor:
 
-<img src="{{ site.baseurl }}/images/sarajevo/facebook-razgovor-cenzurisan.png" alt="Moj Facebook razgovor sa vlasnikom ove Facebook stranice" id="facebook-razgovor-cenzurisan" />
+<img src="{{ site.url }}/images/sarajevo/facebook-razgovor-cenzurisan.png" alt="Moj Facebook razgovor sa vlasnikom ove Facebook stranice" id="facebook-razgovor-cenzurisan" />
 
 Pošto nisam mogao da nađem nikakav drugi zakon koji se odnosi na moje korišćenje riječi <span class="censored" id="censored">Sarajevo</span>, moja interpretacija je sljedeća: Grad <span class="censored" id="censored">Sarajevo</span> je dozvolio korišćenje svog imena svim vlasnicima Facebook stranica. Pošto ovo "rješenje" nije dio zakona, a ovaj tekst nije objavljen na Facebook stranici, to znači da ja nisam u mogućnosti da prikažem riječ <span class="censored" id="censored">Sarajevo</span> bez da otvorim mogućnost da za to snosim pravne posljedice.
 
@@ -113,12 +113,12 @@ I, dok je u ovom specifičnom slučaju, grad pokušao da se suprotstavi vlasnici
 
 Zato vam ne smijem reći ime grada iz kojeg pišem ovaj članak.  Nesvjesno sam već prekršio ovu gradsku odluku na svome Twitter profilu, kada sam označio grad u kojem se nalazim:
 
-<img src="{{ site.baseurl }}/images/sarajevo/twitter-screenshot-censored.png" alt="Screenshot mog Twitter profila" id="twitter-screenshot-censored" />
+<img src="{{ site.url }}/images/sarajevo/twitter-screenshot-censored.png" alt="Screenshot mog Twitter profila" id="twitter-screenshot-censored" />
 
 Nesvjesno sam tu istu odluku prekršio na isti način i na svom GitHub računu:
 
 
-<img src="{{ site.baseurl }}/images/sarajevo/github-screenshot-censored.png" alt="Screenshot of my GitHub profile" id="github-screenshot-censored" />
+<img src="{{ site.url }}/images/sarajevo/github-screenshot-censored.png" alt="Screenshot of my GitHub profile" id="github-screenshot-censored" />
 
 Da bih izbjegao daljnje kršenje te odluke grada, u ovome članku sam napisao ovo svaki put kada nisam mogao izbjeći korišćenje imena grada: <span class="censored" id="censored">Sarajevo</span>.
 

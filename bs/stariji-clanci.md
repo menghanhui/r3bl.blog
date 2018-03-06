@@ -8,7 +8,7 @@ image:
   feature: abstract-1-3
 ---
 
-Ovo je lista članaka koje sam objavio prije početka 2016. Kao takvi, dolaze iz vremena kada su moje vještine u pisanju bloga bile jako ograničene. Ukoliko želite da pročitate još sadržaja, preporučujem listu članaka objavljenih od početka 2016. godine [na bosanskom]({{ site.baseurl}}/bs/) ili [engleskom]({{ site.baseurl }}/en/) jeziku.
+Ovo je lista članaka koje sam objavio prije početka 2016. Kao takvi, dolaze iz vremena kada su moje vještine u pisanju bloga bile jako ograničene. Ukoliko želite da pročitate još sadržaja, preporučujem listu članaka objavljenih od početka 2016. godine [na bosanskom]({{ site.url}}/bs/) ili [engleskom]({{ site.url }}/en/) jeziku.
 
 <ul>
     {% for post in site.categories.bs %}

@@ -18,23 +18,23 @@ image:
 censor: true
 ---
 
-There's a certain city in the Balkan peninsula whose name I cannot type here. Some of you might know it as the [capital of Bosnia & Herzegovina](https://en.wikipedia.org/wiki/Sarajevo). This is a city in which the Archduke Franz Ferdinand of Austria [got assissinated](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria), an event which triggered the World War I. It's a city that, in the '90s, [survived a siege that lasted 1,425 days](https://en.wikipedia.org/wiki/Siege_of_Sarajevo). It's a city that welcomed people from all over the world in 1984, when it [hosted the Winter Olympics](https://en.wikipedia.org/wiki/1984_Winter_Olympics).
+There's a certain city in the Balkan peninsula whose name I cannot type here. Some of you might know it as the <a href="https://en.wikipedia.org/wiki/Sarajevo" itemprop="mainEntityOfPage">capital of Bosnia & Herzegovina</a>. This is a city in which the Archduke Franz Ferdinand of Austria [got assissinated](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria), an event which triggered the World War I. It's a city that, in the '90s, [survived a siege that lasted 1,425 days](https://en.wikipedia.org/wiki/Siege_of_Sarajevo). It's a city that welcomed people from all over the world in 1984, when it [hosted the Winter Olympics](https://en.wikipedia.org/wiki/1984_Winter_Olympics).
 
 I was already aware that I can't show you [the mascot](https://en.wikipedia.org/wiki/Vu%C4%8Dko_(mascot)) of those Winter Olympics games, since doing so would be a copyright violation. What I wasn't aware of is that I can't even tell you the name of the city I'm writing this in because I haven't asked the city's government for the permission to do so.
 
-<img alt="View of the city which I cannot name" src="{{ site.baseurl }}/images/sarajevo/unsplash-city.jpg" itemprop="image">
+<img alt="View of the city which I cannot name" src="{{ site.url }}/images/sarajevo/unsplash-city.jpg" itemprop="image">
 
 On this photo, you can see one of my dearest cities in the Balkan peninsula. I'm free to use the images of it however I like, but I can't name the city itself. The reason for that can be found in the [Decision about the usage of the emblem, name and the flag of the City of <span class="censored" id="censored">Sarajevo</span>](http://sarajevo.ba/grb-i-zastava/),whose article 21 says the following:
 
 > Legal and private entities that use the emblem and the name of the City of <span class="censored" id="censored">Sarajevo</span> without the permission to do so from the regulatory body, or against the issued permission and this decision about the usage of the emblem, name and the flag of the City of <span class="censored" id="censored">Sarajevo</span>, have an obligation to pay for the damage caused by such behavior to the City of <span class="censored" id="censored">Sarajevo</span>.
 
-**DISCLAIMER:** <small>I am not a lawyer and I was not able to find translations of certain sources used in this article. Therefore, I have translated them to English myself. If you do understand Bosnian/Serbian/Croatian language, you can find the original quotes in the [Bosnian version of this article]({{ site.baseurl }}/bs/grad-koji-ne-smijem-imenovati/).</small>
+**DISCLAIMER:** <small>I am not a lawyer and I was not able to find translations of certain sources used in this article. Therefore, I have translated them to English myself. If you do understand Bosnian/Serbian/Croatian language, you can find the original quotes in the [Bosnian version of this article]({{ site.url }}/bs/grad-koji-ne-smijem-imenovati/).</small>
 
 So, the City of <span class="censored" id="censored">Sarajevo</span> gave itself the authority to be the judge of who can and can't use the name of the city. This city is not the only city in Europe with some very dumb laws.
 
 Paris, as a city that I am allowed to name, contains this tower:
 
-![Eiffel Tower in Paris during the day]({{ site.baseurl }}/images/sarajevo/unsplash-eiffel-tower.jpg)
+![Eiffel Tower in Paris during the day]({{ site.url }}/images/sarajevo/unsplash-eiffel-tower.jpg)
 
 And, while I can show you this image of it, I can't show you the image of the same tower during night.
 
@@ -42,7 +42,7 @@ You see, the European Union gave France the liberty to enforce the copyright law
 
 Alexandre Gustave Eiffel, who also designed this landmark:
 
-![Statue of Liberty in New York during the night]({{ site.baseurl }}/images/sarajevo/commons-statue-of-liberty.jpg)
+![Statue of Liberty in New York during the night]({{ site.url }}/images/sarajevo/commons-statue-of-liberty.jpg)
 
 ...died while listening to [Beethoven's 5th Symphony](https://www.youtube.com/watch?v=fOk8Tm815lE) in his mansion in Paris on December 27th, 1923. By using some very elementary calculus, we come to a conclusion that the derivative works (such as photos) of the buildings he designed should be allowed, since the designs of his buildings now belong to the public domain.
 
@@ -104,13 +104,13 @@ Thanks to the fact that private entities were mentioned just these two times in 
 
 Regardless of the fact that this goes against the common sense, someone from the city's government contacted the above-mentioned Facebook page and wrote this:
 
-<img src="{{ site.baseurl }}/images/sarajevo/facebook-faked-censored.png" alt="Screenshot of the Facebook message" id="facebook-faked-censored" />
+<img src="{{ site.url }}/images/sarajevo/facebook-faked-censored.png" alt="Screenshot of the Facebook message" id="facebook-faked-censored" />
 
 **Note:** <small>While the image above was clearly faked (for the purpose of translating it), the screenshot containing this text in Bosnian [got published](https://www.facebook.com/SarajevoForever/photos/a.878165692346972.1073741892.142203579276524/878165585680316/) by the above mentioned Facebook page.</small>
 
 I've made a contact with the person behind this Facebook page on January 20th (two days after the owner of the Facebook page in question published the message above), with the intention of offering my help against this ridiculous claim from the city's government. However, that person claims that the problem in question has already been solved. I didn't get a detailed answer on my question of how this problem got solved:
 
-<img src="{{ site.baseurl }}/images/sarajevo/facebook-convo-eng-censored.png" alt="My Facebook conversation with the owner of the Facebook page in question" id="facebook-convo-eng-censored" />
+<img src="{{ site.url }}/images/sarajevo/facebook-convo-eng-censored.png" alt="My Facebook conversation with the owner of the Facebook page in question" id="facebook-convo-eng-censored" />
 
 Since I couldn't find any other applicable law, my interpretation of the message above is the following: City of <span class="censored" id="censored">Sarajevo</span> allowed the usage of its name to all the owners of Facebook pages. Since this "solution" is not a part of the law, this text is not published on a Facebook page, and since me, as a civilian, am mentioned only twice in a legally-binding decision, that means that I am not allowed to show the word <span class="censored" id="censored">Sarajevo</span> without facing possible legal consequences.
 
@@ -118,11 +118,11 @@ And while in this case, the city attempted to go against the owners of the Faceb
 
 So, I can't tell you the name of the city that this article is about. I have unintentionally already broken this decision when I have added my location on my Twitter profile:
 
-<img src="{{ site.baseurl }}/images/sarajevo/twitter-screenshot-censored.png" alt="Screenshot of my Twitter profile" id="twitter-screenshot-censored" />
+<img src="{{ site.url }}/images/sarajevo/twitter-screenshot-censored.png" alt="Screenshot of my Twitter profile" id="twitter-screenshot-censored" />
 
 I have unintentionally broken the same decision on my GitHub profile in the same way:
 
-<img src="{{ site.baseurl }}/images/sarajevo/github-screenshot-censored.png" alt="Screenshot of my GitHub profile" id="github-screenshot-censored" />
+<img src="{{ site.url }}/images/sarajevo/github-screenshot-censored.png" alt="Screenshot of my GitHub profile" id="github-screenshot-censored" />
 
 In order to avoid that, you saw this in each occurrence where I could not avoid mentioning the name of the city: <span class="censored" id="censored">Sarajevo</span>.
 

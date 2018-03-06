@@ -28,7 +28,7 @@ image:
     {% endfor %}
 </ul>
 
-For the list of even older blog posts, from a time when my writing skills were pretty unimpressive, [click here]({{ site.baseurl }}/en/older-stuff/).
+For the list of even older blog posts, from a time when my writing skills were pretty unimpressive, [click here]({{ site.url }}/en/older-stuff/).
 
 ## On other websites
 

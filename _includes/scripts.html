@@ -28,12 +28,12 @@
   <script>
     function uncensor_me() {
       $('.censored').css('background-color', 'transparent');
-      $('#facebook-convo-eng-censored').attr('src', '{{ site.baseurl }}/images/sarajevo/facebook-convo-eng.png');
-      $('#twitter-screenshot-censored').attr('src', '{{ site.baseurl }}/images/sarajevo/twitter-screenshot.png');
-      $('#github-screenshot-censored').attr('src', '{{ site.baseurl }}/images/sarajevo/github-screenshot.png');
-      $('#facebook-faked-censored').attr('src', '{{ site.baseurl }}/images/sarajevo/facebook-faked.png');
-      $('#facebook-poruka-cenzurisana').attr('src', '{{ site.baseurl }}/images/sarajevo/facebook-poruka.png');
-      $('#facebook-razgovor-cenzurisan').attr('src', '{{ site.baseurl }}/images/sarajevo/facebook-razgovor.png');
+      $('#facebook-convo-eng-censored').attr('src', '{{ site.url }}/images/sarajevo/facebook-convo-eng.png');
+      $('#twitter-screenshot-censored').attr('src', '{{ site.url }}/images/sarajevo/twitter-screenshot.png');
+      $('#github-screenshot-censored').attr('src', '{{ site.url }}/images/sarajevo/github-screenshot.png');
+      $('#facebook-faked-censored').attr('src', '{{ site.url }}/images/sarajevo/facebook-faked.png');
+      $('#facebook-poruka-cenzurisana').attr('src', '{{ site.url }}/images/sarajevo/facebook-poruka.png');
+      $('#facebook-razgovor-cenzurisan').attr('src', '{{ site.url }}/images/sarajevo/facebook-razgovor.png');
     }
     $('#uncensor-me').on('click', function(){
       uncensor_me();

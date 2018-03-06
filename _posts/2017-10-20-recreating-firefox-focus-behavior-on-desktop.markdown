@@ -18,7 +18,7 @@ tags:
 
 Before I've started experimenting with re-creating Firefox Focus on the desktop, I thought that a browser like Firefox Focus for the desktop could be a huge win. Now, I realize that replicating its key features in a well-known browser is a relatively simple thing to do.
 
-![Firefox Focus hero image]({{ site.baseurl }}/images/mozilla/focus-hero.png)
+![Firefox Focus hero image]({{ site.url }}/images/mozilla/focus-hero.png)
 
 For those of you who don't know, [Firefox Focus](https://www.mozilla.org/en-US/firefox/focus/) is a mobile-only web browser that deletes your session on a tap of a button and offers tracking protection out of the box. In this article, I'm gonna explain how to recreate this behavior on the desktop version of Firefox.
 

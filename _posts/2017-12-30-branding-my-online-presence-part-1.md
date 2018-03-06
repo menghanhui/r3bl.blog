@@ -19,7 +19,7 @@ I want to create. I want to innovate. I also want to have my voice heard. What I
 
 Human brain is complicated. When I imagined all the things I wanted to do in my life and things I wanted to be heard about, I came out with the following:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/01.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/01.png)
 
 This is a mind dumb of **my goals** that doesn't mean a lot if you don't know the context, so let me try explaining it:
 
@@ -51,7 +51,7 @@ My personal brand is going to reside on `r3bl.me`. It will become a central plac
 
 In order to answer my question of what my products should be, I went a step further in the brainstorming session. I've tried to expand upon eight goals shared above, and tried to think about all the different things I could offer already, alongside things I wanted to work on. I came up with something like this:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/02.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/02.png)
 
 ## How I want to be perceived
 
@@ -61,13 +61,13 @@ It needs to be simple. It needs to interest people enough to click on something.
 
 So my idea looks like this. If you open `r3bl.me`, you'll see something like this as the first screen:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/03.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/03.png)
 
 Pretty straightforward, no unnecessary info, just a couple of links, an image, and a tagline.
 
 Then I've started thinking about what comes after it. The first iteration of the second screen I've imagined looks like this:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/04.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/04.png)
 
 In this version of the second screen, we have the following content:
 
@@ -83,13 +83,13 @@ In this version of the second screen, we have the following content:
 
 In fact, I so liked the idea of having the "accomplishments" section so much that I've decided to implement it almost immediately. So I've made this a couple of days later:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/05.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/05.png)
 
 It took me an almost absurd amount of work (finding a vector editor that's simple to use proved harder than it should be), but I got the screen to look like what I wanted it to look like. After doing so, I've started thinking about how to incorporate color in the second screen and showcase high contrast between the things you can interact with and things that are the actual content.
 
 So I came up with something like this:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/06.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/06.png)
 
 In this screen, the achievements strip is there to let you know that I did something cool in the past and that you should pay attention to it. That's why it's almost in a complete color contrast to the things above it, with dark background and white text.
 
@@ -101,7 +101,7 @@ Since my final goal is to achieve some sort of stable secondary income for my pr
 
 I came up with this as the first screen:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/07.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/07.png)
 
 Here, the "top things" and "latest things" from the homepage switch places. I want people to know of the coolest things I've done first, and then showcase the latest things I've done. That way, I am attracting donations with my highest pitch.
 
@@ -117,11 +117,11 @@ Finally, I should showcase how I spend my money, to make people know that their 
 
 I should also be rather transparent about how I actually spend my money. That belongs on a page of its down, so I've decided to sketch it out as well. The first screen talks exclusively about how I spend my money, possibly via a pie chart:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/08.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/08.png)
 
 While the numbers above were completely made up at this point (but, as it turns out, not far from the truth), the next screen should look something like this:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/09.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/09.png)
 
 On it, you see a little pitch about why you should donate to me. It shouldn't be too big, because that might indicate a sign of desperation. Since there's no need to push for the donations, it only gets a quarter of the screen size.
 
@@ -133,7 +133,7 @@ Creating a product page is not that difficult. I just need a short description o
 
 However, product page like this just won't cut it because my goal is not just to showcase the product, but to engage people into consuming other types of content as well. A quick sketch later, I came up with something like this:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/10.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/10.png)
 
 As you can see, the first page (I've poorly scaled the sketch) show you some basic info about the product. You have an icon of the project, project description, and a link or two to get the product.
 
@@ -141,7 +141,7 @@ On the right side, you have the primary goal of the page, which is there to tell
 
 The reasoning behind this is that the products should attract its own audiences (either via AMO, Userstyles.org, GitHub or something else), so there's no need to showcase the project features right at the start. People who will end up on these pages are probably the ones that are going to be referred to from another page in my web, so the product features goes below it:
 
-![Capture.PNG]({{ site.baseurl }}/images/brand-1/11.png)
+![Capture.PNG]({{ site.url }}/images/brand-1/11.png)
 
 The upper half of the screen is dedicated to the list of features and explains the selected feature.
 
