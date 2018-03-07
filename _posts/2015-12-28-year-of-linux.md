@@ -14,7 +14,7 @@ image:
   feature: abstract-1-3
 ---
 
-![year of Linux Bart Simpson](https://i.imgur.com/GYkyo5r.jpg)
+![year of Linux Bart Simpson]({{ site.url }}/images/misc/GYkyo5r.jpg)
 
 How many times have you heard the famous "20XX is going to be the year of Linux desktop" sentence? What does it mean? When will it happen? Well, it already happened. You missed it.
 

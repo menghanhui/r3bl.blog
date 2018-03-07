@@ -10,7 +10,7 @@ tags:
 - personal
 ---
 
-![tim doesn't give a shit](http://weknowmemes.com/wp-content/uploads/2013/06/except-for-tim-comic.jpg)
+![tim doesn't give a shit]({{ site.url }}/images/misc/tim-dont-give-a-shit.jpg)
 
 
 Nisam jedan od onih koji sebe smatra "normalnim". To mi se čini nekako degradirajuće prema mojoj ličnosti. Ko zna, možda i nisam u pravu, možda sam sebe zavaravam time što pričam da nisam normalan. Ali nije ne briga. Neću prestati sebe smatrati nenormalnim. Zašto?

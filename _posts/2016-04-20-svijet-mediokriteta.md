@@ -14,7 +14,7 @@ image:
 
 Da se ne lažemo, nalazimo se u svijetu mediokriteta. Oduvijek smo se i nalazili zapravo. Oduvijek je većina učila samo onoliko koliko mora i odbijala sve ostalo znanje jer je "nepotrebno". Ne dešava se to samo na našim prostorima, mediokritet je prisutan u svakoj državi. Ali ispadanje iz istog je kod nas ne samo okarakterisano kao nešto nepoželjno, već može i da ima trajne posljedice.
 
-![](http://www.magdalenabibik.com/wp-content/uploads/2016/01/protest-mediocrity.jpg)
+![]({{ site.url }}/images/misc/protest-mediocrity.jpg)
 
 Pokušavao sam da pronađem neku dobru definiciju riječi "mediokritet". Od desetina definicija koje sam pročitao, meni lično najbolju sam pronašao [na Vukajliji](http://vukajlija.com/mediokritet):
 

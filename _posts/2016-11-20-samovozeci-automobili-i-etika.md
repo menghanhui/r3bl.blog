@@ -28,7 +28,7 @@ U ovoj imaginarnoj situaciji, imaš dvije opcije:
 
 Koja je od ove dvije opcije etičnija?
 
-![grafički prikaz problema tramvaja](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trolley_problem.png/800px-Trolley_problem.png)
+![grafički prikaz problema tramvaja]({{ site.url }}/images/misc/trolley-problem.png)
 
 Ne postoji tačan odgovor u ovom pitanju. Svaka opcija za sobom dovodi smrt jedne ili pet osoba. Međutim, većina osoba (90%) kojoj se ovo pitanje postavi odluči da povuče ručku i osudi na smrt nekoga ko uopšte nije trebao da umre i da time sačuva pet osoba koje su bile osuđene na smrt. Ukoliko se umjesto ubijanja neke nepoznate odrasle osobe postavi neko dijete (od četiri-pet godina) ili neko blizak ispitivaču (poput djevojke/momka/žene/muža), procenat ljudi koji bi povukli ručku se naglo smanjuje.
 

@@ -14,7 +14,7 @@ image:
 
 Izbjegavao sam da pišem o ovoj temi jako dugo. Za početak, komplikovana je i ne baš toliko zanimljiva. Međutim, neizbježna je. U ovoj borbi, na jednoj strani imamo slobodu govora, dok na drugoj imamo borbu protiv govora mržnje. Oboje (u potpunosti) ne možemo da imamo. Međutim, odgovor na to za koju stranu se odlučimo direktno utiče na budućnost Interneta.
 
-![No Hate Speech Movement logo](http://autismomadrid.es/wp-content/uploads/2014/10/no-hate-801x675.png)
+![No Hate Speech Movement logo]({{ site.url }}/images/misc/no-hate.png)
 
 ## Sloboda govora
 

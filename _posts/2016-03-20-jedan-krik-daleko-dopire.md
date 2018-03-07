@@ -29,7 +29,7 @@ Gledajući samo tweet-ove od danas (20.3.), dolazimo do ovih brojki:
 
 Mapa regiona po broju interakcija sa ovim _hashtag_-om izgleda ovako:
 
-![#PodrziKRIK mapa](http://i.imgur.com/MbtvyAS.png)
+![#PodrziKRIK mapa]({{ site.url }}/images/misc/MbtvyAS.png)
 
 ### Povezani _hashtag_-ovi
 

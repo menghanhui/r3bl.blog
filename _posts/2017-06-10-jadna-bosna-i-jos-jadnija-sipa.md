@@ -17,7 +17,7 @@ image:
 Moram priznati da me dosta inspirisao Klix-ov [članak o suzbijanju cyber kriminala](https://www.klix.ba/vijesti/bih/sipa-radi-na-suzbijanju-cyber-kriminala-otezano-im-otkrivanje-pocinilaca-jer-koriste-nadimke/170608033)
 gdje se našao ovaj gem:
 
-![dio 2](https://i.imgur.com/6xoFopy.png)
+![dio 2]({{ site.url }}/images/misc/6xoFopy.png)
 
 **tl;dr članka:** Zastupnik postavio pitanje koje se odnosi na aktivnosti Ministarstva sigurnosti BiH i sigurnosnih agencija glede krivičnih djela počinjenih putem Interneta. To se našlo u odgovoru.
 

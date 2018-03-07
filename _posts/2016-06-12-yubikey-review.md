@@ -19,7 +19,7 @@ image:
 
 I got a hold of a [YubiKey NEO](https://www.yubico.com/products/yubikey-hardware/yubikey-neo/), so I was wondering how useful it is and what can I do with it. Here's my "tutorial" on setting it up using Ubuntu 16.04 and actually using it.
 
-![YubiKey NEO](http://www.hotforsecurity.com/wp-content/uploads/2012/08/Yubikey-NEO.jpg)
+![YubiKey NEO]({{ site.url }}/images/misc/yubikey-neo.jpg)
 
 ## Installation instructions
 

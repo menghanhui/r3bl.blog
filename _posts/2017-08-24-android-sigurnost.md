@@ -15,7 +15,7 @@ image:
 
 Nakon što sam nedavno kupio telefon koji (za divno čudo), radi na najnovijoj verziji Androida, odlučio sam da navedem neke sigurnosne novine koje je Google uveo u Android od verzije 4.4 (KitKat), pa sve do verzije 8.0 (Oreo) i da dam svoje mišljenje zašto smatram da je Android, napokon, siguran operativni sistem.
 
-![android security logo](https://tr4.cbsistatic.com/hub/i/r/2016/03/10/9e4d8190-70c5-49fc-8411-526754dee945/resize/770x/f9f866239afeaab1415c8ceb9127ea92/android-security-1.jpg)
+![android security logo]({{ site.url }}/images/misc/android-security-1.jpg)
 
 Nedavno sam se riješio svog kineskog [Lenovo A5000](http://www.gsmarena.com/lenovo_a5000-7167.php) telefona. Služio me je odlično gotovo dvije godine, međutim, nikada se nisam previše oslanjao na pametne telefone. Znajući da Android telefoni, po default-u nisu update-ovani godinama, nikada ništa ozbiljno nisam držao na telefonu (tipa poslovne mejlove) niti sam ikada instalirao aplikacije kojima ne vjerujem. Služio mi je više kao igračka koja, eto, između ostalog, može da posjećuje Internet.
 

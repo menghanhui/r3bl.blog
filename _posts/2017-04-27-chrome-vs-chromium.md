@@ -21,7 +21,7 @@ After running Chromium for a while, I've decided to try switching over to Chrome
 
 Since I'm a heavy user of at least one Chrome/Chromium app — [Signal](https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk) desktop client — and I always have it running in the background, I've noticed that installing Chrome closed Signal. Once I've tried relaunching it, I've got greeted with the screen asking me to pair my device:
 
-![Signal device pairing screen](https://support.whispersystems.org/hc/en-us/article_attachments/204262718/Screenshot_from_2015-11-28_22_37_18.png)
+![Signal device pairing screen]({{ site.url }}/images/misc/signal.png)
 
 That's... weird.
 

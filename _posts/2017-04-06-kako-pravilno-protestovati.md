@@ -16,7 +16,7 @@ image:
 
 Sa ovim studentskim protestima koji se održavaju u Srbiji, iskočio je i sajt [sigurno.org](https://sigurno.org/), koji daje neke tipove o tome kako pravilno protestovati. Tekst na tom sajtu je prepun kvalitetnih savjeta, međutim, malo su mi razbacani, tako da sam odlučio da ih nadopunim u ovom članku. Uzimam u obzir isti nivo paranoje kao i autor tog sajta dok pišem ovaj tekst.
 
-![revolucijski alati](https://philoforchange.files.wordpress.com/2013/06/rev6.jpg?w=930)
+![revolucijski alati]({{ site.url }}/images/misc/revolution-tools.jpg)
 
 ## 1. Prilagodi svoj telefon situaciji prije nego što odeš na protest.
 

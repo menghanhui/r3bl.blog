@@ -16,7 +16,7 @@ tags:
 
 Devetog avgusta, Australija je pokušala da uradi cenzus. Međutim, odlučili su da budu prva država u svijetu koja će pokušati da uradi popis stanovništva online. Ono što je uslijedilo je najspektakularniji krah IT sistema koji je svijet ikada vidio.
 
-![census fail](https://pbs.twimg.com/media/Cpdir-SWEAA8z3a.jpg:large)
+![census fail]({{ site.url }}/images/misc/census-fail.jpg)
 
 Obrađivanje cenzusa preko Interneta nije bila prva novina koji je Australija pokušala da uvede ove godine. Naime, po prvi put u australijskoj istoriji, ljudi su bili primorani da uz svoje podatke ostave njihovo pravo ime, pravu adresu stanovanja i prijašnju adresu stanovanja. Do tada, ovi podaci su bili opcioni.
 

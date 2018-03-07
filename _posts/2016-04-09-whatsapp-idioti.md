@@ -15,7 +15,7 @@ image:
 
 Stvarno mi nije padalo na pamet posvećivati se ovoj temi, ali kada vidim da sve više i više ljudi u zadnjih X dana sponzoriše WhatsApp kao "sigurnu platformu", nešto u meni umre. Tako da, u ovom postu, želim da vam objasnim zašto WhatsApp nije siguran, iako je enkriptovan.
 
-![whatsapp](https://blog.kaspersky.com/files/2016/04/whatsapp-encryption-featured.jpg)
+![whatsapp]({{ site.url }}/images/misc/whatsapp.jpg)
 
 ## WhatsApp u prošlosti
 

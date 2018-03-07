@@ -16,7 +16,7 @@ image:
 
 I have already talked about [why my dissatisfaction with Mozilla is increasing](https://blog.r3bl.me/en/mozilla-dissatisfaction/) about 8 months ago. In that blog post, I mentioned Firefox Sync, Pocket integration, automatic switch to Yahoo as the default search engine (in the minority of cases, of which one was in my family), disregarding power user's needs to focus on Windows idiots who blindly click on "Next", and the overall ignoring the fact that Thunderbird is (probably) the second most popular Mozilla product to this day (more on that later). A lot of changes happened since that original post and my dissatisfaction only kept increasing, so I decided to write part two about the same topic.
 
-![](https://i.imgur.com/NlaXK64.jpg)
+![]({{ site.url }}/images/misc/NlaXK64.jpg)
 
 Okay, so the Mozilla guys first tried to explain to us that they're not really going to focus on developing new Thunderbird features so they could focus on Firefox and said to us that they're preparing something big. That big thing turned out to be Firefox OS. Okay, sure. I would _love_ to have a Mozilla developed OS on my phone. Then, a gigantic amount of time passed and I was still waiting for Firefox OS to enter the market in my country. Nothing happened.
 

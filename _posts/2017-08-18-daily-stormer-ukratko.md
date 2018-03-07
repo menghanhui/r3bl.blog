@@ -15,7 +15,7 @@ image:
 
 The Daily Stormer je sajt koji promoviše neo-nacizam. Nakon nedavnog sranja u Charlestonville-u, kompanije su odlučile da mu onemoguće uslugu. Šta to znači za budućnost Interneta?
 
-![baner The Daily Stormer-a](https://i.imgur.com/EHAqAOJ.png)
+![baner The Daily Stormer-a]({{ site.url }}/images/misc/banner-daily-stormera.png)
 
 ## Šta je ovaj sajt i zašto je kontroverzan
 

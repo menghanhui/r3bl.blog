@@ -16,7 +16,7 @@ image:
 
 Napokon sam imao malo prilike da se igram sa rezultatima popisa. Naravno, od svih podataka, mene je najviše zanimala kompjuterska pismenost na području BiH.
 
-![neka random slika popisa](https://www.tacno.net/wp-content/uploads/2013/09/popis-635x300.jpg)
+![neka random slika popisa]({{ site.url }}/images/misc/popis.jpg)
 
 Na popisu, na ovo pitanje je odgovarala svaka osoba koja je imala 10 ili više godina u toku popisa, i osobe su se svrstavale u tri kategorije:
 

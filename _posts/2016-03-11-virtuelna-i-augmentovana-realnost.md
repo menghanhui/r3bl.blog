@@ -14,7 +14,7 @@ image:
 
 Svi smo čuli za virtuelnu realnost. Taj termin se koristi već decenijama i označava naš život jednom kada se riješimo fizičkih limitacija koje predstavljaju našu realnost. Međutim, put do virtuelne realnosti je dug, a ogroman procenat ljudi ne shvata da se na tom putu nalazimo već decenijama, samo još uvijek nismo dostigli svoj cilj.
 
-![Mark Zuckerberg i njegovi podanici](http://www.geek.com/wp-content/uploads/2016/02/zuckerberg_VR_people.jpg)
+![Mark Zuckerberg i njegovi podanici]({{ site.url }}/images/misc/zuckerberg-vr.jpg)
 
 ## Fizička realnost
 

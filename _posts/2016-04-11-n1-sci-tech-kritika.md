@@ -109,7 +109,7 @@ Wi-Fi nije naziv za bežičnu lokalnu mrežu konektovanu na Internet, takva mre�
 
 Wi-Fi je _trademark_ te organizacije. Ukoliko novi uređaj koji izađe na tržište podržava WLAN standarde i to Wi-Fi Alliance testira i verifikuje, proizvođač dobija pravo da kaže da je certifikovan od strane Wi-Fi-a i da nalijepi onu naljepnicu koju danas svi mi dobro poznajemo:
 
-![WiFi Alliance logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wi-Fi_Logo.svg/640px-Wi-Fi_Logo.svg.png)
+![WiFi Alliance logo]({{ site.url }}/images/misc/wifi.png)
 
 Nekih 14 godina kasnije i ko zna koliko certifikovanih vrsta uređaja kasnije, Wi-Fi je praktički postao sinonim za WLAN, iako ova dva pojma ne predstavljaju istu stvar.
 

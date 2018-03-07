@@ -14,7 +14,7 @@ tags:
 
 Internet je (bio) predivno mjesto na kojem sam otkrivao razne web stranice, učio, otkrivao, provodio sate zaluđen time da je moguće da informacija sa mog računara ode na server na nekom drugom kontinentu i taj isti server mi vrati neku povratnu informaciju u roku od manje od sekunde. Nailazio sam na svakakve stvari: većinom dobre, ali ponekad i loše. Istraživao sam i uživao sam u tome. Danas, Internet je jedno sasvim drugačije mjesto, skoro u potpunosti fokusirano na proizvode nekoliko kompanija.
 
-![the filter bubble](https://www.brainpickings.org/wp-content/uploads/2011/05/thefilterbubble1.png)
+![the filter bubble]({{ site.url }}/images/misc/thefilterbubble.png)
 
 Te kompanije su prije nekih 5-7 godina shvatile da tretiranje svakog korisnika na isti način i nije baš najbolje rješenje da nagovorite (da ne kažem natjerate) korisnike da ostanu na njihovim serverima, te su tada počele da se prilagođavaju svakom korisniku posebno i na osnovu njegovih prethodnih akcija na sajtovima formulišu ono što će korisniku prikazati sljedeće. [Eli Pariser](https://twitter.com/elipariser) je to nazvao [The Filter Bubble](http://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235/) (u nedostatku boljeg prevoda: Filtrirani mjehurići) i objavio knjigu pod tim imenom. Još uvijek nisam pročitao čitavu knjigu (negdje na dvije trećine sam), ali knjiga me apsolutno oduševila i, na neki način, proširila moju neugodu pri korišćenju proizvoda određenih kompanija (ponajviše Facebook-ovih i Google-ovih). Pa, zašto se osjećam neugodno dok koristim softvere ovih kompanija?
 
