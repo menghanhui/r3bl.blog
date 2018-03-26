@@ -2,6 +2,7 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta property="description" content="{% if page.layout == 'post-bs or page.layout == 'post' or page.layout == 'page' or page.layout == 'page-bs '%}{{ page.content | strip_html | truncate: 317, '...'}}{% else %}{{ site.description }}{% endif %}"/>
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+<meta name="author" content="Aleksandar Todorović (r3bl)">
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
