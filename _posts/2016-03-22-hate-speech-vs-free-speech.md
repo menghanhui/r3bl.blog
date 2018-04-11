@@ -3,7 +3,7 @@ author: Aleksandar Todorović
 comments: false
 date: 2016-03-22 09:45:00+01:00
 layout: post-bs
-slug: free-speech-vs-hate-speech
+slug: hate-speech-vs-free-speech
 title: "Borba između slobode govora i borbe protiv govora mržnje"
 categories: bs
 tags:

@@ -3,7 +3,8 @@ author: Aleksandar Todorović
 comments: false
 date: 2016-11-20 02:30:00+01:00
 layout: post-bs
-slug: etika-i-samovozeći-automobili
+slug: etika-i-samovozeci-automobili
+redirect_from: /bs/samovoze%C4%87i-automobili-i-etika
 title: "Od etike do samovozećeg automobila i nazad"
 categories: bs
 tags:

@@ -3,7 +3,7 @@ author: Aleksandar Todorović
 comments: false
 date: 2016-06-12 00:50:00+01:00
 layout: post
-slug: yubikey-usefulness
+slug: yubikey-review
 title: "YubiKey NEO: Ubuntu 16.04 usefulness (+ review)"
 categories: en
 tags:

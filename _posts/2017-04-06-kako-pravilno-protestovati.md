@@ -4,6 +4,7 @@ comments: false
 date: 2017-04-06 11:30:00+01:00
 layout: post-bs
 slug: sigurno-protestovanje
+redirect_from: /bs/kako-pravilno-protestovati/
 title: "Kako sigurno protestovati: vodič za pomalo paranoične"
 categories: bs
 tags:

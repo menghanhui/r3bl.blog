@@ -4,6 +4,7 @@ comments: false
 date: 2015-02-01 01:38:10+00:00
 layout: post-bs
 slug: razlozi-mog-ateizma
+redirect_from: /razlozi-iza-mog-ateizma
 title: 'Razlozi mog ateizma'
 categories: bs
 tags:

@@ -3,7 +3,7 @@ author: Aleksandar Todorović
 comments: false
 date: 2016-03-07 15:25:00+01:00
 layout: post
-slug: dids-1
+slug: dids-pitanja
 title: "#DIDS: Moje mišljenje o temama kojih se dotiče prvi panel"
 categories: bs
 tags:
