@@ -15,7 +15,7 @@ image:
   feature: abstract-1-3
 ---
 
-I have already talked about [why my dissatisfaction with Mozilla is increasing](https://blog.r3bl.me/en/mozilla-dissatisfaction/) about 8 months ago. In that blog post, I mentioned Firefox Sync, Pocket integration, automatic switch to Yahoo as the default search engine (in the minority of cases, of which one was in my family), disregarding power user's needs to focus on Windows idiots who blindly click on "Next", and the overall ignoring the fact that Thunderbird is (probably) the second most popular Mozilla product to this day (more on that later). A lot of changes happened since that original post and my dissatisfaction only kept increasing, so I decided to write part two about the same topic.
+I have already talked about [why my dissatisfaction with Mozilla is increasing](https://r3bl.blog/en/mozilla-dissatisfaction/) about 8 months ago. In that blog post, I mentioned Firefox Sync, Pocket integration, automatic switch to Yahoo as the default search engine (in the minority of cases, of which one was in my family), disregarding power user's needs to focus on Windows idiots who blindly click on "Next", and the overall ignoring the fact that Thunderbird is (probably) the second most popular Mozilla product to this day (more on that later). A lot of changes happened since that original post and my dissatisfaction only kept increasing, so I decided to write part two about the same topic.
 
 ![]({{ site.url }}/images/misc/NlaXK64.jpg)
 
