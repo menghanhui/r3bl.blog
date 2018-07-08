@@ -1,8 +1,8 @@
-<span>&copy;
+<div class="footer-hr"><hr/></div>
+<span class="footer">&copy;
   {% if page.date %}
   {{ page.date | date: '%Y' }} -
   {% endif %}
-  {{ site.time | date: '%Y' }} {{ site.owner.name }}. Made with <i class="fa fa-heart"></i> with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</span><br/><br/>
-<span><a href="{{ site.url }}/en/privacy-policy/">Privacy Policy</a></span> //
-<span><a href="https://github.com/r3bl/r3bl.github.io"><i class="fa fa-code-fork"></i> this website</a></span> //
-<span><a href="{{ site.url }}/feed.xml">RSS feed</a></span>
+  {{ site.time | date: '%Y' }} {{ site.owner.name }}. Made with <i class="fa fa-heart"></i> with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</span>
+<span class="footer"><a href="{{ site.repo.gitea }}"><i class="fa fa-code-fork"></i> this website</a> // <a href="https://r3bl.blog/en/privacy-policy/">Privacy Policy</a> // <a href="https://r3bl.blog/feed.xml"><i class="fa fa-rss"></i> feed</a></span>
+<small class="footer">Spotted an error? Report it using <a href="{{ site.repo.github }}/issues">GitHub</a> or <a href="{{ site.repo.gitea }}/issues">Gitea</a>.</small>
