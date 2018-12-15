@@ -60,5 +60,5 @@
 </nav>
 
 {% if site.owner.twitter %}
-  <a href="https://twitter.com/{{site.owner.twitter}}" class="btn button-twitter button-twitter-twitter" data-show-count="false" data-size="large"><i class="fa fa-twitter"></i> <span>&nbsp Follow @{{site.owner.twitter}}</span></a>
+  <a href="https://twitter.com/{{site.owner.twitter}}" class="btn button-twitter button-mastodon" data-show-count="false" data-size="large"><i class="fab fa-mastodon"></i> <span>&nbsp Follow @{{ site.owner.mastodon.account }}@{{ site.owner.mastodon.instance }}</span></a>
 {% endif %}
